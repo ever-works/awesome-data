@@ -1,0 +1,6 @@
+- id: time-tracking
+  name: Time Tracking
+- id: vector-databases
+  name: Vector Databases
+- id: mcp-servers
+  name: MCP Servers

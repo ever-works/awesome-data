@@ -1,0 +1,10 @@
+name: vector-databases
+description: A curated list of vector database solutions, libraries, and resources for AI applications.
+source_url: https://github.com/ever-works/awesome-vector-databases
+category: vector-databases
+tags:
+  - database
+  - vector
+  - server
+  - ai
+updated_at: 2025-05-25 16:02
