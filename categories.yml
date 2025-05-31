@@ -1,3 +1,13 @@
+- id: meta-directories
+  name: Meta Directories
+- id: themed-directories
+  name: Themed Directories
+- id: general-directories
+  name: General Directories
+- id: directory-promotion-tools
+  name: Directory Promotion Tools
+- id: directory-building-tools
+  name: Directory Building Tools
 - id: time-tracking
   name: Time Tracking
 - id: vector-databases
