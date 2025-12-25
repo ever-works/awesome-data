@@ -1,0 +1,61 @@
+name: awesome-postgres
+description: An Awesome-style curated list of PostgreSQL software, libraries,
+  tools, and learning resources, inspired by awesome-mysql and maintained as a
+  dedicated directory for the Postgres ecosystem.
+source_url: https://github.com/dhamaniasad/awesome-postgres
+featured: false
+brand: github
+brand_logo_url: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
+images: null
+category: themed-directories
+tags:
+  - database
+  - postgresql
+  - awesome-lists
+markdown: >-
+  # awesome-postgres
+
+
+  **Website:** <https://dhamaniasad.github.io/awesome-postgres>  
+
+  **Source:** <https://github.com/dhamaniasad/awesome-postgres>  
+
+  **Category:** Themed directories  
+
+  **Tags:** database, PostgreSQL, awesome-lists
+
+
+  ## Overview
+
+  awesome-postgres is an "awesome list"–style, community-maintained directory of
+  PostgreSQL-related software, libraries, tools, and learning resources. It is
+  inspired by the awesome-mysql list and focuses specifically on the PostgreSQL
+  ecosystem.
+
+
+  ## Features
+
+  - Curated collection of PostgreSQL ecosystem resources
+
+  - Covers software, client libraries, tools, and educational resources
+
+  - Organized as a GitHub repository for easy browsing and collaboration
+
+  - Inspired by the well-known awesome-mysql format
+
+  - Open contributions encouraged via standard GitHub workflow
+
+  - Publicly accessible directory, suitable as a starting point for exploring
+  the Postgres ecosystem
+
+
+  ## License
+
+  - Content is published under the **CC0-1.0** license (public domain
+  dedication).
+
+
+  ## Pricing
+
+  - Not applicable – this is an open, free GitHub-hosted directory/list.
+updated_at: 2025-12-25 11:11

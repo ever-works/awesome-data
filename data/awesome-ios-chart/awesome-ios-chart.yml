@@ -1,0 +1,52 @@
+name: awesome-ios-chart
+description: A curated awesome list of iOS chart libraries written in
+  Objective-C and Swift, collecting charting components for iOS apps.
+source_url: https://github.com/ameizi/awesome-ios-chart
+featured: false
+brand: ameizi
+brand_logo_url: https://avatars.githubusercontent.com/u/6237030
+images: null
+category: themed-directories
+tags:
+  - ios
+  - data-visualization
+  - awesome-lists
+markdown: >-
+  # awesome-ios-chart
+
+
+  **Category:** Themed Directories  
+
+  **Slug:** awesome-ios-chart  
+
+  **Brand:** ameizi  
+
+  **Source:** https://github.com/ameizi/awesome-ios-chart
+
+
+  ## Description
+
+  A curated directory of iOS chart libraries, collecting charting components for
+  iOS apps written in Objective-C and Swift.
+
+
+  ## Features
+
+  - Curated “awesome list” of iOS chart libraries.
+
+  - Focus on data visualization and charting components for iOS applications.
+
+  - Includes libraries implemented in **Objective-C** (listed in
+  `Objective-C.md`).
+
+  - Includes libraries implemented in **Swift** (listed in `Swift.md`).
+
+  - Organized as a GitHub repository with separate markdown files per language.
+
+  - Licensed open source (see `LICENSE` file in the repository).
+
+
+  ## Pricing
+
+  - Not applicable (open-source curated list / directory).
+updated_at: 2025-12-25 11:11

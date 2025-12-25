@@ -1,0 +1,53 @@
+name: Awesome Minimalist
+description: A curated awesome list of simple and lightweight minimalist
+  frameworks. It aggregates and organizes minimalistic libraries and tools,
+  contributing to the wider ecosystem of GitHub awesome lists.
+source_url: https://github.com/neiesc/awesome-minimalist
+featured: false
+brand: neiesc
+brand_logo_url: null
+images: null
+category: themed-directories
+tags:
+  - framework
+  - minimalist
+markdown: >-
+  # Awesome Minimalist
+
+
+  **Website:** https://github.com/neiesc/awesome-minimalist  
+
+  **Category:** Themed Directories  
+
+  **Tags:** framework, minimalist
+
+
+  ## Description
+
+  Awesome Minimalist is a curated GitHub “awesome list” focused on simple,
+  lightweight minimalist frameworks. It aggregates resources, libraries, tools,
+  and tips related to minimalist frameworks and organizes them for easy
+  discovery.
+
+
+  ## Features
+
+  - Curated list of minimalist frameworks and related resources
+
+  - Focus on simple and lightweight tools
+
+  - Content organized in alphabetical order
+
+  - Includes pointers, tips, and references around minimalist frameworks
+
+  - Hosted as an open GitHub repository
+
+  - Community contribution guidelines available via `CONTRIBUTING.md`
+
+  - Licensed for open use via a `LICENSE` file
+
+
+  ## Pricing
+
+  - Free (open GitHub repository)
+updated_at: 2025-12-25 11:11
