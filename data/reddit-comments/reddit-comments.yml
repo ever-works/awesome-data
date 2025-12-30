@@ -1,0 +1,16 @@
+name: Reddit Comments
+description: A large-scale archive of Reddit comments hosted by Pushshift,
+  indexed in the Awesome Data Project as a key social media conversation
+  dataset.
+source_url: https://www.reddit.com/r/pdf/comments/ltlc16/what_is_the_best_way_to_save_a_reddit_thread/
+featured: false
+brand: pushshift
+brand_logo_url: null
+images: null
+category: datasets
+tags:
+  - datasets
+  - social
+  - big-data
+markdown: ""
+updated_at: 2025-12-30 18:29

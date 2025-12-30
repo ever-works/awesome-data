@@ -1,0 +1,16 @@
+name: NIMH Data Archive
+description: A centralized repository for mental health-related research data,
+  including neuroimaging, behavioral, and clinical datasets supported by the
+  U.S. National Institute of Mental Health.
+source_url: http://data-archive.nimh.nih.gov/
+featured: false
+brand: nimh-nih
+brand_logo_url: https://www.nimh.nih.gov/themes/custom/nimhgov_theme/images/nimh-logo.svg
+images: null
+category: themed-directories
+tags:
+  - datasets
+  - health
+  - research
+markdown: ""
+updated_at: 2025-12-30 18:29

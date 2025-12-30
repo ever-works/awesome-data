@@ -1,0 +1,17 @@
+name: OpenNeuro
+description: An open repository for sharing, curating, and accessing
+  BIDS-compliant neuroimaging datasets, supporting reproducible research in
+  human neuroscience.
+source_url: https://openneuro.org/public/datasets
+featured: false
+brand: openneuro
+brand_logo_url: https://openneuro.org/assets/logo-openneuro.svg
+images:
+  - https://openneuro.org/assets/logo-openneuro.svg
+category: datasets
+tags:
+  - datasets
+  - neuroscience
+  - open-data
+markdown: ""
+updated_at: 2025-12-30 18:29

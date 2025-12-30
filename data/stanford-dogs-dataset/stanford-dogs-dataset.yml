@@ -1,0 +1,16 @@
+name: Stanford Dogs Dataset
+description: A fine-grained image dataset of dog breeds from Stanford, commonly
+  used in classification research. It is part of an awesome-style curated list
+  of image processing datasets, supporting the Awesome meta-directory theme.
+source_url: http://vision.stanford.edu/aditya86/ImageNetDogs/
+featured: false
+brand: stanford-vision-lab
+brand_logo_url: null
+images: null
+category: themed-directories
+tags:
+  - datasets
+  - computer-vision
+  - images
+markdown: ""
+updated_at: 2025-12-30 18:29

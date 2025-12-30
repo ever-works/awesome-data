@@ -1,0 +1,16 @@
+name: Brain Catalogue
+description: An open resource providing high-resolution 3D reconstructions and
+  anatomical data of brains from multiple species for comparative neuroanatomy
+  and neuroscience research.
+source_url: http://braincatalogue.org/
+featured: false
+brand: ""
+brand_logo_url: /
+images: null
+category: datasets
+tags:
+  - datasets
+  - neuroscience
+  - 3d
+markdown: ""
+updated_at: 2025-12-30 18:29

@@ -1,0 +1,17 @@
+name: Number of Ebola Cases and Deaths in Affected Countries (2014)
+description: A humanitarian dataset on Ebola cases and deaths during the 2014
+  outbreak, hosted on HDX and linked from the Awesome Public Datasets healthcare
+  list.
+source_url: https://data.humdata.org/dataset/ebola-cases-2014
+featured: false
+brand: humanitarian-data-exchange-hdx
+brand_logo_url: https://data.humdata.org/images/hdx-logo.svg
+images:
+  - https://data.humdata.org/uploads/group/2018-01-11-154540.573782HDXlogo_square_social.png
+category: datasets
+tags:
+  - datasets
+  - healthcare
+  - epidemiology
+markdown: ""
+updated_at: 2025-12-30 18:29

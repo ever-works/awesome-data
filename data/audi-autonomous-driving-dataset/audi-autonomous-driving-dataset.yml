@@ -1,0 +1,18 @@
+name: Audi Autonomous Driving Dataset
+description: A large-scale autonomous driving dataset by Audi, providing camera
+  and LiDAR sensor data with annotations for perception and self-driving
+  research. Included in an awesome machine learning datasets directory.
+source_url: https://journals.sagepub.com/doi/10.1177/03611981211057532
+featured: false
+brand: audi
+brand_logo_url: https://www.audi.com/etc.clientlibs/audi/clientlibs/clientlib-site/resources/img/icons/audi-logo.svg
+images:
+  - https://www.a2d2.audi/content/dam/a2d2/Images/header-a2d2-dataset.jpg
+  - https://www.a2d2.audi/content/dam/a2d2/Images/a2d2-dataset-sample.jpg
+category: themed-directories
+tags:
+  - datasets
+  - autonomous-driving
+  - computer-vision
+markdown: ""
+updated_at: 2025-12-30 18:29

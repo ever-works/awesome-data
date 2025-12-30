@@ -1,0 +1,106 @@
+name: Awesome Data - Yelp Dataset Challenge
+description: An entry in the Awesome Data Project’s meta-collection that
+  catalogs the Yelp Dataset Challenge, a public subset of Yelp’s business,
+  review, and user data frequently used in data science and machine learning
+  research. It serves as a curated pointer within the Awesome-style directory
+  system to this specific data challenge resource.
+source_url: https://www.yelp.com/dataset
+featured: false
+brand: yelp
+brand_logo_url: https://s3-media0.fl.yelpcdn.com/assets/public/default.yji-1c0e9c0b3bdfc5a5b4e5e4f24e9f3b0a.png
+images:
+  - https://s3-media0.fl.yelpcdn.com/assets/public/yelp-dataset-challenge.yji-7f4b5b8f5b8a3c6f5b4c.png
+  - https://s3-media0.fl.yelpcdn.com/assets/public/dataset-homepage-hero.yji-4b2c5d7e9a3b2c6d1e2f.png
+category: themed-directories
+tags:
+  - datasets
+  - machine-learning
+  - business
+markdown: >-
+  # Awesome Data – Yelp Dataset Challenge
+
+
+  Curated entry in the Awesome Data collection pointing to the **Yelp Open
+  Dataset**, a large, real-world dataset commonly used for data science and
+  machine learning projects involving local businesses, reviews, and
+  user-generated content.
+
+
+  - **Source**: [Yelp Open Dataset](https://www.yelp.com/dataset)
+
+  - **Brand**: Yelp
+
+  - **Category**: Themed directories
+
+  - **Tags**: datasets, machine-learning, business
+
+
+  ## Features
+
+
+  ### Dataset scope
+
+  - **Educational / research focus**: Intended for educational and research use
+  (e.g., data science, machine learning, information retrieval, recommendation
+  systems).
+
+  - **Real-world business data**: Captures real Yelp business and review
+  activity.
+
+
+  ### Contents & scale
+
+  - **Reviews**: 6,990,280 reviews
+
+  - **Businesses**: 150,346 businesses
+
+  - **Geographical coverage**: 11 metropolitan areas
+
+  - **Photos / pictures**: 200,100 pictures
+
+  - **Attributes & metadata** (via JSON files), including for example:
+    - Business hours
+    - Parking availability
+    - Ambience and similar business attributes
+    - Check-ins
+
+  ### File structure & formats
+
+  - **Main JSON bundle** (business/review data):
+    - 1 compressed TAR archive (≈ 4.35 GB)
+    - Uncompressed contents (≈ 8.65 GB):
+      - 1 PDF (documentation)
+      - 5 JSON files (core dataset files)
+      - Documentation included
+  - **Photos bundle**:
+    - 1 compressed TAR archive (≈ 7.45 GB)
+    - Uncompressed contents (≈ 7.11 GB):
+      - 1 JSON file
+      - 1 text file
+      - 1 PDF (documentation)
+      - 1 folder containing ≈ 200,000 photos
+      - Documentation included
+
+  ### Access & downloads
+
+  - **Data download (JSON)**: [Download
+  JSON](https://business.yelp.com/external-assets/files/Yelp-JSON.zip)
+
+  - **Photos download**: [Download
+  photos](https://business.yelp.com/external-assets/files/Yelp-Photos.zip)
+
+
+  ## Use Cases
+
+  - Academic coursework and projects (data mining, statistics, ML)
+
+  - Research on recommendations, NLP, sentiment analysis, and ranking
+
+  - Analysis of local business ecosystems and user behavior
+
+
+  ## Pricing
+
+  - Presented as an **open, educational dataset**; no pricing information is
+  provided in the source content.
+updated_at: 2025-12-30 18:29

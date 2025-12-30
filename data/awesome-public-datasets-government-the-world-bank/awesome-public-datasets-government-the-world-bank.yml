@@ -1,0 +1,16 @@
+name: "Awesome Public Datasets - Government: The World Bank"
+description: An Awesome-listed resource linking to The World Bank’s Open
+  Knowledge Repository and data collections, including global development
+  indicators and research datasets.
+source_url: https://openknowledge.worldbank.org/handle/10986/2124
+featured: false
+brand: the-world-bank
+brand_logo_url: /awesome-data
+images: null
+category: themed-directories
+tags:
+  - economics
+  - datasets
+  - open-data
+markdown: ""
+updated_at: 2025-12-30 18:29

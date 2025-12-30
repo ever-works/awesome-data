@@ -1,0 +1,18 @@
+name: UFL Sparse Matrix Collection
+description: The UFL Sparse Matrix Collection is a long‑standing, curated
+  repository of sparse matrices from real applications, widely used for
+  benchmarking numerical algorithms and linear algebra software. It functions as
+  a well‑structured directory of reusable numerical datasets, similar in role to
+  an awesome-style collection but focused on sparse matrices.
+source_url: http://www.cise.ufl.edu/research/sparse/matrices/
+featured: false
+brand: university-of-florida
+brand_logo_url: /
+images: null
+category: themed-directories
+tags:
+  - datasets
+  - math
+  - scientific-computing
+markdown: ""
+updated_at: 2025-12-30 18:29

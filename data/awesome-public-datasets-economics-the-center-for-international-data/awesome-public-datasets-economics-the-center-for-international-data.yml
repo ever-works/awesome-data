@@ -1,0 +1,38 @@
+name: "Awesome Public Datasets – Economics: The Center for International Data"
+description: An Awesome Public Datasets listing for UC Davis’s Center for
+  International Data, which distributes international trade, production, and
+  related economic datasets for research use.
+source_url: https://github.com/awesomedata/apd-core/tree/master/core//Economics/The-Center-for-International-Data.yml
+featured: false
+brand: awesome-public-datasets
+brand_logo_url: /assets/images/brands/awesomedata.png
+images: null
+category: themed-directories
+tags:
+  - economics
+  - datasets
+  - research
+markdown: |-
+  # Awesome Public Datasets – Economics: The Center for International Data
+
+  **Brand:** awesome-public-datasets  
+  **Category:** Themed Directories  
+  **Tags:** economics, datasets, research
+
+  ## Overview
+  Awesome Public Datasets – Economics: The Center for International Data is an entry in the Awesome Public Datasets collection referencing UC Davis’s Center for International Data. It points researchers to publicly available international trade, production, and related economic datasets curated for research use.
+
+  **Source URL:** https://github.com/awesomedata/apd-core/tree/master/core//Economics/The-Center-for-International-Data.yml
+
+  ## Features
+  - Curated listing within the Awesome Public Datasets project for economics-focused data.
+  - Highlights UC Davis’s Center for International Data as a source of:
+    - International trade datasets.
+    - Production datasets.
+    - Related economic and macroeconomic data suitable for empirical research.
+  - Designed for academic and applied research use in economics and international trade.
+  - Part of a broader, themed directory structure under "Economics" in the Awesome Public Datasets core repository.
+
+  ## Pricing
+  - Not specified (listing of public/research datasets; access terms depend on the underlying UC Davis Center for International Data resources).
+updated_at: 2025-12-30 18:29

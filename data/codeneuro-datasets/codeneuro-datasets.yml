@@ -1,0 +1,16 @@
+name: CodeNeuro Datasets
+description: A curated collection of neuroscience datasets maintained by the
+  CodeNeuro community, aimed at facilitating computational neuroscience and
+  machine learning research on neural data.
+source_url: https://github.com/codeneuro/datasets/blob/master/datasets.html
+featured: false
+brand: codeneuro
+brand_logo_url: /
+images: null
+category: themed-directories
+tags:
+  - datasets
+  - neuroscience
+  - machine-learning
+markdown: ""
+updated_at: 2025-12-30 18:29

@@ -1,0 +1,16 @@
+name: KDD Cup 2012
+description: The KDD Cup 2012, organized with Tencent, is a major data mining
+  competition that released large-scale datasets for tasks such as user behavior
+  prediction and recommendation.
+source_url: https://dl.acm.org/doi/pdf/10.1145/3676641.3711999
+featured: false
+brand: kdd-cup
+brand_logo_url: null
+images: null
+category: data-competitions
+tags:
+  - data-mining
+  - machine-learning
+  - challenges
+markdown: ""
+updated_at: 2025-12-30 18:29

@@ -1,0 +1,17 @@
+name: Prostate-R
+description: A classic prostate cancer dataset distributed with the R package
+  ElemStatLearn and included in the Awesome Public Datasets directory. It
+  contains clinical and biomarker variables frequently used for statistics and
+  machine learning examples.
+source_url: https://web.stanford.edu/~hastie/ElemStatLearn/datasets/prostate.data
+featured: false
+brand: rawesomedata-awesome-public-datasets
+brand_logo_url: https://raw.githubusercontent.com/awesomedata/apd-core/master/media/apd-logo.png
+images: null
+category: themed-directories
+tags:
+  - datasets
+  - health
+  - statistics
+markdown: ""
+updated_at: 2025-12-30 18:29

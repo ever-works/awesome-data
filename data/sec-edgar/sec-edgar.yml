@@ -1,0 +1,17 @@
+name: SEC EDGAR
+description: An Awesome Public Datasets finance entry referencing the SEC EDGAR
+  system, which provides public access to U.S. corporate filings and disclosure
+  data. It is cataloged in the APD core repository as part of the Awesome-style
+  directory of financial datasets.
+source_url: https://www.sec.gov/files/edgar/filermanual/efmvol2.pdf
+featured: false
+brand: awesomedata-awesome-public-datasets
+brand_logo_url: /awesomedata/apd-core/raw/master/apd-logo.png
+images: null
+category: themed-directories
+tags:
+  - datasets
+  - financial
+  - regulation
+markdown: ""
+updated_at: 2025-12-30 18:29

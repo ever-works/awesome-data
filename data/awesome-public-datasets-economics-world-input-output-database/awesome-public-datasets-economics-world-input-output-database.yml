@@ -1,0 +1,16 @@
+name: "Awesome Public Datasets – Economics: World Input-Output Database"
+description: A curated Awesome Public Datasets listing for the World
+  Input-Output Database (WIOD), offering harmonized world input-output tables
+  and underlying data for multi-country economic and trade analysis.
+source_url: https://www.reddit.com/r/awesomewm/
+featured: false
+brand: awesome-public-datasets
+brand_logo_url: /assets/images/brands/awesomedata.png
+images: null
+category: themed-directories
+tags:
+  - datasets
+  - economics
+  - trade
+markdown: ""
+updated_at: 2025-12-30 18:29
