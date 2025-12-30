@@ -14,3 +14,7 @@
   name: Vector Databases
 - id: mcp-servers
   name: MCP Servers
+- id: data-competitions
+  name: Data Competitions
+- id: datasets
+  name: Datasets
