@@ -18,3 +18,41 @@
   name: Data Competitions
 - id: datasets
   name: Datasets
+- id: web-development
+  name: Web Development
+- id: audio-music
+  name: Audio & Music
+- id: learning-education
+  name: Learning & Education
+- id: cloud-infrastructure
+  name: Cloud & Infrastructure
+- id: blockchain-crypto
+  name: Blockchain & Crypto
+- id: computer-vision
+  name: Computer Vision
+- id: data-engineering
+  name: Data Engineering
+- id: machine-learning-ai
+  name: Machine Learning & AI
+- id: open-source
+  name: Open Source
+- id: game-development
+  name: Game Development
+- id: creative-coding
+  name: Creative Coding
+- id: programming-languages
+  name: Programming Languages
+- id: development-tools
+  name: Development Tools
+- id: mobile-development
+  name: Mobile Development
+- id: robotics
+  name: Robotics
+- id: quantum-computing
+  name: Quantum Computing
+- id: devops-sre
+  name: DevOps & SRE
+- id: self-hosting
+  name: Self Hosting
+- id: remote-work
+  name: Remote Work

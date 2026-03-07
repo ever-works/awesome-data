@@ -20,8 +20,19 @@ metadata:
     badge_evaluation_enabled: false
     website_repository_creation_method: create-using-template
     name: Awesome
-    prompt: Awesome - meta collection of awesome directories
+    prompt: You need to build "Meta collection of awesome directories". Basically
+      you should find "awesome" repos on GitHub for all possible verticals and
+      create like a meta directory that has all of them! Every single awesome
+      repo should be in this directory. Because it's directory of directories,
+      we call it "Meta" collection.
     initial_categories: []
     priority_categories: []
     target_keywords: []
+    providers:
+      pipeline: claude-code
+    pluginConfig:
+      target_items: 50
+      capture_screenshots: false
+    _processedPluginConfig: {}
   initial_prompt: Awesome - meta collection of awesome directories
+version: 0.1.0
