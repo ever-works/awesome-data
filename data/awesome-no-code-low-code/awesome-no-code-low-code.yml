@@ -1,0 +1,103 @@
+name: Awesome No-Code Low-Code
+description: A curated list of no-code and low-code resources for building
+  software without traditional programming, including app builders like Bubble,
+  Adalo, and automation tools like Zapier.
+source_url: https://github.com/valentin-vogel/awesome-nocode-lowcode
+category: Development Tools
+tags:
+  - no-code
+  - low-code
+  - visual-development
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Awesome No-Code Low-Code is a comprehensive collection of platforms and tools
+  for building applications without extensive coding knowledge.
+
+
+  ## Features
+
+
+  - **Enterprise Platforms**: Mendix, OutSystems, Quickbase for large
+  organizations
+
+  - **App Builders**: Bubble, Adalo, AppGyver for web and mobile apps
+
+  - **Automation Tools**: IFTTT, Zapier, Microsoft Power Automate for workflow
+  automation
+
+  - **Website Builders**: Webflow, Wix, Squarespace for professional websites
+
+  - **Database Tools**: Airtable, NocoDB for data management
+
+  - **E-commerce**: Shopify, Sharetribe for online stores
+
+  - **Forms**: Typeform, Jotform for data collection
+
+  - **No-Code AI**: Platforms for building AI applications without coding
+
+
+  ## Platform Categories
+
+
+  - Web application builders
+
+  - Mobile app builders
+
+  - Workflow automation
+
+  - Website and landing page builders
+
+  - E-commerce platforms
+
+  - Database and spreadsheet tools
+
+  - Chatbot builders
+
+  - Integration platforms (iPaaS)
+
+
+  ## Popular Tools
+
+
+  - Bubble - Visual programming for web apps
+
+  - Webflow - Professional website builder
+
+  - Zapier - Workflow automation connector
+
+  - Airtable - Spreadsheet-database hybrid
+
+  - Notion - All-in-one workspace
+
+  - Retool - Internal tool builder
+
+
+  ## Use Cases
+
+
+  - MVP development
+
+  - Business automation
+
+  - Landing pages and marketing sites
+
+  - Mobile applications
+
+  - Internal tools
+
+  - Customer portals
+
+  - E-commerce stores
+
+  - Community platforms
+
+
+  ## Pricing
+
+
+  Free and open-source repository featuring platforms with various pricing
+  models.
+updated_at: 2026-03-07 17:48
