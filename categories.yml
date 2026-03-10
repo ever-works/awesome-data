@@ -56,3 +56,5 @@
   name: Self Hosting
 - id: remote-work
   name: Remote Work
+- id: security
+  name: Security

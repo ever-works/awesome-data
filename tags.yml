@@ -21,7 +21,7 @@
 - id: open-source
   name: Open Source
 - id: github
-  name: github
+  name: Github
 - id: meta-directory
   name: meta-directory
 - id: self-hosted
@@ -57,7 +57,7 @@
 - id: public-apis
   name: public-apis
 - id: developer-resources
-  name: developer-resources
+  name: Developer Resources
 - id: directory-of-directories
   name: directory-of-directories
 - id: categorized
@@ -119,29 +119,29 @@
 - id: geospatial
   name: geospatial
 - id: cloud
-  name: cloud
+  name: Cloud
 - id: security
-  name: security
+  name: Security
 - id: blockchain
   name: Blockchain
 - id: data-visualization
   name: data-visualization
 - id: testing
-  name: testing
+  name: Testing
 - id: big-data
   name: big-data
 - id: hardware
-  name: hardware
+  name: Hardware
 - id: games
   name: games
 - id: media
-  name: media
+  name: Media
 - id: communication
   name: communication
 - id: privacy
   name: Privacy
 - id: cli
-  name: cli
+  name: Cli
 - id: javascript
   name: Javascript
 - id: android
@@ -169,7 +169,7 @@
 - id: math
   name: math
 - id: css
-  name: css
+  name: Css
 - id: json
   name: json
 - id: dart
@@ -183,7 +183,7 @@
 - id: java
   name: java
 - id: python
-  name: python
+  name: Python
 - id: php
   name: php
 - id: networking
@@ -211,7 +211,7 @@
 - id: graph
   name: graph
 - id: design
-  name: design
+  name: Design
 - id: audio
   name: audio
 - id: distributed
@@ -221,7 +221,7 @@
 - id: regex
   name: regex
 - id: streaming
-  name: streaming
+  name: Streaming
 - id: mods
   name: mods
 - id: cpp
@@ -243,7 +243,7 @@
 - id: editor
   name: editor
 - id: video
-  name: video
+  name: Video
 - id: financial
   name: financial
 - id: macos
@@ -271,13 +271,13 @@
 - id: code
   name: code
 - id: workflow
-  name: workflow
+  name: Workflow
 - id: robotics
   name: Robotics
 - id: computer-vision
   name: Computer Vision
 - id: computer-science
-  name: computer-science
+  name: Computer Science
 - id: integration
   name: integration
 - id: async
@@ -291,7 +291,7 @@
 - id: fortran
   name: fortran
 - id: scientific-computing
-  name: scientific-computing
+  name: Scientific Computing
 - id: crystal
   name: crystal
 - id: web-components
@@ -315,17 +315,17 @@
 - id: unicode
   name: unicode
 - id: architecture
-  name: architecture
+  name: Architecture
 - id: fun
   name: fun
 - id: ecommerce
   name: ecommerce
 - id: data-science
-  name: data-science
+  name: Data Science
 - id: marketing
   name: marketing
 - id: automation
-  name: automation
+  name: Automation
 - id: qr-code
   name: qr-code
 - id: chatgpt
@@ -333,7 +333,7 @@
 - id: gui
   name: gui
 - id: git
-  name: git
+  name: Git
 - id: search
   name: search
 - id: offline
@@ -387,7 +387,7 @@
 - id: ui
   name: ui
 - id: terraform
-  name: terraform
+  name: Terraform
 - id: kubernetes
   name: Kubernetes
 - id: configuration
@@ -417,7 +417,7 @@
 - id: xml
   name: xml
 - id: writing
-  name: writing
+  name: Writing
 - id: sustainability
   name: sustainability
 - id: computing
@@ -441,7 +441,7 @@
 - id: jobs
   name: jobs
 - id: monitoring
-  name: monitoring
+  name: Monitoring
 - id: ios
   name: Ios
 - id: music
@@ -459,7 +459,7 @@
 - id: nlp
   name: Nlp
 - id: electronics
-  name: electronics
+  name: Electronics
 - id: public-domain
   name: public-domain
 - id: agriculture
@@ -491,7 +491,7 @@
 - id: quantum-computing
   name: Quantum Computing
 - id: newsletters
-  name: newsletters
+  name: Newsletters
 - id: microservices
   name: microservices
 - id: free-software
@@ -533,7 +533,7 @@
 - id: science
   name: science
 - id: production
-  name: production
+  name: Production
 - id: science-fiction
   name: science-fiction
 - id: resources
@@ -559,7 +559,7 @@
 - id: animation
   name: animation
 - id: development
-  name: development
+  name: Development
 - id: photography
   name: photography
 - id: deployment
@@ -599,7 +599,7 @@
 - id: distribution
   name: distribution
 - id: typography
-  name: typography
+  name: Typography
 - id: embedded
   name: embedded
 - id: cross-platform
@@ -629,7 +629,7 @@
 - id: sre
   name: Sre
 - id: examples
-  name: examples
+  name: Examples
 - id: tutorials
   name: Tutorials
 - id: projects
@@ -651,7 +651,7 @@
 - id: activism
   name: activism
 - id: tools
-  name: tools
+  name: Tools
 - id: multimedia
   name: multimedia
 - id: environment
@@ -743,7 +743,7 @@
 - id: people
   name: people
 - id: logging
-  name: logging
+  name: Logging
 - id: physics
   name: physics
 - id: extensions
@@ -753,7 +753,7 @@
 - id: compilers
   name: Compilers
 - id: markdown
-  name: markdown
+  name: Markdown
 - id: platform
   name: platform
 - id: podcasts
@@ -1042,3 +1042,61 @@
   name: Freelance
 - id: job-boards
   name: Job Boards
+- id: code-review
+  name: Code Review
+- id: bug-bounty
+  name: Bug Bounty
+- id: chaos-engineering
+  name: Chaos Engineering
+- id: frameworks
+  name: Frameworks
+- id: distributed-systems
+  name: Distributed Systems
+- id: developer-experience
+  name: Developer Experience
+- id: ethical-hacking
+  name: Ethical Hacking
+- id: cybersecurity
+  name: Cybersecurity
+- id: learning
+  name: Learning
+- id: engine-development
+  name: Engine Development
+- id: gaming
+  name: Gaming
+- id: version-control
+  name: Version Control
+- id: profile
+  name: Profile
+- id: operators
+  name: Operators
+- id: pcb
+  name: Pcb
+- id: penetration-testing
+  name: Penetration Testing
+- id: numpy
+  name: Numpy
+- id: site-reliability
+  name: Site Reliability
+- id: system-design
+  name: System Design
+- id: tailwindcss
+  name: Tailwindcss
+- id: ui-components
+  name: Ui Components
+- id: technical-docs
+  name: Technical Docs
+- id: infrastructure-as-code
+  name: Infrastructure As Code
+- id: web-fonts
+  name: Web Fonts
+- id: languages
+  name: Languages
+- id: edge-computing
+  name: Edge Computing
+- id: orchestration
+  name: Orchestration
+- id: jupyter
+  name: Jupyter
+- id: badges
+  name: Badges
