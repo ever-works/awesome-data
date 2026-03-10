@@ -1,0 +1,12 @@
+name: Awesome System Design
+description: A curated list of awesome System Design and Distributed Systems
+  resources covering architecture patterns, scalability, microservices, and
+  interview preparation for system design questions.
+source_url: https://github.com/madd86/awesome-system-design
+category: Learning & Education
+tags:
+  - system-design
+  - distributed-systems
+  - architecture
+featured: false
+updated_at: 2026-03-10 12:01

@@ -1,0 +1,12 @@
+name: Awesome Workflow Automation
+description: A curated list of workflow automation software, engines, and tools
+  for engineers managing data flows, ETL pipelines, scheduled jobs, and complex
+  production workflows including Apache Airflow, Prefect, and n8n.
+source_url: https://github.com/dariubs/awesome-workflow-automation
+category: Development Tools
+tags:
+  - automation
+  - workflow
+  - orchestration
+featured: false
+updated_at: 2026-03-10 12:01

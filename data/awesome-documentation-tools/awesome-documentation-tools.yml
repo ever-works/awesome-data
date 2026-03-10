@@ -1,0 +1,12 @@
+name: Awesome Documentation Tools
+description: A curated list of awesome documentation tools, guides, and best
+  practices for creating high-quality technical documentation including static
+  site generators and documentation frameworks.
+source_url: https://github.com/testthedocs/awesome-docs
+category: Development Tools
+tags:
+  - documentation
+  - tools
+  - developer-experience
+featured: false
+updated_at: 2026-03-10 12:01

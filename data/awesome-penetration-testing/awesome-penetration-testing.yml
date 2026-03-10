@@ -1,0 +1,13 @@
+name: Awesome Penetration Testing
+description: A comprehensive collection of penetration testing resources, tools,
+  and frameworks including vulnerability scanners, exploit development tools,
+  and security assessment utilities for ethical hackers and security
+  professionals.
+source_url: https://github.com/enaqx/awesome-pentest
+category: Security
+tags:
+  - penetration-testing
+  - security
+  - ethical-hacking
+featured: false
+updated_at: 2026-03-10 12:01

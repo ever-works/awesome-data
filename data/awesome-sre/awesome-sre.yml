@@ -1,0 +1,12 @@
+name: Awesome SRE
+description: A curated list of Site Reliability Engineering (SRE) and Production
+  Engineering resources covering monitoring, incident management, on-call
+  practices, and reliability best practices.
+source_url: https://github.com/dastergon/awesome-sre
+category: DevOps & SRE
+tags:
+  - site-reliability
+  - monitoring
+  - production
+featured: false
+updated_at: 2026-03-10 12:01

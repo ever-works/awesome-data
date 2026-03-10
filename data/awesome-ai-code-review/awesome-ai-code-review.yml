@@ -1,0 +1,12 @@
+name: Awesome AI Code Review
+description: A curated list of AI-powered code review agents, copilots, tools,
+  and research papers for automating code reviews and improving software quality
+  using artificial intelligence.
+source_url: https://github.com/kodustech/awesome-ai-code-review
+category: Development Tools
+tags:
+  - ai
+  - code-review
+  - automation
+featured: false
+updated_at: 2026-03-10 12:01

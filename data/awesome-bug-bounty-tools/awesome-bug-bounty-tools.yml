@@ -1,0 +1,12 @@
+name: Awesome Bug Bounty Tools
+description: A curated list of bug bounty tools for reconnaissance, subdomain
+  enumeration, vulnerability scanning, and security testing used by bug bounty
+  hunters and security researchers.
+source_url: https://github.com/vavkamil/awesome-bugbounty-tools
+category: Security
+tags:
+  - bug-bounty
+  - security
+  - tools
+featured: false
+updated_at: 2026-03-10 12:01

@@ -1,0 +1,12 @@
+name: Data Science IPython Notebooks
+description: A comprehensive collection of data science Python notebooks
+  covering deep learning frameworks (TensorFlow, Keras, PyTorch), scikit-learn,
+  big data (Spark, Hadoop), and essential Python libraries for data analysis.
+source_url: https://github.com/donnemartin/data-science-ipython-notebooks
+category: Data Engineering
+tags:
+  - data-science
+  - jupyter
+  - python
+featured: true
+updated_at: 2026-03-10 12:01

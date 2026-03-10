@@ -1,0 +1,12 @@
+name: Awesome Database Development
+description: Awesome materials about database development including distributed
+  database systems, database papers, and resources for building scalable data
+  infrastructure.
+source_url: https://github.com/huachaohuang/awesome-dbdev
+category: Data Engineering
+tags:
+  - databases
+  - distributed-systems
+  - development
+featured: false
+updated_at: 2026-03-10 12:01

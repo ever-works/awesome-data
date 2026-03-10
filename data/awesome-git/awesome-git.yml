@@ -1,0 +1,12 @@
+name: Awesome Git
+description: A curated list of amazingly awesome Git tools, resources, clients,
+  and utilities for version control including tutorials, hosting services, and
+  automation tools.
+source_url: https://github.com/dictcp/awesome-git
+category: Development Tools
+tags:
+  - git
+  - version-control
+  - tools
+featured: false
+updated_at: 2026-03-10 12:01

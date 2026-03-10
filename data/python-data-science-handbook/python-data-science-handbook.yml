@@ -1,0 +1,12 @@
+name: Python Data Science Handbook
+description: Complete Python Data Science Handbook in Jupyter Notebooks covering
+  IPython, NumPy, Pandas, Matplotlib, Scikit-Learn, and essential data science
+  workflows with hands-on examples.
+source_url: https://github.com/jakevdp/PythonDataScienceHandbook
+category: Learning & Education
+tags:
+  - python
+  - data-science
+  - jupyter
+featured: true
+updated_at: 2026-03-10 12:01

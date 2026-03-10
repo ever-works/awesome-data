@@ -1,0 +1,12 @@
+name: Awesome Video
+description: A curated list of awesome streaming video tools, frameworks,
+  libraries, and learning resources including FFmpeg, video players, codec
+  specifications, and streaming protocols like HLS and DASH.
+source_url: https://github.com/krzemienski/awesome-video
+category: Audio & Music
+tags:
+  - video
+  - streaming
+  - media
+featured: false
+updated_at: 2026-03-10 12:01
