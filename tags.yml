@@ -17,13 +17,13 @@
 - id: vector
   name: Vector
 - id: curated-lists
-  name: curated-lists
+  name: Curated Lists
 - id: open-source
   name: Open Source
 - id: github
   name: Github
 - id: meta-directory
-  name: meta-directory
+  name: Meta Directory
 - id: self-hosted
   name: self-hosted
 - id: software
@@ -37,13 +37,13 @@
 - id: web-directory
   name: web-directory
 - id: searchable
-  name: searchable
+  name: Searchable
 - id: directories
   name: directories
 - id: datasets
   name: datasets
 - id: open-data
-  name: open-data
+  name: Open Data
 - id: research
   name: Research
 - id: static-websites
@@ -53,7 +53,7 @@
 - id: web-development
   name: Web Development
 - id: apis
-  name: apis
+  name: Apis
 - id: public-apis
   name: public-apis
 - id: developer-resources
@@ -77,7 +77,7 @@
 - id: saas
   name: saas
 - id: aggregator
-  name: aggregator
+  name: Aggregator
 - id: ratings
   name: ratings
 - id: startup
@@ -95,13 +95,13 @@
 - id: software-alternatives
   name: software-alternatives
 - id: startups
-  name: startups
+  name: Startups
 - id: developer-tools
   name: Developer Tools
 - id: early-access
   name: early-access
 - id: trending
-  name: trending
+  name: Trending
 - id: business-tools
   name: business-tools
 - id: productivity
@@ -111,7 +111,7 @@
 - id: transparency
   name: transparency
 - id: community
-  name: community
+  name: Community
 - id: free-tier
   name: free-tier
 - id: gis
@@ -147,7 +147,7 @@
 - id: android
   name: Android
 - id: apple
-  name: apple
+  name: Apple
 - id: terminal
   name: terminal
 - id: cms
@@ -217,7 +217,7 @@
 - id: distributed
   name: distributed
 - id: education
-  name: education
+  name: Education
 - id: regex
   name: regex
 - id: streaming
@@ -245,7 +245,7 @@
 - id: video
   name: Video
 - id: financial
-  name: financial
+  name: Financial
 - id: macos
   name: macos
 - id: graphics
@@ -279,7 +279,7 @@
 - id: computer-science
   name: Computer Science
 - id: integration
-  name: integration
+  name: Integration
 - id: async
   name: async
 - id: haskell
@@ -335,7 +335,7 @@
 - id: git
   name: Git
 - id: search
-  name: search
+  name: Search
 - id: offline
   name: offline
 - id: reverse-engineering
@@ -345,7 +345,7 @@
 - id: tv
   name: tv
 - id: apps
-  name: apps
+  name: Apps
 - id: firebase
   name: firebase
 - id: package-manager
@@ -357,13 +357,13 @@
 - id: jamstack
   name: Jamstack
 - id: infrastructure
-  name: infrastructure
+  name: Infrastructure
 - id: career
-  name: career
+  name: Career
 - id: events
   name: events
 - id: biology
-  name: biology
+  name: Biology
 - id: lifestyle
   name: lifestyle
 - id: health
@@ -413,7 +413,7 @@
 - id: culture
   name: culture
 - id: rss
-  name: rss
+  name: Rss
 - id: xml
   name: xml
 - id: writing
@@ -537,7 +537,7 @@
 - id: science-fiction
   name: science-fiction
 - id: resources
-  name: resources
+  name: Resources
 - id: history
   name: history
 - id: quantified-self
@@ -633,7 +633,7 @@
 - id: tutorials
   name: Tutorials
 - id: projects
-  name: projects
+  name: Projects
 - id: geometry
   name: geometry
 - id: drivers
@@ -675,11 +675,11 @@
 - id: leadership
   name: leadership
 - id: blogs
-  name: blogs
+  name: Blogs
 - id: services
   name: services
 - id: certifications
-  name: certifications
+  name: Certifications
 - id: domains
   name: domains
 - id: tips
@@ -705,7 +705,7 @@
 - id: fonts
   name: fonts
 - id: indie
-  name: indie
+  name: Indie
 - id: students
   name: students
 - id: best-practices
@@ -825,7 +825,7 @@
 - id: medical-imaging
   name: medical-imaging
 - id: genomics
-  name: genomics
+  name: Genomics
 - id: challenges
   name: challenges
 - id: space
@@ -1154,3 +1154,71 @@
   name: Yaml
 - id: data-formats
   name: Data Formats
+- id: ai-agents
+  name: Ai Agents
+- id: ar
+  name: Ar
+- id: vr
+  name: Vr
+- id: augmented-reality
+  name: Augmented Reality
+- id: xr
+  name: Xr
+- id: spatial-computing
+  name: Spatial Computing
+- id: pentesting
+  name: Pentesting
+- id: synthetic-biology
+  name: Synthetic Biology
+- id: devsecops
+  name: Devsecops
+- id: dx
+  name: Dx
+- id: instrumentation
+  name: Instrumentation
+- id: india
+  name: India
+- id: founders
+  name: Founders
+- id: bioinformatics
+  name: Bioinformatics
+- id: makers
+  name: Makers
+- id: solopreneurs
+  name: Solopreneurs
+- id: bootstrapping
+  name: Bootstrapping
+- id: infosec
+  name: Infosec
+- id: training
+  name: Training
+- id: middleware
+  name: Middleware
+- id: automated
+  name: Automated
+- id: comprehensive
+  name: Comprehensive
+- id: api
+  name: Api
+- id: mixed-reality
+  name: Mixed Reality
+- id: platform-engineering
+  name: Platform Engineering
+- id: rpa
+  name: Rpa
+- id: biotech
+  name: Biotech
+- id: virtual-reality
+  name: Virtual Reality
+- id: immersive
+  name: Immersive
+- id: visionos
+  name: Visionos
+- id: companies
+  name: Companies
+- id: discovery
+  name: Discovery
+- id: tracking
+  name: Tracking
+- id: updates
+  name: Updates
