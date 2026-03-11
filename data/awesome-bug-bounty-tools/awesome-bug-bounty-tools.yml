@@ -1,12 +1,49 @@
 name: Awesome Bug Bounty Tools
-description: A curated list of bug bounty tools for reconnaissance, subdomain
-  enumeration, vulnerability scanning, and security testing used by bug bounty
-  hunters and security researchers.
+description: A curated collection of tools, resources, and methodologies for bug
+  bounty hunters, covering reconnaissance, vulnerability scanning, exploitation,
+  and reporting techniques.
 source_url: https://github.com/vavkamil/awesome-bugbounty-tools
 category: Security
 tags:
   - bug-bounty
-  - security
+  - pentesting
   - tools
 featured: false
-updated_at: 2026-03-10 12:01
+markdown: >-
+  ## Overview
+
+
+  Awesome Bug Bounty Tools provides a comprehensive toolkit for security
+  researchers participating in bug bounty programs, from reconnaissance to
+  vulnerability reporting.
+
+
+  ## Features
+
+
+  - Reconnaissance and OSINT tools (Shodan, Censys, theHarvester)
+
+  - Subdomain enumeration and discovery
+
+  - Web vulnerability scanners and fuzzers
+
+  - API testing and exploitation tools
+
+  - Mobile app security testing frameworks
+
+  - Network scanning and mapping tools
+
+  - Exploit development resources
+
+  - Report writing templates and guides
+
+  - Bug bounty platform comparisons
+
+  - Automation scripts and workflows
+
+
+  ## Pricing
+
+
+  Free and open-source.
+updated_at: 2026-03-11 13:11

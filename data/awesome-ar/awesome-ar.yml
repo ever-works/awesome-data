@@ -1,0 +1,49 @@
+name: Awesome AR
+description: A comprehensive collection of augmented reality resources for XR
+  enthusiasts, covering frameworks, SDKs, tools, and development resources for
+  building AR experiences across platforms.
+source_url: https://github.com/kidult00/awesome-AR
+category: Computer Vision
+tags:
+  - augmented-reality
+  - xr
+  - spatial-computing
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Awesome AR curates resources for augmented reality development including Apple
+  ARKit, RealityKit, Google ARCore, Vuforia, WebXR, and other AR frameworks and
+  tools.
+
+
+  ## Features
+
+
+  - AR development frameworks (ARKit, ARCore, ARFoundation)
+
+  - WebAR libraries and tools for browser-based experiences
+
+  - 3D model creation and optimization tools
+
+  - Computer vision and tracking libraries
+
+  - Marker-based and markerless AR solutions
+
+  - SLAM and spatial mapping technologies
+
+  - AR cloud and persistent content platforms
+
+  - Hand tracking and gesture recognition
+
+  - AR glasses and headset development kits
+
+  - Sample projects and tutorials for beginners
+
+
+  ## Pricing
+
+
+  Free and open-source.
+updated_at: 2026-03-11 13:11

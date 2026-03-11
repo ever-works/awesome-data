@@ -1,0 +1,49 @@
+name: Awesome visionOS
+description: A curated list of resources for visionOS developers building
+  spatial computing applications for Apple Vision Pro, including frameworks,
+  sample code, and design guidelines for immersive experiences.
+source_url: https://github.com/tomkrikorian/awesome-visionOS
+category: Computer Vision
+tags:
+  - visionos
+  - spatial-computing
+  - apple
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Awesome visionOS provides comprehensive resources for developers building
+  applications for Apple's spatial computing platform, covering RealityKit,
+  SwiftUI, and ARKit integration.
+
+
+  ## Features
+
+
+  - visionOS SDK documentation and tutorials
+
+  - RealityKit for 3D content and immersive experiences
+
+  - SwiftUI for spatial interfaces and windows
+
+  - SharePlay for collaborative experiences
+
+  - Spatial audio and EyeSight features
+
+  - Hand tracking and gesture recognition
+
+  - Window management in 3D space
+
+  - Passthrough and immersion levels
+
+  - App architecture patterns for spatial computing
+
+  - Sample projects and open-source apps
+
+
+  ## Pricing
+
+
+  Free and open-source.
+updated_at: 2026-03-11 13:11

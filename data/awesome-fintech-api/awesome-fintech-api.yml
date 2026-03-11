@@ -1,0 +1,49 @@
+name: Awesome Fintech API
+description: A curated collection of fintech APIs focusing on hidden gems,
+  powerful developer-first or niche APIs including banking data access, identity
+  verification, and fraud prevention tools.
+source_url: https://github.com/furudo-erika/awesome-fintech-api
+category: Web Development
+tags:
+  - fintech
+  - apis
+  - developer-resources
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Awesome Fintech API highlights lesser-known but powerful financial technology
+  APIs that provide unique capabilities for developers building fintech
+  applications.
+
+
+  ## Features
+
+
+  - Open banking and account aggregation APIs
+
+  - Identity verification and KYC services
+
+  - Fraud detection and risk scoring APIs
+
+  - Credit scoring and alternative data providers
+
+  - Cryptocurrency and blockchain APIs
+
+  - Foreign exchange and currency conversion
+
+  - Bill payment and invoicing APIs
+
+  - Expense management and accounting integrations
+
+  - Banking-as-a-Service (BaaS) platforms
+
+  - Regulatory data and compliance APIs
+
+
+  ## Pricing
+
+
+  Free and open-source.
+updated_at: 2026-03-11 13:11

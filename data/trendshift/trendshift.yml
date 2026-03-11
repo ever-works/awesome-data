@@ -1,0 +1,49 @@
+name: Trendshift
+description: A platform for discovering trending GitHub repositories and open
+  source projects, with advanced filtering, analytics, and insights into what's
+  gaining traction in the developer community.
+source_url: https://trendshift.io/
+category: Meta Directories
+tags:
+  - trending
+  - github
+  - discovery
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Trendshift provides real-time tracking of trending GitHub repositories with
+  sophisticated analytics to help developers discover emerging projects and
+  technologies.
+
+
+  ## Features
+
+
+  - Real-time trending repository tracking
+
+  - Historical trend analysis and momentum indicators
+
+  - Language and category filtering
+
+  - Star growth rate metrics
+
+  - New and noteworthy projects
+
+  - Developer influence rankings
+
+  - Topic and tag-based discovery
+
+  - Comparison tools for similar projects
+
+  - Email alerts for trending topics
+
+  - API access for programmatic queries
+
+
+  ## Pricing
+
+
+  Free with optional premium features.
+updated_at: 2026-03-11 13:11

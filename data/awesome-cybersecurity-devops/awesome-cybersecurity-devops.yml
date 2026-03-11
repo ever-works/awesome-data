@@ -1,0 +1,49 @@
+name: Awesome Cybersecurity DevOps
+description: An ongoing curated collection of software best practices,
+  techniques, libraries, frameworks, e-books, videos, and resources about DevOps
+  in Cybersecurity and DevSecOps practices.
+source_url: https://github.com/paulveillard/cybersecurity-devops
+category: DevOps & SRE
+tags:
+  - devsecops
+  - security
+  - automation
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Awesome Cybersecurity DevOps bridges the gap between security and operations,
+  providing resources for implementing security throughout the software
+  development lifecycle.
+
+
+  ## Features
+
+
+  - DevSecOps principles and best practices
+
+  - Security as Code implementations
+
+  - Container security tools (Docker, Kubernetes)
+
+  - CI/CD pipeline security integrations
+
+  - Static and dynamic application security testing (SAST/DAST)
+
+  - Infrastructure security scanning
+
+  - Secret management solutions (Vault, SOPS)
+
+  - Compliance as Code frameworks
+
+  - Security monitoring and alerting
+
+  - Incident response automation
+
+
+  ## Pricing
+
+
+  Free and open-source.
+updated_at: 2026-03-11 13:11
