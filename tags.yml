@@ -189,7 +189,7 @@
 - id: networking
   name: networking
 - id: iot
-  name: iot
+  name: Iot
 - id: social
   name: social
 - id: golang
@@ -329,7 +329,7 @@
 - id: qr-code
   name: qr-code
 - id: chatgpt
-  name: chatgpt
+  name: Chatgpt
 - id: gui
   name: gui
 - id: git
@@ -391,7 +391,7 @@
 - id: kubernetes
   name: Kubernetes
 - id: configuration
-  name: configuration
+  name: Configuration
 - id: engine
   name: engine
 - id: 3d
@@ -419,7 +419,7 @@
 - id: writing
   name: Writing
 - id: sustainability
-  name: sustainability
+  name: Sustainability
 - id: computing
   name: computing
 - id: crm
@@ -609,7 +609,7 @@
 - id: sdn
   name: sdn
 - id: payments
-  name: payments
+  name: Payments
 - id: vehicles
   name: vehicles
 - id: haxe
@@ -655,7 +655,7 @@
 - id: multimedia
   name: multimedia
 - id: environment
-  name: environment
+  name: Environment
 - id: jquery
   name: jquery
 - id: apache
@@ -667,7 +667,7 @@
 - id: sublime-text
   name: sublime-text
 - id: software-engineering
-  name: software-engineering
+  name: Software Engineering
 - id: management
   name: management
 - id: strategy
@@ -1100,3 +1100,57 @@
   name: Jupyter
 - id: badges
   name: Badges
+- id: climate
+  name: Climate
+- id: clean-tech
+  name: Clean Tech
+- id: data-analysis
+  name: Data Analysis
+- id: devcontainers
+  name: Devcontainers
+- id: docker
+  name: Docker
+- id: vscode
+  name: Vscode
+- id: digital-nomad
+  name: Digital Nomad
+- id: travel
+  name: Travel
+- id: fintech
+  name: Fintech
+- id: banking
+  name: Banking
+- id: graph-databases
+  name: Graph Databases
+- id: graph-analytics
+  name: Graph Analytics
+- id: green-tech
+  name: Green Tech
+- id: knowledge-graphs
+  name: Knowledge Graphs
+- id: semantic-web
+  name: Semantic Web
+- id: workflow-automation
+  name: Workflow Automation
+- id: ocr
+  name: Ocr
+- id: text-recognition
+  name: Text Recognition
+- id: pandas
+  name: Pandas
+- id: encryption
+  name: Encryption
+- id: prompt-engineering
+  name: Prompt Engineering
+- id: qa
+  name: Qa
+- id: quality-assurance
+  name: Quality Assurance
+- id: software-architecture
+  name: Software Architecture
+- id: design-patterns
+  name: Design Patterns
+- id: yaml
+  name: Yaml
+- id: data-formats
+  name: Data Formats
