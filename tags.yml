@@ -75,7 +75,7 @@
 - id: promotion
   name: promotion
 - id: saas
-  name: saas
+  name: Saas
 - id: aggregator
   name: Aggregator
 - id: ratings
@@ -83,7 +83,7 @@
 - id: startup
   name: startup
 - id: business
-  name: business
+  name: Business
 - id: directory-builder
   name: directory-builder
 - id: templates
@@ -259,7 +259,7 @@
 - id: stack
   name: stack
 - id: machine-learning
-  name: machine-learning
+  name: Machine Learning
 - id: drones
   name: drones
 - id: outdoors
@@ -509,7 +509,7 @@
 - id: plugins
   name: Plugins
 - id: frontend
-  name: frontend
+  name: Frontend
 - id: vim
   name: Vim
 - id: authentication
@@ -555,7 +555,7 @@
 - id: malware
   name: malware
 - id: components
-  name: components
+  name: Components
 - id: animation
   name: animation
 - id: development
@@ -689,7 +689,7 @@
 - id: libraries
   name: libraries
 - id: courses
-  name: courses
+  name: Courses
 - id: snippets
   name: snippets
 - id: patterns
@@ -1222,3 +1222,59 @@
   name: Tracking
 - id: updates
   name: Updates
+- id: computational-biology
+  name: Computational Biology
+- id: red-team
+  name: Red Team
+- id: gpt
+  name: Gpt
+- id: incident-management
+  name: Incident Management
+- id: on-call
+  name: On Call
+- id: indie-hacking
+  name: Indie Hacking
+- id: entrepreneurship
+  name: Entrepreneurship
+- id: coding
+  name: Coding
+- id: leetcode
+  name: Leetcode
+- id: mlops
+  name: Mlops
+- id: production-ml
+  name: Production Ml
+- id: ml-engineering
+  name: Ml Engineering
+- id: model-deployment
+  name: Model Deployment
+- id: nft
+  name: Nft
+- id: erc721
+  name: Erc721
+- id: boilerplate
+  name: Boilerplate
+- id: free
+  name: Free
+- id: starter-kit
+  name: Starter Kit
+- id: postmortems
+  name: Postmortems
+- id: incident-reports
+  name: Incident Reports
+- id: ui-library
+  name: Ui Library
+- id: ui-design
+  name: Ui Design
+- id: design-systems
+  name: Design Systems
+- id: ux-design
+  name: Ux Design
+- id: style-guides
+  name: Style Guides
+- id: ethereum
+  name: Ethereum
+- id: rag
+  name: Rag
+- id: negotiation
+  name: Negotiation
