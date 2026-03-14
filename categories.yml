@@ -64,3 +64,7 @@
   name: Data Science
 - id: automation
   name: Automation
+- id: automation-integration
+  name: Automation & Integration
+- id: startup-accelerators
+  name: Startup Accelerators

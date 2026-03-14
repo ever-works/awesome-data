@@ -29,11 +29,11 @@
 - id: software
   name: software
 - id: alternatives
-  name: alternatives
+  name: Alternatives
 - id: awesome-lists
-  name: awesome-lists
+  name: Awesome Lists
 - id: project-discovery
-  name: project-discovery
+  name: Project Discovery
 - id: web-directory
   name: web-directory
 - id: searchable
@@ -41,7 +41,7 @@
 - id: directories
   name: directories
 - id: datasets
-  name: datasets
+  name: Datasets
 - id: open-data
   name: Open Data
 - id: research
@@ -59,7 +59,7 @@
 - id: developer-resources
   name: Developer Resources
 - id: directory-of-directories
-  name: directory-of-directories
+  name: Directory Of Directories
 - id: categorized
   name: categorized
 - id: websites
@@ -69,11 +69,11 @@
 - id: ai-directory
   name: ai-directory
 - id: directory-submission
-  name: directory-submission
+  name: Directory Submission
 - id: seo
-  name: seo
+  name: Seo
 - id: promotion
-  name: promotion
+  name: Promotion
 - id: saas
   name: Saas
 - id: aggregator
@@ -81,7 +81,7 @@
 - id: ratings
   name: ratings
 - id: startup
-  name: startup
+  name: Startup
 - id: business
   name: Business
 - id: directory-builder
@@ -373,7 +373,7 @@
 - id: trading
   name: trading
 - id: analytics
-  name: analytics
+  name: Analytics
 - id: llm
   name: Llm
 - id: minimalist
@@ -577,7 +577,7 @@
 - id: bluetooth
   name: bluetooth
 - id: funding
-  name: funding
+  name: Funding
 - id: compression
   name: compression
 - id: validation
@@ -767,7 +767,7 @@
 - id: concurrency
   name: concurrency
 - id: publishing
-  name: publishing
+  name: Publishing
 - id: hex-editors
   name: hex-editors
 - id: systems
@@ -775,7 +775,7 @@
 - id: refactoring
   name: refactoring
 - id: graphql
-  name: graphql
+  name: Graphql
 - id: cicd
   name: ci/cd
 - id: presentation
@@ -879,7 +879,7 @@
 - id: location
   name: location
 - id: reviews
-  name: reviews
+  name: Reviews
 - id: incident-response
   name: incident-response
 - id: homelab
@@ -1278,3 +1278,53 @@
   name: Rag
 - id: negotiation
   name: Negotiation
+- id: mobile-apps
+  name: Mobile Apps
+- id: app-builder
+  name: App Builder
+- id: software-discovery
+  name: Software Discovery
+- id: tech-jobs
+  name: Tech Jobs
+- id: equity
+  name: Equity
+- id: kafka
+  name: Kafka
+- id: connectors
+  name: Connectors
+- id: rankings
+  name: Rankings
+- id: smart-contracts
+  name: Smart Contracts
+- id: beta-testing
+  name: Beta Testing
+- id: product-discovery
+  name: Product Discovery
+- id: blogging
+  name: Blogging
+- id: ecosystem
+  name: Ecosystem
+- id: vetted
+  name: Vetted
+- id: tech-news
+  name: Tech News
+- id: content-platform
+  name: Content Platform
+- id: guides
+  name: Guides
+- id: cost-effective
+  name: Cost Effective
+- id: iterative
+  name: Iterative
+- id: international
+  name: International
+- id: feedback
+  name: Feedback
+- id: reddit
+  name: Reddit
+- id: q-and-a
+  name: Q And A
+- id: web-design
+  name: Web Design
+- id: accelerator
+  name: Accelerator
