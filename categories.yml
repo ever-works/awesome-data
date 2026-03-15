@@ -68,3 +68,11 @@
   name: Automation & Integration
 - id: startup-accelerators
   name: Startup Accelerators
+- id: design
+  name: Design
+- id: business-entrepreneurship
+  name: Business & Entrepreneurship
+- id: iot
+  name: IoT
+- id: hardware
+  name: Hardware

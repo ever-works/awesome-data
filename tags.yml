@@ -3,7 +3,7 @@
 - id: database
   name: database
 - id: mcp
-  name: MCP
+  name: Mcp
 - id: server
   name: server
 - id: app
@@ -133,7 +133,7 @@
 - id: hardware
   name: Hardware
 - id: games
-  name: games
+  name: Games
 - id: media
   name: Media
 - id: communication
@@ -149,13 +149,13 @@
 - id: apple
   name: Apple
 - id: terminal
-  name: terminal
+  name: Terminal
 - id: cms
   name: Cms
 - id: bitcoin
   name: Bitcoin
 - id: performance
-  name: performance
+  name: Performance
 - id: speech-recognition
   name: speech-recognition
 - id: documentation
@@ -193,7 +193,7 @@
 - id: social
   name: social
 - id: golang
-  name: golang
+  name: Golang
 - id: linux
   name: linux
 - id: scala
@@ -213,7 +213,7 @@
 - id: design
   name: Design
 - id: audio
-  name: audio
+  name: Audio
 - id: distributed
   name: distributed
 - id: education
@@ -249,7 +249,7 @@
 - id: macos
   name: macos
 - id: graphics
-  name: graphics
+  name: Graphics
 - id: nodejs
   name: nodejs
 - id: observability
@@ -297,7 +297,7 @@
 - id: web-components
   name: web-components
 - id: react
-  name: react
+  name: React
 - id: webassembly
   name: Webassembly
 - id: virtualization
@@ -383,9 +383,9 @@
 - id: polyfills
   name: polyfills
 - id: storybook
-  name: storybook
+  name: Storybook
 - id: ui
-  name: ui
+  name: Ui
 - id: terraform
   name: Terraform
 - id: kubernetes
@@ -435,9 +435,9 @@
 - id: postgresql
   name: postgresql
 - id: backend
-  name: backend
+  name: Backend
 - id: go
-  name: go
+  name: Go
 - id: jobs
   name: jobs
 - id: monitoring
@@ -445,7 +445,7 @@
 - id: ios
   name: Ios
 - id: music
-  name: music
+  name: Music
 - id: nosql
   name: Nosql
 - id: italy
@@ -475,7 +475,7 @@
 - id: cryptography
   name: cryptography
 - id: raspberry-pi
-  name: raspberry-pi
+  name: Raspberry Pi
 - id: voice
   name: voice
 - id: google-cloud
@@ -563,7 +563,7 @@
 - id: photography
   name: photography
 - id: deployment
-  name: deployment
+  name: Deployment
 - id: operating-systems
   name: operating-systems
 - id: system
@@ -587,7 +587,7 @@
 - id: applications
   name: applications
 - id: hacking
-  name: hacking
+  name: Hacking
 - id: arch
   name: arch
 - id: packages
@@ -601,7 +601,7 @@
 - id: typography
   name: Typography
 - id: embedded
-  name: embedded
+  name: Embedded
 - id: cross-platform
   name: Cross Platform
 - id: project-starters
@@ -639,7 +639,7 @@
 - id: drivers
   name: drivers
 - id: inspiration
-  name: inspiration
+  name: Inspiration
 - id: telecom
   name: telecom
 - id: defense
@@ -701,7 +701,7 @@
 - id: visualization
   name: visualization
 - id: shell
-  name: shell
+  name: Shell
 - id: fonts
   name: fonts
 - id: indie
@@ -717,11 +717,11 @@
 - id: osint
   name: osint
 - id: telegram
-  name: telegram
+  name: Telegram
 - id: models
   name: models
 - id: ide
-  name: ide
+  name: Ide
 - id: html
   name: html
 - id: http
@@ -749,7 +749,7 @@
 - id: extensions
   name: extensions
 - id: reading
-  name: reading
+  name: Reading
 - id: compilers
   name: Compilers
 - id: markdown
@@ -763,7 +763,7 @@
 - id: passwords
   name: passwords
 - id: protocols
-  name: protocols
+  name: Protocols
 - id: concurrency
   name: concurrency
 - id: publishing
@@ -777,7 +777,7 @@
 - id: graphql
   name: Graphql
 - id: cicd
-  name: ci/cd
+  name: Cicd
 - id: presentation
   name: presentation
 - id: high-performance
@@ -839,7 +839,7 @@
 - id: recommendation
   name: recommendation
 - id: art
-  name: art
+  name: Art
 - id: metadata
   name: metadata
 - id: wireless
@@ -1328,3 +1328,103 @@
   name: Web Design
 - id: accelerator
   name: Accelerator
+- id: code-generation
+  name: Code Generation
+- id: generative
+  name: Generative
+- id: synthesis
+  name: Synthesis
+- id: angular
+  name: Angular
+- id: server-side
+  name: Server Side
+- id: web-services
+  name: Web Services
+- id: component-driven
+  name: Component Driven
+- id: ux
+  name: Ux
+- id: product-design
+  name: Product Design
+- id: design-tools
+  name: Design Tools
+- id: feature-flags
+  name: Feature Flags
+- id: feature-toggles
+  name: Feature Toggles
+- id: game-development
+  name: Game Development
+- id: generative-ai
+  name: Generative Ai
+- id: comics
+  name: Comics
+- id: manga
+  name: Manga
+- id: graphic-novels
+  name: Graphic Novels
+- id: maker
+  name: Maker
+- id: event-driven
+  name: Event Driven
+- id: model-context-protocol
+  name: Model Context Protocol
+- id: integrations
+  name: Integrations
+- id: daw
+  name: Daw
+- id: n8n
+  name: N8n
+- id: vst
+  name: Vst
+- id: bash
+  name: Bash
+- id: command-line
+  name: Command Line
+- id: solidity
+  name: Solidity
+- id: tech-stack
+  name: Tech Stack
+- id: real-time
+  name: Real Time
+- id: bots
+  name: Bots
+- id: tui
+  name: Tui
+- id: text-ui
+  name: Text Ui
+- id: user-interface
+  name: User Interface
+- id: unity
+  name: Unity
+- id: showcase
+  name: Showcase
+- id: unity3d
+  name: Unity3d
+- id: assets
+  name: Assets
+- id: styleguide
+  name: Styleguide
+- id: user-experience
+  name: User Experience
+- id: vector-search
+  name: Vector Search
+- id: embeddings
+  name: Embeddings
+- id: semantic-search
+  name: Semantic Search
+- id: similarity-search
+  name: Similarity Search
+- id: vue
+  name: Vue
+- id: webcomics
+  name: Webcomics
+- id: entertainment
+  name: Entertainment
+- id: webtoon
+  name: Webtoon
+- id: manhwa
+  name: Manhwa
+- id: digital-art
+  name: Digital Art
+- id: storytelling
+  name: Storytelling
