@@ -1,103 +1,89 @@
 name: Awesome Streaming
-description: A curated awesome list of streaming frameworks, applications, and
-  related resources, organized as an awesome-style directory for streaming
-  technologies.
+description: A curated list of awesome streaming frameworks and applications for
+  building real-time data processing pipelines, including Apache Flink, Apache
+  Kafka Streams, and Apache Spark Streaming.
 source_url: https://github.com/manuzhang/awesome-streaming
-featured: false
-brand: manuzhang
-brand_logo_url: /manuzhang.png
-images:
-  - https://opengraph.githubassets.com/1/manuzhang/awesome-streaming
-category: themed-directories
+category: Data Engineering
 tags:
-  - awesome-lists
-  - big-data
   - streaming
+  - real-time
+  - data-pipelines
+  - stream-processing
 markdown: >-
-  # Awesome Streaming
-
-
-  A curated, GitHub-hosted directory of streaming (stream processing)
-  frameworks, applications, libraries, and related resources, organized in an
-  “awesome list” format.
-
-
   ## Overview
 
 
-  - **Type:** Open-source curated directory / awesome list
+  Awesome Streaming is a curated list of frameworks, tools, and resources for
+  building streaming data processing applications and real-time data pipelines.
 
-  - **Focus:** Streaming and stream processing technologies and resources
 
-  - **Maintainer/Brand:** manuzhang
+  ## Stream Processing Frameworks
 
-  - **Source:** https://github.com/manuzhang/awesome-streaming
 
-  - **Website (dynamic view):** https://manuzhang.github.io/awesome-streaming/
+  - **Apache Flink** - Distributed stream processing framework with exactly-once
+  semantics and low-latency processing
+
+  - **Apache Kafka Streams** - Lightweight stream processing library for
+  building real-time applications
+
+  - **Apache Spark Streaming** - Micro-batch stream processing as part of the
+  Apache Spark ecosystem
+
+  - **Apache Samza** - Stream processing framework with deep Kafka integration
+
+  - **RisingWave** - PostgreSQL-compatible streaming database for building
+  event-driven applications and real-time ETL pipelines
+
+
+  ## Python Libraries
+
+
+  - **Faust** - Stream processing library porting Kafka Streams concepts to
+  Python
+
+  - **Quix Streams** - Python library for high-volume time-series streaming
+
+  - **Bytewax** - Python stream processing with Rust performance
+
+  - **Pathway** - Python ETL framework with Rust engine for real-time processing
 
 
   ## Features
 
 
-  ### Core Purpose
+  - Real-time data processing and analytics
 
-  - Curated list of **streaming (stream processing)** tools and resources.
+  - Stateful stream processing
 
-  - Focus on **big data streaming**, near-real-time processing, and related
-  ecosystems.
+  - Event time processing and windowing
 
-  - Inspired by the broader **awesome-* style** lists (structured,
-  community-driven curation).
+  - Exactly-once semantics
+
+  - Fault tolerance and scalability
+
+  - Integration with various data sources and sinks
 
 
-  ### Organization & Structure
+  ## Use Cases
 
-  - Uses a categorized **Table of Contents** to organize entries:
-    - **Streaming Engine** – Core distributed streaming/stream+batch engines and compute platforms.
-    - **Streaming Library** – Libraries and SDKs for building streaming applications.
-    - **Streaming Application** – End-user or higher-level applications built on top of streaming engines.
-    - **IoT** – Streaming-related tools and frameworks targeted at Internet of Things scenarios.
-    - **DSL** – Domain-specific languages for defining streaming jobs or pipelines.
-    - **Data Pipeline** – Tools for building and managing data pipelines around streaming systems.
-    - **Online Machine Learning** – Resources and tools for applying ML models in online/streaming contexts.
-    - **Streaming SQL** – SQL engines and extensions for querying streaming data.
-    - **Toolkit** – Utilities, helper tools, and supporting software for streaming workflows.
-    - **Benchmark** – Benchmarking suites and projects for evaluating streaming systems.
-    - **Closed Source** – Non-open-source streaming products and services (documented for reference).
-    - **Readings** – Articles, papers, and educational resources on stream processing.
 
-  ### Content Characteristics
+  - Real-time analytics dashboards
 
-  - Each entry typically includes:
-    - **Project name**
-    - **Repository or homepage URL**
-    - **Language tag** (e.g., `[Java]`, `[Rust]`) where applicable
-    - **One-line description** summarizing purpose or key capability
-  - Covers a wide range of **ecosystem components**:
-    - Unified stream + batch processing
-    - Distributed compute platforms (often Arrow-based or big-data focused)
-    - Data pipelines and ingestion layers
-    - Higher-level applications and frameworks around streaming engines
+  - Event-driven architectures
 
-  ### Dynamic Website
+  - Continuous ETL pipelines
 
-  - Provides a separate **dynamic website**
-  (https://manuzhang.github.io/awesome-streaming/) that:
-    - Mirrors the GitHub list content
-    - Surfaces **updates** to the awesome projects listed
-    - Offers a more navigable view compared to raw Markdown in the repository
+  - Fraud detection and anomaly detection
 
-  ### Community & Maintenance
+  - IoT data processing
 
-  - Hosted on GitHub with:
-    - Public repository
-    - Contribution guidelines (`CONTRIBUTING.md`) for community submissions and updates
-    - Issues and pull requests available for enhancements and corrections
+  - Click stream analysis
+
 
   ## Pricing
 
 
-  - **Free**: This is an open-source, public GitHub repository and website.
-  Access, browsing, and contributions are free of charge; no pricing plans or
-  paid tiers are provided.
-updated_at: 2025-12-25 11:11
+  Most frameworks are free and open source under Apache 2.0 or similar licenses.
+  Managed services like Confluent Cloud offer free trials with usage-based
+  pricing.
+updated_at: 2026-03-15 12:32

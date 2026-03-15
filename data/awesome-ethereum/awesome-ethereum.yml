@@ -1,97 +1,203 @@
 name: Awesome Ethereum
-description: An Awesome collection of frameworks, libraries, tools, and
-  resources for developing smart contracts and applications on Ethereum.
-source_url: https://github.com/ttumiel/Awesome-Ethereum#readme
-featured: false
-brand_logo_url: null
-images: null
-category: themed-directories
+description: A curated list of awesome Ethereum resources, libraries, tools and
+  more including Hardhat templates, Foundry-based development tools, DApp
+  frameworks, and Ethereum protocol resources.
+source_url: https://github.com/w3hc/awesome-ethereum
+category: Blockchain & Crypto
 tags:
-  - awesome-lists
+  - ethereum
   - blockchain
-  - developer-tools
+  - web3
+  - smart-contracts
+  - dapps
 markdown: >-
-  ## Awesome Ethereum
+  ## Overview
 
 
-  **Website:** https://github.com/ttumiel/Awesome-Ethereum#readme
+  Awesome Ethereum provides comprehensive resources for Ethereum blockchain
+  development, from smart contracts to full-stack DApp development.
 
 
-  ### Overview
-
-  Awesome Ethereum is a curated, open-source list of frameworks, libraries,
-  tools, and learning resources for building smart contracts and applications on
-  the Ethereum blockchain. The list aggregates both practical development tools
-  and educational materials, organized by topic.
+  ## Development Frameworks
 
 
-  ### Features
+  ### Hardhat Ecosystem
 
-  - **Curated Ethereum resource directory**
-    - Focused specifically on Ethereum development and ecosystem resources.
-    - Inspired by other community-driven "Awesome" lists (e.g., Awesome Python, Awesome Machine Learning).
+  - Hardhat templates and boilerplates
 
-  - **Documentation**
-    - Links to official Ethereum documentation.
-    - Reference material for understanding core Ethereum concepts and APIs.
+  - TypeScript integration
 
-  - **Programming resources**
-    - Frameworks and libraries for writing, testing, and deploying smart contracts.
-    - Developer tools for interacting with the Ethereum network.
+  - Testing frameworks
 
-  - **Tutorials**
-    - Step-by-step guides for building on Ethereum.
-    - Practical walkthroughs for common development tasks.
+  - Deployment scripts
 
-  - **Code examples**
-    - Repositories and code snippets demonstrating Ethereum use cases and best practices.
-
-  - **Learning & MOOCs**
-    - Courses and educational programs covering Ethereum theory and practice.
-
-  - **Philosophy**
-    - Resources explaining the ideas and rationale behind the Ethereum project.
-
-  - **Videos**
-    - Video content related to Ethereum development, concepts, and ecosystem.
-
-  - **Wallets**
-    - References to Ethereum wallets and related tools.
-
-  - **Blockchain utilities**
-    - Tools for interacting with, analyzing, or managing the Ethereum blockchain.
-
-  - **Protocols**
-    - Descriptions and implementations of Ethereum-related protocols.
-
-  - **Books**
-    - Recommended reading on Ethereum, blockchain, and related topics.
-
-  - **Miscellaneous resources**
-    - Additional Ethereum-related tools and references that don’t fit into other categories.
-
-  - **Open contribution model**
-    - Public contribution guidelines.
-    - Pull requests encouraged, with a note to avoid paywalled products.
-
-  - **License**
-    - Licensed under CC0 (public domain dedication), allowing free reuse of the list.
-
-  ### Category
-
-  - Themed directories / Awesome list
+  - Plugin ecosystem
 
 
-  ### Tags
+  ### Foundry Tools
 
-  - awesome-lists
+  - Foundry-based templates
 
-  - blockchain
+  - Fast compilation and testing
 
-  - developer-tools
+  - Fuzzing capabilities
+
+  - Gas profiling
+
+  - Script deployment
 
 
-  ### Pricing
+  ## DApp Development
 
-  - Not applicable (open-source list of resources, available free of charge).
-updated_at: 2025-12-25 11:11
+
+  ### Frontend Libraries
+
+  - Ethers.js - Ethereum library
+
+  - Web3.js - Original Ethereum JavaScript API
+
+  - Wagmi - React hooks for Ethereum
+
+  - RainbowKit - Wallet connection UI
+
+  - ConnectKit - Modern wallet connection
+
+
+  ### Full-Stack Frameworks
+
+  - Scaffold-ETH - Rapid DApp development
+
+  - create-eth-app - DApp bootstrapping
+
+  - DappTools - CLI for Ethereum development
+
+
+  ## Infrastructure
+
+
+  ### Node Providers
+
+  - Infura - Ethereum API service
+
+  - Alchemy - Blockchain development platform
+
+  - QuickNode - Blockchain infrastructure
+
+  - Ankr - Multi-chain RPC service
+
+
+  ### IPFS & Storage
+
+  - IPFS integration
+
+  - Arweave permanent storage
+
+  - Filecoin decentralized storage
+
+
+  ## Smart Contract Standards
+
+
+  ### Token Standards
+
+  - ERC-20 - Fungible tokens
+
+  - ERC-721 - Non-fungible tokens (NFTs)
+
+  - ERC-1155 - Multi-token standard
+
+  - ERC-4626 - Tokenized vaults
+
+
+  ### Protocol Standards
+
+  - EIP (Ethereum Improvement Proposals)
+
+  - ERC standards documentation
+
+  - Governance standards
+
+
+  ## Testing & Security
+
+
+  ### Testing Tools
+
+  - Hardhat tests
+
+  - Foundry Forge
+
+  - Tenderly debugging
+
+  - Ganache local blockchain
+
+
+  ### Security
+
+  - OpenZeppelin security audits
+
+  - Slither static analysis
+
+  - Trail of Bits security tools
+
+  - Consensys Diligence
+
+
+  ## Layer 2 Solutions
+
+
+  - Optimism - Optimistic rollup
+
+  - Arbitrum - Optimistic rollup
+
+  - zkSync - Zero-knowledge rollup
+
+  - Polygon - Sidechain and L2 solutions
+
+  - Base - Coinbase L2
+
+
+  ## Features
+
+
+  - Full-stack development tools
+
+  - Multi-chain compatibility
+
+  - Testing frameworks
+
+  - Security best practices
+
+  - Wallet integration
+
+  - IPFS and decentralized storage
+
+
+  ## Use Cases
+
+
+  - DeFi application development
+
+  - NFT platform creation
+
+  - DAO governance systems
+
+  - Decentralized identity
+
+  - Supply chain tracking
+
+  - Gaming and metaverse applications
+
+
+  ## Pricing
+
+
+  Most development tools are free and open source. Node providers offer free
+  tiers:
+
+  - Infura: Free tier with 100,000 requests/day
+
+  - Alchemy: Free tier with 300M compute units/month
+
+  - QuickNode: Free trial available
+updated_at: 2026-03-15 12:32

@@ -1,60 +1,215 @@
 name: Awesome Solidity
-description: A curated list of awesome Solidity resources, libraries, tools, and
-  more for Ethereum smart contract development. Maintained by the community,
-  this comprehensive directory includes learning resources, development
-  frameworks, security auditing checklists, and job boards for blockchain
-  developers.
+description: A curated list of awesome Solidity resources, libraries, tools and
+  more for Ethereum smart contract development, including security best
+  practices, development frameworks, and testing tools.
 source_url: https://github.com/bkrem/awesome-solidity
-category: Programming Languages
+category: Blockchain & Crypto
 tags:
-  - blockchain
+  - solidity
   - ethereum
   - smart-contracts
+  - blockchain
+  - web3
 markdown: >-
   ## Overview
 
 
-  Awesome Solidity is a comprehensive curated list of resources for Solidity
-  smart contract development on Ethereum and EVM-compatible blockchains.
+  Awesome Solidity is a comprehensive collection of resources for Solidity smart
+  contract development on Ethereum and EVM-compatible blockchains.
+
+
+  ## Development Frameworks
+
+
+  ### Hardhat
+
+  - Ethereum development environment
+
+  - Built-in testing framework
+
+  - Deployment scripts
+
+  - Contract debugging
+
+  - Plugin ecosystem
+
+
+  ### Foundry
+
+  - Fast Rust-based development framework
+
+  - Fuzzing and property-based testing
+
+  - Gas optimization tools
+
+  - Forge for testing
+
+  - Cast for blockchain interaction
+
+
+  ### Truffle Suite
+
+  - Development framework
+
+  - Automated testing
+
+  - Network management
+
+  - Asset pipeline
+
+
+  ## Security Tools
+
+
+  ### Static Analysis
+
+  - Slither - Static analysis framework
+
+  - Mythril - Security analysis tool
+
+  - Securify - Automated security scanner
+
+  - Solhint - Linter for Solidity
+
+
+  ### Auditing
+
+  - MythX - Security analysis service
+
+  - OpenZeppelin Defender - Security operations
+
+  - Certora - Formal verification
+
+
+  ## Libraries & Frameworks
+
+
+  ### OpenZeppelin Contracts
+
+  - Security-audited implementations
+
+  - ERC standards (ERC20, ERC721, ERC1155)
+
+  - Access control patterns
+
+  - Upgradeable contracts
+
+  - Utility libraries
+
+
+  ### Solmate
+
+  - Gas-optimized implementations
+
+  - Minimal dependencies
+
+  - Modern Solidity patterns
+
+
+  ## Learning Resources
+
+
+  ### Interactive Platforms
+
+  - CryptoZombies - Learn by building games
+
+  - Ethernaut - CTF-style challenges
+
+  - Capture the Ether - Security challenges
+
+  - Damn Vulnerable DeFi - DeFi security training
+
+
+  ### Documentation
+
+  - Official Solidity documentation
+
+  - Ethereum development guides
+
+  - Smart contract patterns
+
+  - Security best practices
+
+
+  ## Development Tools
+
+
+  ### IDEs & Editors
+
+  - Remix IDE - Web-based Solidity IDE
+
+  - VS Code with Solidity extensions
+
+  - IntelliJ IDEA plugins
+
+
+  ### Testing
+
+  - Hardhat testing framework
+
+  - Foundry's Forge
+
+  - Waffle testing library
+
+  - Chai matchers for Ethereum
+
+
+  ### Deployment
+
+  - Hardhat Deploy
+
+  - Foundry deployment scripts
+
+  - OpenZeppelin Upgrades
+
+
+  ## DeFi Protocols
+
+
+  - Uniswap - Decentralized exchange
+
+  - Aave - Lending protocol
+
+  - Compound - Money market protocol
+
+  - MakerDAO - Stablecoin system
 
 
   ## Features
 
 
-  - **Learning Resources**: Tutorials, documentation, and educational materials
-  for learning Solidity
+  - Security-first development
 
-  - **Development Tools**: Frameworks like Hardhat and Truffle, testing tools,
-  and IDEs
+  - Gas optimization techniques
 
-  - **Security Resources**: Smart contract auditing checklists and best
-  practices
+  - Upgradeable contract patterns
 
-  - **Libraries**: Reusable contract libraries including OpenZeppelin
+  - Testing frameworks
 
-  - **Job Boards**: Resources for finding blockchain development opportunities
+  - Deployment automation
 
-  - **Community**: Links to forums, Discord servers, and developer communities
+  - Code quality tools
 
 
-  ## Categories Covered
+  ## Use Cases
 
 
-  - Tutorials and documentation
+  - DeFi protocol development
 
-  - Development frameworks and tooling
+  - NFT marketplace creation
 
-  - Security and auditing resources
+  - DAO governance systems
 
-  - Testing utilities
+  - Token contracts (ERC20, ERC721)
 
-  - Libraries and standards (ERC-20, ERC-721, etc.)
+  - Multi-signature wallets
 
-  - Career resources
+  - Escrow and payment systems
 
 
   ## Pricing
 
 
-  Free and open-source resource collection on GitHub.
-updated_at: 2026-03-14 12:28
+  Most tools and frameworks are free and open source. Auditing services and some
+  security tools have commercial pricing.
+updated_at: 2026-03-15 12:32
