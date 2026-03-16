@@ -87,7 +87,7 @@
 - id: directory-builder
   name: directory-builder
 - id: templates
-  name: templates
+  name: Templates
 - id: themes
   name: themes
 - id: directory
@@ -115,9 +115,9 @@
 - id: free-tier
   name: free-tier
 - id: gis
-  name: gis
+  name: Gis
 - id: geospatial
-  name: geospatial
+  name: Geospatial
 - id: cloud
   name: Cloud
 - id: security
@@ -137,7 +137,7 @@
 - id: media
   name: Media
 - id: communication
-  name: communication
+  name: Communication
 - id: privacy
   name: Privacy
 - id: cli
@@ -187,7 +187,7 @@
 - id: php
   name: php
 - id: networking
-  name: networking
+  name: Networking
 - id: iot
   name: Iot
 - id: social
@@ -361,7 +361,7 @@
 - id: career
   name: Career
 - id: events
-  name: events
+  name: Events
 - id: biology
   name: Biology
 - id: lifestyle
@@ -531,7 +531,7 @@
 - id: complex-systems
   name: complex-systems
 - id: science
-  name: science
+  name: Science
 - id: production
   name: Production
 - id: science-fiction
@@ -615,7 +615,7 @@
 - id: haxe
   name: haxe
 - id: engineering
-  name: engineering
+  name: Engineering
 - id: data-structures
   name: data-structures
 - id: data-validation
@@ -813,7 +813,7 @@
 - id: housing
   name: housing
 - id: statistics
-  name: statistics
+  name: Statistics
 - id: sports
   name: sports
 - id: politics
@@ -829,7 +829,7 @@
 - id: challenges
   name: challenges
 - id: space
-  name: space
+  name: Space
 - id: cognitive-science
   name: cognitive-science
 - id: internet
@@ -845,7 +845,7 @@
 - id: wireless
   name: wireless
 - id: autonomous-driving
-  name: autonomous-driving
+  name: Autonomous Driving
 - id: infrared
   name: infrared
 - id: chemistry
@@ -873,7 +873,7 @@
 - id: museums
   name: museums
 - id: astronomy
-  name: astronomy
+  name: Astronomy
 - id: psychology
   name: psychology
 - id: location
@@ -1428,3 +1428,41 @@
   name: Digital Art
 - id: storytelling
   name: Storytelling
+- id: inclusive-design
+  name: Inclusive Design
+- id: arduino
+  name: Arduino
+- id: automotive
+  name: Automotive
+- id: conferences
+  name: Conferences
+- id: electric-vehicles
+  name: Electric Vehicles
+- id: microcontrollers
+  name: Microcontrollers
+- id: freelancing
+  name: Freelancing
+- id: contracting
+  name: Contracting
+- id: mapping
+  name: Mapping
+- id: humanities
+  name: Humanities
+- id: ontologies
+  name: Ontologies
+- id: linked-data
+  name: Linked Data
+- id: legal
+  name: Legal
+- id: philosophy
+  name: Philosophy
+- id: podcasting
+  name: Podcasting
+- id: content-creation
+  name: Content Creation
+- id: academic
+  name: Academic
+- id: satellites
+  name: Satellites
+- id: mathematics
+  name: Mathematics
