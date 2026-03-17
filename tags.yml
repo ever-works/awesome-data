@@ -27,7 +27,7 @@
 - id: self-hosted
   name: self-hosted
 - id: software
-  name: software
+  name: Software
 - id: alternatives
   name: Alternatives
 - id: awesome-lists
@@ -323,7 +323,7 @@
 - id: data-science
   name: Data Science
 - id: marketing
-  name: marketing
+  name: Marketing
 - id: automation
   name: Automation
 - id: qr-code
@@ -407,7 +407,7 @@
 - id: analysis
   name: analysis
 - id: diversity
-  name: diversity
+  name: Diversity
 - id: home-automation
   name: home-automation
 - id: culture
@@ -427,7 +427,7 @@
 - id: remote-work
   name: Remote Work
 - id: scripting
-  name: scripting
+  name: Scripting
 - id: webgl
   name: webgl
 - id: orm
@@ -505,7 +505,7 @@
 - id: deep-learning
   name: Deep Learning
 - id: serverless
-  name: serverless
+  name: Serverless
 - id: plugins
   name: Plugins
 - id: frontend
@@ -513,7 +513,7 @@
 - id: vim
   name: Vim
 - id: authentication
-  name: authentication
+  name: Authentication
 - id: datetime
   name: datetime
 - id: beginners
@@ -1466,3 +1466,71 @@
   name: Satellites
 - id: mathematics
   name: Mathematics
+- id: feeds
+  name: Feeds
+- id: syndication
+  name: Syndication
+- id: data-mesh
+  name: Data Mesh
+- id: data-architecture
+  name: Data Architecture
+- id: distributed-data
+  name: Distributed Data
+- id: knowledge-management
+  name: Knowledge Management
+- id: digital-gardens
+  name: Digital Gardens
+- id: personal-wiki
+  name: Personal Wiki
+- id: misconceptions
+  name: Misconceptions
+- id: programming-wisdom
+  name: Programming Wisdom
+- id: hacktoberfest
+  name: Hacktoberfest
+- id: beginner-friendly
+  name: Beginner Friendly
+- id: kimchi
+  name: Kimchi
+- id: fermented-foods
+  name: Fermented Foods
+- id: korean-cuisine
+  name: Korean Cuisine
+- id: data-stack
+  name: Data Stack
+- id: data-tools
+  name: Data Tools
+- id: monorepo
+  name: Monorepo
+- id: build-systems
+  name: Build Systems
+- id: cloud-security
+  name: Cloud Security
+- id: lambda
+  name: Lambda
+- id: copywriting
+  name: Copywriting
+- id: security-testing
+  name: Security Testing
+- id: transpilers
+  name: Transpilers
+- id: scholarships
+  name: Scholarships
+- id: women-in-tech
+  name: Women In Tech
+- id: password-security
+  name: Password Security
+- id: security-antipatterns
+  name: Security Antipatterns
+- id: language-design
+  name: Language Design
+- id: hiring
+  name: Hiring
+- id: interviews
+  name: Interviews
+- id: tech-recruitment
+  name: Tech Recruitment
+- id: indie-hackers
+  name: Indie Hackers
+- id: startup-tools
+  name: Startup Tools
