@@ -125,7 +125,7 @@
 - id: blockchain
   name: Blockchain
 - id: data-visualization
-  name: data-visualization
+  name: Data Visualization
 - id: testing
   name: Testing
 - id: big-data
@@ -365,7 +365,7 @@
 - id: biology
   name: Biology
 - id: lifestyle
-  name: lifestyle
+  name: Lifestyle
 - id: health
   name: health
 - id: browser
@@ -451,7 +451,7 @@
 - id: italy
   name: italy
 - id: technology
-  name: technology
+  name: Technology
 - id: creative-coding
   name: Creative Coding
 - id: lisp
@@ -463,7 +463,7 @@
 - id: public-domain
   name: public-domain
 - id: agriculture
-  name: agriculture
+  name: Agriculture
 - id: ethics
   name: ethics
 - id: debugging
@@ -493,7 +493,7 @@
 - id: newsletters
   name: Newsletters
 - id: microservices
-  name: microservices
+  name: Microservices
 - id: free-software
   name: Free Software
 - id: maps
@@ -553,7 +553,7 @@
 - id: oop
   name: oop
 - id: malware
-  name: malware
+  name: Malware
 - id: components
   name: Components
 - id: animation
@@ -585,7 +585,7 @@
 - id: algorithms
   name: Algorithms
 - id: applications
-  name: applications
+  name: Applications
 - id: hacking
   name: Hacking
 - id: arch
@@ -625,7 +625,7 @@
 - id: errors
   name: errors
 - id: optimization
-  name: optimization
+  name: Optimization
 - id: sre
   name: Sre
 - id: examples
@@ -687,7 +687,7 @@
 - id: opportunities
   name: opportunities
 - id: libraries
-  name: libraries
+  name: Libraries
 - id: courses
   name: Courses
 - id: snippets
@@ -771,7 +771,7 @@
 - id: hex-editors
   name: hex-editors
 - id: systems
-  name: systems
+  name: Systems
 - id: refactoring
   name: refactoring
 - id: graphql
@@ -795,7 +795,7 @@
 - id: mysql
   name: mysql
 - id: time-series
-  name: time-series
+  name: Time Series
 - id: economics
   name: economics
 - id: government
@@ -1534,3 +1534,107 @@
   name: Indie Hackers
 - id: startup-tools
   name: Startup Tools
+- id: lidar
+  name: Lidar
+- id: 3d-data
+  name: 3d Data
+- id: farming
+  name: Farming
+- id: api-security
+  name: Api Security
+- id: developers
+  name: Developers
+- id: owasp
+  name: Owasp
+- id: causality
+  name: Causality
+- id: causal-discovery
+  name: Causal Discovery
+- id: cost-optimization
+  name: Cost Optimization
+- id: finops
+  name: Finops
+- id: computer-graphics
+  name: Computer Graphics
+- id: rendering
+  name: Rendering
+- id: ai-assistants
+  name: Ai Assistants
+- id: coding-tools
+  name: Coding Tools
+- id: gnn
+  name: Gnn
+- id: digital-twin
+  name: Digital Twin
+- id: simulation
+  name: Simulation
+- id: technical-writing
+  name: Technical Writing
+- id: earth-science
+  name: Earth Science
+- id: remote-sensing
+  name: Remote Sensing
+- id: xai
+  name: Xai
+- id: interpretability
+  name: Interpretability
+- id: theory
+  name: Theory
+- id: expressiveness
+  name: Expressiveness
+- id: aquaponics
+  name: Aquaponics
+- id: feature-engineering
+  name: Feature Engineering
+- id: cloud-cost
+  name: Cloud Cost
+- id: coding-assistant
+  name: Coding Assistant
+- id: graph-neural-networks
+  name: Graph Neural Networks
+- id: forecasting
+  name: Forecasting
+- id: security-tools
+  name: Security Tools
+- id: indie-games
+  name: Indie Games
+- id: game-dev
+  name: Game Dev
+- id: free-tools
+  name: Free Tools
+- id: explainable-ai
+  name: Explainable Ai
+- id: responsible-ai
+  name: Responsible Ai
+- id: text-processing
+  name: Text Processing
+- id: solo-developer
+  name: Solo Developer
+- id: point-cloud
+  name: Point Cloud
+- id: 3d-vision
+  name: 3d Vision
+- id: 3d-processing
+  name: 3d Processing
+- id: recommendation-systems
+  name: Recommendation Systems
+- id: rdf
+  name: Rdf
+- id: nlg
+  name: Nlg
+- id: evaluation
+  name: Evaluation
+- id: metrics
+  name: Metrics
+- id: threat-hunting
+  name: Threat Hunting
+- id: security-operations
+  name: Security Operations
+- id: detection
+  name: Detection
+- id: urban-computing
+  name: Urban Computing
+- id: urban-planning
+  name: Urban Planning
+- id: civic-tech
+  name: Civic Tech
