@@ -1,7 +1,7 @@
 name: How They SRE
 description: A curated collection of publicly available resources on how
-  technology and tech-savvy organizations practice Site Reliability Engineering,
-  featuring real-world SRE implementations.
+  technology and tech-savvy organizations around the world practice Site
+  Reliability Engineering. Real-world SRE implementations and case studies.
 source_url: https://github.com/upgundecha/howtheysre
 category: DevOps & SRE
 tags:
@@ -13,102 +13,106 @@ markdown: >-
   ## Overview
 
 
-  How They SRE is a knowledge repository showcasing real-world Site Reliability
-  Engineering practices from leading technology organizations.
+  How They SRE is a curated knowledge repository of Site Reliability Engineering
+  best practices, tools, techniques, and culture adopted by leading technology
+  organizations.
 
 
-  ## Features
+  ## Company Practices
 
 
-  - **Company Case Studies**: How major tech companies implement SRE
+  ### Tech Giants
 
-  - **Best Practices**: Proven SRE methodologies and techniques
+  - Google - Origin of SRE practices
 
-  - **Tools and Techniques**: Technology stacks used by SRE teams
+  - Netflix - Chaos engineering pioneers
 
-  - **Culture**: SRE team structures and organizational practices
+  - Amazon - Two-pizza team model
 
-  - **Incident Management**: Real-world incident response strategies
-
-  - **Monitoring**: Observability and monitoring approaches
-
-  - **Automation**: Infrastructure automation practices
-
-  - **Post-Mortems**: Published incident reports and learnings
+  - Microsoft - Azure SRE practices
 
 
-  ## Organizations Featured
+  ### Key Areas Covered
 
 
-  - Google (originators of SRE)
+  #### Incident Management
 
-  - Netflix
+  - On-call rotations
 
-  - Uber
+  - Incident response procedures
 
-  - LinkedIn
+  - Post-mortem processes
 
-  - Spotify
-
-  - Airbnb
-
-  - And many other tech companies
+  - Blameless culture
 
 
-  ## Topics Covered
+  #### Monitoring & Observability
+
+  - Metrics collection
+
+  - Distributed tracing
+
+  - Log aggregation
+
+  - Alert fatigue management
 
 
-  - SLIs, SLOs, and SLAs
+  #### Automation
 
-  - Error budgets
+  - Infrastructure as Code
 
-  - Toil reduction
+  - Auto-remediation
+
+  - Deployment automation
 
   - Capacity planning
 
-  - Change management
 
-  - On-call practices
+  #### Service Level Objectives
+
+  - SLI definition
+
+  - SLO setting
+
+  - Error budgets
+
+  - SLA management
+
+
+  ## SRE Tools & Practices
+
+
+  - Prometheus for monitoring
+
+  - Kubernetes for orchestration
+
+  - Terraform for IaC
+
+  - GitOps workflows
+
+  - Chaos engineering tools
+
+
+  ## Team Structure
+
+
+  - SRE team models
+
+  - Developer/SRE collaboration
+
+  - Skills and competencies
+
+  - Career paths
+
+
+  ## Culture & Process
+
 
   - Blameless post-mortems
 
-  - Chaos engineering
+  - Learning from failures
 
+  - Operational excellence
 
-  ## Resource Types
-
-
-  - Technical blog posts
-
-  - Conference talks
-
-  - Published papers
-
-  - Open-source tools
-
-  - Documentation
-
-  - Books and guides
-
-
-  ## Use Cases
-
-
-  - Learning from industry leaders
-
-  - Implementing SRE practices
-
-  - Understanding SRE culture
-
-  - Tool selection and evaluation
-
-  - Team structure planning
-
-  - Benchmarking practices
-
-
-  ## Pricing
-
-
-  Free and open-source repository on GitHub.
-updated_at: 2026-03-07 17:48
+  - Toil reduction
+updated_at: 2026-03-19 12:57
