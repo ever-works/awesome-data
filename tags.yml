@@ -25,7 +25,7 @@
 - id: meta-directory
   name: Meta Directory
 - id: self-hosted
-  name: self-hosted
+  name: Self Hosted
 - id: software
   name: Software
 - id: alternatives
@@ -195,7 +195,7 @@
 - id: golang
   name: Golang
 - id: linux
-  name: linux
+  name: Linux
 - id: scala
   name: scala
 - id: julia
@@ -229,7 +229,7 @@
 - id: assembly
   name: assembly
 - id: elixir
-  name: elixir
+  name: Elixir
 - id: erlang
   name: erlang
 - id: devops
@@ -409,7 +409,7 @@
 - id: diversity
   name: Diversity
 - id: home-automation
-  name: home-automation
+  name: Home Automation
 - id: culture
   name: culture
 - id: rss
@@ -653,7 +653,7 @@
 - id: tools
   name: Tools
 - id: multimedia
-  name: multimedia
+  name: Multimedia
 - id: environment
   name: Environment
 - id: jquery
@@ -661,7 +661,7 @@
 - id: apache
   name: apache
 - id: low-level
-  name: low-level
+  name: Low Level
 - id: code-quality
   name: code-quality
 - id: sublime-text
@@ -671,7 +671,7 @@
 - id: management
   name: management
 - id: strategy
-  name: strategy
+  name: Strategy
 - id: leadership
   name: leadership
 - id: blogs
@@ -697,7 +697,7 @@
 - id: interview
   name: interview
 - id: papers
-  name: papers
+  name: Papers
 - id: visualization
   name: visualization
 - id: shell
@@ -711,7 +711,7 @@
 - id: best-practices
   name: Best Practices
 - id: planning
-  name: planning
+  name: Planning
 - id: discoverability
   name: discoverability
 - id: osint
@@ -759,7 +759,7 @@
 - id: podcasts
   name: podcasts
 - id: messaging
-  name: messaging
+  name: Messaging
 - id: passwords
   name: passwords
 - id: protocols
@@ -1638,3 +1638,47 @@
   name: Urban Planning
 - id: civic-tech
   name: Civic Tech
+- id: software-quality
+  name: Software Quality
+- id: notebooks
+  name: Notebooks
+- id: serialization
+  name: Serialization
+- id: ctf
+  name: Ctf
+- id: systems-programming
+  name: Systems Programming
+- id: smart-home
+  name: Smart Home
+- id: audio-production
+  name: Audio Production
+- id: newsletter
+  name: Newsletter
+- id: email-marketing
+  name: Email Marketing
+- id: content
+  name: Content
+- id: compiled
+  name: Compiled
+- id: statically-typed
+  name: Statically Typed
+- id: email
+  name: Email
+- id: smtp
+  name: Smtp
+- id: distributed-tracing
+  name: Distributed Tracing
+- id: phoenix
+  name: Phoenix
+- id: product-management
+  name: Product Management
+- id: collaboration
+  name: Collaboration
+- id: side-projects
+  name: Side Projects
+- id: indie-dev
+  name: Indie Dev
+- id: rtos
+  name: Rtos
+- id: firmware
+  name: Firmware
