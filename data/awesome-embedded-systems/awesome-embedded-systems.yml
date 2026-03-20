@@ -1,0 +1,76 @@
+name: Awesome Embedded Systems
+description: A curated list of delightful Embedded Systems libraries, RTOSes,
+  modules, references and resources for building embedded applications and
+  firmware.
+source_url: https://github.com/embedded-boston/awesome-embedded-systems
+category: Hardware
+tags:
+  - embedded
+  - rtos
+  - firmware
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Comprehensive collection of embedded systems resources, RTOSes, tools, and
+  libraries.
+
+
+  ## RTOSes
+
+
+  - FreeRTOS
+
+  - Zephyr
+
+  - RIOT
+
+  - mbed OS
+
+  - NuttX
+
+
+  ## Development Boards
+
+
+  - Arduino
+
+  - Raspberry Pi
+
+  - ESP32
+
+  - STM32
+
+  - Nordic nRF
+
+
+  ## Tools
+
+
+  - PlatformIO
+
+  - Keil MDK
+
+  - IAR Embedded Workbench
+
+  - SEGGER tools
+
+
+  ## Protocols
+
+
+  - UART, SPI, I2C
+
+  - CAN bus
+
+  - MQTT
+
+  - CoAP
+
+
+  ## Pricing
+
+
+  Mostly open-source tools and RTOSes.
+updated_at: 2026-03-20 13:04

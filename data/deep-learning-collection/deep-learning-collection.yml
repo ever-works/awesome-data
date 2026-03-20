@@ -1,0 +1,29 @@
+name: Deep Learning Collection
+description: Curated collection of deep learning tutorials, projects, frameworks
+  and communities for neural networks, computer vision, NLP and reinforcement
+  learning applications.
+source_url: https://github.com/ChristosChristofidis/awesome-deep-learning
+category: Machine Learning & AI
+tags:
+  - deep-learning
+  - neural-networks
+  - ai
+featured: false
+markdown: |-
+  ## Overview
+
+  Deep learning resources and projects.
+
+  ## Frameworks
+  - PyTorch
+  - TensorFlow
+  - Keras
+
+  ## Applications
+  - Vision
+  - NLP
+  - RL
+
+  ## Pricing
+  Free.
+updated_at: 2026-03-20 13:04

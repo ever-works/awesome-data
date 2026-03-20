@@ -1,0 +1,30 @@
+name: Documentation Handbook
+description: How to write high-quality friendly documentation that people want
+  to read featuring best practices, templates, and writing guidelines for
+  technical documentation.
+source_url: https://github.com/jamiebuilds/documentation-handbook
+category: Development Tools
+tags:
+  - documentation
+  - writing
+  - best-practices
+featured: false
+markdown: |-
+  ## Overview
+
+  Guide for writing excellent documentation.
+
+  ## Topics
+  - Writing style
+  - Structure
+  - Examples
+  - Maintenance
+
+  ## Best Practices
+  - Clear language
+  - Good examples
+  - User focus
+
+  ## Pricing
+  Free guide.
+updated_at: 2026-03-20 13:04

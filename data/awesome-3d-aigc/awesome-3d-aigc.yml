@@ -1,0 +1,106 @@
+name: Awesome 3D AIGC
+description: A curated list of papers and open-source resources focused on 3D
+  AI-generated content, including 3D Gaussian splatting, mesh generation,
+  texture synthesis, and scene generation with AI.
+source_url: https://github.com/mdyao/Awesome-3D-AIGC
+category: Machine Learning & AI
+tags:
+  - 3d-generation
+  - ai
+  - computer-graphics
+featured: false
+markdown: >-
+  ## Overview
+
+
+  A comprehensive collection of research papers and open-source resources
+  focused on 3D AI-Generated Content (AIGC), covering 3D Gaussian splatting,
+  neural rendering, mesh generation, and scene synthesis.
+
+
+  ## Features
+
+
+  - 3D Gaussian splatting techniques and implementations
+
+  - Neural radiance fields (NeRF) and variants
+
+  - Text-to-3D generation methods
+
+  - Image-to-3D reconstruction
+
+  - 3D scene generation and editing
+
+  - Texture synthesis and material generation
+
+  - Physics-based 3D generation
+
+
+  ## Key Technologies
+
+
+  ### 3D Gaussian Splatting
+
+
+  - Explicit scene representations
+
+  - Real-time rendering capabilities
+
+  - Differentiable rendering algorithms
+
+  - High-quality novel view synthesis
+
+
+  ### Text-to-3D
+
+
+  - DreamFusion-style approaches
+
+  - Score distillation sampling
+
+  - Multi-view diffusion models
+
+  - Geometry and texture generation
+
+
+  ### Image-to-3D
+
+
+  - Single-image 3D reconstruction
+
+  - Multi-view stereo with AI
+
+  - Depth estimation and 3D lifting
+
+
+  ## Recent Advances (2025-2026)
+
+
+  - Step1X-3D for scalable 3D generation
+
+  - Improved Gaussian splatting techniques
+
+  - Real-time 3D generation systems
+
+  - Physics-aware 3D synthesis
+
+
+  ## Applications
+
+
+  - Game asset creation
+
+  - Virtual reality content
+
+  - Digital twin generation
+
+  - Product visualization
+
+  - Architectural previsualization
+
+
+  ## Pricing
+
+
+  Free and open-source research resources.
+updated_at: 2026-03-20 13:04

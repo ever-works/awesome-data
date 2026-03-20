@@ -1,0 +1,30 @@
+name: Technical Writing Resources
+description: A compilation of technical writing resources including courses,
+  tools, style guides, and community resources for improving documentation and
+  technical communication skills.
+source_url: https://github.com/dharmelolar/technical-writing-resources
+category: Learning & Education
+tags:
+  - technical-writing
+  - documentation
+  - resources
+featured: false
+markdown: |-
+  ## Overview
+
+  Resources for improving technical writing.
+
+  ## Contents
+  - Writing courses
+  - Style guides
+  - Tools
+  - Communities
+
+  ## Skills Covered
+  - API documentation
+  - User guides
+  - Technical blogs
+
+  ## Pricing
+  Free resources.
+updated_at: 2026-03-20 13:04

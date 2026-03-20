@@ -1,0 +1,82 @@
+name: Awesomelist 3D
+description: An awesome list of tools available in 3D computer graphics for
+  research in computer graphics, computer vision and machine learning
+  applications.
+source_url: https://github.com/Hippogriff/Awesomelist-3d
+category: Computer Vision
+tags:
+  - 3d-graphics
+  - computer-vision
+  - research
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Tools for 3D computer graphics research covering mesh processing, rendering,
+  and machine learning applications.
+
+
+  ## Mesh Processing
+
+
+  - MeshLab
+
+  - Open3D
+
+  - Trimesh
+
+  - PyMesh
+
+
+  ## Rendering Engines
+
+
+  - Mitsuba 2
+
+  - Blender
+
+  - POV-Ray
+
+  - Geogram
+
+
+  ## 3D Deep Learning
+
+
+  - PointNet/PointNet++
+
+  - DGCNN
+
+  - Point Transformer
+
+  - MeshCNN
+
+
+  ## Datasets
+
+
+  - ShapeNet
+
+  - ModelNet
+
+  - ScanNet
+
+  - Matterport3D
+
+
+  ## Applications
+
+
+  - 3D reconstruction
+
+  - Shape analysis
+
+  - Scene understanding
+
+
+  ## Pricing
+
+
+  Free research tools.
+updated_at: 2026-03-20 13:04

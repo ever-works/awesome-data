@@ -1,0 +1,62 @@
+name: Awesome Edge
+description: A qualitative compilation of production-ready frameworks, services
+  and repositories with a focus on Edge Computing and IoT for building
+  distributed edge applications.
+source_url: https://github.com/yarncraft/awesome-edge
+category: Cloud & Infrastructure
+tags:
+  - edge-computing
+  - iot
+  - distributed-systems
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Production-ready frameworks and services focused on Edge Computing and IoT,
+  enabling low-latency processing at the network edge.
+
+
+  ## Edge Platforms
+
+
+  - Cloudflare Workers
+
+  - AWS Lambda@Edge
+
+  - Vercel Edge Functions
+
+  - Fastly Compute@Edge
+
+
+  ## Features
+
+
+  - Low latency processing
+
+  - Geo-distribution
+
+  - Edge caching
+
+  - Serverless execution
+
+
+  ## Use Cases
+
+
+  - Content personalization
+
+  - A/B testing
+
+  - Bot detection
+
+  - Authentication
+
+  - Image optimization
+
+
+  ## Pricing
+
+
+  Mostly freemium with usage-based pricing.
+updated_at: 2026-03-20 13:04

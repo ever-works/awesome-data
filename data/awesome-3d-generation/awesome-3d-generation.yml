@@ -1,0 +1,89 @@
+name: Awesome 3D Generation
+description: A curated list of awesome 3D generation papers covering point
+  clouds, voxels, meshes, and neural representations for creating 3D content
+  from various inputs.
+source_url: https://github.com/justimyhxu/awesome-3D-generation
+category: Computer Vision
+tags:
+  - 3d-generation
+  - neural-rendering
+  - shape-synthesis
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Comprehensive collection of research on 3D generation including various
+  representations like point clouds, voxels, and meshes.
+
+
+  ## 3D Representations
+
+
+  - Point clouds
+
+  - Voxel grids
+
+  - Mesh (vertices, faces)
+
+  - Implicit functions (SDF, occupancy)
+
+  - Neural radiance fields (NeRF)
+
+
+  ## Generation Methods
+
+
+  ### Deep Learning Approaches
+
+
+  - GANs for 3D
+
+  - VAEs for shapes
+
+  - Diffusion models
+
+  - Transformers
+
+
+  ### Input Modalities
+
+
+  - Text-to-3D
+
+  - Image-to-3D
+
+  - Sketch-to-3D
+
+  - Category-conditional
+
+
+  ## Applications
+
+
+  - Asset generation for games
+
+  - Product design
+
+  - Virtual try-on
+
+  - Architecture visualization
+
+
+  ## Datasets
+
+
+  - ShapeNet
+
+  - ModelNet
+
+  - Objaverse
+
+  - ScanNet
+
+
+  ## Pricing
+
+
+  Free research resources.
+updated_at: 2026-03-20 13:04

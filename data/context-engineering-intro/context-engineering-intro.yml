@@ -1,0 +1,28 @@
+name: Context Engineering Intro
+description: Context engineering is the new way to make AI coding assistants
+  work effectively by providing the right context for Claude Code and other AI
+  assistants.
+source_url: https://github.com/coleam00/context-engineering-intro
+category: Machine Learning & AI
+tags:
+  - context-engineering
+  - claude-code
+  - ai-assistants
+featured: false
+markdown: |-
+  ## Overview
+
+  Context engineering makes AI assistants work by providing optimal context.
+
+  ## Key Concepts
+  - Right information at right time
+  - Context window management
+  - File organization
+
+  ## Best for
+  - Claude Code
+  - AI coding assistants
+
+  ## Pricing
+  Free guide.
+updated_at: 2026-03-20 13:04

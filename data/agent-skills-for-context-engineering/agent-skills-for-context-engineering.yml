@@ -1,0 +1,84 @@
+name: Agent Skills for Context Engineering
+description: A comprehensive collection of Agent Skills for context engineering,
+  multi-agent architectures, and production agent systems for building and
+  optimizing AI agents.
+source_url: https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering
+category: Machine Learning & AI
+tags:
+  - ai-agents
+  - context-engineering
+  - agent-systems
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Comprehensive collection of agent skills for context engineering and
+  multi-agent systems.
+
+
+  ## Agent Architectures
+
+
+  - Single-agent systems
+
+  - Multi-agent teams
+
+  - Hierarchical agents
+
+  - Swarm intelligence
+
+
+  ## Context Management
+
+
+  - Context window optimization
+
+  - Memory architectures
+
+  - State management
+
+  - Tool execution
+
+
+  ## Production Systems
+
+
+  - Agent orchestration
+
+  - Error handling
+
+  - Monitoring and logging
+
+  - Performance optimization
+
+
+  ## Use Cases
+
+
+  - Autonomous agents
+
+  - Agent teams
+
+  - Task automation
+
+  - Decision making
+
+
+  ## Skills Included
+
+
+  - Planning and reasoning
+
+  - Tool use
+
+  - Memory management
+
+  - Multi-agent coordination
+
+
+  ## Pricing
+
+
+  Free and open-source.
+updated_at: 2026-03-20 13:04
