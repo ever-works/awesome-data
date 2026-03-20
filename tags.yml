@@ -1,7 +1,7 @@
 - id: ai
   name: Ai
 - id: database
-  name: database
+  name: Database
 - id: mcp
   name: Mcp
 - id: server
@@ -91,7 +91,7 @@
 - id: themes
   name: themes
 - id: directory
-  name: directory
+  name: Directory
 - id: software-alternatives
   name: software-alternatives
 - id: startups
@@ -569,7 +569,7 @@
 - id: system
   name: system
 - id: conversational-ai
-  name: conversational-ai
+  name: Conversational Ai
 - id: symfony
   name: symfony
 - id: laravel
@@ -607,7 +607,7 @@
 - id: project-starters
   name: project-starters
 - id: sdn
-  name: sdn
+  name: Sdn
 - id: payments
   name: Payments
 - id: vehicles
@@ -863,7 +863,7 @@
 - id: macroeconomics
   name: macroeconomics
 - id: healthcare
-  name: healthcare
+  name: Healthcare
 - id: epidemiology
   name: epidemiology
 - id: biosignals
@@ -1682,3 +1682,83 @@
   name: Rtos
 - id: firmware
   name: Firmware
+- id: 3d-generation
+  name: 3d Generation
+- id: foundation-models
+  name: Foundation Models
+- id: diffusion-models
+  name: Diffusion Models
+- id: neural-rendering
+  name: Neural Rendering
+- id: shape-synthesis
+  name: Shape Synthesis
+- id: 3d-graphics
+  name: 3d Graphics
+- id: mesh-processing
+  name: Mesh Processing
+- id: scene-synthesis
+  name: Scene Synthesis
+- id: context-engineering
+  name: Context Engineering
+- id: agent-systems
+  name: Agent Systems
+- id: api-docs
+  name: Api Docs
+- id: chatbots
+  name: Chatbots
+- id: consensus
+  name: Consensus
+- id: paxos
+  name: Paxos
+- id: runtimes
+  name: Runtimes
+- id: schema-design
+  name: Schema Design
+- id: data-storage
+  name: Data Storage
+- id: query-engines
+  name: Query Engines
+- id: multiplayer
+  name: Multiplayer
+- id: curated
+  name: Curated
+- id: temporal
+  name: Temporal
+- id: monetization
+  name: Monetization
+- id: solopreneur
+  name: Solopreneur
+- id: open-web
+  name: Open Web
+- id: ics
+  name: Ics
+- id: scada
+  name: Scada
+- id: reasoning
+  name: Reasoning
+- id: multimodal
+  name: Multimodal
+- id: retrieval
+  name: Retrieval
+- id: network-automation
+  name: Network Automation
+- id: fuzzing
+  name: Fuzzing
+- id: open-hardware
+  name: Open Hardware
+- id: fpga
+  name: Fpga
+- id: chip-design
+  name: Chip Design
+- id: raft
+  name: Raft
+- id: editors
+  name: Editors
+- id: component-model
+  name: Component Model
+- id: claude-code
+  name: Claude Code
+- id: multi-agent
+  name: Multi Agent
+- id: meta
+  name: Meta
