@@ -109,7 +109,7 @@
 - id: open-companies
   name: open-companies
 - id: transparency
-  name: transparency
+  name: Transparency
 - id: community
   name: Community
 - id: free-tier
@@ -261,7 +261,7 @@
 - id: machine-learning
   name: Machine Learning
 - id: drones
-  name: drones
+  name: Drones
 - id: outdoors
   name: outdoors
 - id: gps
@@ -303,7 +303,7 @@
 - id: virtualization
   name: virtualization
 - id: linguistics
-  name: linguistics
+  name: Linguistics
 - id: mongodb
   name: mongodb
 - id: couchdb
@@ -367,7 +367,7 @@
 - id: lifestyle
   name: Lifestyle
 - id: health
-  name: health
+  name: Health
 - id: browser
   name: browser
 - id: trading
@@ -465,7 +465,7 @@
 - id: agriculture
   name: Agriculture
 - id: ethics
-  name: ethics
+  name: Ethics
 - id: debugging
   name: Debugging
 - id: native
@@ -483,7 +483,7 @@
 - id: actionscript
   name: actionscript
 - id: neuroscience
-  name: neuroscience
+  name: Neuroscience
 - id: localization
   name: localization
 - id: accessibility
@@ -539,7 +539,7 @@
 - id: resources
   name: Resources
 - id: history
-  name: history
+  name: History
 - id: quantified-self
   name: quantified-self
 - id: devices
@@ -757,7 +757,7 @@
 - id: platform
   name: platform
 - id: podcasts
-  name: podcasts
+  name: Podcasts
 - id: messaging
   name: Messaging
 - id: passwords
@@ -799,7 +799,7 @@
 - id: economics
   name: economics
 - id: government
-  name: government
+  name: Government
 - id: regulation
   name: regulation
 - id: energy
@@ -831,7 +831,7 @@
 - id: space
   name: Space
 - id: cognitive-science
-  name: cognitive-science
+  name: Cognitive Science
 - id: internet
   name: internet
 - id: identifiers
@@ -875,13 +875,13 @@
 - id: astronomy
   name: Astronomy
 - id: psychology
-  name: psychology
+  name: Psychology
 - id: location
   name: location
 - id: reviews
   name: Reviews
 - id: incident-response
-  name: incident-response
+  name: Incident Response
 - id: homelab
   name: Homelab
 - id: time-tracking
@@ -1762,3 +1762,95 @@
   name: Multi Agent
 - id: meta
   name: Meta
+- id: creative
+  name: Creative
+- id: archiving
+  name: Archiving
+- id: preservation
+  name: Preservation
+- id: glam
+  name: Glam
+- id: autonomous-systems
+  name: Autonomous Systems
+- id: uav
+  name: Uav
+- id: satellite
+  name: Satellite
+- id: moral-reasoning
+  name: Moral Reasoning
+- id: pkm
+  name: Pkm
+- id: fpv
+  name: Fpv
+- id: rc
+  name: Rc
+- id: genealogy
+  name: Genealogy
+- id: fitness
+  name: Fitness
+- id: indoor-farming
+  name: Indoor Farming
+- id: jax
+  name: Jax
+- id: astrophysics
+  name: Astrophysics
+- id: meditation
+  name: Meditation
+- id: mindfulness
+  name: Mindfulness
+- id: wellness
+  name: Wellness
+- id: governance
+  name: Governance
+- id: flight-control
+  name: Flight Control
+- id: telemetry
+  name: Telemetry
+- id: opentelemetry
+  name: Opentelemetry
+- id: tracing
+  name: Tracing
+- id: interdisciplinary
+  name: Interdisciplinary
+- id: note-taking
+  name: Note Taking
+- id: compliance
+  name: Compliance
+- id: earth-observation
+  name: Earth Observation
+- id: retro
+  name: Retro
+- id: vintage
+  name: Vintage
+- id: rpg
+  name: Rpg
+- id: tabletop
+  name: Tabletop
+- id: social-impact
+  name: Social Impact
+- id: nonprofit
+  name: Nonprofit
+- id: technical
+  name: Technical
+- id: cancer-research
+  name: Cancer Research
+- id: critical-thinking
+  name: Critical Thinking
+- id: modeling
+  name: Modeling
+- id: nutrition
+  name: Nutrition
+- id: roadmap
+  name: Roadmap
+- id: forensics
+  name: Forensics
+- id: guide
+  name: Guide
+- id: utilities
+  name: Utilities
+- id: gdpr
+  name: Gdpr
+- id: aerospace
+  name: Aerospace
+- id: computational
+  name: Computational
