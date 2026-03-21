@@ -1,0 +1,11 @@
+name: Awesome Astro Datascience
+description: List of resources for astronomy data science covering machine
+  learning in astronomy, data analysis tools, and computational astrophysics.
+  Resources for astronomers interested in data science.
+source_url: https://github.com/mpi-astronomy/awesome-astro-datascience
+category: Data Science
+tags:
+  - astronomy
+  - data-science
+  - machine-learning
+updated_at: 2026-03-21 13:05

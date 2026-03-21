@@ -1,12 +1,11 @@
 name: Awesome Observability
-description: "A curated collection of observability tools and resources covering
-  the three pillars: logging, metrics, and tracing, including Prometheus,
-  Grafana, ELK Stack, Jaeger, and OpenTelemetry."
+description: Awesome observability resources including monitoring tools,
+  distributed tracing, logging platforms, and observability best practices.
+  Comprehensive guide for building observable systems.
 source_url: https://github.com/adriannovegil/awesome-observability
 category: DevOps & SRE
 tags:
   - observability
   - monitoring
-  - logging
-featured: false
-updated_at: 2026-03-10 12:01
+  - devops
+updated_at: 2026-03-21 13:05

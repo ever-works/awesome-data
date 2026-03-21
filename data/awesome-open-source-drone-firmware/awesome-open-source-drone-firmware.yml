@@ -1,0 +1,11 @@
+name: Awesome Open Source Drone Firmware
+description: A curated list of open source drone firmware, flight controllers,
+  tools, and resources for UAV development and research. Essential for
+  developers building custom drone solutions.
+source_url: https://github.com/awesomelistsio/awesome-open-source-drone-firmware
+category: Robotics
+tags:
+  - open-source
+  - firmware
+  - flight-control
+updated_at: 2026-03-21 13:05

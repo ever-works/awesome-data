@@ -1,0 +1,11 @@
+name: Awesome Deep Bio
+description: A curated list of awesome deep learning applications in the field
+  of computational biology. Covers neural networks for genomics, proteomics, and
+  drug discovery.
+source_url: https://github.com/gokceneraslan/awesome-deepbio
+category: Machine Learning & AI
+tags:
+  - deep-learning
+  - biology
+  - genomics
+updated_at: 2026-03-21 13:05

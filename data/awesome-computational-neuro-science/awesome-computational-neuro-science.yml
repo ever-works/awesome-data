@@ -1,0 +1,11 @@
+name: Awesome Computational Neuro Science
+description: A curated list of awesome computational neuroscience frameworks,
+  libraries, and software plus first-class pure Python tutorial series for
+  Spiking Neural Networks. Resources for modeling brain function.
+source_url: https://github.com/realamirhe/awesome-computational-neuro-science
+category: Machine Learning & AI
+tags:
+  - neuroscience
+  - computational
+  - neural-networks
+updated_at: 2026-03-21 13:05

@@ -1,76 +1,11 @@
 name: Awesome OpenTelemetry
-description: A curated list of OpenTelemetry resources including tools,
-  libraries, blog posts, and learning materials for distributed tracing,
-  metrics, and logs. OpenTelemetry is a collection of APIs, SDKs, and tools for
-  observability.
+description: A curated list of OpenTelemetry resources including guides,
+  tutorials, and tools for implementing observability and telemetry using
+  OpenTelemetry standards. Essential for modern monitoring and tracing.
 source_url: https://github.com/magsther/awesome-opentelemetry
 category: DevOps & SRE
 tags:
   - observability
-  - distributed-tracing
+  - telemetry
   - monitoring
-featured: false
-markdown: >-
-  ## Overview
-
-
-  Awesome OpenTelemetry is a curated list of OpenTelemetry resources, tools, and
-  content. OpenTelemetry is an observability framework that provides APIs, SDKs,
-  and tools for collecting distributed traces, metrics, and logs.
-
-
-  ## What is OpenTelemetry?
-
-
-  OpenTelemetry is made up of:
-
-  - An integrated set of APIs and libraries for generating telemetry data
-
-  - A collection mechanism via agents and collectors
-
-  - Semantic conventions that define standards for consistent telemetry
-
-  - Protocol specifications (OTLP) for transmitting telemetry data
-
-
-  ## Key Components
-
-
-  - **OpenTelemetry Collector** - Vendor-agnostic agent for receiving,
-  processing, and exporting telemetry data
-
-  - **SDKs** - Available for multiple languages including Java, Python, Go,
-  JavaScript, .NET, and more
-
-  - **Instrumentation Libraries** - Automatic and manual instrumentation for
-  popular frameworks
-
-  - **OTLP Protocol** - OpenTelemetry Protocol for transmitting telemetry
-
-
-  ## Featured Tools
-
-
-  - Trace Test - Testing framework with OpenTelemetry
-
-  - Jaeger - Distributed tracing platform with OTel support
-
-  - Zipkin - Distributed tracing system
-
-  - SigNoz, New Relic, Honeycomb - Observability platforms supporting
-  OpenTelemetry
-
-
-  ## Use Cases
-
-
-  - Distributed tracing across microservices
-
-  - Application performance monitoring
-
-  - Service dependency mapping
-
-  - Error tracking and debugging
-
-  - Metrics collection and analysis
-updated_at: 2026-03-19 12:57
+updated_at: 2026-03-21 13:05

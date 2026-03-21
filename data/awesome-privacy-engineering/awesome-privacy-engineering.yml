@@ -1,0 +1,11 @@
+name: Awesome Privacy Engineering
+description: A curated list of resources related to privacy engineering
+  including tools like Fideslang and privacy-by-design frameworks. Supports
+  GDPR, CCPA, LGPD compliance.
+source_url: https://github.com/mplspunk/awesome-privacy-engineering
+category: Security
+tags:
+  - privacy
+  - engineering
+  - compliance
+updated_at: 2026-03-21 13:05

@@ -1,0 +1,11 @@
+name: Awesome Satellite Imagery Datasets
+description: List of satellite image training datasets with annotations for
+  computer vision and deep learning. Includes datasets like Sentinel-2,
+  SpaceNet, and Dynamic EarthNet for ML research.
+source_url: https://github.com/chrieke/awesome-satellite-imagery-datasets
+category: Datasets
+tags:
+  - satellite
+  - computer-vision
+  - datasets
+updated_at: 2026-03-21 13:05

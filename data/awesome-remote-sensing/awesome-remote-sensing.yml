@@ -1,0 +1,11 @@
+name: Awesome Remote Sensing
+description: Collection of remote sensing resources including tools, libraries,
+  and datasets for analyzing satellite and aerial imagery. Covers multispectral
+  analysis, change detection, and earth observation applications.
+source_url: https://github.com/attibalazs/awesome-remote-sensing
+category: Data Science
+tags:
+  - remote-sensing
+  - satellite
+  - earth-observation
+updated_at: 2026-03-21 13:05

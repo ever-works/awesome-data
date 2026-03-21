@@ -1,0 +1,11 @@
+name: Awesome OpenTelemetry by SigNoz
+description: Repository of open source content on OpenTelemetry with
+  comprehensive collections of resources, vendors, and documentation. Covers
+  distributed tracing, metrics, and logging best practices.
+source_url: https://github.com/SigNoz/Awesome-OpenTelemetry
+category: DevOps & SRE
+tags:
+  - opentelemetry
+  - observability
+  - tracing
+updated_at: 2026-03-21 13:05
