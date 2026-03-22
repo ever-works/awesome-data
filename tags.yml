@@ -549,7 +549,7 @@
 - id: dependency-injection
   name: dependency-injection
 - id: information-retrieval
-  name: information-retrieval
+  name: Information Retrieval
 - id: oop
   name: oop
 - id: malware
@@ -663,7 +663,7 @@
 - id: low-level
   name: Low Level
 - id: code-quality
-  name: code-quality
+  name: Code Quality
 - id: sublime-text
   name: sublime-text
 - id: software-engineering
@@ -1854,3 +1854,87 @@
   name: Aerospace
 - id: computational
   name: Computational
+- id: curated-list
+  name: Curated List
+- id: agi
+  name: Agi
+- id: artificial-intelligence
+  name: Artificial Intelligence
+- id: "2026"
+  name: "2026"
+- id: ai-engineering
+  name: Ai Engineering
+- id: market-maps
+  name: Market Maps
+- id: ai-landscape
+  name: Ai Landscape
+- id: industry-analysis
+  name: Industry Analysis
+- id: bun
+  name: Bun
+- id: security-standards
+  name: Security Standards
+- id: regulatory
+  name: Regulatory
+- id: crdts
+  name: Crdts
+- id: conflict-resolution
+  name: Conflict Resolution
+- id: data-synthesis
+  name: Data Synthesis
+- id: synthetic-data
+  name: Synthetic Data
+- id: drug-discovery
+  name: Drug Discovery
+- id: feature-store
+  name: Feature Store
+- id: readme
+  name: Readme
+- id: green-ai
+  name: Green Ai
+- id: sustainable-ml
+  name: Sustainable Ml
+- id: carbon-footprint
+  name: Carbon Footprint
+- id: cybersecurity-education
+  name: Cybersecurity Education
+- id: legal-tech
+  name: Legal Tech
+- id: legal-ai
+  name: Legal Ai
+- id: linters
+  name: Linters
+- id: static-analysis
+  name: Static Analysis
+- id: local-ai
+  name: Local Ai
+- id: local-first
+  name: Local First
+- id: offline-first
+  name: Offline First
+- id: vision-language
+  name: Vision Language
+- id: open-banking
+  name: Open Banking
+- id: financial-apis
+  name: Financial Apis
+- id: security-assessment
+  name: Security Assessment
+- id: checklist
+  name: Checklist
+- id: task-management
+  name: Task Management
+- id: prompts
+  name: Prompts
+- id: techniques
+  name: Techniques
+- id: data-generation
+  name: Data Generation
+- id: text-datasets
+  name: Text Datasets
+- id: software-development
+  name: Software Development
+- id: unified-models
+  name: Unified Models
+- id: ai-research
+  name: Ai Research
