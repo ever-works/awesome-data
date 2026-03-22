@@ -1,0 +1,21 @@
+name: Awesome Prompting
+description: A guide to prompt engineering patterns and techniques for better LLM results.
+source_url: https://github.com/corralm/awesome-prompting
+category: Machine Learning & AI
+tags:
+  - prompt-engineering
+  - llm
+  - techniques
+markdown: >-
+  ## Overview
+
+
+  Awesome Prompting provides patterns and techniques for effective prompt
+  engineering.
+
+
+  ## Pricing
+
+
+  Free and open-source resource.
+updated_at: 2026-03-22 13:19

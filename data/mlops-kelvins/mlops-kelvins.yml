@@ -1,0 +1,16 @@
+name: Mlops Kelvins
+description: Curated list of MLOps tools
+source_url: https://github.com/kelvins/awesome-mlops
+category: General Directories
+tags:
+  - curated-list
+  - resources
+markdown: |-
+  ## Overview
+
+  Curated list of MLOps tools
+
+  ## Pricing
+
+  Free and open-source resource.
+updated_at: 2026-03-22 13:19

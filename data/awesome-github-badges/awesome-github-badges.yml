@@ -1,0 +1,52 @@
+name: Awesome GitHub Badges
+description: A curated list of awesome GitHub README badges using shields.io and
+  other services, helping developers enhance their project documentation with
+  visually appealing status indicators for CI/CD, version info, downloads, and
+  more.
+source_url: https://github.com/chetanraj/awesome-github-badges
+category: Development Tools
+tags:
+  - badges
+  - readme
+  - documentation
+markdown: >-
+  ## Overview
+
+
+  Awesome GitHub Badges provides a curated collection of badges for GitHub
+  repositories using shields.io and other badge services.
+
+
+  ## Features
+
+
+  - CI/CD status badges
+
+  - Version badges
+
+  - Download count badges
+
+  - License badges
+
+  - Code coverage badges
+
+  - Social badges
+
+  - Custom badges
+
+
+  ## Badge Services
+
+
+  - Shields.io
+
+  - badgen.net
+
+  - forthebadge.com
+
+
+  ## Pricing
+
+
+  Free resource.
+updated_at: 2026-03-22 13:19

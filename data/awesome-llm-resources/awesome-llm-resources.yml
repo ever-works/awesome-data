@@ -1,82 +1,51 @@
 name: Awesome LLM Resources
-description: Summary of the world's best LLM resources covering multimodal
-  generation, agents, programming assistance, AI review, data processing, model
-  training and inference.
+description: A comprehensive collection of the world's best LLM resources
+  covering multimodal generation, AI agents, programming assistance, AI paper
+  review, data processing, model training, model inference, o1 models, MCP,
+  small language models, and vision-language models.
 source_url: https://github.com/WangRongsheng/awesome-LLM-resources
 category: Machine Learning & AI
 tags:
   - llm
+  - resources
   - multimodal
-  - ai-agents
-featured: false
 markdown: >-
   ## Overview
 
 
-  Comprehensive summary of LLM resources including multimodal models, agents,
-  and tooling.
+  Awesome LLM Resources is a comprehensive collection summarizing the world's
+  best resources for Large Language Models, covering the full spectrum of LLM
+  development and deployment.
 
 
-  ## Multimodal Models
+  ## Features
 
 
-  - GPT-4V/o
+  - Multimodal Generation
 
-  - Claude 3.5 Sonnet
+  - AI Agents
 
-  - Gemini
+  - Programming Assistance
 
-  - LLaVA
+  - AI Paper Review
 
+  - Data Processing
 
-  ## AI Agents
+  - Model Training
 
+  - Model Inference
 
-  - OmAgent - Multimodal agent framework
+  - o1 Models
 
-  - TEN - Real-time multimodal AI
+  - MCP Protocol
 
-  - AutoGen
+  - Small Language Models
 
-  - LangGraph
-
-
-  ## Model Training
-
-
-  - DeepSpeed
-
-  - Megatron-LM
-
-  - FSDP
-
-  - LoRA/QLoRA
-
-
-  ## Inference
-
-
-  - vLLM
-
-  - TGI (Text Generation Inference)
-
-  - llama.cpp
-
-  - Ollama
-
-
-  ## Applications
-
-
-  - Code generation
-
-  - Data processing
-
-  - Research assistance
+  - Vision-Language Models
 
 
   ## Pricing
 
 
-  Mixed open-source and commercial.
-updated_at: 2026-03-20 13:04
+  Free and open-source resource.
+updated_at: 2026-03-22 13:19

@@ -1,0 +1,23 @@
+name: The Big Prompt Library
+description: A comprehensive collection of prompts, system prompts, and LLM
+  instructions for machine intelligence models from OpenAI, Anthropic, DeepSeek,
+  Meta, Mistral, Google, xAI, and others.
+source_url: https://github.com/0xeb/TheBigPromptLibrary
+category: Machine Learning & AI
+tags:
+  - prompts
+  - llm
+  - prompt-engineering
+markdown: >-
+  ## Overview
+
+
+  The Big Prompt Library provides prompts and system instructions for various
+  LLMs.
+
+
+  ## Pricing
+
+
+  Free and open-source resource.
+updated_at: 2026-03-22 13:19
