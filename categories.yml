@@ -76,3 +76,59 @@
   name: IoT
 - id: hardware
   name: Hardware
+- id: githubcomredpanda-dataawesome-benthos
+  name: //github.com/redpanda Data/awesome Benthos
+- id: githubcombiomejsawesome-biome
+  name: //github.com/biomejs/awesome Biome
+- id: githubcomapvarunawesome-bun
+  name: //github.com/apvarun/awesome Bun
+- id: githubcomkorchasaawesome-clickhouse
+  name: //github.com/korchasa/awesome Clickhouse
+- id: githubcomget-convexawesome-convex
+  name: //github.com/get Convex/awesome Convex
+- id: githubcomeffect-tsawesome-effect
+  name: //github.com/Effect TS/awesome Effect
+- id: githubcomfilamentphpawesome-filament
+  name: //github.com/filamentphp/awesome Filament
+- id: githubcomcrisgarnerawesome-foundry
+  name: //github.com/crisgarner/awesome Foundry
+- id: githubcomgleam-langawesome-gleam
+  name: //github.com/gleam Lang/awesome Gleam
+- id: githubcomkatatawesome-hardhat
+  name: //github.com/katat/awesome Hardhat
+- id: githubcominnocenziawesome-inertiajs
+  name: //github.com/innocenzi/awesome Inertiajs
+- id: githubcominngestawesome-inngest
+  name: //github.com/inngest/awesome Inngest
+- id: githubcomlivewireawesome-livewire
+  name: //github.com/livewire/awesome Livewire
+- id: githubcommeilisearchawesome-meilisearch
+  name: //github.com/meilisearch/awesome Meilisearch
+- id: githubcombuilderioawesome-mitosis
+  name: //github.com/BuilderIO/awesome Mitosis
+- id: githubcommoonbitlangawesome-moonbit
+  name: //github.com/moonbitlang/awesome Moonbit
+- id: githubcomnushellawesome-nu
+  name: //github.com/nushell/awesome Nu
+- id: githubcomoxc-projectawesome-oxc
+  name: //github.com/oxc Project/awesome Oxc
+- id: githubcompkl-communityawesome-pkl
+  name: //github.com/pkl Community/awesome Pkl
+- id: githubcomrectorphpawesome-rector
+  name: //github.com/rectorphp/awesome Rector
+- id: githubcomrescript-associationawesome-rescript
+  name: //github.com/rescript Association/awesome Rescript
+- id: githubcomtemporalioawesome-temporal
+  name: //github.com/temporalio/awesome Temporal
+- id: githubcomtinybirdcoawesome-tinybird
+  name: //github.com/tinybirdco/awesome Tinybird
+- id: githubcomvercelawesome-turbo
+  name: //github.com/vercel/awesome Turbo
+- id: githubcomtypesenseawesome-typesense
+  name: //github.com/typesense/awesome Typesense
+- id: githubcomwevmawesome-viem
+  name: //github.com/wevm/awesome Viem
+- id: githubcomwagmi-devawesome-wagmi
+  name: //github.com/wagmi Dev/awesome Wagmi
+- id: githubcomwailsappawesome-wails
+  name: //github.com/wailsapp/awesome Wails

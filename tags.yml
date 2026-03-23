@@ -9,7 +9,7 @@
 - id: app
   name: App
 - id: desktop
-  name: desktop
+  name: Desktop
 - id: web
   name: web
 - id: mobile
@@ -181,11 +181,11 @@
 - id: ruby
   name: ruby
 - id: java
-  name: java
+  name: Java
 - id: python
   name: Python
 - id: php
-  name: php
+  name: Php
 - id: networking
   name: Networking
 - id: iot
@@ -205,7 +205,7 @@
 - id: jvm
   name: jvm
 - id: build-tools
-  name: build-tools
+  name: Build Tools
 - id: idris
   name: idris
 - id: graph
@@ -231,11 +231,11 @@
 - id: elixir
   name: Elixir
 - id: erlang
-  name: erlang
+  name: Erlang
 - id: devops
   name: Devops
 - id: dotnet
-  name: dotnet
+  name: Dotnet
 - id: pascal
   name: pascal
 - id: windows
@@ -251,7 +251,7 @@
 - id: graphics
   name: Graphics
 - id: nodejs
-  name: nodejs
+  name: Nodejs
 - id: observability
   name: Observability
 - id: prototyping
@@ -267,7 +267,7 @@
 - id: gps
   name: gps
 - id: framework
-  name: framework
+  name: Framework
 - id: code
   name: code
 - id: workflow
@@ -429,7 +429,7 @@
 - id: scripting
   name: Scripting
 - id: webgl
-  name: webgl
+  name: Webgl
 - id: orm
   name: orm
 - id: postgresql
@@ -557,7 +557,7 @@
 - id: components
   name: Components
 - id: animation
-  name: animation
+  name: Animation
 - id: development
   name: Development
 - id: photography
@@ -573,7 +573,7 @@
 - id: symfony
   name: symfony
 - id: laravel
-  name: laravel
+  name: Laravel
 - id: bluetooth
   name: bluetooth
 - id: funding
@@ -581,7 +581,7 @@
 - id: compression
   name: compression
 - id: validation
-  name: validation
+  name: Validation
 - id: algorithms
   name: Algorithms
 - id: applications
@@ -723,7 +723,7 @@
 - id: ide
   name: Ide
 - id: html
-  name: html
+  name: Html
 - id: http
   name: http
 - id: paas
@@ -773,7 +773,7 @@
 - id: systems
   name: Systems
 - id: refactoring
-  name: refactoring
+  name: Refactoring
 - id: graphql
   name: Graphql
 - id: cicd
@@ -783,9 +783,9 @@
 - id: high-performance
   name: high-performance
 - id: hypermedia
-  name: hypermedia
+  name: Hypermedia
 - id: compiler
-  name: compiler
+  name: Compiler
 - id: parsing
   name: parsing
 - id: reactive-programming
@@ -1938,3 +1938,147 @@
   name: Unified Models
 - id: ai-research
   name: Ai Research
+- id: alpinejs
+  name: Alpinejs
+- id: lightweight
+  name: Lightweight
+- id: appwrite
+  name: Appwrite
+- id: baas
+  name: Baas
+- id: astro
+  name: Astro
+- id: static-site-generator
+  name: Static Site Generator
+- id: framework-agnostic
+  name: Framework Agnostic
+- id: data-engineeringbenthos
+  name: Data Engineering:benthos
+- id: development-toolsbiome
+  name: Development Tools:biome
+- id: linter
+  name: Linter
+- id: formatter
+  name: Formatter
+- id: blender
+  name: Blender
+- id: 3d-modeling
+  name: 3d Modeling
+- id: development-toolsbun
+  name: Development Tools:bun
+- id: data-engineeringclickhouse
+  name: Data Engineering:clickhouse
+- id: cloud-infrastructureconvex
+  name: Cloud & Infrastructure:convex
+- id: programming-languageseffect
+  name: Programming Languages:effect
+- id: functional
+  name: Functional
+- id: esp32
+  name: Esp32
+- id: embedded-systems
+  name: Embedded Systems
+- id: web-developmentfilament
+  name: Web Development:filament
+- id: admin-panel
+  name: Admin Panel
+- id: fish
+  name: Fish
+- id: blockchain-cryptofoundry
+  name: Blockchain & Crypto:foundry
+- id: gitlab
+  name: Gitlab
+- id: ci-cd
+  name: Ci Cd
+- id: pipelines
+  name: Pipelines
+- id: programming-languagesgleam
+  name: Programming Languages:gleam
+- id: blockchain-cryptohardhat
+  name: Blockchain & Crypto:hardhat
+- id: hotwire
+  name: Hotwire
+- id: turbo
+  name: Turbo
+- id: stimulus
+  name: Stimulus
+- id: htmx
+  name: Htmx
+- id: web-developmentinertia
+  name: Web Development:inertia
+- id: spa
+  name: Spa
+- id: monolithic
+  name: Monolithic
+- id: cloud-infrastructureinngest
+  name: Cloud & Infrastructure:inngest
+- id: workflows
+  name: Workflows
+- id: web-developmentlivewire
+  name: Web Development:livewire
+- id: maui
+  name: Maui
+- id: data-engineeringmeilisearch
+  name: Data Engineering:meilisearch
+- id: instant-search
+  name: Instant Search
+- id: web-developmentmitosis
+  name: Web Development:mitosis
+- id: programming-languagesmoonbit
+  name: Programming Languages:moonbit
+- id: development-toolsnushell
+  name: Development Tools:nushell
+- id: structured-data
+  name: Structured Data
+- id: development-toolsoxc
+  name: Development Tools:oxc
+- id: javascript-tooling
+  name: Javascript Tooling
+- id: development-toolspkl
+  name: Development Tools:pkl
+- id: qwik
+  name: Qwik
+- id: development-toolsrector
+  name: Development Tools:rector
+- id: remix
+  name: Remix
+- id: programming-languagesrescript
+  name: Programming Languages:rescript
+- id: solidjs
+  name: Solidjs
+- id: reactive
+  name: Reactive
+- id: spring
+  name: Spring
+- id: strapi
+  name: Strapi
+- id: tauri
+  name: Tauri
+- id: desktop-apps
+  name: Desktop Apps
+- id: cloud-infrastructuretemporal
+  name: Cloud & Infrastructure:temporal
+- id: threejs
+  name: Threejs
+- id: data-engineeringtinybird
+  name: Data Engineering:tinybird
+- id: tmux
+  name: Tmux
+- id: development-toolsturborepo
+  name: Development Tools:turborepo
+- id: type-safety
+  name: Type Safety
+- id: data-engineeringtypesense
+  name: Data Engineering:typesense
+- id: algolia-alternative
+  name: Algolia Alternative
+- id: blockchain-cryptoviem
+  name: Blockchain & Crypto:viem
+- id: blockchain-cryptowagmi
+  name: Blockchain & Crypto:wagmi
+- id: development-toolswails
+  name: Development Tools:wails
+- id: zod
+  name: Zod
+- id: zsh
+  name: Zsh
