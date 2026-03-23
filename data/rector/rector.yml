@@ -1,0 +1,11 @@
+name: Rector
+description: A curated list of resources for Rector, the instant upgrades and
+  automated refactoring tool for PHP.
+source_url: https
+category: //github.com/rectorphp/awesome-rector
+tags:
+  - Development Tools:rector
+  - php
+  - refactoring
+featured: false
+updated_at: 2026-03-23 13:26

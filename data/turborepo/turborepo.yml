@@ -1,0 +1,11 @@
+name: Turborepo
+description: A curated list of resources for Turborepo, the high-performance
+  build system for JavaScript and TypeScript codebases.
+source_url: https
+category: //github.com/vercel/awesome-turbo
+tags:
+  - Development Tools:turborepo
+  - monorepo
+  - build-tools
+featured: false
+updated_at: 2026-03-23 13:26

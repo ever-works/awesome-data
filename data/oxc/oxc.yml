@@ -1,0 +1,11 @@
+name: OXC
+description: A curated collection of resources for OXC, the JavaScript oxidation
+  compiler and toolchain written in Rust.
+source_url: https
+category: //github.com/oxc-project/awesome-oxc
+tags:
+  - Development Tools:oxc
+  - rust
+  - javascript-tooling
+featured: false
+updated_at: 2026-03-23 13:26

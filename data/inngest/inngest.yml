@@ -1,0 +1,11 @@
+name: Inngest
+description: A curated collection of resources for Inngest, the durable workflow
+  engine for TypeScript and Python.
+source_url: https
+category: //github.com/inngest/awesome-inngest
+tags:
+  - Cloud & Infrastructure:inngest
+  - workflows
+  - serverless
+featured: false
+updated_at: 2026-03-23 13:26

@@ -1,0 +1,11 @@
+name: Temporal
+description: A curated list of resources for Temporal, the open-source platform
+  for building reliable distributed applications.
+source_url: https
+category: //github.com/temporalio/awesome-temporal
+tags:
+  - Cloud & Infrastructure:temporal
+  - workflows
+  - distributed-systems
+featured: false
+updated_at: 2026-03-23 13:26

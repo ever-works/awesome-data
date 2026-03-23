@@ -1,0 +1,61 @@
+name: Awesome Astro
+description: A curated list of awesome resources, tools, components, and
+  integrations for Astro, the modern static site builder that ships zero
+  JavaScript by default and supports multiple UI frameworks including React,
+  Vue, Svelte, and more.
+source_url: https://github.com/one-aalam/awesome-astro
+category: Web Development
+tags:
+  - astro
+  - static-site-generator
+  - framework-agnostic
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Awesome Astro is a comprehensive collection of resources for the Astro web
+  framework. Astro is designed for building content-focused websites with
+  optimal performance by shipping zero JavaScript by default and supporting
+  partial hydration.
+
+
+  ## Features
+
+
+  - Official Astro themes and templates
+
+  - Astro integrations for various UI frameworks (React, Vue, Svelte, Solid)
+
+  - MDX and markdown plugins for content authoring
+
+  - Image optimization tools and plugins
+
+  - SEO and analytics integrations
+
+  - Deployment guides for Netlify, Vercel, Cloudflare Pages
+
+  - Component libraries compatible with Astro
+
+  - CMS integrations (Contentful, Sanity, Strapi)
+
+  - E-commerce solutions for Astro
+
+  - Authentication and user management solutions
+
+  - Tailwind CSS and styling utilities
+
+  - Testing and development tools
+
+  - Real-world Astro website showcases
+
+  - Video tutorials and learning resources
+
+  - Migration guides from other frameworks
+
+
+  ## Pricing
+
+
+  Free and open-source framework with community resources.
+updated_at: 2026-03-23 13:26

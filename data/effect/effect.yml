@@ -1,0 +1,12 @@
+name: Effect
+description: A curated collection of resources for Effect, the powerful
+  TypeScript library for building robust applications with error handling and
+  resource management.
+source_url: https
+category: //github.com/Effect-TS/awesome-effect
+tags:
+  - Programming Languages:effect
+  - typescript
+  - functional
+featured: false
+updated_at: 2026-03-23 13:26

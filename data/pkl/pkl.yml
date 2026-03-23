@@ -1,0 +1,11 @@
+name: Pkl
+description: A curated list of resources for Pkl, Apple's configuration-as-code
+  language with rich validation and tooling.
+source_url: https
+category: //github.com/pkl-community/awesome-pkl
+tags:
+  - Development Tools:pkl
+  - configuration
+  - validation
+featured: false
+updated_at: 2026-03-23 13:26

@@ -1,0 +1,11 @@
+name: Benthos
+description: A curated list of resources for Benthos, the stream processor for
+  mundane tasks with declarative configuration.
+source_url: https
+category: //github.com/redpanda-data/awesome-benthos
+tags:
+  - Data Engineering:benthos
+  - streaming
+  - etl
+featured: false
+updated_at: 2026-03-23 13:26

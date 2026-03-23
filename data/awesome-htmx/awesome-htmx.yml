@@ -1,0 +1,67 @@
+name: Awesome HTMX
+description: A curated collection of resources, examples, plugins, and tools for
+  HTMX, the library that allows you to access modern browser features directly
+  from HTML using attributes, enabling powerful dynamic web applications without
+  writing JavaScript.
+source_url: https://github.com/rajasegar/awesome-htmx
+category: Web Development
+tags:
+  - htmx
+  - html
+  - hypermedia
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Awesome HTMX provides resources for HTMX, a library that gives you access to
+  AJAX, CSS Transitions, WebSockets and Server Sent Events directly in HTML
+  through attributes. HTMX enables building modern UIs with the simplicity of
+  hypertext.
+
+
+  ## Features
+
+
+  - Official HTMX documentation and essays
+
+  - Server-side framework integrations (Django, Laravel, Rails, FastAPI)
+
+  - HTMX extensions (SSE, WebSocket, client-side-templates)
+
+  - Hypermedia-driven architecture patterns
+
+  - Forms and validation with HTMX
+
+  - Infinite scroll and lazy loading implementations
+
+  - Modal dialogs and dynamic content
+
+  - Real-time updates with Server-Sent Events
+
+  - WebSocket integration for bidirectional communication
+
+  - Search and filtering patterns
+
+  - Optimistic UI updates
+
+  - Error handling strategies
+
+  - Authentication flows with HTMX
+
+  - Testing HTMX applications
+
+  - Performance considerations
+
+  - Accessibility best practices
+
+  - Real-world application examples
+
+  - Migration from SPA frameworks
+
+
+  ## Pricing
+
+
+  Free and open-source library under BSD 2-Clause license.
+updated_at: 2026-03-23 13:26

@@ -1,0 +1,11 @@
+name: Biome
+description: A curated list of resources for Biome, the fast formatter and
+  linter for JavaScript, TypeScript, JSX, and JSON.
+source_url: https
+category: //github.com/biomejs/awesome-biome
+tags:
+  - Development Tools:biome
+  - linter
+  - formatter
+featured: false
+updated_at: 2026-03-23 13:26

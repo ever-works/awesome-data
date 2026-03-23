@@ -1,0 +1,11 @@
+name: Nushell
+description: A curated list of resources for Nushell, the modern shell with
+  structured data pipelines.
+source_url: https
+category: //github.com/nushell/awesome-nu
+tags:
+  - Development Tools:nushell
+  - shell
+  - structured-data
+featured: false
+updated_at: 2026-03-23 13:26

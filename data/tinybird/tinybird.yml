@@ -1,0 +1,11 @@
+name: Tinybird
+description: A curated list of resources for Tinybird, the real-time data
+  platform for building data products at any scale with SQL.
+source_url: https
+category: //github.com/tinybirdco/awesome-tinybird
+tags:
+  - Data Engineering:tinybird
+  - real-time
+  - analytics
+featured: false
+updated_at: 2026-03-23 13:26

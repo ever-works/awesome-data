@@ -1,0 +1,11 @@
+name: Bun Plugins
+description: A curated collection of plugins and tools for Bun, the fast
+  all-in-one JavaScript runtime.
+source_url: https
+category: //github.com/apvarun/awesome-bun
+tags:
+  - Development Tools:bun
+  - plugins
+  - javascript
+featured: false
+updated_at: 2026-03-23 13:26

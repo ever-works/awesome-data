@@ -1,0 +1,12 @@
+name: Convex
+description: A curated collection of resources for Convex, the backend
+  application platform with a database, serverless functions, and real-time
+  updates.
+source_url: https
+category: //github.com/get-convex/awesome-convex
+tags:
+  - Cloud & Infrastructure:convex
+  - backend
+  - real-time
+featured: false
+updated_at: 2026-03-23 13:26

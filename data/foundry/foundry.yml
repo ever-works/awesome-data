@@ -1,0 +1,11 @@
+name: Foundry
+description: A curated collection of resources for Foundry, the blazing fast,
+  portable, and modular toolkit for Ethereum application development.
+source_url: https
+category: //github.com/crisgarner/awesome-foundry
+tags:
+  - Blockchain & Crypto:foundry
+  - ethereum
+  - solidity
+featured: false
+updated_at: 2026-03-23 13:26

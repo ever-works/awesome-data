@@ -1,0 +1,12 @@
+name: Mitosis
+description: A curated collection of resources for Mitosis, the
+  framework-agnostic compiler that writes components once and compiles to all
+  frameworks.
+source_url: https
+category: //github.com/BuilderIO/awesome-mitosis
+tags:
+  - Web Development:mitosis
+  - compiler
+  - framework-agnostic
+featured: false
+updated_at: 2026-03-23 13:26

@@ -1,0 +1,11 @@
+name: Filament
+description: A curated list of resources for Filament, the elegant Laravel admin
+  panel, form builder, and table builder.
+source_url: https
+category: //github.com/filamentphp/awesome-filament
+tags:
+  - Web Development:filament
+  - laravel
+  - admin-panel
+featured: false
+updated_at: 2026-03-23 13:26

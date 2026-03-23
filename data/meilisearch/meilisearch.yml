@@ -1,0 +1,11 @@
+name: Meilisearch
+description: A curated collection of resources for Meilisearch, the
+  lightning-fast search engine that fits effortlessly into your apps.
+source_url: https
+category: //github.com/meilisearch/awesome-meilisearch
+tags:
+  - Data Engineering:meilisearch
+  - search
+  - instant-search
+featured: false
+updated_at: 2026-03-23 13:26

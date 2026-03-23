@@ -1,0 +1,11 @@
+name: Viem
+description: A curated list of resources for viem, the TypeScript interface for
+  Ethereum with a focus on reliability, efficiency, and developer experience.
+source_url: https
+category: //github.com/wevm/awesome-viem
+tags:
+  - Blockchain & Crypto:viem
+  - ethereum
+  - web3
+featured: false
+updated_at: 2026-03-23 13:26

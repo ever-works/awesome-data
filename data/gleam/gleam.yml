@@ -1,0 +1,11 @@
+name: Gleam
+description: A curated collection of resources for Gleam, the type-safe language
+  for the Erlang VM and JavaScript runtimes.
+source_url: https
+category: //github.com/gleam-lang/awesome-gleam
+tags:
+  - Programming Languages:gleam
+  - functional
+  - erlang
+featured: false
+updated_at: 2026-03-23 13:26

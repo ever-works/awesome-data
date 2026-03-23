@@ -1,0 +1,11 @@
+name: ClickHouse
+description: A curated collection of resources for ClickHouse, the fast
+  open-source column-oriented database for real-time analytics.
+source_url: https
+category: //github.com/korchasa/awesome-clickhouse
+tags:
+  - Data Engineering:clickhouse
+  - analytics
+  - database
+featured: false
+updated_at: 2026-03-23 13:26
