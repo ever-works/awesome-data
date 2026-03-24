@@ -349,7 +349,7 @@
 - id: firebase
   name: firebase
 - id: package-manager
-  name: package-manager
+  name: Package Manager
 - id: ada
   name: ada
 - id: programming-languages
@@ -565,7 +565,7 @@
 - id: deployment
   name: Deployment
 - id: operating-systems
-  name: operating-systems
+  name: Operating Systems
 - id: system
   name: system
 - id: conversational-ai
@@ -699,7 +699,7 @@
 - id: papers
   name: Papers
 - id: visualization
-  name: visualization
+  name: Visualization
 - id: shell
   name: Shell
 - id: fonts
@@ -729,7 +729,7 @@
 - id: paas
   name: paas
 - id: rest
-  name: rest
+  name: Rest
 - id: input
   name: input
 - id: queue
@@ -2082,3 +2082,73 @@
   name: Zod
 - id: zsh
   name: Zsh
+- id: development-tools
+  name: Development Tools
+- id: apollo
+  name: Apollo
+- id: charts
+  name: Charts
+- id: aws
+  name: Aws
+- id: azure
+  name: Azure
+- id: gcp
+  name: Gcp
+- id: cloudflare
+  name: Cloudflare
+- id: scss
+  name: Scss
+- id: cypress
+  name: Cypress
+- id: e2e
+  name: E2e
+- id: digital-marketing
+  name: Digital Marketing
+- id: electron-alternatives
+  name: Electron Alternatives
+- id: eleventy
+  name: Eleventy
+- id: openai
+  name: Openai
+- id: growth-hacking
+  name: Growth Hacking
+- id: lists
+  name: Lists
+- id: curation
+  name: Curation
+- id: nextjs
+  name: Nextjs
+- id: generative-models
+  name: Generative Models
+- id: nx
+  name: Nx
+- id: build-system
+  name: Build System
+- id: clones
+  name: Clones
+- id: setup
+  name: Setup
+- id: pnpm
+  name: Pnpm
+- id: pytorch
+  name: Pytorch
+- id: shadcn
+  name: Shadcn
+- id: design-system
+  name: Design System
+- id: state-management
+  name: State Management
+- id: trpc
+  name: Trpc
+- id: turborepo
+  name: Turborepo
+- id: unreal-engine
+  name: Unreal Engine
+- id: ue5
+  name: Ue5
+- id: vitest
+  name: Vitest
+- id: vite
+  name: Vite
+- id: ranked-list
+  name: Ranked List
