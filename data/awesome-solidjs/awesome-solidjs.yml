@@ -1,65 +1,92 @@
 name: Awesome SolidJS
-description: A curated collection of resources, libraries, tools, and learning
-  materials for SolidJS, the declarative JavaScript framework for building user
-  interfaces with fine-grained reactivity and optimal performance without a
-  Virtual DOM.
-source_url: https://github.com/one-aalam/awesome-solid-js
+description: Curated list of awesome SolidJS resources, libraries, and tools.
+  Declarative JavaScript library for building user interfaces with fine-grained
+  reactivity and no virtual DOM.
+source_url: https://github.com/solidjs-community/awesome-solid
 category: Web Development
 tags:
   - solidjs
-  - reactive
-  - frontend
+  - javascript
+  - ui-library
 featured: false
 markdown: >-
   ## Overview
 
 
-  Awesome SolidJS is a community-curated collection of resources for SolidJS, a
-  reactive JavaScript framework that compiles to efficient imperative code.
-  SolidJS offers React-like syntax with fine-grained reactivity and superior
-  performance.
+  Awesome SolidJS provides resources for SolidJS, the declarative JavaScript
+  library with fine-grained reactivity.
 
 
-  ## Features
+  ## What is SolidJS?
 
 
-  - Official SolidJS documentation and guides
+  A declarative JavaScript library for building user interfaces with
+  fine-grained reactivity and no virtual DOM, offering React-like syntax with
+  better performance.
 
-  - SolidStart meta-framework resources
 
-  - UI component libraries and design systems for Solid
+  ## Key Features
 
-  - State management solutions for SolidJS
 
-  - Routing libraries and navigation patterns
+  - **Fine-Grained Reactivity** - Precise updates without virtual DOM
 
-  - Form handling and validation libraries
+  - **React-like Syntax** - Familiar JSX and hooks
 
-  - Animation and transition utilities
+  - **Performance** - Faster than React and Vue
 
-  - Data fetching and API integration patterns
+  - **Small Bundle** - Minimal runtime overhead
 
-  - Testing frameworks and utilities for Solid
+  - **TypeScript** - Full TypeScript support
 
-  - Build tools and development environment setup
 
-  - Deployment guides and hosting solutions
+  ## Ecosystem
 
-  - Performance optimization techniques
 
-  - Migration guides from React and other frameworks
+  - **SolidStart** - Full-stack meta-framework
 
-  - Real-world SolidJS application examples
+  - **Solid Router** - Universal router
 
-  - Video tutorials and learning courses
+  - **Solid UI** - Component libraries
 
-  - Community plugins and extensions
+  - **Solid Primitives** - Community primitives
 
-  - SolidJS primitives and hooks
+
+  ## UI Libraries
+
+
+  - Hope UI
+
+  - Solid UI
+
+  - Kobalte
+
+  - Solid ARIA
+
+
+  ## Meta-Frameworks
+
+
+  - SolidStart (official)
+
+  - Astro with Solid
+
+  - Vite integration
+
+
+  ## Use Cases
+
+
+  - High-performance web apps
+
+  - Interactive UIs
+
+  - Real-time applications
+
+  - SSR/SSG sites
 
 
   ## Pricing
 
 
-  Free and open-source framework with community resources.
-updated_at: 2026-03-23 13:26
+  Free and open-source library.
+updated_at: 2026-03-24 13:42
