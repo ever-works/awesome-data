@@ -473,7 +473,7 @@
 - id: data-engineering
   name: data-engineering
 - id: cryptography
-  name: cryptography
+  name: Cryptography
 - id: raspberry-pi
   name: Raspberry Pi
 - id: voice
@@ -2152,3 +2152,25 @@
   name: Vite
 - id: ranked-list
   name: Ranked List
+- id: 3d-reconstruction
+  name: 3d Reconstruction
+- id: game-engine
+  name: Game Engine
+- id: ecs
+  name: Ecs
+- id: p2p
+  name: P2p
+- id: devrel
+  name: Devrel
+- id: developer-advocacy
+  name: Developer Advocacy
+- id: langchain
+  name: Langchain
+- id: ai-framework
+  name: Ai Framework
+- id: customization
+  name: Customization
+- id: prometheus
+  name: Prometheus
+- id: alerts
+  name: Alerts
