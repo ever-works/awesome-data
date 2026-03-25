@@ -1,0 +1,62 @@
+name: Awesome Decentralized
+description: A curated list of distributed, decentralized, and peer-to-peer
+  applications and tools that enable privacy-preserving, censorship-resistant
+  computing without centralized servers.
+source_url: https://github.com/croqaz/awesome-decentralized
+category: Blockchain & Crypto
+tags:
+  - decentralized
+  - p2p
+  - privacy
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Awesome Decentralized is a comprehensive collection of distributed,
+  decentralized, and peer-to-peer applications and tools. The list focuses on
+  projects that enable users to maintain privacy and avoid centralized control.
+
+
+  ## Key Categories
+
+
+  ### Applications
+
+  - **Communication**: Ricochet (anonymous instant messaging via Tor), Matrix
+  (decentralized communication protocol)
+
+  - **File Storage**: IPFS, Dat, Storj, Sia
+
+  - **Social Networks**: Mastodon, Diaspora, Scuttlebutt
+
+  - **Cryptocurrencies**: Bitcoin, Ethereum, Monero
+
+
+  ### Infrastructure
+
+  - **Networking**: Tor, I2P, ZeroNet
+
+  - **Databases**: OrbitDB, GunDB
+
+  - **Platforms**: Holochain, Solid
+
+
+  ## Use Cases
+
+
+  - Building censorship-resistant applications
+
+  - Creating privacy-preserving communication tools
+
+  - Developing distributed file storage systems
+
+  - Implementing peer-to-peer networks
+
+
+  ## Pricing
+
+
+  Free and open-source. Most projects are community-driven and available under
+  various open-source licenses.
+updated_at: 2026-03-25 13:51
