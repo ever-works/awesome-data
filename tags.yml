@@ -2174,3 +2174,25 @@
   name: Prometheus
 - id: alerts
   name: Alerts
+- id: study-notes
+  name: Study Notes
+- id: bilingual
+  name: Bilingual
+- id: csv
+  name: Csv
+- id: labs
+  name: Labs
+- id: data-modeling
+  name: Data Modeling
+- id: sysadmin
+  name: Sysadmin
+- id: foss
+  name: Foss
+- id: ranked
+  name: Ranked
+- id: comparison
+  name: Comparison
+- id: multi-cloud
+  name: Multi Cloud
+- id: expo
+  name: Expo

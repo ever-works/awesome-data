@@ -134,3 +134,5 @@
   name: //github.com/wailsapp/awesome Wails
 - id: data-visualization
   name: Data Visualization
+- id: databases
+  name: Databases
