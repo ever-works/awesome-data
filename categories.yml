@@ -23,7 +23,7 @@
 - id: audio-music
   name: Audio & Music
 - id: learning-education
-  name: Learning & Education
+  name: Learning Education
 - id: cloud-infrastructure
   name: Cloud & Infrastructure
 - id: blockchain-crypto
@@ -136,3 +136,11 @@
   name: Data Visualization
 - id: databases
   name: Databases
+- id: awesome-meta-collections
+  name: Awesome Meta Collections
+- id: project-awesome-lists
+  name: Project Awesome Lists
+- id: awesome-trackers-tools
+  name: Awesome Trackers & Tools
+- id: awesome-list-tools
+  name: Awesome List Tools

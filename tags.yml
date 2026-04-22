@@ -47,7 +47,7 @@
 - id: research
   name: Research
 - id: static-websites
-  name: static-websites
+  name: Static Websites
 - id: hosting
   name: hosting
 - id: web-development
@@ -65,7 +65,7 @@
 - id: websites
   name: websites
 - id: ai-tools
-  name: ai-tools
+  name: Ai Tools
 - id: ai-directory
   name: ai-directory
 - id: directory-submission
@@ -369,9 +369,9 @@
 - id: health
   name: Health
 - id: browser
-  name: browser
+  name: Browser
 - id: trading
-  name: trading
+  name: Trading
 - id: analytics
   name: Analytics
 - id: llm
@@ -449,7 +449,7 @@
 - id: nosql
   name: Nosql
 - id: italy
-  name: italy
+  name: Italy
 - id: technology
   name: Technology
 - id: creative-coding
@@ -665,7 +665,7 @@
 - id: code-quality
   name: Code Quality
 - id: sublime-text
-  name: sublime-text
+  name: Sublime Text
 - id: software-engineering
   name: Software Engineering
 - id: management
@@ -805,7 +805,7 @@
 - id: energy
   name: energy
 - id: finance
-  name: finance
+  name: Finance
 - id: trade
   name: trade
 - id: demographics
@@ -2196,3 +2196,117 @@
   name: Multi Cloud
 - id: expo
   name: Expo
+- id: general-directory
+  name: General Directory
+- id: open-source-hub
+  name: Open Source Hub
+- id: geopolitics
+  name: Geopolitics
+- id: harnesses
+  name: Harnesses
+- id: memory-layers
+  name: Memory Layers
+- id: perspectives
+  name: Perspectives
+- id: meta-awesome
+  name: Meta Awesome
+- id: directory-index
+  name: Directory Index
+- id: project-specific
+  name: Project Specific
+- id: official-list
+  name: Official List
+- id: home-assistant
+  name: Home Assistant
+- id: israeli
+  name: Israeli
+- id: jewish
+  name: Jewish
+- id: jetbrains
+  name: Jetbrains
+- id: ides
+  name: Ides
+- id: ai-index
+  name: Ai Index
+- id: specialized
+  name: Specialized
+- id: meta-index
+  name: Meta Index
+- id: communities
+  name: Communities
+- id: obsidian
+  name: Obsidian
+- id: quantitative-finance
+  name: Quantitative Finance
+- id: red-alert
+  name: Red Alert
+- id: scifi
+  name: Scifi
+- id: literature
+  name: Literature
+- id: whisper
+  name: Whisper
+- id: benthos
+  name: Benthos
+- id: biome
+  name: Biome
+- id: claude
+  name: Claude
+- id: israel
+  name: Israel
+- id: project-awesome
+  name: Project Awesome
+- id: clickhouse
+  name: Clickhouse
+- id: articles
+  name: Articles
+- id: convex
+  name: Convex
+- id: deep-research
+  name: Deep Research
+- id: directories-list
+  name: Directories List
+- id: submission
+  name: Submission
+- id: seo-directories
+  name: Seo Directories
+- id: effect
+  name: Effect
+- id: filament
+  name: Filament
+- id: foundry
+  name: Foundry
+- id: educational
+  name: Educational
+- id: yeoman
+  name: Yeoman
+- id: gleam
+  name: Gleam
+- id: hardhat
+  name: Hardhat
+- id: hebrew
+  name: Hebrew
+- id: ai-models
+  name: Ai Models
+- id: calendar
+  name: Calendar
+- id: language-projects
+  name: Language Projects
+- id: tts
+  name: Tts
+- id: providers
+  name: Providers
+- id: ai-projects
+  name: Ai Projects
+- id: voice-tech
+  name: Voice Tech
+- id: council
+  name: Council
+- id: agents
+  name: Agents
+- id: non-code
+  name: Non Code
+- id: personal-ai
+  name: Personal Ai
+- id: sitrep
+  name: Sitrep
