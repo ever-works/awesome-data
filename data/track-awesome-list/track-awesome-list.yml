@@ -1,14 +1,17 @@
 name: Track Awesome List
-description: Platform monitoring over 500 GitHub awesome lists with daily
-  updates, RSS feeds, newsletters, search, and notifications for new
-  additions/changes. Perfect for staying current on dynamic trends vs static
-  snapshots. Features archives and trending items.
+description: "Track Awesome List is a daily tracker and notifier for updates to
+  GitHub Awesome lists. It monitors changes, stars, and activity across
+  thousands of awesome repositories, sending notifications via RSS or email. Key
+  features: real-time updates, search/filter by topic, star history charts;
+  perfect for staying current on open-source trends. Unlike static directories,
+  it provides dynamic monitoring compared to tools like Awesome Rank."
 source_url: https://www.trackawesomelist.com/
-category: Awesome List Aggregators
+category: Awesome List Trackers
 tags:
   - tracker
-  - star-monitor
-  - dynamic-lists
+  - notifications
+  - dynamic
+  - star-history
 featured: true
 markdown: |-
   ## Overview
@@ -43,4 +46,5 @@ markdown: |-
   Free with premium options.
 images:
   - https://www.trackawesomelist.com/assets/og-image.png
-updated_at: 2026-04-22 14:53
+  - https://www.trackawesomelist.com/assets/images/og.png
+updated_at: 2026-04-22 17:39

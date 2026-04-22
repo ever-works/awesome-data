@@ -1,14 +1,16 @@
 name: Awesome Rank
-description: Platform that monitors and ranks thousands of GitHub awesome lists
-  by daily star updates, forks, freshness, and popularity metrics. Provides
-  trends, analytics, and comparisons to track relevance and growth. Dynamic
-  monitoring beats static lists for staying ahead of trends.
+description: "Awesome Rank ranks GitHub Awesome lists by metrics like stars,
+  forks, activity, and freshness. It helps discover top-quality, actively
+  maintained awesome lists across topics. Key features: sortable tables, trend
+  graphs, daily updates; great for finding hidden gems. Unlike Track Awesome
+  List's notifications, it emphasizes ranking and comparison."
 source_url: https://awesomerank.github.io/
-category: Awesome List Aggregators
+category: Awesome Discovery Tools
 tags:
-  - tracker
-  - star-monitor
-  - dynamic-lists
+  - ranking
+  - metrics
+  - trends
+  - sortable
 markdown: |-
   ## Overview
 
@@ -39,4 +41,5 @@ markdown: |-
   ## Pricing
 
   Free platform.
-updated_at: 2026-04-22 14:53
+brand_logo_url: https://raw.githubusercontent.com/sindresorhus/awesome/master/media/logo.svg
+updated_at: 2026-04-22 17:39

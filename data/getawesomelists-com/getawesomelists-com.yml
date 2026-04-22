@@ -1,15 +1,15 @@
 name: Get Awesome Lists
-description: Get Awesome Lists is a meta-index of awesome lists, aggregating
-  searchable GitHub awesome lists ranked by stars. It features search and
-  filtering, newsletter for daily updates on trending lists. Ideal for quick
-  discovery of niche topics; more comprehensive than single awesome lists like
-  sindresorhus/awesome.
+description: "Get Awesome Lists is a searchable directory of GitHub Awesome
+  lists, allowing filtering by stars, topics, and languages. It indexes
+  thousands of awesomes for quick discovery. Key features: advanced search,
+  categorization, submission form; outperforms basic GitHub search. Compared to
+  Awesome Rank, it focuses on searchability."
 source_url: https://getawesomelists.com/
-category: Meta Awesome Directories
+category: Awesome List Aggregators
 tags:
-  - directory-of-lists
-  - curated-meta
-  - star-ranking
+  - searchable
+  - indexed
+  - submission
 featured: false
 markdown: >-
   ## Overview
@@ -47,4 +47,4 @@ markdown: >-
   Free.
 images:
   - https://getawesomelists.com/favicon.ico
-updated_at: 2026-04-22 14:53
+updated_at: 2026-04-22 17:39

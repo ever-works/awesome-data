@@ -1,17 +1,18 @@
 name: Awesome
-description: "The canonical Awesome list by Sindre Sorhus, a massive curated
-  guide to thousands of awesome lists across topics like programming, security,
-  and more. Features a clean README with categorized links, active maintenance,
-  and high visibility (millions of stars). Ideal for developers discovering
-  resources; compared to others like bayandin/awesome-awesomeness, it's more
-  general-purpose and frequently updated. Use cases: resource discovery,
-  onboarding new devs."
+description: The canonical Awesome list by Sindre Sorhus, a highly curated
+  collection of awesome lists about all kinds of interesting topics. It serves
+  as a gateway to thousands of specialized awesome repositories on GitHub,
+  updated regularly by the community. Key features include strict curation
+  standards, emoji categorization, and a badge system for official lists; ideal
+  for developers discovering resources across domains. Compared to broader
+  aggregators like ultimate-awesome, it focuses on quality over quantity.
 source_url: https://github.com/sindresorhus/awesome
-category: Awesome List Curators
+category: Meta Awesome Directories
 tags:
+  - sindresorhus
   - canonical
-  - highly-starred
-  - general
+  - highly-curated
+  - gateway
 markdown: |
   # Awesome
 
@@ -33,5 +34,5 @@ markdown: |
 
   ## Tags
   curated-lists, open-source, github, meta-directory
-brand_logo_url: https://raw.githubusercontent.com/sindresorhus/awesome/master/awesome.png
-updated_at: 2026-04-22 11:36
+brand_logo_url: https://raw.githubusercontent.com/sindresorhus/awesome/master/media/logo.svg
+updated_at: 2026-04-22 17:39

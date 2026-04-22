@@ -1,16 +1,21 @@
 name: Awesome Awesomes
-description: Awesome Awesomes is a comprehensive index of GitHub awesome lists,
-  featuring automated categorization, searchability, star rankings as of 2026,
-  and daily tracking. Ideal for developers seeking topic-specific resources.
-  More meta/focused than sindresorhus/awesome, this provides automated
-  aggregation of directories.
+description: Comprehensive, automated index of GitHub awesome lists with
+  categorization, search, star rankings (updated to 2026), daily tracking,
+  broken link detection, and export features. Serves developers for rapid
+  discovery of topic-specific awesome lists. More automated and searchable than
+  sindresorhus/awesome, it focuses on aggregation with stats; contrasts
+  ultimate-awesome by including maintenance metrics and duplication checks.
 source_url: https://github.com/athityakumar/awesome-awesomes
 category: Meta Awesome Directories
 tags:
+  - meta-list
+  - inception-level
+  - automated
+  - star-ranking
   - meta-index
   - list-of-lists
   - discovery-tool
-featured: false
+featured: true
 markdown: >-
   ## Overview
 
@@ -47,6 +52,7 @@ markdown: >-
 
 
   Free and open-source.
+brand_logo_url: https://raw.githubusercontent.com/athityakumar/awesome-awesomes/master/media/logo.png
 images:
   - https://raw.githubusercontent.com/athityakumar/awesome-awesomes/master/media/logo.png
-updated_at: 2026-04-22 14:53
+updated_at: 2026-04-22 17:39

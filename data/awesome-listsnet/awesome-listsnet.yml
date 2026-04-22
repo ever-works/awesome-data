@@ -1,14 +1,14 @@
 name: Awesome-Lists.net
-description: Web directory aggregating and categorizing GitHub awesome lists
-  with search and browsing. Tracks curated collections for easy discovery;
-  dynamic interface vs static GitHub pages. Ideal for exploring trends across
-  topics.
+description: "Awesome-Lists.net is a categorized collection and tracker of
+  Awesome repositories on GitHub, with stats on stars and updates. It helps
+  navigate the ecosystem of awesome lists. Features: categories, stats
+  dashboard; similar to Track Awesome but web-focused."
 source_url: https://awesome-lists.net
-category: Awesome List Aggregators
+category: Awesome List Trackers
 tags:
-  - tracker
-  - star-monitor
-  - dynamic-lists
+  - stats
+  - dashboard
+  - categorized
 markdown: |-
   ## Overview
 
@@ -32,4 +32,5 @@ markdown: |-
   ## Pricing
 
   Free.
-updated_at: 2026-04-22 14:53
+brand_logo_url: https://awesome-lists.net/favicon.ico
+updated_at: 2026-04-22 17:39

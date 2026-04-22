@@ -1,16 +1,23 @@
-name: ultimate-awesome
-description: A meta awesome list that indexes and tracks every awesome list on
-  every topic, including lists of awesome lists, updated daily.
+name: Ultimate Awesome
+description: Automatically generated meta-list aggregating thousands of GitHub
+  'awesome' lists across all topics, including meta-lists of awesome lists,
+  ranked by stars and regenerated daily from the awesome.ecosyste.ms API.
+  Features comprehensive coverage with quality thresholds (30+ items,
+  descriptions required), categorized navigation (e.g., by language or domain),
+  and daily freshness. Ideal for exhaustive discovery of specialized resources;
+  unlike hand-curated sindresorhus/awesome, it prioritizes automation, scale,
+  and popularity sorting over strict manual selection.
 source_url: https://github.com/andrew/ultimate-awesome
-featured: true
-brand: andrew
-brand_logo_url: null
-images: null
-category: meta-directories
+category: Meta Awesome Directories
 tags:
+  - meta-list
+  - inception-level
+  - automated
+  - star-ranking
+  - directory-of-directories
   - meta-directory
   - awesome-lists
-  - directory-of-directories
+featured: true
 markdown: >-
   # ultimate-awesome
 
@@ -93,4 +100,8 @@ markdown: >-
 
   - **Free**  
     - The repository and the generated list are publicly available on GitHub under an open license. No pricing or paid tiers are indicated.
-updated_at: 2025-12-26 11:32
+brand: andrew
+brand_logo_url: https://avatars.githubusercontent.com/u/378417
+images:
+  - https://raw.githubusercontent.com/andrew/ultimate-awesome/master/media/banner.png
+updated_at: 2026-04-22 17:39

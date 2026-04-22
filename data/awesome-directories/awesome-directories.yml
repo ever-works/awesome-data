@@ -1,35 +1,62 @@
 name: Awesome Directories
-description: A curated GitHub repository listing awesome directory websites
-  across various fields. It serves as a meta-resource for discovering other
-  high-quality directories relevant to many topics.
-source_url: https://github.com/directorieswiki/awesome-directories
-category: meta-directories
+description: A curated directory aggregator that helps indie hackers,
+  bootstrappers, and solopreneurs discover high-quality launch directories for
+  their SaaS products. Features advanced filtering by domain rating, category,
+  pricing, and dofollow status, along with real-time search, multi-select
+  export, community voting, and weekly automated DR updates. Built as a static
+  SPA with Vue.js 3, Supabase, and deployed on GitHub Pages, with live site at
+  awesome-directories.com.
+source_url: https://github.com/awesome-directories/awesome-directories
+category: Meta Directories
 tags:
-  - meta-directory
-  - curated-lists
-  - github
-  - directories
+  - open-source
+  - directory-aggregator
+  - indie-hackers
+featured: false
 markdown: |-
-  # Awesome Directories
+  ## Overview
 
-  **Description:**  
-  Awesome Directories is a curated GitHub repository that compiles a list of high-quality directory websites spanning various fields. It functions as a meta-resource, helping users discover and access other reputable directories on numerous topics.
+  Curated aggregator of 300+ launch directories, verified and updated weekly.
 
-  **Features:**
-  - Curated list of directory websites across multiple domains and topics
-  - Serves as a meta-directory to help users find specialized directories
-  - Community contributions are encouraged, allowing users to submit new directories
-  - Hosted on GitHub for easy access and collaboration
+  ## Core Features
 
-  **Category:**  
-  Meta-directories
+  - 300+ Curated Directories pre-loaded with quality directories
+  - Advanced Filtering by DR, category, pricing, dofollow status
+  - Instant Search across names, descriptions, categories
+  - Multi-Select Checklist for PDF or CSV export
+  - Domain Ratings with weekly automated updates via Moz API
+  - Community Voting with IP-based 'helpful' system
+  - Giscus Comments powered by GitHub Discussions
 
-  **Tags:**  
-  meta-directory, curated-lists, github, directories
+  ## User Features
 
-  **Source URL:**  
-  [https://github.com/directorieswiki/awesome-directories](https://github.com/directorieswiki/awesome-directories)
+  - Optional Authentication via Google & GitHub OAuth
+  - Favorites to save personal collections
+  - Submission Tracking for directories submitted to
+  - Newsletter Integration with Listmonk
+  - Public Stats dashboard
+  - Screenshot Generation for social sharing
 
-  **Pricing:**
-  - Free (public GitHub repository)
-updated_at: 2025-05-26 10:11
+  ## Technical Features
+
+  - Static SPA with Vue.js 3 + Vite
+  - GitHub Pages hosting
+  - Weekly automation via GitHub Actions
+  - Privacy-first analytics with Pirsch
+  - WCAG 2.1 AA compliant and responsive with Tailwind CSS
+
+  ## Tech Stack
+
+  - Frontend: Vue.js 3 (Composition API), Vite, Tailwind CSS
+  - Backend: Supabase (PostgreSQL + Auth + Realtime)
+  - Hosting: GitHub Pages
+  - Newsletter: Listmonk
+  - Analytics: Pirsch
+  - CI/CD: GitHub Actions
+  - APIs: Moz API
+
+  ## Pricing
+
+  Free and open-source under Apache 2.0 license.
+brand: Meysam
+updated_at: 2026-04-22 17:39
