@@ -1,11 +1,14 @@
 name: webdirectorycenter
-description: A list of free directories for submitting AI products, providing a
-  centralized resource for AI tool developers.
+description: This is a meta collection aggregating free directories for
+  submitting AI products and tools. Key features include a centralized list
+  tailored for AI developers. Use cases for discovering submission opportunities
+  in AI space, specialized versus general awesome lists like
+  sindresorhus/awesome.
 source_url: https://webdirectorycenter.com
 category: Meta Directories
 tags:
+  - meta-index
+  - awesome-aggregator
   - ai
-  - free-directories
-  - submission
 featured: false
-updated_at: 2026-04-22 14:53
+updated_at: 2026-04-22 20:47

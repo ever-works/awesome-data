@@ -1,15 +1,28 @@
 name: Typesense
-description: "Official/community-curated list of resources for Typesense,
-  including tools/plugins/docs/tutorials; features like regularly updated,
-  community-driven; use cases: ramp up on project ecosystem; vs general
-  awesomes: more specialized."
+description: Official Awesome list for Typesense, aggregating the best
+  libraries, tools, and tutorials in the Typesense ecosystem. Topic-focused and
+  maintained by the core team. Ideal for onboarding developers to the Typesense
+  ecosystem, unlike general awesome lists which cover broader topics.
 source_url: https://github.com/typesense/awesome-typesense
 category: Project Awesome Lists
 tags:
-  - ecosystem-resources
-  - community-curated
-  - project-onboarding
+  - official-awesome
+  - project-ecosystem
+  - curated-resources
 featured: false
+markdown: >-
+  ## Overview
+
+  Awesome resources for Typesense, a search engine.
+
+
+  ## Characteristics
+
+  - Follows standard awesome list format: Markdown on GitHub with curated links
+  and descriptions.
+
+  - Part of the broader ecosystem of independently-managed awesome directories
+  aggregated in meta lists.
 images:
   - https://raw.githubusercontent.com/typesense/awesome-typesense/main/banner.png
-updated_at: 2026-04-22 14:53
+updated_at: 2026-04-22 20:47

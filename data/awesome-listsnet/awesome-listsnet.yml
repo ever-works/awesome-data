@@ -4,11 +4,14 @@ description: "Awesome-Lists.net is a categorized collection and tracker of
   navigate the ecosystem of awesome lists. Features: categories, stats
   dashboard; similar to Track Awesome but web-focused."
 source_url: https://awesome-lists.net
-category: Awesome List Trackers
+category: Directory Aggregators
 tags:
   - stats
   - dashboard
   - categorized
+  - github-stars
+  - open-source-discovery
+  - 2026-curated
 markdown: |-
   ## Overview
 
@@ -33,4 +36,4 @@ markdown: |-
 
   Free.
 brand_logo_url: https://awesome-lists.net/favicon.ico
-updated_at: 2026-04-22 17:39
+updated_at: 2026-04-22 20:47

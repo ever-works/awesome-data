@@ -1,15 +1,28 @@
 name: Turborepo
-description: "Official/community-curated list of resources for Turborepo,
-  including tools/plugins/docs/tutorials; features like regularly updated,
-  community-driven; use cases: ramp up on project ecosystem; vs general
-  awesomes: more specialized."
+description: Official Awesome list for Turborepo, aggregating the best
+  libraries, tools, and tutorials in the Turborepo ecosystem. Topic-focused and
+  maintained by the core team. Ideal for onboarding developers to the Turborepo
+  ecosystem, unlike general awesome lists which cover broader topics.
 source_url: https://github.com/vercel/awesome-turbo
 category: Project Awesome Lists
 tags:
-  - ecosystem-resources
-  - community-curated
-  - project-onboarding
+  - official-awesome
+  - project-ecosystem
+  - curated-resources
 featured: false
+markdown: >-
+  ## Overview
+
+  Awesome resources for Turborepo, a build system.
+
+
+  ## Characteristics
+
+  - Follows standard awesome list format: Markdown on GitHub with curated links
+  and descriptions.
+
+  - Part of the broader ecosystem of independently-managed awesome directories
+  aggregated in meta lists.
 images:
   - https://raw.githubusercontent.com/vercel/awesome-turbo/main/banner.png
-updated_at: 2026-04-22 14:53
+updated_at: 2026-04-22 20:47

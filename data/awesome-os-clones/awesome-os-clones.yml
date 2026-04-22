@@ -1,90 +1,36 @@
 name: Awesome OS Clones
-description: A collection of all big and small open-source clones of Linux,
-  Windows, and macOS operating systems and their software. Web-based OS
-  recreations and system clones.
+description: "Catalog of open-source OS recreations and clones mimicking Linux,
+  Windows (ReactOS), macOS, including web-based and retro versions for learning,
+  compatibility, and experimentation. Lists distros, emulators, and software
+  analogs. Use cases: OS dev education, nostalgia, testing; unique vs standard
+  OS lists by emphasizing clones/reimplementations."
 source_url: https://github.com/zriyansh/awesome-os
 category: Open Source
 tags:
   - open-source
   - operating-systems
   - clones
-featured: false
-markdown: >-
+  - web-based
+markdown: |-
   ## Overview
 
+  Open-source OS clones, web recreations, and alternatives.
 
-  Awesome OS Clones catalogs open-source operating system clones and
-  recreations, including web-based OS implementations.
+  ## Features
 
-
-  ## OS Clones Categories
-
-
-  - **Linux Distributions** - Custom Linux-based systems
-
-  - **Windows Clones** - ReactOS and similar projects
-
-  - **macOS Clones** - Hackintosh and alternatives
-
-  - **Web-Based OS** - Browser-based operating systems
-
-  - **Retro OS** - Classic operating system reimplementations
-
-
-  ## Featured Projects
-
-
-  - **ReactOS** - Open-source Windows NT clone
-
-  - **Haiku** - BeOS-inspired operating system
-
-  - **FreeBSD** - Unix-like operating system
-
-  - **TempleOS** - Unique religious-themed OS
-
-  - **MenuetOS** - Assembly-written OS
-
-
-  ## Web-Based Clones
-
-
-  - Windows 95/98/XP in browser
-
-  - macOS web recreations
-
-  - Linux desktop environments online
-
-  - Classic computer emulators
-
-
-  ## Software Clones
-
-
-  - Office suite alternatives
-
-  - Media player clones
-
-  - System utility reimplementations
-
-  - Cross-platform equivalents
-
+  - Linux distros
+  - Windows clones (ReactOS)
+  - macOS alts
+  - Web OS
+  - Retro systems
 
   ## Use Cases
 
-
-  - Learning OS development
-
-  - Compatibility testing
-
-  - Nostalgia and recreation
-
-  - Education and research
-
-  - Alternative computing
-
+  - Learning OS internals
+  - Compatibility
+  - Nostalgia
 
   ## Pricing
 
-
-  Free and open-source projects.
-updated_at: 2026-03-24 13:42
+  Free.
+updated_at: 2026-04-22 20:47

@@ -1,246 +1,67 @@
 name: Awesome Climate Tech
-description: A collection of awesome things regarding the climate tech
-  ecosystem, featuring companies, technologies, and initiatives working to
-  combat climate change and promote sustainability.
+description: Curated ecosystem directory for climate technology, covering clean
+  energy, carbon capture, sustainable transport, smart grids, agriculture, and
+  finance initiatives from startups to research labs. Features categorized lists
+  of technologies, companies, funding sources, and community resources to
+  accelerate climate innovation. Use cases include scouting solutions for
+  developers, investors seeking opportunities, and policymakers; broader than
+  software-only lists by including hardware, policy, and market maps.
 source_url: https://github.com/thomkrupa/awesome-climate-tech
 category: Open Source
 tags:
   - climate
   - sustainability
   - clean-tech
+  - startups
 markdown: >-
   ## Overview
 
 
-  Awesome Climate Tech brings together resources from the climate technology
-  ecosystem, showcasing companies, projects, and technologies dedicated to
-  solving the climate crisis through innovation and technology.
+  Comprehensive collection of climate tech resources spanning energy, transport,
+  agriculture, buildings, and finance to combat climate change through
+  technology.
 
 
-  ## Climate Tech Categories
+  ## Key Categories
 
 
-  ### Clean Energy
+  - Clean Energy (solar, wind, nuclear, hydrogen)
 
-  - **Solar Technology**: Photovoltaic systems, solar thermal, concentrated
-  solar power
+  - Energy Storage (batteries, thermal)
 
-  - **Wind Power**: Onshore and offshore wind turbines, wind farm optimization
+  - Carbon Capture & Removal (DAC, biochar)
 
-  - **Geothermal**: Heat pumps, geothermal power plants
+  - Smart Grids & VPPs
 
-  - **Hydropower**: Run-of-river, pumped storage, tidal energy
+  - Sustainable Transport (EVs, aviation)
 
-  - **Nuclear**: Next-generation nuclear reactors, fusion energy
+  - Industrial Decarbonization
 
-  - **Hydrogen**: Green hydrogen production, fuel cells, hydrogen storage
+  - Regenerative Agriculture
 
+  - Climate Adaptation Tools
 
-  ### Energy Storage
+  - Finance & Investment
 
-  - Battery technology (lithium-ion, solid-state, flow batteries)
+  - Data & Analytics
 
-  - Grid-scale energy storage
+  - Circular Economy
 
-  - Thermal energy storage
 
-  - Mechanical storage (flywheels, compressed air)
+  ## Use Cases
 
-  - Hydrogen storage systems
 
+  - Innovation discovery
 
-  ### Carbon Capture and Removal
+  - Investment research
 
-  - Direct Air Capture (DAC) technologies
+  - Startup benchmarking
 
-  - Carbon sequestration in geological formations
+  - Policy development
 
-  - Enhanced weathering
 
-  - Biochar production
+  ## Pricing
 
-  - Ocean-based carbon removal
 
-  - Afforestation and reforestation projects
-
-
-  ### Smart Grids and Distribution
-
-  - Grid modernization platforms
-
-  - Demand response systems
-
-  - Virtual power plants
-
-  - Microgrids and distributed energy
-
-  - Energy trading platforms
-
-
-  ### Sustainable Transportation
-
-  - Electric vehicle manufacturers
-
-  - Battery technology for EVs
-
-  - Charging infrastructure
-
-  - Electric aviation startups
-
-  - Maritime decarbonization
-
-  - Rail electrification
-
-  - Sustainable fuels
-
-
-  ### Industrial Decarbonization
-
-  - Low-carbon steel production
-
-  - Green cement alternatives
-
-  - Sustainable chemicals
-
-  - Process heat electrification
-
-  - Industrial energy efficiency
-
-
-  ### Agriculture and Food
-
-  - Regenerative agriculture
-
-  - Vertical farming and controlled environment agriculture
-
-  - Alternative proteins (plant-based, cultured meat)
-
-  - Precision agriculture
-
-  - Soil carbon sequestration
-
-  - Methane reduction in livestock
-
-
-  ### Buildings and Construction
-
-  - Green building materials
-
-  - Energy-efficient HVAC systems
-
-  - Smart building management
-
-  - Retrofit technologies
-
-  - Zero-energy buildings
-
-  - Sustainable urban planning
-
-
-  ### Climate Adaptation
-
-  - Flood prediction and management
-
-  - Drought resilience technologies
-
-  - Wildfire detection and prevention
-
-  - Climate risk assessment platforms
-
-  - Resilient infrastructure design
-
-
-  ### Climate Finance
-
-  - Green bonds and sustainable finance
-
-  - Carbon markets and trading platforms
-
-  - Climate risk analytics for investors
-
-  - Impact investing platforms
-
-  - ESG data and reporting
-
-
-  ### Climate Data and Analytics
-
-  - Climate modeling and simulation
-
-  - Satellite monitoring of emissions
-
-  - IoT sensors for environmental monitoring
-
-  - AI for climate prediction
-
-  - Carbon accounting software
-
-
-  ### Circular Economy
-
-  - Waste-to-energy technologies
-
-  - Recycling innovations
-
-  - Product-as-a-Service models
-
-  - Material marketplaces
-
-  - Upcycling platforms
-
-
-  ## Climate Tech Companies
-
-
-  - Startups in various stages from seed to growth
-
-  - Corporate climate initiatives
-
-  - Research institutions and labs
-
-  - Government programs and partnerships
-
-
-  ## Investment and Funding
-
-
-  - Climate tech venture capital firms
-
-  - Accelerators and incubators
-
-  - Grants and competitions
-
-  - Corporate venture arms
-
-  - Government funding programs
-
-
-  ## Resources
-
-
-  - Climate tech reports and research
-
-  - Industry conferences and events
-
-  - Podcasts and newsletters
-
-  - Educational programs
-
-  - Job boards and career resources
-
-  - Policy and regulation updates
-
-
-  ## Community and Networks
-
-
-  - Climate tech communities
-
-  - Founder networks
-
-  - Technical working groups
-
-  - Open-source collaborations
-
-  - Hackathons and innovation challenges
-updated_at: 2026-03-11 12:11
+  Free repository.
+updated_at: 2026-04-22 20:47

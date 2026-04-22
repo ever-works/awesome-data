@@ -1,63 +1,37 @@
 name: Awesome Hacktoberfest
-description: Curated list of awesome Hacktoberfest-related projects, resources,
-  and beginner-friendly repositories for open source contributions during
-  Hacktoberfest, a month-long celebration of open source.
+description: "Curated collection of beginner-friendly open-source repos, guides,
+  and resources for Hacktoberfest participants to make first PRs, with tagged
+  'good first issue' projects across languages. Facilitates October's
+  open-source celebration by linking communities, tutorials, and event-specific
+  lists. Use cases: new contributor onboarding, skill-building, community
+  engagement; specialized vs general OSS lists by focusing on seasonal,
+  low-barrier entry points."
 source_url: https://github.com/mattjegan/awesome-hacktoberfest
 category: Open Source
 tags:
   - hacktoberfest
   - open-source
   - beginner-friendly
-markdown: >-
+  - contributing
+markdown: |-
   ## Overview
 
-
-  Awesome Hacktoberfest is an awesome list of Hacktoberfest-related projects,
-  repositories, guides and resources to help newcomers make their first
-  contributions to open source during Hacktoberfest.
-
+  Hacktoberfest-focused awesome list for first-time OSS contributors.
 
   ## Features
 
-
-  - **Beginner-Friendly Projects**: Curated repositories tagged with "good first
-  issue" or "easy" to help newcomers get started
-
-  - **Hacktoberfest Guides**: Resources and tutorials for participating in
-  Hacktoberfest
-
-  - **Repository Collections**: Lists of projects participating in Hacktoberfest
-  across different programming languages and domains
-
-  - **Contribution Guidelines**: Best practices for making quality pull requests
-
-  - **Community Resources**: Links to communities and forums for Hacktoberfest
-  participants
-
-
-  ## About Hacktoberfest
-
-
-  Hacktoberfest is a month-long celebration of open source projects, their
-  maintainers, and the entire community of contributors. Each October, open
-  source maintainers give new contributors extra attention as they guide
-  developers through their first pull requests on GitHub.
-
+  - Beginner repos
+  - Guides/tutorials
+  - Language/domain collections
+  - Community links
 
   ## Use Cases
 
-
-  - Finding your first open source project to contribute to
-
-  - Discovering beginner-friendly issues in popular projects
-
-  - Learning about open source contribution best practices
-
-  - Connecting with the open source community
-
+  - First PRs
+  - OSS learning
+  - Event participation
 
   ## Pricing
 
-
-  Free and open-source resource list.
-updated_at: 2026-03-17 12:37
+  Free.
+updated_at: 2026-04-22 20:47

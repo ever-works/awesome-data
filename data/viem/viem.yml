@@ -1,11 +1,26 @@
 name: Viem
-description: A curated list of resources for viem, the TypeScript interface for
-  Ethereum with a focus on reliability, efficiency, and developer experience.
-source_url: https
+description: Official Awesome list for Viem, aggregating the best libraries,
+  tools, and tutorials in the Viem ecosystem. Topic-focused and maintained by
+  the core team. Ideal for onboarding developers to the Viem ecosystem, unlike
+  general awesome lists which cover broader topics.
+source_url: https://github.com/wevm/awesome-viem
 category: Project Awesome Lists
 tags:
-  - Blockchain & Crypto:viem
-  - ethereum
-  - web3
+  - official-awesome
+  - project-ecosystem
+  - curated-resources
 featured: false
-updated_at: 2026-04-22 14:53
+markdown: >-
+  ## Overview
+
+  Awesome resources for Viem, a TypeScript Ethereum library.
+
+
+  ## Characteristics
+
+  - Follows standard awesome list format: Markdown on GitHub with curated links
+  and descriptions.
+
+  - Part of the broader ecosystem of independently-managed awesome directories
+  aggregated in meta lists.
+updated_at: 2026-04-22 20:47

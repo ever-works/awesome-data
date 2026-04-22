@@ -2,10 +2,10 @@ name: Wails
 description: A curated list of resources for Wails, the framework for building
   desktop applications using Go and web technologies.
 source_url: https
-category: //github.com/wailsapp/awesome-wails
+category: Project Awesome Lists
 tags:
   - Development Tools:wails
   - desktop
   - golang
 featured: false
-updated_at: 2026-03-23 13:26
+updated_at: 2026-04-22 20:47

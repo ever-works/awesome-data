@@ -1,130 +1,70 @@
 name: Awesome Free Software
-description: A curated list of free-as-in-freedom open-source software and
-  services, emphasizing software freedom, privacy, and user control over
-  proprietary alternatives.
+description: Curated list prioritizing free/libre open-source software that
+  respects the four essential freedoms, privacy, and user control over
+  proprietary alternatives in categories like OS, browsers, office suites, and
+  media tools. Emphasizes ethical, auditable software without telemetry or
+  lock-in for privacy-conscious users. Use cases include building
+  freedom-respecting computing environments, learning from source, and avoiding
+  surveillance; contrasts gratis-only lists by focusing on philosophical
+  freedom.
 source_url: https://github.com/johnjago/awesome-free-software
 category: Open Source
 tags:
   - free-software
   - open-source
   - privacy
+  - foss
 featured: false
 markdown: >-
   ## Overview
 
 
-  Awesome Free Software is a collection of software that respects user freedom,
-  focusing on free (libre) software rather than just free (gratis) options.
+  Collection of fully free (libre) software alternatives emphasizing user
+  freedoms, privacy, and no proprietary dependencies.
 
 
   ## Features
 
 
-  - **Freedom-Respecting**: Software that gives users control
+  - Freedom-respecting apps
 
-  - **Open Source**: Transparent, auditable code
+  - Cross-platform support
 
-  - **Privacy-Focused**: Alternatives to surveillance capitalism
-
-  - **Cross-Platform**: Multi-OS support
-
-  - **Community-Driven**: Democratic development
-
-  - **No Vendor Lock-in**: Data portability and format freedom
-
-  - **Ethical Software**: Respecting user rights
-
-  - **Well-Maintained**: Active development and support
-
-
-  ## Categories
-
-
-  - Operating systems (Linux distributions)
-
-  - Web browsers (Firefox, Brave)
-
-  - Office suites (LibreOffice)
-
-  - Email clients
-
-  - Communication tools
-
-  - Media players
-
-  - Graphics editors (GIMP, Inkscape)
-
-  - Development tools
-
-  - Server software
-
-
-  ## Philosophy
-
-
-  - Four essential freedoms
-
-  - User privacy and data ownership
-
-  - No telemetry or tracking
-
-  - Transparent development
+  - No tracking/telemetry
 
   - Community governance
 
   - Open standards
 
 
-  ## Notable Software
+  ## Categories
 
 
-  - Linux operating systems
+  - OS (Linux distros)
 
-  - GNU tools and utilities
+  - Browsers (Firefox)
 
-  - Firefox browser
+  - Productivity (LibreOffice)
 
-  - Thunderbird email
+  - Media (GIMP, Audacity)
 
-  - LibreOffice productivity
+  - Communication
 
-  - GIMP image editing
-
-  - Audacity audio editing
-
-
-  ## Alternatives To
-
-
-  - Proprietary operating systems
-
-  - Closed-source applications
-
-  - Privacy-invasive services
-
-  - Vendor-locked platforms
-
-  - Subscription-based software
+  - Dev Tools
 
 
   ## Use Cases
 
 
-  - Computing with freedom
+  - Ethical computing
 
-  - Privacy protection
+  - Privacy setups
 
-  - Avoiding vendor lock-in
-
-  - Supporting ethical software
-
-  - Learning from source code
-
-  - Cost-free computing
+  - Cost-free stacks
 
 
   ## Pricing
 
 
-  Free and open-source repository featuring free software.
-updated_at: 2026-03-07 17:48
+  Free as in freedom.
+updated_at: 2026-04-22 20:47

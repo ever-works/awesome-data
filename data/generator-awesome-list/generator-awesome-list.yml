@@ -1,14 +1,49 @@
 name: generator-awesome-list
-description: Yeoman generator for quickly scaffolding new GitHub Awesome Lists
-  with proper structure, README, and contributing guidelines. Essential tool for
-  creators starting community-curated resource directories.
+description: Yeoman generator for building and maintaining GitHub awesome lists
+  by auto-generating standardized README.md templates, contributing guidelines,
+  and repository structure compliant with Awesome Lint rules. Simplifies
+  starting new curated directories and ensures consistency for ongoing
+  maintenance. Ideal for developers creating topic-specific resource
+  compilations.
 source_url: https://github.com/sindresorhus/generator-awesome-list
-category: Awesome List Generators
+category: Awesome Maintenance Tools
 tags:
-  - cli
-  - yeoman
-  - awesome-lists
+  - list-builder
+  - automation
   - open-source
+  - open-source-discovery
+  - 2026-curated
 featured: false
+markdown: |-
+  ## Overview
+
+  CLI tool that scaffolds awesome lists following best practices.
+
+  ## Features
+
+  - Generates README.md with proper formatting and sections
+  - Creates .github/CONTRIBUTING.md and ISSUE_TEMPLATE
+  - Ensures compliance with awesome-lint standards
+  - Quick setup via `yo awesome-list`
+  - Customizable templates for different list types
+
+  ## Use Cases
+
+  - Automate creation of new awesome lists
+  - Standardize maintenance across multiple lists
+  - Quickly bootstrap community-curated repositories
+  - Enforce quality and consistency in list building
+
+  ## Comparisons
+
+  | Tool | Auto-generates structure | Lint compliance | CLI-based |
+  |------|---------------------------|-----------------|-----------|
+  | generator-awesome-list | Yes | Yes | Yes |
+  | Manual creation | No | Manual | No |
+  | awesome-lint | No | Yes | Yes |
+
+  ## Pricing
+
+  Free and open-source under MIT license.
 brand: sindresorhus
-updated_at: 2026-04-22 11:36
+updated_at: 2026-04-22 20:47

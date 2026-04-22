@@ -5,7 +5,7 @@ description: "Awesome Rank ranks GitHub Awesome lists by metrics like stars,
   graphs, daily updates; great for finding hidden gems. Unlike Track Awesome
   List's notifications, it emphasizes ranking and comparison."
 source_url: https://awesomerank.github.io/
-category: Awesome Discovery Tools
+category: Awesome Aggregators
 tags:
   - ranking
   - metrics
@@ -42,4 +42,4 @@ markdown: |-
 
   Free platform.
 brand_logo_url: https://raw.githubusercontent.com/sindresorhus/awesome/master/media/logo.svg
-updated_at: 2026-04-22 17:39
+updated_at: 2026-04-22 20:47

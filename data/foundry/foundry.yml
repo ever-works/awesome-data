@@ -1,15 +1,29 @@
 name: Foundry
-description: "Official/community-curated list of resources for Foundry,
-  including tools/plugins/docs/tutorials; features like regularly updated,
-  community-driven; use cases: ramp up on project ecosystem; vs general
-  awesomes: more specialized."
+description: Official Awesome list for Foundry, aggregating the best libraries,
+  tools, and tutorials in the Foundry ecosystem. Topic-focused and maintained by
+  the core team. Ideal for onboarding developers to the Foundry ecosystem,
+  unlike general awesome lists which cover broader topics.
 source_url: https://github.com/crisgarner/awesome-foundry
 category: Project Awesome Lists
 tags:
-  - ecosystem-resources
-  - community-curated
-  - project-onboarding
+  - official-awesome
+  - project-ecosystem
+  - curated-resources
 featured: false
+markdown: >-
+  ## Overview
+
+  Awesome resources for Foundry, an Ethereum smart contract development
+  toolchain.
+
+
+  ## Characteristics
+
+  - Follows standard awesome list format: Markdown on GitHub with curated links
+  and descriptions.
+
+  - Part of the broader ecosystem of independently-managed awesome directories
+  aggregated in meta lists.
 images:
   - https://raw.githubusercontent.com/crisgarner/awesome-foundry/main/banner.png
-updated_at: 2026-04-22 14:53
+updated_at: 2026-04-22 20:47

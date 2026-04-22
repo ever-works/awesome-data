@@ -5,7 +5,7 @@ description: Dynamic platform aggregating and monitoring hundreds of GitHub
   popularity shifts. Unlike static awesome lists, offers real-time tracking and
   analytics for superior discovery.
 source_url: https://awesome.ecosyste.ms/
-category: Awesome List Aggregators
+category: Awesome Aggregators
 tags:
   - tracker
   - star-monitor
@@ -65,4 +65,4 @@ markdown: >-
   Free and open-source.
 images:
   - https://raw.githubusercontent.com/ecosyste.ms/awesome/main/media/logo.png
-updated_at: 2026-04-22 14:53
+updated_at: 2026-04-22 20:47

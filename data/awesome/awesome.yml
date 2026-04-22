@@ -7,7 +7,7 @@ description: The canonical Awesome list by Sindre Sorhus, a highly curated
   for developers discovering resources across domains. Compared to broader
   aggregators like ultimate-awesome, it focuses on quality over quantity.
 source_url: https://github.com/sindresorhus/awesome
-category: Meta Awesome Directories
+category: Meta Awesome Collections
 tags:
   - sindresorhus
   - canonical
@@ -35,4 +35,4 @@ markdown: |
   ## Tags
   curated-lists, open-source, github, meta-directory
 brand_logo_url: https://raw.githubusercontent.com/sindresorhus/awesome/master/media/logo.svg
-updated_at: 2026-04-22 17:39
+updated_at: 2026-04-22 20:47

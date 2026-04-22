@@ -1,0 +1,35 @@
+name: Open Source Discord Bots
+description: "Curated collection of open-source Discord bots for moderation,
+  fun, music, utilities, enabling server owners to self-host customizable
+  automation. Features repos with active maintenance, diverse functionalities.
+  Use cases: community management, entertainment; contrasts closed bots by
+  offering transparency and modifiability."
+source_url: https://github.com/agubelu/opensource-discordbots
+category: open-source
+tags:
+  - open-source
+  - discord
+  - bots
+  - awesome-lists
+featured: false
+markdown: |-
+  ## Overview
+
+  List of OSS Discord bots.
+
+  ## Features
+
+  - Moderation tools
+  - Music players
+  - Utilities
+  - Games/fun
+
+  ## Use Cases
+
+  - Server automation
+  - Custom bots
+
+  ## Pricing
+
+  Free/open-source.
+updated_at: 2026-04-22 20:47

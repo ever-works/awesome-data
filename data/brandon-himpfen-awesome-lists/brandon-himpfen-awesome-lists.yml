@@ -5,7 +5,7 @@ description: "Brandon Himpfen's Awesome Lists is a curated directory aggregating
   topic-based grouping, star counts, direct links; useful for meta-navigation.
   Compares to sindresorhus/awesome by being more aggregator-focused."
 source_url: https://github.com/brandonhimpfen/awesome-lists
-category: Awesome List Aggregators
+category: Awesome Aggregators
 tags:
   - aggregated
   - topic-grouped
@@ -37,4 +37,4 @@ markdown: |-
 
   Free and open-source.
 brand: Brandon Himpfen
-updated_at: 2026-04-22 17:39
+updated_at: 2026-04-22 20:47

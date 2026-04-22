@@ -1,0 +1,12 @@
+name: PatrickMcDonald/meta-awesome
+description: A meta collection of awesome directories and lists of lists,
+  aggregating curated awesome resources on GitHub. Serves as an index for
+  discovering other awesome lists and meta-directories.
+source_url: https://github.com/PatrickMcDonald/meta-awesome
+category: meta-directories
+tags:
+  - meta-directory
+  - awesome-lists
+  - open-source
+featured: false
+updated_at: 2026-04-22 20:47

@@ -1,13 +1,15 @@
 name: Trendshift
-description: A platform for discovering trending GitHub repositories and open
-  source projects, with advanced filtering, analytics, and insights into what's
-  gaining traction in the developer community.
+description: This is a dynamic meta index aggregating trending GitHub
+  repositories with analytics, functioning as a real-time awesome lists
+  discoverer. Key features include momentum tracking, language filtering, growth
+  metrics, and topic search. Ideal for spotting emerging open-source gems before
+  they hit traditional lists like sindresorhus/awesome.
 source_url: https://trendshift.io/
 category: Meta Directories
 tags:
+  - meta-index
+  - awesome-aggregator
   - trending
-  - github
-  - discovery
 featured: false
 markdown: >-
   ## Overview
@@ -46,4 +48,4 @@ markdown: >-
 
 
   Free with optional premium features.
-updated_at: 2026-03-11 13:11
+updated_at: 2026-04-22 20:47

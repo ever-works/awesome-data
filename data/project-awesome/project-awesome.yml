@@ -1,14 +1,15 @@
 name: Project Awesome
-description: "Project Awesome indexes a searchable collection of awesome lists
-  from GitHub repositories. It provides a web interface with full-text search,
-  topic browsing, and popularity rankings. Use cases: discover themed awesome
-  lists; compare to sindresorhus/awesome."
+description: This is a comprehensive searchable index aggregating thousands of
+  GitHub Awesome lists across all topics. Key features include full-text search,
+  topic browsing, star-ranked popularity, and direct repo links. Ideal for
+  discovering themed curated open-source resources, as a dynamic alternative to
+  the general sindresorhus/awesome.
 source_url: https://project-awesome.org
 category: Meta Directories
 tags:
   - meta-index
+  - awesome-aggregator
   - searchable
-  - awesome-lists
 featured: true
 markdown: >-
   ## Overview
@@ -48,4 +49,4 @@ markdown: >-
   Free.
 images:
   - https://project-awesome.org/favicon-32x32.png
-updated_at: 2026-04-22 09:33
+updated_at: 2026-04-22 20:47

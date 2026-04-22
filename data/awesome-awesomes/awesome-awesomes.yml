@@ -6,7 +6,7 @@ description: Comprehensive, automated index of GitHub awesome lists with
   sindresorhus/awesome, it focuses on aggregation with stats; contrasts
   ultimate-awesome by including maintenance metrics and duplication checks.
 source_url: https://github.com/athityakumar/awesome-awesomes
-category: Meta Awesome Directories
+category: Meta Awesome Collections
 tags:
   - meta-list
   - inception-level
@@ -55,4 +55,4 @@ markdown: >-
 brand_logo_url: https://raw.githubusercontent.com/athityakumar/awesome-awesomes/master/media/logo.png
 images:
   - https://raw.githubusercontent.com/athityakumar/awesome-awesomes/master/media/logo.png
-updated_at: 2026-04-22 17:39
+updated_at: 2026-04-22 20:47
