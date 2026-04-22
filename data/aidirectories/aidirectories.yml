@@ -1,0 +1,14 @@
+name: aidirectori.es
+description: aidirectori.es is a comprehensive index of AI directories and
+  GitHub awesome lists, featuring categorization, searchability, and star
+  rankings as of 2026. Ideal for developers seeking topic-specific AI resources.
+  More meta/focused than sindresorhus/awesome, this aggregates multiple curated
+  directories.
+source_url: https://aidirectori.es
+category: Meta Awesome Directories
+tags:
+  - meta-index
+  - list-of-lists
+  - discovery-tool
+featured: false
+updated_at: 2026-04-22 14:53

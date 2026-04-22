@@ -1,0 +1,39 @@
+name: ghidra
+description: Software reverse engineering (SRE) framework developed by NSA. It
+  supports disassembly, decompilation, graphing, scripting, and more for various
+  processor architectures.
+source_url: https://github.com/NationalSecurityAgency/ghidra
+category: Development Tools
+tags:
+  - open-source
+  - reverse-engineering
+  - security
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Ghidra is a software reverse engineering (SRE) framework developed by the NSA
+  Research Directorate. It includes features to allow software developers to
+  analyze compiled code.
+
+
+  ## Features
+
+
+  - Disassembly
+
+  - Decompilation
+
+  - Graphing
+
+  - Scripting support (Java, Python)
+
+  - Multi-processor support
+
+
+  ## Pricing
+
+
+  Free and open-source under the Apache License 2.0.
+updated_at: 2026-04-22 14:53

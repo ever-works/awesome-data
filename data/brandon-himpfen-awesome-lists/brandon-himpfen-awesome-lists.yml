@@ -1,35 +1,39 @@
 name: Brandon Himpfen Awesome Lists
-description: A collection of awesome lists curated by Brandon Himpfen, focusing
-  on technology, research, travel, and open knowledge.
+description: Aggregator of hundreds of GitHub awesome lists categorized by
+  topic, with star rankings and community updates. Monitors popularity to
+  highlight trending resources; more dynamic curation than single static lists.
+  Use for broad discovery and trend tracking.
 source_url: https://github.com/brandonhimpfen/awesome-lists
-category: Meta Awesome Directories
+category: Awesome List Aggregators
 tags:
-  - awesome-lists
-  - curated-lists
-  - open-source
-  - github
+  - tracker
+  - star-monitor
+  - dynamic-lists
 featured: false
-markdown: >-
+markdown: |-
   ## Overview
 
-
-  Personal collection of curated awesome lists across various domains including
-  AI, DevOps, cybersecurity, and sustainability.
-
+  Curated meta-collection of awesome lists with star-based rankings.
 
   ## Features
 
+  - Categorized by domain (tech, research, etc.)
+  - Star counts and rankings
+  - Community contributions
+  - Focus on high-quality lists
 
-  - High-quality, credible resources
+  ## Use Cases
 
-  - Focus on usefulness and long-term relevance
+  - Quick access to niche awesome lists
+  - Track popular directories
+  - Discover trends via stars
 
-  - Open contributions via GitHub
+  ## Comparisons
 
+  Vs static: Includes rankings and ongoing curation.
 
   ## Pricing
 
-
   Free and open-source.
 brand: Brandon Himpfen
-updated_at: 2026-04-22 11:36
+updated_at: 2026-04-22 14:53

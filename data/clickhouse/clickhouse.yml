@@ -1,14 +1,15 @@
 name: Awesome ClickHouse
-description: "Awesome ClickHouse list curates resources for ClickHouse: docs,
-  tools, integrations, examples. Features: community-driven, categorized,
-  starred repos. Use cases: accelerate ClickHouse development; vs. general
-  lists, more focused."
+description: "Community awesome list for ClickHouse database. Features curated
+  docs, tools, integrations, plugins, tutorials. Use cases: accelerate
+  ClickHouse onboarding and development; focused on ClickHouse vs general
+  database awesomes."
 source_url: https://github.com/korchasa/awesome-clickhouse
 category: Project Awesome Lists
 tags:
-  - project-awesome
-  - clickhouse
+  - project-specific
+  - official-awesome
+  - tool-resources
 featured: false
 images:
   - https://raw.githubusercontent.com/korchasa/awesome-clickhouse/main/awesome.svg
-updated_at: 2026-04-22 09:33
+updated_at: 2026-04-22 14:53

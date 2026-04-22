@@ -1,50 +1,46 @@
 name: Track Awesome List
-description: Service that tracks daily updates across over 500 GitHub awesome
-  lists, providing RSS feeds, newsletters, searchable archives, and
-  notifications to monitor new additions and changes in real-time.
+description: Platform monitoring over 500 GitHub awesome lists with daily
+  updates, RSS feeds, newsletters, search, and notifications for new
+  additions/changes. Perfect for staying current on dynamic trends vs static
+  snapshots. Features archives and trending items.
 source_url: https://www.trackawesomelist.com/
-category: Awesome Trackers & Tools
+category: Awesome List Aggregators
 tags:
-  - tracking
-  - rss
-  - updates
-  - awesome-lists
+  - tracker
+  - star-monitor
+  - dynamic-lists
 featured: true
-markdown: >-
+markdown: |-
   ## Overview
 
-
-  Track Awesome List monitors hundreds of awesome lists on GitHub and provides
-  real-time notifications when new items are added, making it easy to discover
-  new tools and resources.
-
+  Real-time tracker for awesome list changes across GitHub.
 
   ## Features
 
+  - Daily scans of 500+ lists
+  - RSS/email notifications
+  - Searchable update archive
+  - Trending and popular additions
+  - Timeline views
+  - Per-list feeds
 
-  - Tracks over 500 awesome lists automatically
+  ## Use Cases
 
-  - Daily and weekly update summaries
+  - Receive alerts on new tools/resources
+  - Track trends in specific topics
+  - Maintain awareness without manual checks
 
-  - RSS feed subscriptions for individual lists
+  ## Comparisons
 
-  - Email newsletter options
-
-  - Historical archive of all updates
-
-  - Search functionality across all tracked lists
-
-  - Trending items and popular additions
-
-  - Timeline view of recent changes
-
-  - Custom alerts for specific topics
-
-  - Integration with feed readers
-
+  | Aspect | Track Awesome List | Static Lists |
+  |--------|--------------------|--------------|
+  | Freshness | Daily updates | Manual |
+  | Alerts   | RSS/Email | None |
+  | History  | Full archive| None |
 
   ## Pricing
 
-
-  Free service with optional premium features.
-updated_at: 2026-04-22 09:33
+  Free with premium options.
+images:
+  - https://www.trackawesomelist.com/assets/og-image.png
+updated_at: 2026-04-22 14:53

@@ -1,11 +1,15 @@
 name: OXC
-description: A curated collection of resources for OXC, the JavaScript oxidation
-  compiler and toolchain written in Rust.
-source_url: https
-category: //github.com/oxc-project/awesome-oxc
+description: "Official/community-curated list of resources for OXC, including
+  tools/plugins/docs/tutorials; features like regularly updated,
+  community-driven; use cases: ramp up on project ecosystem; vs general
+  awesomes: more specialized."
+source_url: https://github.com/oxc-project/awesome-oxc
+category: Project Awesome Lists
 tags:
-  - Development Tools:oxc
-  - rust
-  - javascript-tooling
+  - ecosystem-resources
+  - community-curated
+  - project-onboarding
 featured: false
-updated_at: 2026-03-23 13:26
+images:
+  - https://raw.githubusercontent.com/oxc-project/awesome-oxc/main/banner.png
+updated_at: 2026-04-22 14:53

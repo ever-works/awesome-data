@@ -1,0 +1,25 @@
+name: Awesome Dat
+description: "Community awesome list for Dat Project (decentralized data
+  protocol). Features resources, tools, plugins, tutorials. Use cases:
+  onboarding to Dat ecosystem; project-specific unlike general P2P awesomes."
+source_url: https://github.com/datproject/awesome-dat
+category: Project Awesome Lists
+tags:
+  - project-specific
+  - official-awesome
+  - tool-resources
+featured: false
+markdown: >-
+  ## Overview
+
+  Awesome resources for Dat Project, a decentralized data sharing protocol.
+
+
+  ## Characteristics
+
+  - Follows standard awesome list format: Markdown on GitHub with curated links
+  and descriptions.
+
+  - Part of the broader ecosystem of independently-managed awesome directories
+  aggregated in meta lists.
+updated_at: 2026-04-22 14:53

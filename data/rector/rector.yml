@@ -1,11 +1,15 @@
 name: Rector
-description: A curated list of resources for Rector, the instant upgrades and
-  automated refactoring tool for PHP.
-source_url: https
-category: //github.com/rectorphp/awesome-rector
+description: "Official/community-curated list of resources for Rector, including
+  tools/plugins/docs/tutorials; features like regularly updated,
+  community-driven; use cases: ramp up on project ecosystem; vs general
+  awesomes: more specialized."
+source_url: https://github.com/rectorphp/awesome-rector
+category: Project Awesome Lists
 tags:
-  - Development Tools:rector
-  - php
-  - refactoring
+  - ecosystem-resources
+  - community-curated
+  - project-onboarding
 featured: false
-updated_at: 2026-03-23 13:26
+images:
+  - https://raw.githubusercontent.com/rectorphp/awesome-rector/main/banner.png
+updated_at: 2026-04-22 14:53

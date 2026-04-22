@@ -1,14 +1,15 @@
 name: Filament
-description: "Curated Awesome list for Filament. Gathers docs, tools,
-  extensions, community resources. Features: structured categories, high stars,
-  active maintenance. Use cases: Filament onboarding; focused vs. broad awesome
-  lists."
+description: "Official/community-curated list of resources for Filament,
+  including tools/plugins/docs/tutorials; features like regularly updated,
+  community-driven; use cases: ramp up on project ecosystem; vs general
+  awesomes: more specialized."
 source_url: https://github.com/filamentphp/awesome-filament
 category: Project Awesome Lists
 tags:
-  - project-awesome
-  - filament
+  - ecosystem-resources
+  - community-curated
+  - project-onboarding
 featured: false
 images:
   - https://raw.githubusercontent.com/filamentphp/awesome-filament/main/banner.png
-updated_at: 2026-04-22 09:33
+updated_at: 2026-04-22 14:53

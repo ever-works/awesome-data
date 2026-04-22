@@ -1,0 +1,44 @@
+name: elasticsearch
+description: Free and open-source distributed RESTful search and analytics
+  engine capable of addressing a growing number of use cases. It stores,
+  searches, and analyzes large volumes of data quickly and in near real-time.
+  Widely used for log analytics, full-text search, security intelligence,
+  business analytics, and operational intelligence use cases.
+source_url: https://github.com/elastic/elasticsearch
+category: Databases
+tags:
+  - open-source
+  - search
+  - distributed
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Elasticsearch is a distributed, RESTful search and analytics engine capable of
+  solving a growing number of use cases. It provides a distributed,
+  multitenant-capable full-text search engine with an HTTP web interface and
+  schema-free JSON documents.
+
+
+  ## Features
+
+
+  - Distributed search engine
+
+  - Near real-time search
+
+  - RESTful interface
+
+  - Multi-tenancy
+
+  - Full-text search
+
+  - Percolator for reverse search
+
+
+  ## Pricing
+
+
+  Free and open-source under the Elastic License or Server Side Public License.
+updated_at: 2026-04-22 14:53

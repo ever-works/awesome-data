@@ -1,90 +1,42 @@
 name: Awesome Rank
-description: Tracks and ranks GitHub awesome lists by stars, forks, updates, and
-  popularity metrics, offering analytics, trends, and comparisons to monitor the
-  growth and relevance of curated resources across categories.
-source_url: https://awesomerank.github.io
-category: Awesome Trackers & Tools
+description: Platform that monitors and ranks thousands of GitHub awesome lists
+  by daily star updates, forks, freshness, and popularity metrics. Provides
+  trends, analytics, and comparisons to track relevance and growth. Dynamic
+  monitoring beats static lists for staying ahead of trends.
+source_url: https://awesomerank.github.io/
+category: Awesome List Aggregators
 tags:
-  - awesome-lists
-  - rankings
-  - analytics
-markdown: >-
+  - tracker
+  - star-monitor
+  - dynamic-lists
+markdown: |-
   ## Overview
 
+  Tracks GitHub awesome lists with comprehensive rankings and analytics.
 
-  Awesome Rank provides ranking and analytics for GitHub awesome lists, showing
-  which resources are most popular based on stars, forks, and other metrics.
+  ## Features
 
-
-  ## Key Features
-
-
-  - Awesome list rankings
-
-  - Star counts and trends
-
-  - Fork statistics
-
-  - Popularity metrics
-
+  - Daily star/fork/update tracking
+  - Multi-metric rankings (stars, freshness, forks)
+  - Trend graphs and historical data
+  - Category-based browsing
   - Comparison tools
-
-  - Historical data
-
-
-  ## Tracked Lists
-
-
-  - awesome-cli-apps
-
-  - awesome-vscode  
-
-  - awesome-shell
-
-  - PlacesToPostYourStartup
-
-  - Hundreds more
-
-
-  ## Metrics Provided
-
-
-  - GitHub stars
-
-  - Fork counts
-
-  - Last updated dates
-
-  - Contributor numbers
-
-  - Popularity rankings
-
-  - Growth trends
-
 
   ## Use Cases
 
+  - Identify top/trending awesome lists
+  - Monitor resource popularity over time
+  - Research adoption of tools/categories
 
-  - Find most popular tools
+  ## Comparisons
 
-  - Compare awesome lists
-
-  - Identify trending resources
-
-  - Research tool adoption
-
-  - Discover established tools
-
-
-  ## Target Audience
-
-
-  Developers and researchers who want data-driven insights into which tools and
-  resources are most widely adopted.
-
+  | Metric | Awesome Rank | Static Lists |
+  |--------|--------------|--------------|
+  | Stars  | Live tracking| Snapshot |
+  | Trends | Graphs | None |
+  | Ranks  | Computed | None |
 
   ## Pricing
 
-
-  Free analytics platform.
-updated_at: 2026-04-22 09:33
+  Free platform.
+updated_at: 2026-04-22 14:53

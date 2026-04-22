@@ -1,14 +1,15 @@
 name: Best of Show HN
-description: A curated directory of the best startups and projects from Hacker
-  News's "Show HN" posts spanning 2008-2026. Features daily, weekly, and monthly
-  collections of innovative tech projects including AI tools, developer
-  platforms, and open-source software.
+description: Best of Show HN is a comprehensive index of directories curating
+  top Show HN projects from Hacker News (2008-2026), featuring
+  daily/weekly/monthly rankings, topic categories, and engagement metrics as of
+  2026. Ideal for developers seeking innovative project resources. More
+  meta/focused than sindresorhus/awesome, this aggregates HN showcases.
 source_url: https://bestofshowhn.com
 category: Meta Awesome Directories
 tags:
-  - curated-lists
-  - startups
-  - project-discovery
+  - meta-index
+  - list-of-lists
+  - discovery-tool
 featured: true
 markdown: >-
   ## Overview
@@ -99,4 +100,4 @@ markdown: >-
 
 
   Free to browse and discover projects.
-updated_at: 2026-04-22 11:36
+updated_at: 2026-04-22 14:53

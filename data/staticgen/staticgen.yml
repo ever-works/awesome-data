@@ -1,0 +1,19 @@
+name: StaticGen
+description: A website that aggregates metadata for static site generators,
+  including popularity metrics like Twitter followers, providing rich data
+  beyond plain awesome lists.
+source_url: https://www.staticgen.com
+category: themed-directories
+tags:
+  - static-site-generators
+  - directory
+  - metadata
+markdown: |-
+  ## Overview
+  Directory of static website generators with community-submitted data.
+
+  ## Features
+  - Popularity metrics (e.g., Twitter followers, GitHub stars).
+  - Helps assess community robustness around software.
+  - Contrasts with plain awesome lists by offering sortable, visual metadata.
+updated_at: 2026-04-22 14:53

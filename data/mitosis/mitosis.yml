@@ -1,12 +1,15 @@
 name: Mitosis
-description: A curated collection of resources for Mitosis, the
-  framework-agnostic compiler that writes components once and compiles to all
-  frameworks.
-source_url: https
-category: //github.com/BuilderIO/awesome-mitosis
+description: "Official/community-curated list of resources for Mitosis,
+  including tools/plugins/docs/tutorials; features like regularly updated,
+  community-driven; use cases: ramp up on project ecosystem; vs general
+  awesomes: more specialized."
+source_url: https://github.com/BuilderIO/awesome-mitosis
+category: Project Awesome Lists
 tags:
-  - Web Development:mitosis
-  - compiler
-  - framework-agnostic
+  - ecosystem-resources
+  - community-curated
+  - project-onboarding
 featured: false
-updated_at: 2026-03-23 13:26
+images:
+  - https://raw.githubusercontent.com/BuilderIO/awesome-mitosis/main/banner.png
+updated_at: 2026-04-22 14:53

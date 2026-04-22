@@ -1,13 +1,15 @@
 name: Awesome Search
-description: A powerful search engine specifically designed to help users find
-  what they need in awesome lists more quickly, indexing thousands of projects
-  across hundreds of lists.
+description: Awesome Search is a comprehensive index and search engine for
+  thousands of GitHub awesome lists, featuring full-text search, category/tag
+  filtering, star rankings as of 2026, and real-time updates. Ideal for
+  developers seeking topic-specific resources. More meta/focused than
+  sindresorhus/awesome, this enables discovery across all lists.
 source_url: https://awesomelists.top/
 category: Meta Awesome Directories
 tags:
-  - search
-  - discovery
-  - aggregator
+  - meta-index
+  - list-of-lists
+  - discovery-tool
 featured: false
 markdown: >-
   ## Overview
@@ -46,4 +48,4 @@ markdown: >-
 
 
   Free to use.
-updated_at: 2026-04-22 11:36
+updated_at: 2026-04-22 14:53

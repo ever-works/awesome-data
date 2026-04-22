@@ -1,15 +1,16 @@
 name: Awesome Awesome
-description: A curated meta-list of awesome lists, serving as a directory of
-  directories across numerous topics. Directly relevant for finding and
-  exploring awesome directories.
+description: Awesome Awesome is a comprehensive index of GitHub awesome lists
+  across numerous topics, featuring categorization, searchability, and star
+  rankings as of 2026. Ideal for developers seeking topic-specific resources.
+  More meta/focused than sindresorhus/awesome, this specializes in aggregating
+  themed directories.
 source_url: https://github.com/emijrp/awesome-awesome
 category: Meta Awesome Directories
 tags:
-  - meta-directory
-  - curated-lists
-  - awesome-lists
-  - github
-markdown: |
+  - meta-index
+  - list-of-lists
+  - discovery-tool
+markdown: |-
   # Awesome Awesome
 
   **Source:** [https://github.com/emijrp/awesome-awesome](https://github.com/emijrp/awesome-awesome)
@@ -43,4 +44,4 @@ markdown: |
 
   ## License
   - [License information available in repository](https://github.com/emijrp/awesome-awesome/blob/master/LICENSE)
-updated_at: 2026-04-22 11:36
+updated_at: 2026-04-22 14:53

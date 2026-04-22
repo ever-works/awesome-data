@@ -1,11 +1,15 @@
 name: Pkl
-description: A curated list of resources for Pkl, Apple's configuration-as-code
-  language with rich validation and tooling.
-source_url: https
-category: //github.com/pkl-community/awesome-pkl
+description: "Official/community-curated list of resources for Pkl, including
+  tools/plugins/docs/tutorials; features like regularly updated,
+  community-driven; use cases: ramp up on project ecosystem; vs general
+  awesomes: more specialized."
+source_url: https://github.com/pkl-community/awesome-pkl
+category: Project Awesome Lists
 tags:
-  - Development Tools:pkl
-  - configuration
-  - validation
+  - ecosystem-resources
+  - community-curated
+  - project-onboarding
 featured: false
-updated_at: 2026-03-23 13:26
+images:
+  - https://raw.githubusercontent.com/pkl-community/awesome-pkl/main/banner.png
+updated_at: 2026-04-22 14:53

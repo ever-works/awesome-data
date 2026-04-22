@@ -1,18 +1,15 @@
 name: Awesome (awesomelistsio)
-description: "Awesome (awesomelistsio) is a meta-collection indexing hundreds of
-  awesome lists on GitHub and beyond. It provides search, categorization, and
-  updates for discovering themed directories. Key features: daily tracking, star
-  rankings, RSS feeds. Use cases: researchers finding niche awesome lists;
-  compare to sindresorhus/awesome for canonical list."
+description: Awesome (awesomelistsio) is a comprehensive index of GitHub awesome
+  lists, featuring categorization, searchability, star rankings as of 2026, and
+  daily tracking. Ideal for developers seeking topic-specific resources. More
+  meta/focused than sindresorhus/awesome, this emphasizes comprehensive indexing
+  of specialized lists.
 source_url: https://github.com/awesomelistsio/awesome
 category: Meta Awesome Directories
 tags:
-  - awesome-lists
-  - meta-directory
-  - open-source
-  - github
-  - meta-awesome
-  - directory-index
+  - meta-index
+  - list-of-lists
+  - discovery-tool
 featured: true
 markdown: >-
   ## Overview
@@ -37,6 +34,7 @@ markdown: >-
 
   Free and open-source.
 brand: awesomelistsio
+brand_logo_url: https://github.githubassets.com/images/modules/logos_page/Octocat-mark.png
 images:
   - https://raw.githubusercontent.com/awesomelistsio/awesome/main/media/logo.png
-updated_at: 2026-04-22 11:36
+updated_at: 2026-04-22 14:53

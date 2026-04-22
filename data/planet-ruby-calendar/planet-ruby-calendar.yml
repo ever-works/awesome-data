@@ -1,0 +1,11 @@
+name: Planet Ruby Calendar
+description: Calendar of Ruby events including meetups, conferences, and camps
+  from around the world.
+source_url: https://planetruby.github.io/calendar/
+category: events
+tags:
+  - ruby
+  - calendar
+  - events
+featured: false
+updated_at: 2026-04-22 14:53

@@ -1,33 +1,35 @@
 name: Awesome-Lists.net
-description: A web-based directory that aggregates and categorizes 'awesome'
-  lists from GitHub, providing a searchable and browsable interface for
-  discovering curated resources.
-source_url: https://dev.to/zevireinitz/the-untold-history-of-github-awesome-lists-73d
-category: Awesome List Curators
+description: Web directory aggregating and categorizing GitHub awesome lists
+  with search and browsing. Tracks curated collections for easy discovery;
+  dynamic interface vs static GitHub pages. Ideal for exploring trends across
+  topics.
+source_url: https://awesome-lists.net
+category: Awesome List Aggregators
 tags:
-  - curated-lists
-  - web-directory
-  - awesome-lists
-  - searchable
-markdown: |
-  ## Awesome-Lists.net
+  - tracker
+  - star-monitor
+  - dynamic-lists
+markdown: |-
+  ## Overview
 
-  **Category:** Meta-directories  
-  **Tags:** curated-lists, web-directory, awesome-lists, searchable
+  Searchable aggregator of awesome lists.
 
-  ### Description
-  Awesome-Lists.net is a web-based directory that aggregates and categorizes "awesome" lists from GitHub. It provides a searchable and browsable interface, making it easier for users to discover curated resources on a wide range of topics.
+  ## Features
 
-  ### Features
-  - Aggregates "awesome" lists from GitHub repositories.
-  - Categorizes lists for easier navigation.
-  - Offers a searchable interface to quickly find topics of interest.
-  - Browsable directory structure for exploration.
-  - Focuses on curated, high-quality resources maintained by the open-source community.
+  - Categorization and search
+  - Browsable interface
+  - GitHub-sourced lists
 
-  ### Pricing
-  No pricing information is provided. The service appears to be free to use.
+  ## Use Cases
 
-  ### Source
-  [Read more about the history of GitHub Awesome-Lists](https://dev.to/zevireinitz/the-untold-history-of-github-awesome-lists-73d)
-updated_at: 2026-04-22 11:36
+  - Discover curated resources quickly
+  - Navigate by topic
+
+  ## Comparisons
+
+  Better navigation than raw GitHub.
+
+  ## Pricing
+
+  Free.
+updated_at: 2026-04-22 14:53

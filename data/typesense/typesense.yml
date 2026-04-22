@@ -1,11 +1,15 @@
 name: Typesense
-description: A curated list of resources for Typesense, the open-source
-  alternative to Algolia with typo tolerance and instant search.
-source_url: https
-category: //github.com/typesense/awesome-typesense
+description: "Official/community-curated list of resources for Typesense,
+  including tools/plugins/docs/tutorials; features like regularly updated,
+  community-driven; use cases: ramp up on project ecosystem; vs general
+  awesomes: more specialized."
+source_url: https://github.com/typesense/awesome-typesense
+category: Project Awesome Lists
 tags:
-  - Data Engineering:typesense
-  - search
-  - algolia-alternative
+  - ecosystem-resources
+  - community-curated
+  - project-onboarding
 featured: false
-updated_at: 2026-03-23 13:26
+images:
+  - https://raw.githubusercontent.com/typesense/awesome-typesense/main/banner.png
+updated_at: 2026-04-22 14:53

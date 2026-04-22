@@ -3,15 +3,12 @@ description: A GitHub project that tracks and exposes daily updated statistics
   for repositories listed in the "awesome-go" awesome list, acting as a
   meta-resource around an existing awesome directory.
 source_url: https://github.com/emanuelef/awesome-go-repo-stats
-featured: false
-brand: emanuelef
-brand_logo_url: /emanuelef.png
-images: null
-category: meta-directories
+category: Awesome List Trackers
 tags:
   - awesome-lists
   - analytics
   - go
+featured: false
 markdown: >-
   # awesome-go-repo-stats
 
@@ -71,4 +68,6 @@ markdown: >-
 
   - Not applicable – `awesome-go-repo-stats` is an open-source GitHub project
   (no pricing plans listed).
-updated_at: 2025-12-26 11:32
+brand: emanuelef
+brand_logo_url: /emanuelef.png
+updated_at: 2026-04-22 14:53

@@ -1,0 +1,11 @@
+name: ops-books
+description: Book recommendations on Continuous Delivery, DevOps, Operations,
+  and Systems Thinking.
+source_url: https://github.com/opscrawl/ops-books
+category: devops-sre
+tags:
+  - books
+  - devops
+  - awesome-lists
+featured: false
+updated_at: 2026-04-22 14:53

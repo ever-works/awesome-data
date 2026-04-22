@@ -1,14 +1,15 @@
 name: LaunchDirectories
-description: Comprehensive resource for startup directories and launch sites
-  with detailed submission guides for 2026. Features free submission guides for
-  LaunchingNext, SaaSHub, BetaPage, and more. Essential meta-directory for
-  product launches.
+description: LaunchDirectories is a meta-index of startup directories and launch
+  sites, aggregating curated collections with submission guides. It features
+  filtering by platform, traffic rankings, and regular 2026 updates. Ideal for
+  quick discovery of niche launch platforms; more comprehensive than single
+  awesome lists.
 source_url: https://launchdirectories.com
 category: Meta Awesome Directories
 tags:
-  - directory-of-directories
-  - startup
-  - guides
+  - directory-of-lists
+  - curated-meta
+  - star-ranking
 featured: true
 markdown: >-
   ## Overview
@@ -93,4 +94,4 @@ markdown: >-
 
 
   Free resource.
-updated_at: 2026-04-22 11:36
+updated_at: 2026-04-22 14:53

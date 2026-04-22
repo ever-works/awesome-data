@@ -1,11 +1,13 @@
 name: Bun Plugins
-description: A curated collection of plugins and tools for Bun, the fast
-  all-in-one JavaScript runtime.
-source_url: https
+description: "Official/community awesome list for Bun JavaScript runtime.
+  Features curated plugins, resources, tutorials, and tools. Use cases:
+  onboarding to Bun ecosystem, discovering plugins; project-specific unlike
+  broad general awesome lists."
+source_url: https://github.com/apvarun/awesome-bun
 category: Project Awesome Lists
 tags:
-  - Development Tools:bun
-  - plugins
-  - javascript
+  - project-specific
+  - official-awesome
+  - tool-resources
 featured: false
-updated_at: 2026-04-22 11:36
+updated_at: 2026-04-22 14:53
