@@ -1,62 +1,46 @@
 name: awesome-awesome-awesome-awesome
-description: GitHub repository that serves as a curated meta-list collecting
-  multiple "awesome" lists of other awesome lists, effectively a directory of
-  meta awesome directories.
+description: Multi-level meta-list curating lists of awesome lists by Sindre
+  Sorhus. Focuses on awesome lists about awesome topics; highly meta, useful for
+  discovering directories of directories. Ideal for meta-research on the awesome
+  ecosystem and compares to jnv/lists as more GitHub-focused.
 source_url: https://github.com/sindresorhus/awesome-awesome-awesome-awesome
-featured: false
-brand: github
-brand_logo_url: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
-images:
-  - https://opengraph.githubassets.com/1/sindresorhus/awesome-awesome-awesome-awesome
-category: meta-directories
+category: meta-awesome-directories
 tags:
   - awesome-lists
-  - meta-directory
-  - directory-of-directories
+  - multi-meta
+  - sindresorhus
+featured: true
 markdown: >-
-  # awesome-awesome-awesome-awesome
-
-
-  - **Type:** Open-source GitHub repository / meta-directory
-
-  - **Category:** Meta-directories
-
-  - **Brand:** GitHub
-
-  - **Website:** https://github.com/sindresorhus/awesome-awesome-awesome-awesome
-
-
   ## Overview
 
-  `awesome-awesome-awesome-awesome` is a curated meta-list that collects
-  multiple "awesome" lists of other awesome lists. It functions as a directory
-  of directories, focusing specifically on aggregating existing meta awesome
-  lists into one place.
 
-
-  If this level of recursion is excessive, the repository suggests using the
-  primary [`awesome`](https://github.com/sindresorhus/awesome) list instead.
+  awesome-awesome-awesome-awesome is a curated, multi-level meta-list
+  aggregating awesome lists that themselves curate other awesome lists, created
+  by Sindre Sorhus.
 
 
   ## Features
 
-  - **Curated meta-list:** Focuses on quality-controlled inclusion of lists, not
-  an automatic or exhaustive index.
 
-  - **Directory of directories:** Aggregates lists that themselves aggregate
-  other awesome lists, providing a higher-level navigation point.
+  - Nested curation of high-quality meta-lists
 
-  - **Awesome ecosystem integration:** Built around the popular "awesome" list
-  convention on GitHub.
+  - Direct links to README files for easy navigation
 
-  - **Community-driven updates:** Hosted on GitHub, allowing contributions via
-  standard GitHub workflows (issues, pull requests).
 
-  - **Documentation file:** Central content lives in `readme.md` for easy
-  browsing in the repository.
+  ## Use Cases
+
+
+  - Discovering directories of directories
+
+  - Meta-research on the GitHub awesome ecosystem
 
 
   ## Pricing
 
-  - **Cost:** Free (open-source GitHub repository).
-updated_at: 2025-12-31 19:34
+
+  Free and open-source.
+brand: Sindre Sorhus
+brand_logo_url: https://raw.githubusercontent.com/sindresorhus/awesome-awesome-awesome-awesome/master/media/icon.png
+images:
+  - https://opengraph.githubassets.com/1/sindresorhus/awesome-awesome-awesome-awesome
+updated_at: 2026-04-22 11:36

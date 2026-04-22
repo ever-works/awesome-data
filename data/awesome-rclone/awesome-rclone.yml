@@ -1,0 +1,30 @@
+name: Awesome Rclone
+description: Curated collection of Rclone resources, described as the 'Swiss
+  army knife of cloud storage'. Includes tools, projects, and libraries for
+  cloud storage management.
+source_url: https://github.com/rclone/awesome-rclone
+category: themed-directories
+tags:
+  - rclone
+  - cloud-storage
+  - open-source
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Awesome list for Rclone, a command line program to sync files and directories
+  to and from cloud storage providers.
+
+
+  ## Features
+
+
+  - List of related tools, projects, and resources.
+
+
+  ## Pricing
+
+
+  Free and open-source.
+updated_at: 2026-04-22 11:36

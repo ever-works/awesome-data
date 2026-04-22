@@ -5,7 +5,7 @@ description: "awesome-cn is a meta-collection indexing hundreds of awesome lists
   RSS feeds. Use cases: researchers finding niche awesome lists; compare to
   sindresorhus/awesome for canonical list."
 source_url: https://github.com/icopy-site/awesome-cn
-category: Meta Directories
+category: Meta Awesome Directories
 tags:
   - awesome-lists
   - directory-of-directories
@@ -71,4 +71,4 @@ brand: icopy-site
 brand_logo_url: null
 images:
   - https://raw.githubusercontent.com/icopy-site/awesome-cn/main/media/logo.png
-updated_at: 2026-04-22 09:33
+updated_at: 2026-04-22 11:36

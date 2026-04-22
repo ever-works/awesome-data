@@ -3,7 +3,7 @@ description: A meta-collection that discovers and showcases best-of lists with
   awesome open-source projects across all topics, providing ranked and regularly
   updated alternatives to traditional awesome lists.
 source_url: https://github.com/best-of-lists/best-of
-category: Meta Directories
+category: Meta Awesome Directories
 tags:
   - meta-directory
   - open-source
@@ -46,4 +46,4 @@ markdown: >-
 
 
   Free and open-source.
-updated_at: 2026-03-11 13:11
+updated_at: 2026-04-22 11:36

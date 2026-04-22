@@ -3,7 +3,7 @@ description: A web-based directory that aggregates and categorizes 'awesome'
   lists from GitHub, providing a searchable and browsable interface for
   discovering curated resources.
 source_url: https://dev.to/zevireinitz/the-untold-history-of-github-awesome-lists-73d
-category: meta-directories
+category: Awesome List Curators
 tags:
   - curated-lists
   - web-directory
@@ -30,4 +30,4 @@ markdown: |
 
   ### Source
   [Read more about the history of GitHub Awesome-Lists](https://dev.to/zevireinitz/the-untold-history-of-github-awesome-lists-73d)
-updated_at: 2025-05-26 10:11
+updated_at: 2026-04-22 11:36

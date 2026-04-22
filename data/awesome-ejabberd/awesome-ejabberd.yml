@@ -1,0 +1,10 @@
+name: Awesome ejabberd
+description: Curated list of awesome stuff in the ejabberd ecosystem, an XMPP server.
+source_url: https://github.com/davidsanf/awesome-ejabberd
+category: themed-directories
+tags:
+  - xmpp
+  - chat
+  - ejabberd
+featured: false
+updated_at: 2026-04-22 11:36

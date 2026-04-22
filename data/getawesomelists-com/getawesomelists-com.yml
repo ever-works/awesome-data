@@ -4,7 +4,7 @@ description: "Get Awesome Lists indexes a searchable collection of popular
   new and trending lists. Use cases: discover themed awesomes; compare to
   sindresorhus/awesome."
 source_url: https://getawesomelists.com/
-category: Meta Directories
+category: Meta Awesome Directories
 tags:
   - meta-index
   - searchable
@@ -46,4 +46,4 @@ markdown: >-
   Free.
 images:
   - https://getawesomelists.com/favicon.ico
-updated_at: 2026-04-22 09:33
+updated_at: 2026-04-22 11:36

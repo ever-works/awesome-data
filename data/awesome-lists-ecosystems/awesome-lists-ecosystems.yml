@@ -4,7 +4,7 @@ description: "Awesome Lists Ecosystems indexes a searchable collection of
   rankings, categorization, daily updates, RSS. Use cases: discover themed
   awesomes; compare to sindresorhus/awesome."
 source_url: https://awesome.ecosyste.ms/
-category: Meta Directories
+category: Awesome List Trackers
 tags:
   - meta-index
   - searchable
@@ -52,4 +52,4 @@ markdown: >-
   Free and open-source.
 images:
   - https://raw.githubusercontent.com/ecosyste.ms/awesome/main/media/logo.png
-updated_at: 2026-04-22 09:33
+updated_at: 2026-04-22 11:36

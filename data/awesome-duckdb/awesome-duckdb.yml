@@ -1,0 +1,13 @@
+name: Awesome DuckDB
+description: Curated list of resources related to DuckDB, an in-process SQL OLAP
+  database management system. Provides tools, libraries, and projects for
+  working with DuckDB.
+source_url: https://github.com/davidgasquez/awesome-duckdb
+category: themed-directories
+tags:
+  - duckdb
+  - database
+  - sql
+  - olap
+featured: false
+updated_at: 2026-04-22 11:36

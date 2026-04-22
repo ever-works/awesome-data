@@ -3,7 +3,7 @@ description: A curated meta-list of awesome lists, serving as a directory of
   directories across numerous topics. Directly relevant for finding and
   exploring awesome directories.
 source_url: https://github.com/emijrp/awesome-awesome
-category: Awesome Meta Collections
+category: Meta Awesome Directories
 tags:
   - meta-directory
   - curated-lists
@@ -43,4 +43,4 @@ markdown: |
 
   ## License
   - [License information available in repository](https://github.com/emijrp/awesome-awesome/blob/master/LICENSE)
-updated_at: 2026-04-22 09:33
+updated_at: 2026-04-22 11:36
