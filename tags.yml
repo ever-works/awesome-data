@@ -61,7 +61,7 @@
 - id: directory-of-directories
   name: Directory Of Directories
 - id: categorized
-  name: categorized
+  name: Categorized
 - id: websites
   name: websites
 - id: ai-tools
@@ -2388,3 +2388,37 @@
   name: Flashcards
 - id: free-directories
   name: Free Directories
+- id: meta-list
+  name: Meta List
+- id: inception-level
+  name: Inception Level
+- id: directory-aggregator
+  name: Directory Aggregator
+- id: stats
+  name: Stats
+- id: dashboard
+  name: Dashboard
+- id: ranking
+  name: Ranking
+- id: trends
+  name: Trends
+- id: sortable
+  name: Sortable
+- id: highly-curated
+  name: Highly Curated
+- id: gateway
+  name: Gateway
+- id: aggregated
+  name: Aggregated
+- id: topic-grouped
+  name: Topic Grouped
+- id: curated-directory
+  name: Curated Directory
+- id: indexed
+  name: Indexed
+- id: notifications
+  name: Notifications
+- id: dynamic
+  name: Dynamic
+- id: star-history
+  name: Star History
