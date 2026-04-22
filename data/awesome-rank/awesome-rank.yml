@@ -1,10 +1,9 @@
 name: Awesome Rank
-description: Ranking and analytics platform for awesome lists showing stars,
-  forks, and popularity metrics. Provides rankings for awesome lists like
-  awesome-cli-apps, awesome-vscode, and more. Helps discover most popular
-  resources in each category.
+description: Tracks and ranks GitHub awesome lists by stars, forks, updates, and
+  popularity metrics, offering analytics, trends, and comparisons to monitor the
+  growth and relevance of curated resources across categories.
 source_url: https://awesomerank.github.io
-category: Meta Directories
+category: Awesome Trackers & Tools
 tags:
   - awesome-lists
   - rankings
@@ -88,4 +87,4 @@ markdown: >-
 
 
   Free analytics platform.
-updated_at: 2026-03-14 12:28
+updated_at: 2026-04-22 09:33

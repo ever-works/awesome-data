@@ -1,13 +1,14 @@
 name: Track Awesome List
-description: A service that tracks daily updates to over 500 awesome GitHub
-  lists, providing RSS feeds, newsletters, and a searchable interface to stay
-  current with new additions to your favorite awesome lists.
+description: Service that tracks daily updates across over 500 GitHub awesome
+  lists, providing RSS feeds, newsletters, searchable archives, and
+  notifications to monitor new additions and changes in real-time.
 source_url: https://www.trackawesomelist.com/
-category: Meta Directories
+category: Awesome Trackers & Tools
 tags:
   - tracking
   - rss
   - updates
+  - awesome-lists
 featured: true
 markdown: >-
   ## Overview
@@ -46,4 +47,4 @@ markdown: >-
 
 
   Free service with optional premium features.
-updated_at: 2026-03-11 13:11
+updated_at: 2026-04-22 09:33

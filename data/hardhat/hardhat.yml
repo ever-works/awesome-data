@@ -1,11 +1,13 @@
 name: Hardhat
-description: A curated list of resources for Hardhat, the Ethereum development
-  environment for professionals.
-source_url: https
-category: //github.com/katat/awesome-hardhat
+description: "Curated Awesome list for Hardhat. Gathers docs, tools, extensions,
+  community resources. Features: structured categories, high stars, active
+  maintenance. Use cases: Hardhat onboarding; focused vs. broad awesome lists."
+source_url: https://github.com/katat/awesome-hardhat
+category: Project Awesome Lists
 tags:
-  - Blockchain & Crypto:hardhat
-  - ethereum
-  - development
+  - project-awesome
+  - hardhat
 featured: false
-updated_at: 2026-03-23 13:26
+images:
+  - https://raw.githubusercontent.com/katat/awesome-hardhat/main/banner.png
+updated_at: 2026-04-22 09:33

@@ -1,11 +1,14 @@
 name: Benthos
-description: A curated list of resources for Benthos, the stream processor for
-  mundane tasks with declarative configuration.
-source_url: https
-category: //github.com/redpanda-data/awesome-benthos
+description: "Official or community-curated Awesome list for Benthos. Compiles
+  essential resources including docs, tools, plugins, tutorials, and related
+  projects. Key features: regularly updated, star-ranked entries, categorized
+  sections. Use cases: quick onboarding for Benthos users; compare to general
+  data engineering lists like awesome-etl for broader ecosystem."
+source_url: https://github.com/redpanda-data/awesome-benthos
+category: Project Awesome Lists
 tags:
-  - Data Engineering:benthos
-  - streaming
-  - etl
+  - project-specific
+  - benthos
+  - official-list
 featured: false
-updated_at: 2026-03-23 13:26
+updated_at: 2026-04-22 09:33

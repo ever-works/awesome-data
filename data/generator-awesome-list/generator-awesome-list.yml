@@ -1,0 +1,14 @@
+name: generator-awesome-list
+description: Yeoman generator for quickly scaffolding new GitHub Awesome Lists
+  with proper structure, README, and contributing guidelines. Essential tool for
+  creators starting community-curated resource directories.
+source_url: https://github.com/sindresorhus/generator-awesome-list
+category: Awesome List Tools
+tags:
+  - cli
+  - yeoman
+  - awesome-lists
+  - open-source
+featured: false
+brand: sindresorhus
+updated_at: 2026-04-22 09:33

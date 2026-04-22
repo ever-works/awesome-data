@@ -1,11 +1,13 @@
 name: Gleam
-description: A curated collection of resources for Gleam, the type-safe language
-  for the Erlang VM and JavaScript runtimes.
-source_url: https
-category: //github.com/gleam-lang/awesome-gleam
+description: "Curated Awesome list for Gleam. Gathers docs, tools, extensions,
+  community resources. Features: structured categories, high stars, active
+  maintenance. Use cases: Gleam onboarding; focused vs. broad awesome lists."
+source_url: https://github.com/gleam-lang/awesome-gleam
+category: Project Awesome Lists
 tags:
-  - Programming Languages:gleam
-  - functional
-  - erlang
+  - project-awesome
+  - gleam
 featured: false
-updated_at: 2026-03-23 13:26
+images:
+  - https://raw.githubusercontent.com/gleam-lang/awesome-gleam/main/banner.png
+updated_at: 2026-04-22 09:33

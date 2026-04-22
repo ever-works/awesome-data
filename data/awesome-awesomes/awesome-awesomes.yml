@@ -1,13 +1,17 @@
 name: Awesome Awesomes
-description: A meta-awesome list inspired by Inception - a curated list of
-  awesome 'awesome X' lists, automatically generated and maintained to provide a
-  comprehensive directory of all awesome lists.
+description: "Awesome Awesomes is a meta-collection indexing hundreds of awesome
+  lists on GitHub and beyond. It provides search, categorization, and updates
+  for discovering themed directories. Key features: daily tracking, star
+  rankings, RSS feeds. Use cases: researchers finding niche awesome lists;
+  compare to sindresorhus/awesome for canonical list."
 source_url: https://github.com/athityakumar/awesome-awesomes
-category: Meta Directories
+category: Awesome Meta Collections
 tags:
   - meta-directory
   - automated
   - comprehensive
+  - meta-awesome
+  - directory-index
 featured: false
 markdown: >-
   ## Overview
@@ -45,4 +49,6 @@ markdown: >-
 
 
   Free and open-source.
-updated_at: 2026-03-11 13:11
+images:
+  - https://raw.githubusercontent.com/athityakumar/awesome-awesomes/master/media/logo.png
+updated_at: 2026-04-22 09:33

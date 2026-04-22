@@ -1,0 +1,35 @@
+name: Awesome Cybersecurity
+description: A curated list of cybersecurity resources, tools, research
+  projects, and security learning materials.
+source_url: https://github.com/awesomelistsio/awesome-cybersecurity
+category: Themed Directories
+tags:
+  - awesome-lists
+  - cybersecurity
+  - security
+  - open-source
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Curated list of high-quality cybersecurity resources, tools, frameworks, and
+  communities.
+
+
+  ## Features
+
+
+  - Tools for vulnerability scanning
+
+  - Frameworks for threat modeling
+
+  - Communities and research projects
+
+
+  ## Pricing
+
+
+  Free and open-source.
+brand: awesomelistsio
+updated_at: 2026-04-22 09:33

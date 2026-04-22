@@ -1,11 +1,14 @@
 name: Biome
-description: A curated list of resources for Biome, the fast formatter and
-  linter for JavaScript, TypeScript, JSX, and JSON.
-source_url: https
-category: //github.com/biomejs/awesome-biome
+description: "Official or community-curated Awesome list for Biome. Compiles
+  essential resources including docs, tools, plugins, tutorials, and related
+  projects. Key features: regularly updated, star-ranked entries, categorized
+  sections. Use cases: quick onboarding for Biome users; compare to general
+  tooling lists like awesome-eslint for broader ecosystem."
+source_url: https://github.com/biomejs/awesome-biome
+category: Project Awesome Lists
 tags:
-  - Development Tools:biome
-  - linter
-  - formatter
+  - project-specific
+  - biome
+  - official-list
 featured: false
-updated_at: 2026-03-23 13:26
+updated_at: 2026-04-22 09:33

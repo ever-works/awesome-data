@@ -1,64 +1,33 @@
 name: Project Awesome
-description: Curated list of awesome lists with a web interface for browsing
-  GitHub awesome repositories. Features searchable database of curated
-  collections across all topics. Alternative interface to exploring the awesome
-  list ecosystem.
+description: "Project Awesome indexes a searchable collection of awesome lists
+  from GitHub repositories. It provides a web interface with full-text search,
+  topic browsing, and popularity rankings. Use cases: discover themed awesome
+  lists; compare to sindresorhus/awesome."
 source_url: https://project-awesome.org
 category: Meta Directories
 tags:
+  - meta-index
+  - searchable
   - awesome-lists
-  - directory-of-directories
-  - curated-lists
 featured: true
 markdown: >-
   ## Overview
 
 
-  Project Awesome provides a web-based interface for exploring and searching the
-  entire ecosystem of awesome lists from GitHub, making it easier to discover
-  curated resources.
+  Project Awesome is a curated web directory and searchable index for GitHub
+  awesome lists across all topics.
 
 
-  ## Key Features
+  ## Features
 
 
-  - Searchable awesome lists
+  - Full-text search
 
-  - Web interface for GitHub collections
+  - Category and topic browsing
 
-  - Category organization
+  - Star count and popularity metrics
 
-  - Browse by topic
-
-  - Direct links to resources
-
-  - Clean, accessible UI
-
-
-  ## Coverage
-
-
-  - Awesome Database Tools
-
-  - Awesome Postgres
-
-  - Awesome CLI
-
-  - Places to Post Your Startup
-
-  - Hundreds more awesome lists
-
-
-  ## Advantages
-
-
-  - Better than navigating GitHub directly
-
-  - Search across all awesome lists
-
-  - Organized browsing
-
-  - Quick access to resources
+  - Direct links to repositories
 
   - User-friendly interface
 
@@ -66,26 +35,17 @@ markdown: >-
   ## Use Cases
 
 
-  - Discovering new tools
+  - Discover themed awesome lists
 
-  - Research across domains
+  - Explore curated resources efficiently
 
-  - Finding curated resources
-
-  - Exploring technology ecosystems
-
-  - Learning new technologies
-
-
-  ## Target Audience
-
-
-  Developers, learners, and researchers who want an easier way to explore the
-  awesome list ecosystem beyond GitHub.
+  - Alternative interface to sindresorhus/awesome
 
 
   ## Pricing
 
 
-  Free to use.
-updated_at: 2026-03-14 12:28
+  Free.
+images:
+  - https://project-awesome.org/favicon-32x32.png
+updated_at: 2026-04-22 09:33

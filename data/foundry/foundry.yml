@@ -1,11 +1,13 @@
 name: Foundry
-description: A curated collection of resources for Foundry, the blazing fast,
-  portable, and modular toolkit for Ethereum application development.
-source_url: https
-category: //github.com/crisgarner/awesome-foundry
+description: "Curated Awesome list for Foundry. Gathers docs, tools, extensions,
+  community resources. Features: structured categories, high stars, active
+  maintenance. Use cases: Foundry onboarding; focused vs. broad awesome lists."
+source_url: https://github.com/crisgarner/awesome-foundry
+category: Project Awesome Lists
 tags:
-  - Blockchain & Crypto:foundry
-  - ethereum
-  - solidity
+  - project-awesome
+  - foundry
 featured: false
-updated_at: 2026-03-23 13:26
+images:
+  - https://raw.githubusercontent.com/crisgarner/awesome-foundry/main/banner.png
+updated_at: 2026-04-22 09:33

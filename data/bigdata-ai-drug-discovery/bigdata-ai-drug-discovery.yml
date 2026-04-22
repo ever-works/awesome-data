@@ -1,10 +1,16 @@
 name: Bigdata Ai Drug Discovery
-description: Resources for leveraging big data and AI for drug discovery
+description: Curated directory indexing open-source resources, tools, datasets,
+  and papers for big data and AI applications in drug discovery. It offers
+  categorized collections with links and descriptions for easy exploration,
+  regularly updated with new advancements. Useful for biotech researchers
+  discovering relevant projects, providing a comprehensive list beyond specific
+  GitHub topics.
 source_url: https://github.com/Bin-Chen-Lab/Awesome_BigData_AI_DrugDiscovery
 category: General Directories
 tags:
-  - curated-list
-  - resources
+  - general-directory
+  - open-source-hub
+  - drug-discovery
 markdown: |-
   ## Overview
 
@@ -13,4 +19,4 @@ markdown: |-
   ## Pricing
 
   Free and open-source resource.
-updated_at: 2026-03-22 13:19
+updated_at: 2026-04-22 09:33

@@ -1,14 +1,15 @@
 name: Awesome Bun
-description: A curated list of awesome resources for Bun, the incredibly fast
-  all-in-one JavaScript runtime, bundler, transpiler, and package manager,
-  featuring frameworks like Hono and Elysia, tools, libraries, and best
-  practices for modern JavaScript development.
+description: "Official or community-curated Awesome list for Bun. Compiles
+  essential resources including docs, tools, plugins, tutorials, and related
+  projects. Key features: regularly updated, star-ranked entries, categorized
+  sections. Use cases: quick onboarding for Bun users; compare to general
+  JavaScript lists like awesome-nodejs for broader ecosystem."
 source_url: https://github.com/oven-sh/awesome-bun
-category: Programming Languages
+category: Project Awesome Lists
 tags:
+  - project-specific
   - bun
-  - javascript
-  - runtime
+  - official-list
 markdown: >-
   ## Overview
 
@@ -363,4 +364,4 @@ markdown: >-
 
 
   Bun is free and open-source under MIT license.
-updated_at: 2026-03-22 13:19
+updated_at: 2026-04-22 09:33

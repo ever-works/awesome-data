@@ -1,12 +1,14 @@
-name: Convex
-description: A curated collection of resources for Convex, the backend
-  application platform with a database, serverless functions, and real-time
-  updates.
-source_url: https
-category: //github.com/get-convex/awesome-convex
+name: Awesome Convex
+description: "Awesome Convex list curates resources for Convex: docs, tools,
+  integrations, examples. Features: community-driven, categorized, starred
+  repos. Use cases: accelerate Convex development; vs. general lists, more
+  focused."
+source_url: https://github.com/get-convex/awesome-convex
+category: Project Awesome Lists
 tags:
-  - Cloud & Infrastructure:convex
-  - backend
-  - real-time
+  - project-awesome
+  - convex
 featured: false
-updated_at: 2026-03-23 13:26
+images:
+  - https://raw.githubusercontent.com/get-convex/awesome-convex/main/og-image.png
+updated_at: 2026-04-22 09:33

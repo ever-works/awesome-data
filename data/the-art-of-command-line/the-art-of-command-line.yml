@@ -1,0 +1,11 @@
+name: The Art of Command Line
+description: Collection of inspiring lists, manuals, cheatsheets, blogs, hacks,
+  one-liners, CLI/web tools and more for command line enthusiasts.
+source_url: https://github.com/jlevy/the-art-of-command-line
+category: development-tools
+tags:
+  - cli
+  - cheatsheets
+  - awesome-lists
+featured: false
+updated_at: 2026-04-22 09:33

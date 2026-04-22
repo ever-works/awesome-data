@@ -1,0 +1,14 @@
+name: Linux-Voice-Tech
+description: Aggregated Linux voice tech resources.
+source_url: https://github.com/danielrosehill/Linux-Voice-Tech
+category: themed-directories
+tags:
+  - linux
+  - voice-tech
+  - awesome-lists
+featured: false
+markdown: |-
+  ## Overview
+
+  Aggregated Linux voice tech resources.
+updated_at: 2026-04-22 09:33

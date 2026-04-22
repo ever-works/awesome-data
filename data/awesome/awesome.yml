@@ -4,7 +4,7 @@ description: A meta-directory that curates and organizes numerous awesome lists
   relevant as an 'Awesome Directory' for discovering further curated
   directories.
 source_url: https://github.com/sindresorhus/awesome
-category: meta-directories
+category: Awesome Meta Collections
 tags:
   - curated-lists
   - open-source
@@ -31,4 +31,4 @@ markdown: |
 
   ## Tags
   curated-lists, open-source, github, meta-directory
-updated_at: 2025-05-26 10:11
+updated_at: 2026-04-22 09:33

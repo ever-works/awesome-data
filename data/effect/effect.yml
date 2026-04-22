@@ -1,12 +1,14 @@
-name: Effect
-description: A curated collection of resources for Effect, the powerful
-  TypeScript library for building robust applications with error handling and
-  resource management.
-source_url: https
-category: //github.com/Effect-TS/awesome-effect
+name: Awesome Effect
+description: "Awesome Effect list curates resources for Effect-TS: docs, tools,
+  integrations, examples. Features: community-driven, categorized, starred
+  repos. Use cases: accelerate Effect-TS development; vs. general lists, more
+  focused."
+source_url: https://github.com/Effect-TS/awesome-effect
+category: Project Awesome Lists
 tags:
-  - Programming Languages:effect
-  - typescript
-  - functional
+  - project-awesome
+  - effect
 featured: false
-updated_at: 2026-03-23 13:26
+images:
+  - https://raw.githubusercontent.com/Effect-TS/awesome-effect/main/banner.png
+updated_at: 2026-04-22 09:33

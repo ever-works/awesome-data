@@ -1,49 +1,55 @@
 name: Awesome Lists Ecosystems
-description: An open API service from Ecosyste.ms that indexes awesome lists of
-  open source software, providing structured data and discovery tools for
-  navigating the awesome list ecosystem.
+description: "Awesome Lists Ecosystems indexes a searchable collection of
+  hundreds of awesome lists on GitHub and beyond. Features: search, star
+  rankings, categorization, daily updates, RSS. Use cases: discover themed
+  awesomes; compare to sindresorhus/awesome."
 source_url: https://awesome.ecosyste.ms/
 category: Meta Directories
 tags:
-  - api
+  - meta-index
   - searchable
-  - open-data
+  - api
 featured: true
 markdown: >-
   ## Overview
 
 
-  Ecosyste.ms Awesome provides a programmatic interface to explore and discover
-  awesome lists, with structured data about projects, categories, and
-  relationships between lists.
+  Awesome Lists Ecosystems is a meta-directory tracking and indexing awesome
+  lists with programmatic access.
 
 
   ## Features
 
 
-  - RESTful API for accessing awesome list data
+  - Search and filtering by category/tag
 
-  - Comprehensive indexing of GitHub awesome lists
+  - Star rankings and trending
 
-  - Project metadata including stars, forks, and activity
+  - Daily updates and historical data
 
-  - Cross-list discovery and recommendations
+  - RESTful API
 
-  - Category and tag-based filtering
+  - RSS feeds
 
-  - Trending and popular project rankings
+  - Export to JSON/CSV
 
-  - Historical data and growth metrics
 
-  - JSON and CSV export options
+  ## Use Cases
 
-  - Integration examples and documentation
 
-  - Open source data for research and analysis
+  - Discover niche themed awesome lists
+
+  - Analyze list ecosystems
+
+  - Integrate into tools/apps
+
+  - Compare to sindresorhus/awesome
 
 
   ## Pricing
 
 
-  Free and open-source API.
-updated_at: 2026-03-11 13:11
+  Free and open-source.
+images:
+  - https://raw.githubusercontent.com/ecosyste.ms/awesome/main/media/logo.png
+updated_at: 2026-04-22 09:33
