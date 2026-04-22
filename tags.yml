@@ -35,7 +35,7 @@
 - id: project-discovery
   name: Project Discovery
 - id: web-directory
-  name: web-directory
+  name: Web Directory
 - id: searchable
   name: Searchable
 - id: directories
@@ -241,7 +241,7 @@
 - id: windows
   name: windows
 - id: editor
-  name: editor
+  name: Editor
 - id: video
   name: Video
 - id: financial
@@ -2310,3 +2310,35 @@
   name: Personal Ai
 - id: sitrep
   name: Sitrep
+- id: multi-meta
+  name: Multi Meta
+- id: sindresorhus
+  name: Sindresorhus
+- id: duckdb
+  name: Duckdb
+- id: olap
+  name: Olap
+- id: rich-text
+  name: Rich Text
+- id: edtech
+  name: Edtech
+- id: online-learning
+  name: Online Learning
+- id: xmpp
+  name: Xmpp
+- id: chat
+  name: Chat
+- id: ejabberd
+  name: Ejabberd
+- id: rclone
+  name: Rclone
+- id: cloud-storage
+  name: Cloud Storage
+- id: canonical
+  name: Canonical
+- id: highly-starred
+  name: Highly Starred
+- id: general
+  name: General
+- id: categorized-meta
+  name: Categorized Meta

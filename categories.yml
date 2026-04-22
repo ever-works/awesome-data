@@ -144,3 +144,11 @@
   name: Awesome Trackers & Tools
 - id: awesome-list-tools
   name: Awesome List Tools
+- id: awesome-list-trackers
+  name: Awesome List Trackers
+- id: meta-awesome-directories
+  name: Meta Awesome Directories
+- id: awesome-list-curators
+  name: Awesome List Curators
+- id: awesome-list-generators
+  name: Awesome List Generators
