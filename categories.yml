@@ -160,3 +160,11 @@
   name: Events
 - id: awesome-discovery-tools
   name: Awesome Discovery Tools
+- id: meta-awesome-collections
+  name: Meta Awesome Collections
+- id: awesome-aggregators
+  name: Awesome Aggregators
+- id: directory-aggregators
+  name: Directory Aggregators
+- id: awesome-maintenance-tools
+  name: Awesome Maintenance Tools

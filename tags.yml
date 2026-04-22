@@ -2422,3 +2422,23 @@
   name: Dynamic
 - id: star-history
   name: Star History
+- id: project-ecosystem
+  name: Project Ecosystem
+- id: curated-resources
+  name: Curated Resources
+- id: awesome-aggregator
+  name: Awesome Aggregator
+- id: carbon-aware
+  name: Carbon Aware
+- id: contributing
+  name: Contributing
+- id: github-stars
+  name: Github Stars
+- id: open-source-discovery
+  name: Open Source Discovery
+- id: 2026-curated
+  name: 2026 Curated
+- id: web-based
+  name: Web Based
+- id: list-builder
+  name: List Builder
