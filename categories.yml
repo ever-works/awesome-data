@@ -33,7 +33,7 @@
 - id: data-engineering
   name: Data Engineering
 - id: machine-learning-ai
-  name: Machine Learning & AI
+  name: Machine Learning Ai
 - id: open-source
   name: Open Source
 - id: game-development
@@ -51,7 +51,7 @@
 - id: quantum-computing
   name: Quantum Computing
 - id: devops-sre
-  name: DevOps & SRE
+  name: Devops Sre
 - id: self-hosting
   name: Self Hosting
 - id: remote-work
@@ -71,7 +71,7 @@
 - id: design
   name: Design
 - id: business-entrepreneurship
-  name: Business & Entrepreneurship
+  name: Business Entrepreneurship
 - id: iot
   name: IoT
 - id: hardware
@@ -152,3 +152,9 @@
   name: Awesome List Curators
 - id: awesome-list-generators
   name: Awesome List Generators
+- id: awesome-list-aggregators
+  name: Awesome List Aggregators
+- id: directory-of-directories
+  name: Directory Of Directories
+- id: events
+  name: Events

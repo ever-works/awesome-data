@@ -39,7 +39,7 @@
 - id: searchable
   name: Searchable
 - id: directories
-  name: directories
+  name: Directories
 - id: datasets
   name: Datasets
 - id: open-data
@@ -79,7 +79,7 @@
 - id: aggregator
   name: Aggregator
 - id: ratings
-  name: ratings
+  name: Ratings
 - id: startup
   name: Startup
 - id: business
@@ -179,7 +179,7 @@
 - id: ebpf
   name: ebpf
 - id: ruby
-  name: ruby
+  name: Ruby
 - id: java
   name: Java
 - id: python
@@ -215,7 +215,7 @@
 - id: audio
   name: Audio
 - id: distributed
-  name: distributed
+  name: Distributed
 - id: education
   name: Education
 - id: regex
@@ -247,7 +247,7 @@
 - id: financial
   name: Financial
 - id: macos
-  name: macos
+  name: Macos
 - id: graphics
   name: Graphics
 - id: nodejs
@@ -339,7 +339,7 @@
 - id: offline
   name: offline
 - id: reverse-engineering
-  name: reverse-engineering
+  name: Reverse Engineering
 - id: packaging
   name: packaging
 - id: tv
@@ -617,7 +617,7 @@
 - id: engineering
   name: Engineering
 - id: data-structures
-  name: data-structures
+  name: Data Structures
 - id: data-validation
   name: data-validation
 - id: dependency-management
@@ -841,7 +841,7 @@
 - id: art
   name: Art
 - id: metadata
-  name: metadata
+  name: Metadata
 - id: wireless
   name: wireless
 - id: autonomous-driving
@@ -2342,3 +2342,49 @@
   name: General
 - id: categorized-meta
   name: Categorized Meta
+- id: submission-service
+  name: Submission Service
+- id: list-of-lists
+  name: List Of Lists
+- id: discovery-tool
+  name: Discovery Tool
+- id: archives
+  name: Archives
+- id: official-awesome
+  name: Official Awesome
+- id: tool-resources
+  name: Tool Resources
+- id: tracker
+  name: Tracker
+- id: star-monitor
+  name: Star Monitor
+- id: dynamic-lists
+  name: Dynamic Lists
+- id: roadmaps
+  name: Roadmaps
+- id: interactive
+  name: Interactive
+- id: careers
+  name: Careers
+- id: ecosystem-resources
+  name: Ecosystem Resources
+- id: community-curated
+  name: Community Curated
+- id: project-onboarding
+  name: Project Onboarding
+- id: directory-of-lists
+  name: Directory Of Lists
+- id: curated-meta
+  name: Curated Meta
+- id: star-ranking
+  name: Star Ranking
+- id: discord
+  name: Discord
+- id: listing
+  name: Listing
+- id: content-marketing
+  name: Content Marketing
+- id: flashcards
+  name: Flashcards
+- id: free-directories
+  name: Free Directories
