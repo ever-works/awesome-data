@@ -168,3 +168,7 @@
   name: Directory Aggregators
 - id: awesome-maintenance-tools
   name: Awesome Maintenance Tools
+- id: awesome-list-management-tools
+  name: Awesome List Management Tools
+- id: voice
+  name: Voice

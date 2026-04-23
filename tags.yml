@@ -67,7 +67,7 @@
 - id: ai-tools
   name: Ai Tools
 - id: ai-directory
-  name: ai-directory
+  name: Ai Directory
 - id: directory-submission
   name: Directory Submission
 - id: seo
@@ -177,7 +177,7 @@
 - id: perl
   name: perl
 - id: ebpf
-  name: ebpf
+  name: Ebpf
 - id: ruby
   name: Ruby
 - id: java
@@ -523,7 +523,7 @@
 - id: documents
   name: documents
 - id: r
-  name: r
+  name: R
 - id: books
   name: Books
 - id: devtools
@@ -535,7 +535,7 @@
 - id: production
   name: Production
 - id: science-fiction
-  name: science-fiction
+  name: Science Fiction
 - id: resources
   name: Resources
 - id: history
@@ -2442,3 +2442,59 @@
   name: Web Based
 - id: list-builder
   name: List Builder
+- id: themed-awesome
+  name: Themed Awesome
+- id: ai4lam
+  name: Ai4lam
+- id: cultural-heritage
+  name: Cultural Heritage
+- id: carbon-accounting
+  name: Carbon Accounting
+- id: list-discovery
+  name: List Discovery
+- id: list-tools
+  name: List Tools
+- id: maintenance
+  name: Maintenance
+- id: star-tracker
+  name: Star Tracker
+- id: dynamic-updater
+  name: Dynamic Updater
+- id: italy-tech
+  name: Italy Tech
+- id: fermentation
+  name: Fermentation
+- id: korean-food
+  name: Korean Food
+- id: quant-finance
+  name: Quant Finance
+- id: algorithmic-trading
+  name: Algorithmic Trading
+- id: voice-assistant
+  name: Voice Assistant
+- id: shiny
+  name: Shiny
+- id: ide-plugins
+  name: Ide Plugins
+- id: curated-topic
+  name: Curated Topic
+- id: indiehackers
+  name: Indiehackers
+- id: early-users
+  name: Early Users
+- id: business-advice
+  name: Business Advice
+- id: startup-feedback
+  name: Startup Feedback
+- id: roasts
+  name: Roasts
+- id: self-promotion
+  name: Self Promotion
+- id: launches
+  name: Launches
+- id: maker-community
+  name: Maker Community
+- id: founder-advice
+  name: Founder Advice
+- id: editor-plugins
+  name: Editor Plugins
