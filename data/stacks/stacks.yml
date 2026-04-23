@@ -1,0 +1,24 @@
+name: Stacks
+description: A smart contract platform secured by Bitcoin. Framework for
+  building apps on Bitcoin.
+source_url: https://github.com/stacks-network/awesome-stacks
+category: Blockchain & Crypto
+tags:
+  - open-source
+  - blockchain
+  - bitcoin
+featured: false
+markdown: |-
+  ## Overview
+
+  A smart contract platform secured by Bitcoin for decentralized apps.
+
+  ## Features
+
+  - Secured by Bitcoin
+  - Smart contract development
+
+  ## Pricing
+
+  Free and open-source.
+updated_at: 2026-04-23 12:06

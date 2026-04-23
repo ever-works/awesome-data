@@ -1,0 +1,24 @@
+name: Cosmos SDK
+description: Modular framework for building app-specific blockchains in Go.
+  Toolkit for custom blockchains.
+source_url: https://github.com/cosmos/awesome-cosmos
+category: Blockchain & Crypto
+tags:
+  - open-source
+  - blockchain
+  - go
+featured: false
+markdown: |-
+  ## Overview
+
+  Modular framework for building application-specific blockchains using Go.
+
+  ## Features
+
+  - Custom blockchain development
+  - Modular architecture
+
+  ## Pricing
+
+  Free and open-source.
+updated_at: 2026-04-23 12:06

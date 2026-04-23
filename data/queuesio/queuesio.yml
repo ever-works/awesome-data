@@ -1,0 +1,32 @@
+name: Queues.io
+description: Comparative directory of job queues, message queues, and related
+  technologies for distributed systems and task processing.
+source_url: http://queues.io/
+category: Themed Directories
+tags:
+  - queues
+  - message-queues
+  - job-queues
+  - distributed-systems
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Overview of queue systems with comparisons on features like durability,
+  transactions, and language support.
+
+
+  ## Features
+
+
+  - Side-by-side comparisons
+
+  - Technology matrix
+
+
+  ## Pricing
+
+
+  Free resource.
+updated_at: 2026-04-23 12:06

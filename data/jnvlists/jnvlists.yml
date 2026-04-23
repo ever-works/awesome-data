@@ -1,14 +1,17 @@
 name: jnv/lists
-description: A 'list of lists' meta-directory, curating directories from GitHub
-  and the web. Especially relevant as a comprehensive resource for discovering
-  directory websites and repositories.
+description: "jnv/lists is the definitive directory of directories, compiling
+  meta-lists of awesome lists and other curated collections from GitHub and
+  beyond. It categorizes lists by theme, including software directories, style
+  guides, and remote work resources. Features: comprehensive indexing,
+  cross-platform curation; use cases: finding specialized awesome lists quickly;
+  differentiates from sindresorhus/awesome by including non-awesome
+  meta-directories and broader web lists."
 source_url: https://github.com/jnv/lists
 category: meta-directories
 tags:
-  - meta-directory
-  - curated-lists
-  - github
-  - directories
+  - directory-of-lists
+  - inception-meta
+  - cross-repo-index
 markdown: >-
   # jnv/lists
 
@@ -33,14 +36,14 @@ markdown: >-
 
   - Lists sourced from GitHub and external websites
 
-  - Multiple levels of list organization ("lists of lists", up to several levels
-  deep)
+  - Multiple levels of list organization (\"lists of lists\", up to several
+  levels deep)
 
   - Contributions from a large community (over 130 contributors)
 
   - Available in CSV format for easier data manipulation
 
-  - Includes "awesome-*" style lists and other themed collections
+  - Includes \"awesome-*\" style lists and other themed collections
 
   - Open for contributions via GitHub
 
@@ -53,4 +56,6 @@ markdown: >-
   ## Pricing
 
   Not applicable; this is an open-source, free resource.
-updated_at: 2025-05-26 10:11
+images:
+  - https://github.com/jnv/lists/raw/master/icon.png
+updated_at: 2026-04-23 12:06

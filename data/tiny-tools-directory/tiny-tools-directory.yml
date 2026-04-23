@@ -1,0 +1,25 @@
+name: Tiny Tools Directory
+description: Curated collection of open source, experimental, and tiny tools for
+  building games, websites, and interactive projects.
+source_url: https://tinytools.directory/
+category: Development Tools
+tags:
+  - tiny-tools
+  - open-source
+  - game-development
+  - web-development
+featured: false
+markdown: |-
+  ## Overview
+
+  Directory of small, focused tools under 100KB for quick prototyping.
+
+  ## Features
+
+  - Filtered by category
+  - Size limits enforced
+
+  ## Pricing
+
+  Free.
+updated_at: 2026-04-23 12:06

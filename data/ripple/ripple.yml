@@ -1,0 +1,23 @@
+name: Ripple
+description: Open source distributed settlement network. Curated list of Ripple resources.
+source_url: https://github.com/vhpoet/awesome-ripple
+category: Blockchain & Crypto
+tags:
+  - open-source
+  - blockchain
+  - distributed
+featured: false
+markdown: |-
+  ## Overview
+
+  Open source distributed settlement network for financial transactions.
+
+  ## Features
+
+  - Distributed settlement system
+  - Resources for Ripple developers
+
+  ## Pricing
+
+  Free and open-source.
+updated_at: 2026-04-23 12:06

@@ -1,0 +1,35 @@
+name: Static Site Generators
+description: Curated directory listing hundreds of static site generators with
+  rankings, comparisons, and detailed descriptions for building fast, secure
+  websites without databases or serverside logic.
+source_url: https://staticsitegenerators.net/
+category: Themed Directories
+tags:
+  - static-site-generators
+  - ssg
+  - web-development
+  - awesome-lists
+featured: false
+markdown: >-
+  ## Overview
+
+
+  A comprehensive list of static site generators organized by popularity, with
+  filters by language, CMS support, and blog awareness.
+
+
+  ## Features
+
+
+  - Popularity rankings based on GitHub stars
+
+  - Comparison charts
+
+  - Detailed generator profiles
+
+
+  ## Pricing
+
+
+  Free to use.
+updated_at: 2026-04-23 12:06

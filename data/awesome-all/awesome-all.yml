@@ -3,7 +3,7 @@ description: Lists of awesome frameworks, libraries, and software. This project
   acts as a centralized directory for various awesome lists, making it highly
   relevant as a directory of directories.
 source_url: https://github.com/bradoyler/awesome-all
-category: meta-directories
+category: Meta Directories
 tags:
   - meta-directory
   - curated-lists
@@ -33,4 +33,4 @@ markdown: |-
 
   **Pricing:**
   - Free (Open Source)
-updated_at: 2025-05-26 10:11
+updated_at: 2026-04-23 12:06

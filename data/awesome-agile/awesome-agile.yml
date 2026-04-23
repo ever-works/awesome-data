@@ -1,0 +1,23 @@
+name: Awesome Agile
+description: Curated list of Agile software development resources, tools, books,
+  and methodologies.
+source_url: https://lorabv.github.io/awesome-agile
+category: Themed Directories
+tags:
+  - agile
+  - software-development
+  - methodologies
+featured: false
+markdown: |-
+  ## Overview
+
+  Resources for Agile practices.
+
+  ## Features
+
+  - Books, tools, podcasts
+
+  ## Pricing
+
+  Free and open-source.
+updated_at: 2026-04-23 12:06

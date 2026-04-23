@@ -1,0 +1,27 @@
+name: 2 Factor Auth
+description: Directory of websites and services that support two-factor
+  authentication (2FA), including support for SMS, email, phone calls, hardware
+  keys, and software authenticators.
+source_url: https://twofactorauth.org/
+category: Security
+tags:
+  - 2fa
+  - security
+  - authentication
+  - directory
+featured: false
+markdown: |-
+  ## Overview
+
+  Crowdsourced directory tracking 2FA support across thousands of sites.
+
+  ## Features
+
+  - Searchable by service category
+  - Support levels (TOTP, U2F, etc.)
+  - Contribution guidelines
+
+  ## Pricing
+
+  Free and open.
+updated_at: 2026-04-23 12:06
