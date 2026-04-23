@@ -5,10 +5,10 @@ description: Directories.so is a comprehensive index of awesome directories
   directory resources. More meta/focused than sindresorhus/awesome, this
   aggregates internet-wide collections.
 source_url: https://directories.so
-category: Meta Awesome Directories
+category: Dynamic List Trackers
 tags:
   - meta-index
   - list-of-lists
   - discovery-tool
 featured: false
-updated_at: 2026-04-23 02:45
+updated_at: 2026-04-23 09:02

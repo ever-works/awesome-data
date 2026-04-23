@@ -1,0 +1,26 @@
+name: Language Models
+description: Curated list of key papers, books, and resources on language models
+  covering foundational architectures, scaling laws, alignment, reasoning, and
+  agentic systems. Contains 31 entries with 24 free or open access.
+source_url: https://github.com/queelius/curations/tree/main/language-models
+category: themed-directories
+tags:
+  - language-models
+  - papers
+  - ai-research
+  - scaling-laws
+markdown: >-
+  ## Overview
+
+
+  Curated resources on language models, including papers, books, and materials
+  on architectures, scaling laws, alignment, reasoning, and agentic systems.
+
+
+  ## Statistics
+
+
+  - Total entries: 31
+
+  - Free/open: 24
+updated_at: 2026-04-23 09:02

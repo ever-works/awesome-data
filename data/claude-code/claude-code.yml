@@ -1,0 +1,40 @@
+name: Claude Code
+description: Curated resources for Claude Code, Anthropic's agentic coding CLI,
+  including official documentation, plugins, skills, workflows, and tutorials.
+  All 10 entries are free or open access.
+source_url: https://github.com/queelius/curations/tree/main/claude-code
+category: themed-directories
+tags:
+  - claude
+  - cli
+  - ai-coding
+  - anthropic
+markdown: >-
+  ## Overview
+
+
+  Curated resources specifically for Claude Code, the agentic coding CLI from
+  Anthropic.
+
+
+  ## Content
+
+
+  - Official documentation
+
+  - Plugins
+
+  - Skills
+
+  - Workflows
+
+  - Tutorials
+
+
+  ## Statistics
+
+
+  - Total entries: 10
+
+  - Free/open: 10
+updated_at: 2026-04-23 09:02

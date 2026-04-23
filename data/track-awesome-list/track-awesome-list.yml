@@ -1,15 +1,16 @@
 name: Track Awesome List
-description: "Track Awesome List monitors daily updates to GitHub awesome lists,
-  notifying on additions/removals. Features RSS feeds, update history, and stats
-  for thousands of lists. Ideal for staying current with open-source resources.
-  Unlike static directories, it provides real-time tracking. Use cases: OSS
-  maintainers, researchers."
+description: Track Awesome List is a dynamic tracker that monitors updates to
+  sindresorhus/awesome and thousands of other awesome lists daily, providing RSS
+  feeds, notifications, and an archive of changes. It features real-time update
+  logs, search by date/list, and GitHub integration for maintainers tracking
+  contributions and researchers monitoring trends. Unlike static meta-lists, it
+  delivers live data.
 source_url: https://www.trackawesomelist.com/
 category: Awesome List Tools
 tags:
-  - list-tracker
+  - dynamic-tracker
+  - rss-feeds
   - notifications
-  - dynamic-monitoring
 featured: true
 markdown: |-
   ## Overview
@@ -42,7 +43,8 @@ markdown: |-
   ## Pricing
 
   Free with premium options.
+brand_logo_url: https://www.trackawesomelist.com/favicon.ico
 images:
   - https://www.trackawesomelist.com/assets/og-image.png
   - https://www.trackawesomelist.com/assets/images/og.png
-updated_at: 2026-04-23 02:45
+updated_at: 2026-04-23 09:02

@@ -1,0 +1,36 @@
+name: ever-works/awesome
+description: "ever-works/awesome is a meta collection mirroring dir.works,
+  aggregating awesome directories with details on PaaS, entities, official
+  links. Features deep categorization, 2026 updates. Use cases: comprehensive
+  discovery. Vs sindresorhus: more directory-focused."
+source_url: https://github.com/ever-works/awesome
+category: Meta Directories
+tags:
+  - meta-directory
+  - directory-of-lists
+  - meta-awesome
+  - inception-lists
+  - awesome-lists
+featured: false
+markdown: |-
+  # ever-works/awesome
+
+  ## Overview
+  Meta collection mirroring dir.works, aggregating awesome directories.
+
+  ## Features
+  - Deep categorization
+  - Details on PaaS, entities, official links
+  - 2026 updates
+
+  ## Use Cases
+  - Comprehensive discovery
+
+  ## Comparisons
+  More directory-focused than sindresorhus/awesome.
+
+  ## Pricing
+  Free and open-source.
+brand_logo_url: null
+images: []
+updated_at: 2026-04-23 09:02

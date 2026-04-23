@@ -3,34 +3,42 @@ description: A curated meta-list of AI tool directories, making it easy to
   discover and submit AI products across various directory platforms. Directly
   relevant as an 'awesome directory of directories' within the AI space.
 source_url: https://github.com/Emlyjones/ai-directories
-category: Meta Awesome Directories
+category: AI Directories
 tags:
   - ai-tools
   - meta-directory
   - curated-lists
   - github
-markdown: |-
+markdown: >-
   # AI Directories (GitHub)
 
-  A curated meta-list of AI tool directories, making it easy to discover and submit AI products across various directory platforms. This resource serves as an 'awesome directory of directories' within the AI space, helping developers and product teams find places to showcase their AI tools and innovations.
+
+  A curated meta-list of AI tool directories, making it easy to discover and
+  submit AI products across various directory platforms. This resource serves as
+  an 'awesome directory of directories' within the AI space, helping developers
+  and product teams find places to showcase their AI tools and innovations.
+
 
   ## Features
+
   - Comprehensive compilation of AI tool directories
-  - Simplifies the process of discovering AI directories for both exploration and submission
+
+  - Simplifies the process of discovering AI directories for both exploration
+  and submission
+
   - Organized and regularly updated list to keep track of the latest platforms
-  - Encourages community contributions by allowing users to add their own directories
+
+  - Encourages community contributions by allowing users to add their own
+  directories
+
   - Focuses on fostering collaboration and visibility within the AI community
-  - Available as an open-source GitHub repository for transparency and contribution
 
-  ## Category
-  Meta-directories
+  - Available as an open-source GitHub repository for transparency and
+  contribution
 
-  ## Tags
-  ai-tools, meta-directory, curated-lists, github
-
-  ## Source
-  [https://github.com/Emlyjones/ai-directories](https://github.com/Emlyjones/ai-directories)
 
   ## Pricing
+
+
   - Free and open-source (no pricing plans mentioned)
-updated_at: 2026-04-23 02:45
+updated_at: 2026-04-23 09:02
