@@ -2498,3 +2498,13 @@
   name: Founder Advice
 - id: editor-plugins
   name: Editor Plugins
+- id: canonical-awesome
+  name: Canonical Awesome
+- id: general-index
+  name: General Index
+- id: searchable-lists
+  name: Searchable Lists
+- id: list-tracker
+  name: List Tracker
+- id: dynamic-monitoring
+  name: Dynamic Monitoring
