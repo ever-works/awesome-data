@@ -2,15 +2,12 @@ name: Awesome AMA Answers
 description: An awesome list of insightful answers extracted from various AMAs,
   organized for easy discovery.
 source_url: https://github.com/stoeffel/awesome-ama-answers#readme
-featured: false
-brand_logo_url: null
-images:
-  - https://opengraph.githubassets.com/1/stoeffel/awesome-ama-answers
-category: themed-directories
+category: Themed Directories
 tags:
   - awesome-lists
   - community
   - web
+featured: false
 markdown: >-
   # Awesome AMA Answers
 
@@ -77,4 +74,7 @@ markdown: >-
   ## Pricing
 
   - **Free**: Public GitHub repository, open and free to use and contribute to.
-updated_at: 2025-12-25 11:11
+brand_logo_url: null
+images:
+  - https://opengraph.githubassets.com/1/stoeffel/awesome-ama-answers
+updated_at: 2026-04-23 14:34

@@ -3,15 +3,12 @@ description: A high-density EEG/ERP dataset hosted on GigaDB, providing detailed
   electrophysiological recordings for research on brain responses and cognitive
   processes.
 source_url: http://gigadb.org/dataset/100990
-featured: false
-brand: nencki-institute-nencki-symfonia
-brand_logo_url: /
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - neuroscience
   - datasets
   - research
+featured: false
 markdown: >-
   # Nencki-Symfonia EEG/ERP Dataset
 
@@ -72,4 +69,6 @@ markdown: >-
 
   No pricing information is provided in the available content. Access terms or
   licensing must be checked directly on the GigaDB dataset page.
-updated_at: 2025-12-30 18:29
+brand: nencki-institute-nencki-symfonia
+brand_logo_url: /
+updated_at: 2026-04-23 14:34

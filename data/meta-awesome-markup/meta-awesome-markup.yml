@@ -2,15 +2,12 @@ name: Meta Awesome - Markup
 description: An Awesome-format sublist in Meta Awesome listing markup languages,
   tools, and markup-related resources beyond Markdown alone.
 source_url: https://github.com/jepemo/meta-awesome/blob/master/doc/markup.md
-featured: false
-brand: jepemometa-awesome
-brand_logo_url: null
-images: null
-category: meta-directories
+category: Meta Directories
 tags:
   - meta-directory
   - markup
   - documents
+featured: false
 markdown: >
   # Meta Awesome – Markup
 
@@ -62,4 +59,6 @@ markdown: >
 
   - Not specified; as a GitHub-hosted list, it is generally available to view
   for free unless otherwise noted in the repository.
-updated_at: 2025-12-26 11:32
+brand: jepemometa-awesome
+brand_logo_url: null
+updated_at: 2026-04-23 14:34

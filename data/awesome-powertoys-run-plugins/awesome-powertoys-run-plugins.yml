@@ -2,15 +2,12 @@ name: Awesome PowerToys Run Plugins
 description: A curated list of community plugins for PowerToys Run, the Windows
   quick launcher, organized in an awesome‑style directory.
 source_url: https://github.com/hlaueriksson/awesome-powertoys-run-plugins#readme
-featured: false
-brand: hlaueriksson
-brand_logo_url: /hlaueriksson.png
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - windows
   - productivity
   - awesome-lists
+featured: false
 markdown: >
   # Awesome PowerToys Run Plugins
 
@@ -68,4 +65,6 @@ markdown: >
 
   - Not applicable – this is an open GitHub repository / curated directory, with
   no pricing plans listed.
-updated_at: 2025-12-25 11:11
+brand: hlaueriksson
+brand_logo_url: /hlaueriksson.png
+updated_at: 2026-04-23 14:34

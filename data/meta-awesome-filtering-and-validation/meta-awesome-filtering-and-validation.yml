@@ -2,14 +2,12 @@ name: "meta-awesome: Filtering and Validation"
 description: A meta-awesome document listing awesome directories focused on data
   filtering, input validation, and related libraries and frameworks.
 source_url: https://github.com/jepemo/meta-awesome/blob/master/doc/filtering-and-validation.md
-featured: false
-brand_logo_url: null
-images: []
-category: meta-directories
+category: Meta Directories
 tags:
   - awesome-lists
   - validation
   - directory-of-directories
+featured: false
 markdown: |-
   # meta-awesome: Filtering and Validation
 
@@ -57,4 +55,6 @@ markdown: |-
 
   ## Pricing
   - Access is **free** (standard open-source GitHub repository).
-updated_at: 2025-12-25 11:11
+brand_logo_url: null
+images: []
+updated_at: 2026-04-23 14:34

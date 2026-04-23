@@ -2,15 +2,12 @@ name: Awesome Vorpal
 description: An Awesome list of plugins, projects, and resources for the Vorpal
   Node.js CLI framework.
 source_url: https://github.com/vorpaljs/awesome-vorpal#readme
-featured: false
-brand: sindresorhusawesome
-brand_logo_url: /sindresorhus/awesome/raw/main/media/logo.png
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - awesome-lists
   - nodejs
   - cli
+featured: false
 markdown: >-
   # Awesome Vorpal
 
@@ -81,4 +78,6 @@ markdown: >-
 
   - Awesome Vorpal is a free, open-source curated list. No pricing or paid plans
   are associated with the directory itself.
-updated_at: 2025-12-25 11:11
+brand: sindresorhusawesome
+brand_logo_url: /sindresorhus/awesome/raw/main/media/logo.png
+updated_at: 2026-04-23 14:34

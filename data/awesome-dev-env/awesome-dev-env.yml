@@ -2,14 +2,11 @@ name: Awesome Dev Env
 description: A curated awesome list of tools, resources, and tips for setting up
   productive development environments across platforms.
 source_url: https://github.com/jondot/awesome-devenv#readme
-featured: false
-brand: github
-brand_logo_url: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - awesome-lists
   - developer-tools
+featured: false
 markdown: >-
   # Awesome Dev Env
 
@@ -55,6 +52,7 @@ markdown: >-
 
   - **Desktop**  
     Tools for improving and customizing the desktop environment.
+
 
     
   - **Documentation**  
@@ -150,4 +148,6 @@ markdown: >-
 
   - Contributors are acknowledged through the repository’s contributor list on
   GitHub.
-updated_at: 2025-12-25 11:11
+brand: github
+brand_logo_url: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
+updated_at: 2026-04-23 14:34

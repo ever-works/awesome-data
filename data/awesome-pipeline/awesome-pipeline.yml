@@ -2,15 +2,12 @@ name: Awesome Pipeline
 description: An awesome list of pipeline toolkits, inspired by Awesome Sysadmin,
   serving as a specialized directory in the awesome meta-collection.
 source_url: https://github.com/pditommaso/awesome-pipeline
-featured: false
-brand: pditommaso-on-github
-brand_logo_url: /pditommaso on GitHub
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - awesome-lists
   - devops
   - workflow
+featured: false
 markdown: >
   # Awesome Pipeline
 
@@ -92,4 +89,6 @@ markdown: >
   open-source curated list. There are no pricing plans for using the list
   itself. (Individual listed tools may have their own licenses and pricing,
   which are not defined in this repository.)
-updated_at: 2025-12-25 11:11
+brand: pditommaso-on-github
+brand_logo_url: /pditommaso on GitHub
+updated_at: 2026-04-23 14:34

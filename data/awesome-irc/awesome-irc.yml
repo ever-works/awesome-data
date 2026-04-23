@@ -2,15 +2,12 @@ name: Awesome IRC
 description: A curated list of tools, clients, servers, and resources for IRC,
   the open source Internet Relay Chat messaging protocol.
 source_url: https://github.com/davisonio/awesome-irc#readme
-featured: false
-brand: awesome
-brand_logo_url: /.github/logo.png
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - awesome-lists
   - communication
   - open-source
+featured: false
 markdown: >-
   # Awesome IRC
 
@@ -196,4 +193,6 @@ markdown: >-
 
   - Not applicable. Awesome IRC is a free, open, curated list of resources and
   does not offer paid plans.
-updated_at: 2025-12-25 11:11
+brand: awesome
+brand_logo_url: /.github/logo.png
+updated_at: 2026-04-23 14:34

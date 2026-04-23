@@ -2,14 +2,12 @@ name: Awesome Service Workers
 description: An awesome list of resources, libraries, and learning materials
   focused on Service Workers and related web technologies.
 source_url: https://github.com/TalAter/awesome-service-workers#readme
-featured: false
-brand_logo_url: null
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - web
   - javascript
   - developer-resources
+featured: false
 markdown: >-
   # Awesome Service Workers
 
@@ -50,4 +48,5 @@ markdown: >-
 
   - Not a commercial product or service; access to the list is free via the
   GitHub repository.
-updated_at: 2025-12-25 11:11
+brand_logo_url: null
+updated_at: 2026-04-23 14:34

@@ -2,15 +2,12 @@ name: Awesome Ansible
 description: A curated Awesome directory of resources, tools, and roles for
   Ansible, the open‑source automation and configuration management platform.
 source_url: https://github.com/ansible-community/awesome-ansible#readme
-featured: false
-brand: ansible-community
-brand_logo_url: /logo.png
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - awesome-lists
   - devops
   - automation
+featured: false
 markdown: >
   # Awesome Ansible
 
@@ -90,4 +87,6 @@ markdown: >
 
   - Not applicable. Awesome Ansible is a free, open, community‑maintained
   directory of links and resources.
-updated_at: 2025-12-25 11:11
+brand: ansible-community
+brand_logo_url: /logo.png
+updated_at: 2026-04-23 14:34

@@ -2,14 +2,12 @@ name: Awesome Web Accessibility
 description: An awesome list of web accessibility (a11y) tools, standards, and
   learning materials.
 source_url: https://github.com/brunopulis/awesome-a11y#readme
-featured: false
-brand_logo_url: null
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - accessibility
   - web-development
   - awesome-lists
+featured: false
 markdown: >-
   # Awesome Web Accessibility
 
@@ -59,4 +57,5 @@ markdown: >-
 
   - **Format:** Text-based directory of external resources, in typical “awesome
   list” style (Markdown file in the repository).
-updated_at: 2025-12-25 11:11
+brand_logo_url: null
+updated_at: 2026-04-23 14:34

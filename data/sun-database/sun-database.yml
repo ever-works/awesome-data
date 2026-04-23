@@ -4,15 +4,12 @@ description: The Scene UNderstanding (SUN) database from MIT is a large-scale
   image-processing directory, fitting into the Awesome meta-collection of
   computer vision datasets.
 source_url: http://groups.csail.mit.edu/vision/SUN/hierarchy.html
-featured: false
-brand: mit-csail-vision-group
-brand_logo_url: null
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - datasets
   - computer-vision
   - images
+featured: false
 markdown: >
   ## SUN Database
 
@@ -138,4 +135,6 @@ markdown: >
   No pricing or payment information is indicated in the provided content. The
   dataset appears to be an academic resource; access terms should be confirmed
   on the official download page.
-updated_at: 2025-12-30 18:29
+brand: mit-csail-vision-group
+brand_logo_url: null
+updated_at: 2026-04-23 14:34

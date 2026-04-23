@@ -2,14 +2,12 @@ name: "meta-awesome: Event"
 description: A meta-awesome index file for awesome lists that deal with
   event-based programming, event models, and related tooling.
 source_url: https://github.com/jepemo/meta-awesome/blob/master/doc/event.md
-featured: false
-brand_logo_url: null
-images: []
-category: meta-directories
+category: Meta Directories
 tags:
   - meta-directory
   - developer-resources
   - awesome-lists
+featured: false
 markdown: >-
   # meta-awesome: Event
 
@@ -51,4 +49,6 @@ markdown: >-
 
   - Not applicable. This is an open GitHub index file and can be accessed for
   free.
-updated_at: 2025-12-25 11:11
+brand_logo_url: null
+images: []
+updated_at: 2026-04-23 14:34

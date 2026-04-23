@@ -3,15 +3,12 @@ description: A curated collection of resources for writing cross‑platform
   Node.js code, covering patterns, tools, and libraries that work across
   different operating systems.
 source_url: https://github.com/bcoe/awesome-cross-platform-nodejs#readme
-featured: false
-brand: bcoe
-brand_logo_url: /bcoe.png
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - nodejs
   - cross-platform
   - developer-tools
+featured: false
 markdown: >
   # Awesome Cross-Platform Node.js
 
@@ -126,4 +123,6 @@ markdown: >
   - This is a free, open-source, GitHub-hosted curated list.  
 
   - No pricing plans or paid tiers are associated with this directory.
-updated_at: 2025-12-25 11:11
+brand: bcoe
+brand_logo_url: /bcoe.png
+updated_at: 2026-04-23 14:34

@@ -2,15 +2,12 @@ name: Awesome Threat Intelligence
 description: An awesome-list compilation of open-source tools, feeds, and
   references related to cyber threat intelligence.
 source_url: https://github.com/hslatman/awesome-threat-intelligence
-featured: false
-brand: hslatman
-brand_logo_url: /hslatman
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - security
   - open-source
   - analysis
+featured: false
 markdown: >-
   # Awesome Threat Intelligence
 
@@ -67,4 +64,6 @@ markdown: >-
 
   - **Free**: The repository and its contents are open-source and freely
   accessible under the Apache-2.0 license.
-updated_at: 2025-12-25 11:11
+brand: hslatman
+brand_logo_url: /hslatman
+updated_at: 2026-04-23 14:34

@@ -2,15 +2,12 @@ name: Meta Awesome - Micro Framework Extras
 description: An Awesome-style complement list under Meta Awesome that focuses on
   extensions and extras around micro frameworks.
 source_url: https://github.com/jepemo/meta-awesome/blob/master/doc/micro-framework-extras.md
-featured: false
-brand: jepemometa-awesome
-brand_logo_url: null
-images: null
-category: meta-directories
+category: Meta Directories
 tags:
   - awesome-lists
   - framework
   - extensions
+featured: false
 markdown: |-
   # Meta Awesome – Micro Framework Extras
 
@@ -49,4 +46,6 @@ markdown: |-
   ## Pricing
   - Not a commercial product or service.
   - Access to the list is free via the public GitHub repository.
-updated_at: 2025-12-26 11:32
+brand: jepemometa-awesome
+brand_logo_url: null
+updated_at: 2026-04-23 14:34

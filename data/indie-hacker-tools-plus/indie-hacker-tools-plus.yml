@@ -4,14 +4,12 @@ description: An awesome-list style curated collection of tech stacks and tools
   popular, proven tools used in industry, and is tagged with "awesome" and
   "awesome-list", fitting within the meta ecosystem of awesome directories.
 source_url: https://github.com/XiaomingX/indie-hacker-tools-plus
-featured: false
-brand_logo_url: null
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - awesome-lists
   - startups
   - developer-tools
+featured: false
 markdown: >
   # indie-hacker-tools-plus
 
@@ -53,4 +51,5 @@ markdown: >
   ## Pricing
 
   - Free, open-source repository (no paid plans mentioned).
-updated_at: 2025-12-31 19:34
+brand_logo_url: null
+updated_at: 2026-04-23 14:34

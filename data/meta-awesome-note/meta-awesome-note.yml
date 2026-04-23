@@ -2,15 +2,12 @@ name: meta-awesome - Note
 description: A notes-related meta-awesome document aggregating awesome lists and
   resources around note-taking tools, systems, and practices.
 source_url: https://github.com/jepemo/meta-awesome/blob/master/doc/note.md
-featured: false
-brand: jepemometa-awesome
-brand_logo_url: null
-images: null
-category: meta-directories
+category: Meta Directories
 tags:
   - meta-directory
   - productivity
   - awesome-lists
+featured: false
 markdown: >-
   # meta-awesome - Note
 
@@ -63,4 +60,6 @@ markdown: >-
 
   - Not applicable – this is a public, GitHub-hosted document with no pricing
   plans indicated.
-updated_at: 2025-12-25 11:11
+brand: jepemometa-awesome
+brand_logo_url: null
+updated_at: 2026-04-23 14:34

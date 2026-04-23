@@ -1,15 +1,12 @@
 name: Awesome OCaml
 description: Awesome-style curated directory of OCaml libraries, tools, and resources.
 source_url: https://github.com/ocaml-community/awesome-ocaml#readme
-featured: false
-brand: sindresorhusawesome
-brand_logo_url: https://raw.githubusercontent.com/sindresorhus/awesome/main/media/logo.svg
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - awesome-lists
   - ocaml
   - developer-tools
+featured: false
 markdown: >-
   # Awesome OCaml
 
@@ -122,4 +119,6 @@ markdown: >-
 
   - Not applicable. This is a free, open, community-maintained directory on
   GitHub.
-updated_at: 2025-12-25 11:11
+brand: sindresorhusawesome
+brand_logo_url: https://raw.githubusercontent.com/sindresorhus/awesome/main/media/logo.svg
+updated_at: 2026-04-23 14:34

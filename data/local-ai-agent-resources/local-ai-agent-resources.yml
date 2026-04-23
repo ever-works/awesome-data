@@ -1,7 +1,7 @@
 name: Local-AI-Agent-Resources
 description: Aggregated local AI agent resources.
 source_url: https://github.com/danielrosehill/Local-AI-Agent-Resources
-category: themed-directories
+category: Themed Directories
 tags:
   - local-ai
   - agents
@@ -12,4 +12,4 @@ markdown: |-
   ## Overview
 
   Aggregated local AI agent resources.
-updated_at: 2026-04-22 09:33
+updated_at: 2026-04-23 14:34

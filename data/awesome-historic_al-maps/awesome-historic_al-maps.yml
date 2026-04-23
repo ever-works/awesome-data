@@ -2,15 +2,12 @@ name: Awesome-Historic_al-Maps
 description: An Awesome-style meta collection of guidance, tools, repositories,
   databases, and search engines for exploring historical maps.
 source_url: https://github.com/stark1tty/Awesome-Historic_al-Maps
-featured: false
-brand: stark1tty
-brand_logo_url: /stark1tty.png
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - maps
   - history
   - gis
+featured: false
 markdown: >
   # Awesome-Historic_al-Maps
 
@@ -64,4 +61,6 @@ markdown: >
   ## Pricing
 
   - Not applicable. This is a free, open, GitHub-hosted curated list.
-updated_at: 2025-12-25 11:11
+brand: stark1tty
+brand_logo_url: /stark1tty.png
+updated_at: 2026-04-23 14:34

@@ -3,7 +3,7 @@ description: A directory of self-hosted software and services, this repository
   is a comprehensive resource for discovering open-source alternatives to
   commercial SaaS products, organized by category.
 source_url: https://github.com/awesome-selfhosted/awesome-selfhosted
-category: themed-directories
+category: Themed Directories
 tags:
   - self-hosted
   - open-source
@@ -64,4 +64,4 @@ markdown: >-
   ## Tags
 
   self-hosted, open-source, software, alternatives
-updated_at: 2025-05-26 10:11
+updated_at: 2026-04-23 14:34

@@ -2,13 +2,11 @@ name: Awesome Standards
 description: A curated Awesome directory of standards and proposals that define
   and enhance software, programming languages, and related technologies.
 source_url: https://github.com/donBarbos/awesome-standards#readme
-featured: false
-brand_logo_url: null
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - documentation
   - awesome-lists
+featured: false
 markdown: >-
   # Awesome Standards
 
@@ -85,4 +83,5 @@ markdown: >-
 
   - Not applicable. This is an open GitHub repository / directory list, provided
   free of charge.
-updated_at: 2025-12-25 11:11
+brand_logo_url: null
+updated_at: 2026-04-23 14:34

@@ -5,17 +5,12 @@ description: A large, curated collection of complex network datasets (social,
   referenced in “awesome” and curated data directories as a central hub for
   network datasets.
 source_url: http://networkrepository.com/
-featured: false
-brand: ""
-brand_logo_url: /
-images:
-  - http://networkrepository.com/images/network-repository.png
-  - http://networkrepository.com/images/interactive-analytics.png
-category: themed-directories
+category: Themed Directories
 tags:
   - graph
   - datasets
   - research
+featured: false
 markdown: >-
   # Network Repository
 
@@ -168,4 +163,9 @@ markdown: >-
 
   - ![Interactive
   Analytics](http://networkrepository.com/images/interactive-analytics.png)
-updated_at: 2025-12-30 18:29
+brand: ""
+brand_logo_url: /
+images:
+  - http://networkrepository.com/images/network-repository.png
+  - http://networkrepository.com/images/interactive-analytics.png
+updated_at: 2026-04-23 14:34

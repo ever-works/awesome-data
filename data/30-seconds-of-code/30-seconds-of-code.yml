@@ -2,15 +2,12 @@ name: 30 Seconds of Code
 description: An Awesome-style collection of short, easy-to-understand JavaScript
   code snippets you can grasp in 30 seconds.
 source_url: https://github.com/30-seconds/30-seconds-of-code#readme
-featured: false
-brand: 30-seconds-of-code
-brand_logo_url: https://github.com/30-seconds.png
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - javascript
   - snippets
   - developer-tools
+featured: false
 markdown: >-
   # 30 Seconds of Code
 
@@ -53,4 +50,6 @@ markdown: >-
   ## Pricing
 
   - Free and open source (no pricing information or paid plans indicated).
-updated_at: 2025-12-25 11:11
+brand: 30-seconds-of-code
+brand_logo_url: https://github.com/30-seconds.png
+updated_at: 2026-04-23 14:34

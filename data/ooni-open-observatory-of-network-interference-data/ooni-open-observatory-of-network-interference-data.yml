@@ -4,16 +4,12 @@ description: Open data portal from OONI (part of the Tor Project) providing
   world, a staple entry in awesome lists of Internet measurement and censorship
   datasets.
 source_url: https://ooni.torproject.org/data/
-featured: false
-brand: ooni-the-tor-project
-brand_logo_url: https://ooni.org/images/ooni-logo.png
-images:
-  - https://ooni.org/images/ooni-logo.png
-category: themed-directories
+category: Themed Directories
 tags:
   - networking
   - censorship
   - open-data
+featured: false
 markdown: >-
   ## OONI Open Observatory of Network Interference Data
 
@@ -69,4 +65,8 @@ markdown: >-
   Tor Project  
 
   - **Logo:** ![OONI Logo](https://ooni.org/images/ooni-logo.png)
-updated_at: 2025-12-30 18:29
+brand: ooni-the-tor-project
+brand_logo_url: https://ooni.org/images/ooni-logo.png
+images:
+  - https://ooni.org/images/ooni-logo.png
+updated_at: 2026-04-23 14:34

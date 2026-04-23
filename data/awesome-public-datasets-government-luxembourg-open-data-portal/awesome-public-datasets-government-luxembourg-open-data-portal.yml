@@ -2,15 +2,12 @@ name: "Awesome Public Datasets - Government: Luxembourg Open Data Portal"
 description: Awesome Public Datasets item for Luxembourg’s national open data
   portal, providing datasets from Luxembourgish public sector organizations.
 source_url: https://data.public.lu/en/
-featured: false
-brand: awesome-public-datasets
-brand_logo_url: null
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - open-data
   - government
   - datasets
+featured: false
 markdown: >-
   ## Awesome Public Datasets – Government: Luxembourg Open Data Portal
 
@@ -136,4 +133,6 @@ markdown: >-
   - **Source URL:** https://data.public.lu/en/
 
   - Listed as part of the **Awesome Public Datasets** collection.
-updated_at: 2025-12-30 18:29
+brand: awesome-public-datasets
+brand_logo_url: null
+updated_at: 2026-04-23 14:34

@@ -4,14 +4,12 @@ description: Aggregator compiling 300+ directories including awesome lists, AI
   status. Enables quick discovery and submission; broader than GitHub search for
   promotional directories.
 source_url: https://github.com/dariubs/directory-of-directories
-category: Awesome List Aggregators
+category: Awesome Aggregators
 tags:
-  - directories-list
-  - submission
-  - seo-directories
-  - aggregator
-  - searchable-lists
-  - meta-index
+  - meta-awesome
+  - list-aggregator
+  - github-stars
+  - curated-index
 markdown: |-
   ## Overview
 
@@ -40,4 +38,4 @@ markdown: |-
   Free.
 images:
   - https://raw.githubusercontent.com/dariubs/directory-of-directories/main/banner.gif
-updated_at: 2026-04-23 05:34
+updated_at: 2026-04-23 14:34

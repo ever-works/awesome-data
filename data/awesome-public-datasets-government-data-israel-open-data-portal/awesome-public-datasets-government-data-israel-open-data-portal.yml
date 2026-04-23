@@ -2,15 +2,12 @@ name: "Awesome Public Datasets – Government Data: Israel Open Data Portal"
 description: APD catalog entry for the Israeli government open data portal
   data.gov.il, providing datasets from ministries and public bodies in Israel.
 source_url: https://data.gov.il
-featured: false
-brand: government-of-israel
-brand_logo_url: https://www.gov.il/ItemImages/logo.png
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - datasets
   - government
   - open-data
+featured: false
 markdown: >
   # Awesome Public Datasets – Government Data: Israel Open Data Portal
 
@@ -123,4 +120,6 @@ markdown: >
   No pricing information is provided. As a government open data portal, access
   to published datasets is generally free for public use, subject to the
   portal’s terms of use.
-updated_at: 2025-12-30 18:29
+brand: government-of-israel
+brand_logo_url: https://www.gov.il/ItemImages/logo.png
+updated_at: 2026-04-23 14:34

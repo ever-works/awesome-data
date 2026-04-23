@@ -5,15 +5,12 @@ description: The WSU Graph Database is a collection of graph datasets maintained
   algorithms. It serves as a centralized listing of reusable graph data
   resources.
 source_url: http://www.eecs.wsu.edu/mgd/gdb.html
-featured: false
-brand: washington-state-university
-brand_logo_url: /
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - datasets
   - graph
   - research
+featured: false
 markdown: >-
   # WSU Graph Database
 
@@ -60,4 +57,6 @@ markdown: >-
   - **Institution:** Washington State University
 
   - **Brand:** washington-state-university
-updated_at: 2025-12-30 18:29
+brand: washington-state-university
+brand_logo_url: /
+updated_at: 2026-04-23 14:34

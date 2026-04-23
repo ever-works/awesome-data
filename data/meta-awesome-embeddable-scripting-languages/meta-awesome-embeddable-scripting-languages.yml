@@ -2,14 +2,12 @@ name: Meta Awesome - Embeddable Scripting Languages
 description: An awesome-style index of curated lists about embeddable scripting
   languages, aggregating multiple awesome lists under this topic.
 source_url: https://github.com/jepemo/meta-awesome/blob/master/doc/embeddable-scripting-languages.md
-featured: false
-brand_logo_url: null
-images: []
-category: meta-directories
+category: Meta Directories
 tags:
   - meta-directory
   - programming-languages
   - embedded
+featured: false
 markdown: |-
   # Meta Awesome – Embeddable Scripting Languages
 
@@ -35,4 +33,6 @@ markdown: |-
 
   ## Pricing
   - Not applicable. This is an open GitHub-hosted curated list; no pricing information is provided.
-updated_at: 2025-12-25 11:11
+brand_logo_url: null
+images: []
+updated_at: 2026-04-23 14:34

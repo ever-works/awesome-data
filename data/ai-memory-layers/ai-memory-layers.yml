@@ -2,7 +2,7 @@ name: AI-Memory-Layers
 description: Curated collection of AI memory layer projects providing
   persistent, contextual, and structured memory for AI agents and LLMs.
 source_url: https://github.com/danielrosehill/AI-Memory-Layers
-category: themed-directories
+category: Themed Directories
 tags:
   - ai
   - memory-layers
@@ -14,4 +14,4 @@ markdown: >-
 
   Curated collection of AI memory layer projects — persistent, contextual, and
   structured memory for AI agents and LLMs.
-updated_at: 2026-04-22 09:33
+updated_at: 2026-04-23 14:34

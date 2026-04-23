@@ -2,13 +2,11 @@ name: Awesome Audio Visualization
 description: Awesome collection of libraries, tools, and resources for
   visualizing audio data, including real-time and artistic visualizations.
 source_url: https://github.com/willianjusten/awesome-audio-visualization#readme
-featured: false
-brand_logo_url: null
-images: []
-category: themed-directories
+category: Themed Directories
 tags:
   - audio
   - data-visualization
+featured: false
 markdown: >-
   # Awesome Audio Visualization
 
@@ -50,4 +48,6 @@ markdown: >-
 
   - Not applicable. This is an open-source, freely accessible GitHub directory
   of resources.
-updated_at: 2025-12-25 11:11
+brand_logo_url: null
+images: []
+updated_at: 2026-04-23 14:34

@@ -3,14 +3,12 @@ description: An Awesome curated list of resources, tutorials, and tools related
   to Cilium, an eBPF-based networking, observability, and security technology
   for containers, microservices, and virtual machines.
 source_url: https://github.com/seifrajhi/awesome-cilium#readme
-featured: false
-brand_logo_url: null
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - awesome-lists
   - ebpf
   - networking
+featured: false
 markdown: >-
   # Awesome Cilium
 
@@ -74,4 +72,5 @@ markdown: >-
   - **Cilium docs:** https://docs.cilium.io/en/stable
 
   - **eBPF portal (ebpf.io):** https://ebpf.io
-updated_at: 2025-12-25 11:11
+brand_logo_url: null
+updated_at: 2026-04-23 14:34

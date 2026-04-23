@@ -3,15 +3,12 @@ description: An Awesome directory of resources and tools for natural language
   generation, including data-to-text, conversational agents, and narrative
   generation.
 source_url: https://github.com/accelerated-text/awesome-nlg#readme
-featured: false
-brand: awesome-lists
-brand_logo_url: null
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - nlp
   - machine-learning
   - ai
+featured: false
 markdown: >
   # Awesome Natural Language Generation
 
@@ -72,4 +69,6 @@ markdown: >
 
   - Access to the directory and its contents is **free** under the CC0 public
   domain dedication.
-updated_at: 2025-12-25 11:11
+brand: awesome-lists
+brand_logo_url: null
+updated_at: 2026-04-23 14:34

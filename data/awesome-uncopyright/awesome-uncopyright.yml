@@ -2,15 +2,12 @@ name: Awesome Uncopyright
 description: An Awesome list of public domain works and related resources,
   highlighting content free of copyright restrictions.
 source_url: https://github.com/johnjago/awesome-uncopyright#readme
-featured: false
-brand: ""
-brand_logo_url: /
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - awesome-lists
   - public-domain
   - culture
+featured: false
 markdown: >-
   # Awesome Uncopyright
 
@@ -95,4 +92,6 @@ markdown: >-
   - **Free** – The directory and its contents (as a list) are freely accessible
   and reusable under CC0 1.0. Individual listed resources may have their own
   terms or public domain status, as indicated at their respective sources.
-updated_at: 2025-12-25 11:11
+brand: ""
+brand_logo_url: /
+updated_at: 2026-04-23 14:34

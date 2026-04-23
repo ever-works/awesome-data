@@ -3,16 +3,12 @@ description: A community-curated awesome list of command-line applications,
   indexed under the main Awesome meta-collection for discovering high-quality
   CLI tools.
 source_url: https://github.com/agarrharr/awesome-cli-apps
-featured: false
-brand: github
-brand_logo_url: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
-images:
-  - https://opengraph.githubassets.com/1/agarrharr/awesome-cli-apps
-category: themed-directories
+category: Themed Directories
 tags:
   - cli
   - terminal
   - software
+featured: false
 markdown: >-
   # Awesome CLI Apps
 
@@ -114,4 +110,8 @@ markdown: >-
 
   - **Brand logo:**
   https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
-updated_at: 2025-12-25 11:11
+brand: github
+brand_logo_url: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
+images:
+  - https://opengraph.githubassets.com/1/agarrharr/awesome-cli-apps
+updated_at: 2026-04-23 14:34

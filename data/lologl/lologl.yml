@@ -1,0 +1,53 @@
+name: lologl
+description: Meta directory aggregating lists of GitHub lists, enabling
+  inception-level discovery of awesome resources. GitHub-focused with
+  chronological sorting by first commit date. Ideal for exploring interconnected
+  awesome lists, distinguishing itself as a list-of-lists index rather than a
+  general directory.
+source_url: https://github.com/yaph/lologl
+category: Inception Meta Lists
+tags:
+  - list-index
+  - inception-meta
+  - github-lists
+  - meta-list
+  - auto-generated
+featured: true
+markdown: >-
+  ## Overview
+
+
+  List of Lists of GitHub Lists (LoLoGL), a meta-collection tracking other lists
+  of GitHub lists in ascending order of first commit date, tribute to
+  Wikipedia's List of lists of lists.
+
+
+  ## Key Features
+
+
+  - Dynamic aggregation of GitHub lists
+
+  - Chronological ordering
+
+  - GitHub-focused
+
+
+  ## Use Cases
+
+
+  - Inception-level discovery of awesome resources
+
+  - Exploring interconnected lists
+
+
+  ## Comparisons
+
+
+  More specialized in list-of-lists than general directories.
+
+
+  ## Pricing
+
+
+  Free and open-source under CC0-1.0 license.
+updated_at: 2026-04-23 14:34

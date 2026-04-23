@@ -3,14 +3,13 @@ description: Awesome Public Datasets meta reference to DataBC, the Province of
   British Columbia’s open data catalog, aggregating provincial datasets in an
   organized, searchable directory.
 source_url: https://www.data.gov.bc.ca/
-featured: false
-brand: awesome-data
-brand_logo_url: /awesome-data/logo.png
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - datasets
   - government
   - open-data
+featured: false
 markdown: ""
-updated_at: 2025-12-30 18:29
+brand: awesome-data
+brand_logo_url: /awesome-data/logo.png
+updated_at: 2026-04-23 14:34

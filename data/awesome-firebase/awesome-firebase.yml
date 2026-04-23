@@ -2,16 +2,12 @@ name: Awesome Firebase
 description: An awesome list of Firebase SDKs, tools, and resources for building
   applications on Google’s Firebase platform.
 source_url: https://github.com/jthegedus/awesome-firebase#readme
-featured: false
-brand: firebase
-brand_logo_url: https://firebase.google.com/downloads/brand-guidelines/PNG/logo-vertical.png
-images:
-  - https://repository-images.githubusercontent.com/43053249/018d8a80-6f42-11ea-8b4c-0dce274235a0
-category: themed-directories
+category: Themed Directories
 tags:
   - firebase
   - cloud
   - developer-tools
+featured: false
 markdown: >
   # Awesome Firebase
 
@@ -84,4 +80,8 @@ markdown: >
 
   Awesome Firebase is an open-source GitHub repository and is free to use and
   contribute to.
-updated_at: 2025-12-25 11:11
+brand: firebase
+brand_logo_url: https://firebase.google.com/downloads/brand-guidelines/PNG/logo-vertical.png
+images:
+  - https://repository-images.githubusercontent.com/43053249/018d8a80-6f42-11ea-8b4c-0dce274235a0
+updated_at: 2026-04-23 14:34

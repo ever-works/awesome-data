@@ -2,16 +2,12 @@ name: Awesome Chrome DevTools
 description: A curated collection of resources, tips, and tools for using and
   extending Chrome DevTools.
 source_url: https://github.com/ChromeDevTools/awesome-chrome-devtools#readme
-featured: false
-brand: google-chrome
-brand_logo_url: https://www.google.com/chrome/static/images/chrome-logo.svg
-images:
-  - https://www.google.com/chrome/static/images/chrome-logo.svg
-category: themed-directories
+category: Themed Directories
 tags:
   - browser
   - devtools
   - web-development
+featured: false
 markdown: >-
   ---
 
@@ -156,4 +152,8 @@ markdown: >-
   This is an open, curated directory of resources and tools. Individual listed
   tools and services may have their own pricing or licensing, but the directory
   itself is free to access.
-updated_at: 2025-12-25 11:11
+brand: google-chrome
+brand_logo_url: https://www.google.com/chrome/static/images/chrome-logo.svg
+images:
+  - https://www.google.com/chrome/static/images/chrome-logo.svg
+updated_at: 2026-04-23 14:34

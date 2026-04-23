@@ -2,13 +2,11 @@ name: Awesome GIF
 description: Awesome collection of tools, resources, and references for working
   with GIFs, an image format widely used for animations.
 source_url: https://github.com/davisonio/awesome-gif#readme
-featured: false
-brand_logo_url: null
-images: []
-category: themed-directories
+category: Themed Directories
 tags:
   - awesome-lists
   - data-visualization
+featured: false
 markdown: >-
   # Awesome GIF
 
@@ -117,4 +115,6 @@ markdown: >-
 
   - Not applicable. Awesome GIF is an open, curated resource list on GitHub and
   does not have pricing or paid plans.
-updated_at: 2025-12-25 11:11
+brand_logo_url: null
+images: []
+updated_at: 2026-04-23 14:34

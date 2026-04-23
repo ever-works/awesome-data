@@ -3,14 +3,11 @@ description: A curated awesome list focused on Domain-Driven Design (DDD), CQRS,
   Event Sourcing and related concepts, aggregating tools, articles, and
   resources.
 source_url: https://github.com/heynickc/awesome-ddd
-featured: false
-brand: heynickc-on-github
-brand_logo_url: /heynickc on GitHub
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - design
   - awesome-lists
+featured: false
 markdown: >-
   # awesome-ddd
 
@@ -69,4 +66,6 @@ markdown: >-
 
   - Not a commercial product; the GitHub repository and its contents are
   available to access and use for free.
-updated_at: 2025-12-25 11:11
+brand: heynickc-on-github
+brand_logo_url: /heynickc on GitHub
+updated_at: 2026-04-23 14:34

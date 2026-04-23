@@ -4,14 +4,12 @@ description: Awesome Repositories is a curated, GitHub-hosted collection of
   valuable GitHub projects. It aligns with the broader "Awesome" ecosystem by
   organizing and linking to multiple resource-rich repos in one place.
 source_url: https://github.com/pawelborkar/awesome-repos
-featured: true
-brand_logo_url: null
-images: null
-category: meta-directories
+category: Meta Directories
 tags:
   - meta-directory
   - github
   - curated-lists
+featured: true
 markdown: >-
   # Awesome Repositories
 
@@ -78,4 +76,5 @@ markdown: >-
   - Access to the repository and all listed resources is **free**.
 
   - No paid plans or pricing tiers are specified.
-updated_at: 2025-12-25 11:11
+brand_logo_url: null
+updated_at: 2026-04-23 14:34

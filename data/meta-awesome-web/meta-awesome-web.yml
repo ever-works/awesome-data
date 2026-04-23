@@ -2,14 +2,11 @@ name: Meta Awesome - Web
 description: A broad meta awesome index within the Meta Awesome project that
   aggregates multiple awesome lists related to web technologies in general.
 source_url: https://github.com/jepemo/meta-awesome/blob/master/doc/web.md
-featured: false
-brand: meta-awesome
-brand_logo_url: ://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
-images: null
-category: meta-directories
+category: Meta Directories
 tags:
   - meta-directory
   - web
+featured: false
 markdown: >-
   # Meta Awesome – Web
 
@@ -66,4 +63,6 @@ markdown: >-
 
   - Meta Awesome – Web is a free, open directory hosted on GitHub. There are no
   pricing plans or paid tiers.
-updated_at: 2025-12-25 11:11
+brand: meta-awesome
+brand_logo_url: ://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
+updated_at: 2026-04-23 14:34

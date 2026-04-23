@@ -2,16 +2,12 @@ name: Awesome ESP
 description: A curated list of projects, libraries, and resources for ESP
   microcontrollers (ESP8266, ESP32) and their IoT applications.
 source_url: https://github.com/agucova/awesome-esp#readme
-featured: false
-brand: espressif
-brand_logo_url: https://www.espressif.com/sites/all/themes/espressif/logo.png
-images:
-  - https://repository-images.githubusercontent.com/140851708/3b85b480-6f45-11ea-9f5a-1e8f58bd2d96
-category: themed-directories
+category: Themed Directories
 tags:
   - awesome-lists
   - developer-resources
   - hardware
+featured: false
 markdown: |
   # Awesome ESP
 
@@ -47,4 +43,8 @@ markdown: |
   - awesome-lists  
   - developer-resources  
   - hardware
-updated_at: 2025-12-25 11:11
+brand: espressif
+brand_logo_url: https://www.espressif.com/sites/all/themes/espressif/logo.png
+images:
+  - https://repository-images.githubusercontent.com/140851708/3b85b480-6f45-11ea-9f5a-1e8f58bd2d96
+updated_at: 2026-04-23 14:34

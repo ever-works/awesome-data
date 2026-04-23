@@ -2,15 +2,12 @@ name: Static Analysis & Code Quality
 description: A popular awesome-style curated list of static analysis tools and
   code quality resources for various programming languages and ecosystems.
 source_url: https://github.com/analysis-tools-dev/static-analysis#readme
-featured: false
-brand: analysis-tools-dev
-brand_logo_url: null
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - testing
   - code-quality
   - developer-tools
+featured: false
 markdown: >-
   # Static Analysis & Code Quality
 
@@ -84,4 +81,6 @@ markdown: >-
 
   - Not applicable – this is an open, GitHub-hosted curated list and directory
   of tools. No pricing plans are listed in the provided content.
-updated_at: 2025-12-25 11:11
+brand: analysis-tools-dev
+brand_logo_url: null
+updated_at: 2026-04-23 14:34

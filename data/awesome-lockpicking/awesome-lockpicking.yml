@@ -2,15 +2,12 @@ name: Awesome Lockpicking
 description: An Awesome collection of resources about lockpicking, covering the
   theory and practice of opening locks without keys.
 source_url: https://github.com/fabacab/awesome-lockpicking#readme
-featured: false
-brand: github
-brand_logo_url: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - awesome-lists
   - security
   - hardware
+featured: false
 markdown: >-
   # Awesome Lockpicking
 
@@ -90,4 +87,6 @@ markdown: >-
   - Educators teaching physical security.
 
   - Anyone studying how locks, safes, and keys can be attacked or defended.
-updated_at: 2025-12-31 19:34
+brand: github
+brand_logo_url: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
+updated_at: 2026-04-23 14:34

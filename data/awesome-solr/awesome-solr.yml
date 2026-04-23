@@ -3,15 +3,12 @@ description: An Awesome-style curated list of Apache Solr resources, including
   tutorials, tools, and related projects. Part of the broader ecosystem of
   topic-specific awesome directories.
 source_url: https://github.com/Anant/awesome-solr
-featured: false
-brand: anant
-brand_logo_url: /Anant.png
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - awesome-lists
   - search
   - java
+featured: false
 markdown: >-
   # awesome-solr
 
@@ -82,4 +79,6 @@ markdown: >-
 
   - This is an open, GitHub-hosted curated list; there is no pricing or paid
   plan information associated with this directory.
-updated_at: 2025-12-25 11:11
+brand: anant
+brand_logo_url: /Anant.png
+updated_at: 2026-04-23 14:34

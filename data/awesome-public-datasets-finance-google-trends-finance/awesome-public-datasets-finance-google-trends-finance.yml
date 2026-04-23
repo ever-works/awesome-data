@@ -4,15 +4,12 @@ description: A curated Awesome Public Datasets finance listing linking to Google
   entry is maintained in the APD core repository as part of the Awesome-style
   catalog of public data resources.
 source_url: http://www.google.com/trends?q=google&ctab=0&geo=all&date=all&sort=0
-featured: false
-brand: awesomedata-awesome-public-datasets
-brand_logo_url: /awesomedata/apd-core/raw/master/apd-logo.png
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - datasets
   - finance
   - analytics
+featured: false
 markdown: |
   # Awesome Public Datasets – Finance / Google Trends (Finance)
 
@@ -58,4 +55,6 @@ markdown: |
 
   ## Pricing
   - Not specified in the provided content. Google Trends is typically available as a **free-to-use** web tool, though the dataset is accessed via the Google Trends interface rather than as a bulk-download product in this listing.
-updated_at: 2025-12-30 18:29
+brand: awesomedata-awesome-public-datasets
+brand_logo_url: /awesomedata/apd-core/raw/master/apd-logo.png
+updated_at: 2026-04-23 14:34

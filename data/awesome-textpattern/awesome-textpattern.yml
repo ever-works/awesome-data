@@ -2,15 +2,12 @@ name: Awesome Textpattern
 description: Awesome-style collection of plugins, templates, and resources for
   the lightweight PHP-based Textpattern CMS.
 source_url: https://github.com/drmonkeyninja/awesome-textpattern#readme
-featured: false
-brand: textpattern
-brand_logo_url: null
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - awesome-lists
   - cms
   - php
+featured: false
 markdown: >
   # Awesome Textpattern
 
@@ -157,4 +154,6 @@ markdown: >
   - php
 
   - textpattern
-updated_at: 2025-12-25 11:11
+brand: textpattern
+brand_logo_url: null
+updated_at: 2026-04-23 14:34

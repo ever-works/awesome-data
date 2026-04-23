@@ -2,16 +2,12 @@ name: Awesome Web Development
 description: A curated awesome-style list of learning material, tools, and
   resources for web development, organized as a directory for developers.
 source_url: https://dev.to/olanetsoft/10-github-repositories-you-should-know-as-a-developer-4l0p?comments_sort=top
-featured: false
-brand: alpha-opio
-brand_logo_url: https://avatars.githubusercontent.com/u/93459746?v=4
-images:
-  - https://opengraph.githubassets.com/1/alpha-opio/awesome-web-development
-category: themed-directories
+category: Themed Directories
 tags:
   - web-development
   - developer-resources
   - curated-lists
+featured: false
 markdown: |-
   # Awesome Web Development
 
@@ -79,4 +75,8 @@ markdown: |-
 
   ## Pricing
   No pricing information is provided. The listed resources are GitHub-based and generally available for free access unless specified otherwise in their respective repositories.
-updated_at: 2025-12-25 11:11
+brand: alpha-opio
+brand_logo_url: https://avatars.githubusercontent.com/u/93459746?v=4
+images:
+  - https://opengraph.githubassets.com/1/alpha-opio/awesome-web-development
+updated_at: 2026-04-23 14:34

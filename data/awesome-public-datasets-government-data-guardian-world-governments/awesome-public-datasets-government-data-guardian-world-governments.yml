@@ -3,15 +3,12 @@ description: An Awesome Public Datasets listing for The Guardian’s world
   government data portal, aggregating key data and statistics about governments
   worldwide for comparative analysis.
 source_url: http://www.guardian.co.uk/world-government-data
-featured: false
-brand: the-guardian
-brand_logo_url: https://uploads.guim.co.uk/2018/01/31/TheGuardian_Logo.png
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - government
   - open-data
   - research
+featured: false
 markdown: >-
   # Awesome Public Datasets – Government Data: Guardian World Governments
 
@@ -87,4 +84,6 @@ markdown: >-
   - **Brand:** The Guardian  
 
   - **Tags:** `government`, `open-data`, `research`
-updated_at: 2025-12-30 18:29
+brand: the-guardian
+brand_logo_url: https://uploads.guim.co.uk/2018/01/31/TheGuardian_Logo.png
+updated_at: 2026-04-23 14:34

@@ -2,13 +2,11 @@ name: Awesome Productivity
 description: An Awesome list of productivity tools, techniques, resources, and
   articles aimed at improving personal and professional efficiency.
 source_url: https://github.com/jyguyomarch/awesome-productivity#readme
-featured: false
-brand_logo_url: null
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - productivity
   - awesome-lists
+featured: false
 markdown: >-
   # Awesome Productivity
 
@@ -52,4 +50,5 @@ markdown: >-
 
   - Not applicable. This is an open, GitHub-based curated list, not a commercial
   product or service.
-updated_at: 2025-12-25 11:11
+brand_logo_url: null
+updated_at: 2026-04-23 14:34

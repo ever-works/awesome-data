@@ -3,15 +3,12 @@ description: A Quantitative Imaging Network (QIN) prostate collection of imaging
   data cataloged within the Awesome Public Datasets directory. It is aimed at
   quantitative imaging research and algorithm development for prostate cancer.
 source_url: https://wiki.cancerimagingarchive.net/display/Public/QIN+PROSTATE
-featured: false
-brand: rawesomedata-awesome-public-datasets
-brand_logo_url: https://raw.githubusercontent.com/awesomedata/apd-core/master/media/apd-logo.png
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - datasets
   - medical-imaging
   - health
+featured: false
 markdown: >-
   # QIN-PROSTATE
 
@@ -198,4 +195,6 @@ markdown: >-
   - No explicit pricing information is provided in the available content. Access
   is through TCIA under a restricted-use model; terms may apply via TCIA’s
   standard access and licensing policies.
-updated_at: 2025-12-30 18:29
+brand: rawesomedata-awesome-public-datasets
+brand_logo_url: https://raw.githubusercontent.com/awesomedata/apd-core/master/media/apd-logo.png
+updated_at: 2026-04-23 14:34

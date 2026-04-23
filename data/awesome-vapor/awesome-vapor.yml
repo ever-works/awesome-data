@@ -2,15 +2,12 @@ name: Awesome Vapor
 description: A curated list of tools, libraries, and resources for Vapor, the
   Swift server-side framework.
 source_url: https://github.com/vapor-community/awesome-vapor#readme
-featured: false
-brand: rawesome
-brand_logo_url: null
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - awesome-lists
   - swift
   - server
+featured: false
 markdown: >-
   # Awesome Vapor
 
@@ -64,4 +61,6 @@ markdown: >-
   ## Pricing
 
   - Access and usage are **free** (open-source GitHub repository).
-updated_at: 2025-12-25 11:11
+brand: rawesome
+brand_logo_url: null
+updated_at: 2026-04-23 14:34

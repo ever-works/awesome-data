@@ -2,15 +2,12 @@ name: Git Cheat Sheet & Git Flow
 description: A Git cheat sheet repository documenting common commands and Git
   Flow practices, widely referenced in awesome development resources.
 source_url: https://github.com/arslanbilal/git-cheat-sheet#readme
-featured: false
-brand: github
-brand_logo_url: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - git
   - developer-tools
   - documentation
+featured: false
 markdown: >
   # Git Cheat Sheet & Git Flow
 
@@ -144,4 +141,6 @@ markdown: >
 
   - **Brand Logo:**
   https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
-updated_at: 2025-12-25 11:11
+brand: github
+brand_logo_url: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
+updated_at: 2026-04-23 14:34

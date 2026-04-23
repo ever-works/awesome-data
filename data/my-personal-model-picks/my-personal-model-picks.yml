@@ -3,15 +3,12 @@ description: A curated showcase of small, on-premise machine learning models
   with strong practical utility—organized as an Awesome-style list focused on
   privacy-friendly, bio-inspired applications.
 source_url: https://github.com/AmanPriyanshu/My-Personal-Model-Picks
-featured: false
-brand: amanpriyanshu
-brand_logo_url: /AmanPriyanshu.png
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - machine-learning
   - models
   - privacy
+featured: false
 markdown: >
   ---
 
@@ -82,4 +79,6 @@ markdown: >
   - The repository includes a `LICENSE` file; see the project page for exact
   license terms:
     - https://github.com/AmanPriyanshu/My-Personal-Model-Picks/blob/main/LICENSE
-updated_at: 2025-12-25 11:11
+brand: amanpriyanshu
+brand_logo_url: /AmanPriyanshu.png
+updated_at: 2026-04-23 14:34

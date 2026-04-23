@@ -2,15 +2,12 @@ name: Meta Awesome - Hypermedia Types
 description: A Meta Awesome sublist in Awesome format that catalogs hypermedia
   types, specifications, and related tools.
 source_url: https://github.com/jepemo/meta-awesome/blob/master/doc/hypermedia-types.md
-featured: false
-brand: jepemometa-awesome
-brand_logo_url: null
-images: null
-category: meta-directories
+category: Meta Directories
 tags:
   - awesome-lists
   - hypermedia
   - apis
+featured: false
 markdown: >-
   # Meta Awesome – Hypermedia Types
 
@@ -56,4 +53,6 @@ markdown: >-
 
   - Not applicable (GitHub-hosted open resource / list; no pricing information
   provided).
-updated_at: 2025-12-26 11:32
+brand: jepemometa-awesome
+brand_logo_url: null
+updated_at: 2026-04-23 14:34

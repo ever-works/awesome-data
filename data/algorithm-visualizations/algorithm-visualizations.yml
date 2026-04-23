@@ -2,15 +2,12 @@ name: Algorithm Visualizations
 description: An Awesome-style curated collection of algorithm visualizations and
   tools for understanding data structures and algorithms.
 source_url: https://github.com/enjalot/algovis#readme
-featured: false
-brand: enjalot
-brand_logo_url: https://avatars.githubusercontent.com/u/61658
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - algorithms
   - visualization
   - education
+featured: false
 markdown: >-
   # Algorithm Visualizations
 
@@ -62,4 +59,6 @@ markdown: >-
 
   - Not specified in the provided content. The project appears to be a public
   GitHub list; access is typically free for such repositories.
-updated_at: 2025-12-25 11:11
+brand: enjalot
+brand_logo_url: https://avatars.githubusercontent.com/u/61658
+updated_at: 2026-04-23 14:34

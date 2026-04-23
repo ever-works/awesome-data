@@ -2,15 +2,12 @@ name: "Awesome Public Datasets – Government Data: Ireland's Open Data Portal"
 description: Awesome Public Datasets entry pointing to Ireland’s national open
   data portal, cataloguing open datasets from Irish public sector bodies.
 source_url: https://data.gov.ie/data
-featured: false
-brand: government-of-ireland
-brand_logo_url: https://data.gov.ie/sites/default/files/eu-flag.jpg
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - government
   - datasets
   - open-data
+featured: false
 markdown: >-
   # Awesome Public Datasets – Government Data: Ireland's Open Data Portal
 
@@ -90,4 +87,6 @@ markdown: >-
 
   - No paid plans or pricing tiers are indicated; data is intended to be freely
   accessible for reuse.
-updated_at: 2025-12-30 18:29
+brand: government-of-ireland
+brand_logo_url: https://data.gov.ie/sites/default/files/eu-flag.jpg
+updated_at: 2026-04-23 14:34

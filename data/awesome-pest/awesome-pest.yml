@@ -2,15 +2,12 @@ name: Awesome Pest
 description: An Awesome list of resources and libraries for the Pest parser
   generator ecosystem in Rust.
 source_url: https://github.com/pest-parser/awesome-pest#readme
-featured: false
-brand: pest
-brand_logo_url: https://github.com/pest-parser.png
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - awesome-lists
   - rust
   - developer-tools
+featured: false
 markdown: >
   # Awesome Pest
 
@@ -152,4 +149,6 @@ markdown: >
   - rust  
 
   - developer-tools
-updated_at: 2025-12-25 11:11
+brand: pest
+brand_logo_url: https://github.com/pest-parser.png
+updated_at: 2026-04-23 14:34

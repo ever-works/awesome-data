@@ -2,14 +2,11 @@ name: meta-awesome - Miscellaneous
 description: A broader miscellaneous index within meta-awesome, pointing to
   various awesome lists and resources across domains.
 source_url: https://github.com/jepemo/meta-awesome/blob/master/doc/miscellaneous.md
-featured: false
-brand: jepemometa-awesome
-brand_logo_url: null
-images: null
-category: meta-directories
+category: Meta Directories
 tags:
   - meta-directory
   - awesome-lists
+featured: false
 markdown: >-
   # meta-awesome – Miscellaneous
 
@@ -61,4 +58,6 @@ markdown: >-
   - Not a commercial product or service.  
 
   - Publicly accessible GitHub document; free to view and use.
-updated_at: 2025-12-25 11:11
+brand: jepemometa-awesome
+brand_logo_url: null
+updated_at: 2026-04-23 14:34

@@ -2,14 +2,12 @@ name: Awesome Open Source Documents
 description: Awesome list of open source documents such as manuals, books,
   guides, and papers that are maintained collaboratively.
 source_url: https://github.com/44bits/awesome-opensource-documents#readme
-featured: false
-brand_logo_url: null
-images: []
-category: themed-directories
+category: Themed Directories
 tags:
   - documents
   - open-source
   - documentation
+featured: false
 markdown: >-
   # Awesome Open Source Documents
 
@@ -114,4 +112,6 @@ markdown: >-
 
   - Individual documents listed each have their own open source or open-content
   licenses, referenced per item.
-updated_at: 2025-12-25 11:11
+brand_logo_url: null
+images: []
+updated_at: 2026-04-23 14:34

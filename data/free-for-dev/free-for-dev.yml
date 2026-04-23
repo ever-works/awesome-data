@@ -3,7 +3,7 @@ description: A directory of SaaS, PaaS, and IaaS offerings with free tiers,
   curated for developers. This functions as an extensive directory of free
   developer resources.
 source_url: https://github.com/ripienaar/free-for-dev
-category: themed-directories
+category: Themed Directories
 tags:
   - developer-tools
   - free-tier
@@ -69,4 +69,4 @@ markdown: >-
   ## Tags
 
   `developer-tools`, `free-tier`, `saas`, `curated-lists`
-updated_at: 2025-05-26 10:11
+updated_at: 2026-04-23 14:34

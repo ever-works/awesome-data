@@ -7,15 +7,14 @@ description: awindex is a generator for building and maintaining static
   that keep lists current, outperforming manual GitHub searches or static
   markdown views with automated ingestion and search capabilities.
 source_url: https://github.com/digipres/awesome-indexer
-category: Awesome List Tools
+category: Awesome List Tools & Trackers
 tags:
+  - meta-awesome
+  - list-aggregator
+  - github-stars
+  - curated-index
   - list-tools
   - maintenance
-  - dynamic-updater
-  - open-source
-  - awesome-lists
-  - search
-  - static-websites
 featured: false
 markdown: >-
   ## Overview
@@ -144,4 +143,4 @@ markdown: >-
 
 
   Free and open-source (MIT license implied by GitHub repo).
-updated_at: 2026-04-23 02:45
+updated_at: 2026-04-23 14:34

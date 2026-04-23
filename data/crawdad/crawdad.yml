@@ -5,16 +5,12 @@ description: CRAWDAD is a community-maintained archive and directory of
   enabling reproducible research in wireless and mobile networking, and
   exemplifying an awesome-style meta collection focused on wireless data.
 source_url: https://ieee-dataport.org/open-access/crawdad-duepacket-delivery
-featured: false
-brand: dartmouth-college
-brand_logo_url: https://home.dartmouth.edu/sites/home.dartmouth.edu/themes/dartmouth_home_theme/logo.png
-images:
-  - https://crawdad.cs.dartmouth.edu/images/header_logo.png
-category: themed-directories
+category: Themed Directories
 tags:
   - datasets
   - wireless
   - networking
+featured: false
 markdown: >-
   # CRAWDAD – Wireless Network Data Archive
 
@@ -201,4 +197,8 @@ markdown: >-
 
   Not specified. The referenced dataset is listed as **open access** on IEEE
   Dataport.
-updated_at: 2025-12-30 18:29
+brand: dartmouth-college
+brand_logo_url: https://home.dartmouth.edu/sites/home.dartmouth.edu/themes/dartmouth_home_theme/logo.png
+images:
+  - https://crawdad.cs.dartmouth.edu/images/header_logo.png
+updated_at: 2026-04-23 14:34

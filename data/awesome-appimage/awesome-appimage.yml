@@ -2,15 +2,12 @@ name: Awesome AppImage
 description: A curated list of awesome AppImage tools, apps, and resources for
   packaging and distributing applications as single, portable files on Linux.
 source_url: https://github.com/AppImage/awesome-appimage#readme
-featured: false
-brand: appimage
-brand_logo_url: https://github.com/AppImage.png
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - linux
   - desktop
   - packaging
+featured: false
 markdown: >-
   # Awesome AppImage
 
@@ -280,4 +277,6 @@ markdown: >-
 
   Awesome AppImage is an open, community-maintained list. Access and usage are
   free; no pricing plans are involved.
-updated_at: 2025-12-25 11:11
+brand: appimage
+brand_logo_url: https://github.com/AppImage.png
+updated_at: 2026-04-23 14:34

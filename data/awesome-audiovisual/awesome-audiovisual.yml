@@ -2,14 +2,12 @@ name: Awesome Audiovisual
 description: Awesome list of resources related to professional lighting, audio,
   and video in audiovisual environments such as events and installations.
 source_url: https://github.com/stingalleman/awesome-audiovisual#readme
-featured: false
-brand_logo_url: null
-images: []
-category: themed-directories
+category: Themed Directories
 tags:
   - awesome-lists
   - audio
   - video
+featured: false
 markdown: >-
   # Awesome Audiovisual
 
@@ -85,4 +83,6 @@ markdown: >-
   - The list and repository content are available under the license specified in
   the included `LICENSE` file. Individual tools listed have their own respective
   licenses and pricing models.
-updated_at: 2025-12-25 11:11
+brand_logo_url: null
+images: []
+updated_at: 2026-04-23 14:34

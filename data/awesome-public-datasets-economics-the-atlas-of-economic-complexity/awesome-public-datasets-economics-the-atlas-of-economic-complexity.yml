@@ -3,15 +3,12 @@ description: An Awesome Public Datasets catalog entry pointing to Harvard’s
   Atlas of Economic Complexity, an interactive platform and data repository for
   exploring international trade flows and economic complexity indicators.
 source_url: https://github.com/awesomedata/apd-core/tree/master/core//Economics/The-Atlas-of-Economic-Complexity.yml
-featured: false
-brand: awesome-public-datasets
-brand_logo_url: /assets/images/brands/awesomedata.png
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - economics
   - trade
   - datasets
+featured: false
 markdown: >-
   # Awesome Public Datasets – Economics: The Atlas of Economic Complexity
 
@@ -72,4 +69,6 @@ markdown: >-
   - Not specified in the provided content. The Awesome Public Datasets catalog
   entry itself is free to access on GitHub; any specific licensing or usage
   limits depend on the underlying Atlas of Economic Complexity resource.
-updated_at: 2025-12-30 18:29
+brand: awesome-public-datasets
+brand_logo_url: /assets/images/brands/awesomedata.png
+updated_at: 2026-04-23 14:34

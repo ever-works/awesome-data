@@ -2,15 +2,12 @@ name: awesome-opensource-documents
 description: Curated awesome list of open source or open‑licensed documents,
   guides, and books across various technical and non‑technical domains.
 source_url: https://github.com/hubtee/awesome-opensource-documents
-featured: false
-brand: hubtee
-brand_logo_url: /hubtee.png
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - open-source
   - documents
   - resources
+featured: false
 markdown: >-
   # awesome-opensource-documents
 
@@ -212,4 +209,6 @@ markdown: >-
   - **Maintainer / Brand:** hubtee  
 
   - **Brand asset:** `/hubtee.png` (logo path, as provided in item metadata)
-updated_at: 2025-12-25 11:11
+brand: hubtee
+brand_logo_url: /hubtee.png
+updated_at: 2026-04-23 14:34

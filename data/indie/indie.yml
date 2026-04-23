@@ -2,14 +2,12 @@ name: Indie
 description: An awesome collection of resources for independent developers
   building and running their own businesses.
 source_url: https://github.com/mezod/awesome-indie#readme
-featured: false
-brand_logo_url: null
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - startups
   - indie
   - business-tools
+featured: false
 markdown: >-
   # Indie
 
@@ -79,4 +77,5 @@ markdown: >-
   - Not a paid product or service.  
 
   - Public, open GitHub repository; access to the resource list is **free**.
-updated_at: 2025-12-25 11:11
+brand_logo_url: null
+updated_at: 2026-04-23 14:34

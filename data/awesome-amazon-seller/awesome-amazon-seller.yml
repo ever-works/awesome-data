@@ -2,15 +2,12 @@ name: Awesome Amazon Seller
 description: A curated list of tools, services, and resources for Amazon sellers
   to manage and grow their businesses.
 source_url: https://github.com/ScaleLeap/awesome-amazon-seller
-featured: false
-brand: ""
-brand_logo_url: /
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - awesome-lists
   - ecommerce
   - business-tools
+featured: false
 markdown: >
   # Awesome Amazon Seller
 
@@ -100,4 +97,6 @@ markdown: >
   - Access to the list is **free**.
 
   - No paid tiers or plans; it is an open, public GitHub repository.
-updated_at: 2025-12-31 19:34
+brand: ""
+brand_logo_url: /
+updated_at: 2026-04-23 14:34

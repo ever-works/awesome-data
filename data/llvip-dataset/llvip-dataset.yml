@@ -4,16 +4,12 @@ description: The LLVIP dataset contains 30,976 visible and infrared image pairs
   visible and infrared person detection and related ML tasks. Cataloged in
   awesome ML dataset directories.
 source_url: https://bupt-ai-cz.github.io/LLVIP/
-featured: false
-brand: llvip-bupt-ai
-brand_logo_url: null
-images:
-  - https://bupt-ai-cz.github.io/LLVIP/static/images/teaser.png
-category: themed-directories
+category: Themed Directories
 tags:
   - datasets
   - computer-vision
   - infrared
+featured: false
 markdown: >-
   ## LLVIP Dataset
 
@@ -109,4 +105,8 @@ markdown: >-
 
   - Not specified on the referenced content; typically distributed as a research
   dataset (check the project page for licensing and usage terms).
-updated_at: 2025-12-30 18:29
+brand: llvip-bupt-ai
+brand_logo_url: null
+images:
+  - https://bupt-ai-cz.github.io/LLVIP/static/images/teaser.png
+updated_at: 2026-04-23 14:34

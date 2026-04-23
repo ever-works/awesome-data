@@ -2,15 +2,12 @@ name: Awesome Docker
 description: An Awesome-curated directory of Docker-related resources, tools,
   images, and learning material for containerization.
 source_url: https://github.com/veggiemonk/awesome-docker
-featured: false
-brand: veggiemonk
-brand_logo_url: /veggiemonk.png
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - awesome-lists
   - developer-tools
   - curated-lists
+featured: false
 markdown: >-
   # Awesome Docker
 
@@ -69,4 +66,6 @@ markdown: >-
 
   - Not applicable. Awesome Docker is an open-source, freely accessible curated
   list under the Apache-2.0 license.
-updated_at: 2025-12-25 11:11
+brand: veggiemonk
+brand_logo_url: /veggiemonk.png
+updated_at: 2026-04-23 14:34

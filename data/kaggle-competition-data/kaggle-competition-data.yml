@@ -3,15 +3,12 @@ description: Kaggle is a leading platform for data science competitions,
   providing an extensive catalog of public competition datasets and leaderboards
   for machine learning practitioners.
 source_url: https://www.kaggle.com/competitions/day-3-kaggle-competition/data
-featured: false
-brand: kaggle
-brand_logo_url: null
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - datasets
   - machine-learning
   - challenges
+featured: false
 markdown: >
   ## Kaggle Competition Data
 
@@ -61,4 +58,6 @@ markdown: >
 
   - Competition data page:
   https://www.kaggle.com/competitions/day-3-kaggle-competition/data
-updated_at: 2025-12-30 18:29
+brand: kaggle
+brand_logo_url: null
+updated_at: 2026-04-23 14:34

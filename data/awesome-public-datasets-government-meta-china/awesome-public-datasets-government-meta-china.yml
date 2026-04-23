@@ -3,15 +3,12 @@ description: Awesome Public Datasets meta entry for China’s official statistic
   data service, providing a directory of economic, demographic, and social
   indicators in an awesome-style collection.
 source_url: https://data.stats.gov.cn/english/
-featured: false
-brand: awesome-data
-brand_logo_url: /awesome-data/logo.png
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - datasets
   - government
   - open-data
+featured: false
 markdown: >-
   # Awesome Public Datasets - Government (Meta: China)
 
@@ -56,4 +53,6 @@ markdown: >-
 
   - Not specified (public statistical data portal; access details or any usage
   limits not described in the provided content).
-updated_at: 2025-12-30 18:29
+brand: awesome-data
+brand_logo_url: /awesome-data/logo.png
+updated_at: 2026-04-23 14:34

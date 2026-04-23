@@ -3,15 +3,12 @@ description: A popular GitHub repository that implements classic design patterns
   in Java and is tagged as an awesome-list/snippets-collection, making it a
   reusable reference collection for learning and applying design patterns.
 source_url: https://github.com/iluwatar/java-design-patterns
-featured: false
-brand: iluwatar
-brand_logo_url: /iluwatar.png
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - java
   - design
   - patterns
+featured: false
 markdown: >-
   # java-design-patterns
 
@@ -58,4 +55,6 @@ markdown: >-
 
   - Access and use of the repository are **free** under its open-source license
   (no paid plans mentioned).
-updated_at: 2025-12-25 11:11
+brand: iluwatar
+brand_logo_url: /iluwatar.png
+updated_at: 2026-04-23 14:34

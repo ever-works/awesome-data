@@ -3,15 +3,12 @@ description: Meta entry in Awesome Public Datasets referencing Eurostat’s main
   database, an extensive directory of official EU statistics across economics,
   population, and more.
 source_url: http://ec.europa.eu/eurostat/data/database
-featured: false
-brand: awesome-data
-brand_logo_url: /awesome-data/logo.png
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - datasets
   - economics
   - statistics
+featured: false
 markdown: >-
   # Awesome Public Datasets – Government (Meta: EuroStat)
 
@@ -197,4 +194,6 @@ markdown: >-
   - **Brand:** awesome-data
 
   - **Brand logo URL:** `/awesome-data/logo.png`
-updated_at: 2025-12-30 18:29
+brand: awesome-data
+brand_logo_url: /awesome-data/logo.png
+updated_at: 2026-04-23 14:34

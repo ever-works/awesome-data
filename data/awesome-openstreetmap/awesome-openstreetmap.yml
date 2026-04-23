@@ -2,15 +2,12 @@ name: Awesome OpenStreetMap
 description: Awesome list of tools, editors, libraries, and resources for
   working with OpenStreetMap data and ecosystem.
 source_url: https://github.com/osmlab/awesome-openstreetmap#readme
-featured: false
-brand: openstreetmap
-brand_logo_url: https://www.openstreetmap.org/assets/osm_logo-63c6e31ab0f8b5e3c5e2c7c2ec3a6329e5f0d2e0f3a7b1a4f4b8c5a5ffb0c9c9.png
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - gis
   - maps
   - awesome-lists
+featured: false
 markdown: >-
   # Awesome OpenStreetMap
 
@@ -112,4 +109,6 @@ markdown: >-
 
   - **Repository & Documentation:**
   https://github.com/osmlab/awesome-openstreetmap#readme
-updated_at: 2025-12-25 11:11
+brand: openstreetmap
+brand_logo_url: https://www.openstreetmap.org/assets/osm_logo-63c6e31ab0f8b5e3c5e2c7c2ec3a6329e5f0d2e0f3a7b1a4f4b8c5a5ffb0c9c9.png
+updated_at: 2026-04-23 14:34

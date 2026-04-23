@@ -2,14 +2,12 @@ name: Awesome Chess
 description: An awesome collection of chess-related libraries, engines, tools,
   and resources for developers and researchers.
 source_url: https://github.com/hkirat/awesome-chess#readme
-featured: false
-brand_logo_url: null
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - awesome-lists
   - games
   - research
+featured: false
 markdown: >-
   # Awesome Chess
 
@@ -78,4 +76,5 @@ markdown: >-
 
   - Not applicable. This is an open, GitHub-hosted curated list of resources
   with no pricing or paid plans mentioned.
-updated_at: 2025-12-25 11:11
+brand_logo_url: null
+updated_at: 2026-04-23 14:34

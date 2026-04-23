@@ -3,15 +3,12 @@ description: The Metropolitan Museum of Art’s public Collection API that expos
   metadata and images for artworks in The Met collection, referenced as a museum
   dataset/API in the Awesome Public Datasets list.
 source_url: https://metmuseum.github.io/
-featured: false
-brand: the-metropolitan-museum-of-art
-brand_logo_url: null
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - datasets
   - apis
   - art
+featured: false
 markdown: >
   # Metropolitan Museum of Art Collection API
 
@@ -158,4 +155,6 @@ markdown: >
 
   - **Terms and Conditions:**
   https://www.metmuseum.org/information/terms-and-conditions
-updated_at: 2025-12-30 18:29
+brand: the-metropolitan-museum-of-art
+brand_logo_url: null
+updated_at: 2026-04-23 14:34

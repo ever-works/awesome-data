@@ -3,15 +3,12 @@ description: A finance section entry in the Awesome Public Datasets directory
   referring to NYSE market data. It is included as a curated Awesome-style
   pointer to stock exchange data for research and analysis.
 source_url: https://www.nyse.com/market-data
-featured: false
-brand: awesomedata-awesome-public-datasets
-brand_logo_url: /awesomedata/apd-core/raw/master/apd-logo.png
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - datasets
   - finance
   - trading
+featured: false
 markdown: >-
   # Awesome Public Datasets – Finance / NYSE Market Data
 
@@ -165,4 +162,6 @@ markdown: >-
   NYSE Cloud Streaming products) via the ICE/NYSE data portal. For detailed
   pricing, consult the product catalog or the purchase pages linked from the
   NYSE market data site.
-updated_at: 2025-12-30 18:29
+brand: awesomedata-awesome-public-datasets
+brand_logo_url: /awesomedata/apd-core/raw/master/apd-logo.png
+updated_at: 2026-04-23 14:34

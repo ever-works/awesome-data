@@ -3,15 +3,12 @@ description: An Awesome collection focused on the Cosmos SDK, listing tools,
   modules, and educational resources for building app-specific blockchains in
   Go.
 source_url: https://github.com/cosmos/awesome-cosmos#readme
-featured: false
-brand: cosmos
-brand_logo_url: null
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - awesome-lists
   - blockchain
   - golang
+featured: false
 markdown: >-
   # Awesome Cosmos
 
@@ -185,4 +182,6 @@ markdown: >-
 
   Not applicable. Awesome Cosmos is an open, community-maintained list of
   resources with no pricing plans indicated.
-updated_at: 2025-12-25 11:11
+brand: cosmos
+brand_logo_url: null
+updated_at: 2026-04-23 14:34

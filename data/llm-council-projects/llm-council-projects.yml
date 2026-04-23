@@ -2,7 +2,7 @@ name: LLM-Council-Projects
 description: Curated index of projects in the LLM Council ecosystem —
   multi-model deliberation systems.
 source_url: https://github.com/danielrosehill/LLM-Council-Projects
-category: themed-directories
+category: Themed Directories
 tags:
   - llm
   - council
@@ -15,4 +15,4 @@ markdown: >-
 
   Curated index of projects in the LLM Council ecosystem — multi-model
   deliberation systems.
-updated_at: 2026-04-22 09:33
+updated_at: 2026-04-23 14:34

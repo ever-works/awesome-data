@@ -2,15 +2,12 @@ name: Awesome Swift Playgrounds
 description: A curated Awesome list of Swift Playgrounds for learning and
   experimenting with Swift.
 source_url: https://github.com/uraimo/Awesome-Swift-Playgrounds#readme
-featured: false
-brand: ""
-brand_logo_url: /
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - awesome-lists
   - swift
   - education
+featured: false
 markdown: |-
   # Awesome Swift Playgrounds
 
@@ -138,4 +135,6 @@ markdown: |-
   - **Directory home / README:** https://github.com/uraimo/Awesome-Swift-Playgrounds#readme
   - **Contribution guidelines:** https://github.com/uraimo/awesome-swift-playgrounds/blob/master/CONTRIBUTING.md
   - **WWDC submissions overview:** Linked per year within the "WWDC Students Submissions" section in the README.
-updated_at: 2025-12-25 11:11
+brand: ""
+brand_logo_url: /
+updated_at: 2026-04-23 14:34

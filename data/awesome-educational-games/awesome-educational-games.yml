@@ -2,15 +2,12 @@ name: Awesome Educational Games
 description: A curated awesome list of educational games that help users learn
   while playing.
 source_url: https://github.com/yrgo/awesome-educational-games#readme
-featured: false
-brand: yrgo
-brand_logo_url: https://avatars.githubusercontent.com/u/13135719
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - games
   - education
   - resources
+featured: false
 markdown: >-
   # Awesome Educational Games
 
@@ -80,4 +77,6 @@ markdown: >-
 
   - Topics and resources sections in the repository provide additional context
   and links related to educational games.
-updated_at: 2025-12-25 11:11
+brand: yrgo
+brand_logo_url: https://avatars.githubusercontent.com/u/13135719
+updated_at: 2026-04-23 14:34

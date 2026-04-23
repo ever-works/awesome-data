@@ -3,15 +3,12 @@ description: An Awesome-inspired meta collection listing other curated
   directories and Awesome repositories for reactive programming libraries and
   toolkits.
 source_url: https://github.com/jepemo/meta-awesome/blob/master/doc/reactive-libraries.md
-featured: false
-brand: github
-brand_logo_url: https://github.githubassets.com/images/modules/logos_page/GitHub-Logo.png
-images: null
-category: meta-directories
+category: Meta Directories
 tags:
   - awesome-lists
   - reactive-programming
   - libraries
+featured: false
 markdown: >-
   ---
 
@@ -57,4 +54,6 @@ markdown: >-
   notes: |
     The available page content from GitHub’s global navigation does not list the individual reactive-library directories included in this meta collection. For full details on the linked Awesome lists and repositories, refer directly to the source URL.
   ---
-updated_at: 2025-12-26 11:32
+brand: github
+brand_logo_url: https://github.githubassets.com/images/modules/logos_page/GitHub-Logo.png
+updated_at: 2026-04-23 14:34

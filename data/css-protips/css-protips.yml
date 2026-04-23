@@ -2,14 +2,12 @@ name: CSS Protips
 description: A curated collection of tips and best practices to help you write
   better, more efficient CSS.
 source_url: https://github.com/AllThingsSmitty/css-protips#readme
-featured: false
-brand_logo_url: null
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - css
   - web-development
   - frontend
+featured: false
 markdown: >
   ---
 
@@ -168,4 +166,5 @@ markdown: >
 
   - Not a commercial product; the resource is free to access and use. No pricing
   plans.
-updated_at: 2025-12-25 11:11
+brand_logo_url: null
+updated_at: 2026-04-23 14:34

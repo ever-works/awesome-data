@@ -2,14 +2,12 @@ name: Awesome Ripple
 description: An Awesome-style curated collection of resources, libraries, and
   tools for working with the Ripple open source distributed settlement network.
 source_url: https://github.com/vhpoet/awesome-ripple#readme
-featured: false
-brand_logo_url: null
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - awesome-lists
   - blockchain
   - financial
+featured: false
 markdown: >-
   # Awesome Ripple
 
@@ -72,4 +70,5 @@ markdown: >-
 
   - Not applicable. Awesome Ripple is an open-source, freely accessible curated
   list.
-updated_at: 2025-12-25 11:11
+brand_logo_url: null
+updated_at: 2026-04-23 14:34

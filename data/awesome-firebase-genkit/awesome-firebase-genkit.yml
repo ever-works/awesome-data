@@ -3,15 +3,12 @@ description: A curated Awesome list of plugins, examples, and resources for
   Firebase Genkit, an open‑source framework for building AI‑powered apps and
   features.
 source_url: https://github.com/xavidop/awesome-firebase-genkit#readme
-featured: false
-brand: xavidop
-brand_logo_url: /xavidop.png
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - firebase
   - ai
   - developer-tools
+featured: false
 markdown: >-
   ---
 
@@ -82,4 +79,6 @@ markdown: >-
 
   - Access to the awesome list and its contents is **free** (open GitHub
   repository).
-updated_at: 2025-12-25 11:11
+brand: xavidop
+brand_logo_url: /xavidop.png
+updated_at: 2026-04-23 14:34

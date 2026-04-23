@@ -2,13 +2,11 @@ name: "meta-awesome: Embedded Systems"
 description: A meta-awesome page that aggregates awesome lists related to
   embedded systems development, hardware platforms, and tooling.
 source_url: https://github.com/jepemo/meta-awesome/blob/master/doc/embedded-systems.md
-featured: false
-brand_logo_url: null
-images: []
-category: meta-directories
+category: Meta Directories
 tags:
   - meta-directory
   - embedded
+featured: false
 markdown: >-
   # meta-awesome: Embedded Systems
 
@@ -63,4 +61,6 @@ markdown: >-
   ## Pricing
 
   - Access is **free** (public GitHub document, open for viewing and forking).
-updated_at: 2025-12-25 11:11
+brand_logo_url: null
+images: []
+updated_at: 2026-04-23 14:34

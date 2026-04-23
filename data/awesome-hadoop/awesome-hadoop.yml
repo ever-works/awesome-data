@@ -2,15 +2,12 @@ name: Awesome Hadoop
 description: A curated Awesome list of Hadoop ecosystem resources, libraries,
   and tools for distributed storage and processing of very large datasets.
 source_url: https://github.com/youngwookim/awesome-hadoop#readme
-featured: false
-brand: youngwookim
-brand_logo_url: https://avatars.githubusercontent.com/u/1323384
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - awesome-lists
   - big-data
   - curated-lists
+featured: false
 markdown: >
   ---
 
@@ -119,4 +116,6 @@ markdown: >
 
   - Not applicable. Awesome Hadoop is an open, GitHub-hosted curated list with
   free access.
-updated_at: 2025-12-25 11:11
+brand: youngwookim
+brand_logo_url: https://avatars.githubusercontent.com/u/1323384
+updated_at: 2026-04-23 14:34

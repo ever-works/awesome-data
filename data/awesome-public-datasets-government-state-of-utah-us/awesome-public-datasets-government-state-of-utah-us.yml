@@ -3,15 +3,12 @@ description: An Awesome collection entry referencing Utah’s official open data
   portal, providing statewide government datasets such as transportation,
   environment, public safety, and demographics.
 source_url: https://opendata.utah.gov/
-featured: false
-brand: state-of-utah
-brand_logo_url: /awesome-data
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - datasets
   - government
   - open-data
+featured: false
 markdown: >-
   # Awesome Public Datasets – Government: State of Utah, US
 
@@ -81,4 +78,6 @@ markdown: >-
 
   No pricing information is provided in the available content; the portal is
   presented as an open public data resource.
-updated_at: 2025-12-30 18:29
+brand: state-of-utah
+brand_logo_url: /awesome-data
+updated_at: 2026-04-23 14:34

@@ -3,15 +3,12 @@ description: A Meta Awesome sublist that aggregates Awesome-style collections of
   recommended people to follow (e.g., on GitHub or social platforms) for
   learning and staying current in specific domains.
 source_url: https://github.com/jepemo/meta-awesome/blob/master/doc/people-to-follow.md
-featured: false
-brand: github
-brand_logo_url: https://github.githubassets.com/images/modules/logos_page/GitHub-Logo.png
-images: null
-category: meta-directories
+category: Meta Directories
 tags:
   - awesome-lists
   - people
   - resources
+featured: false
 markdown: >-
   # Meta Awesome – People to Follow
 
@@ -74,4 +71,6 @@ markdown: >-
   ## Pricing
 
   - Not applicable – this is a free, open GitHub resource.
-updated_at: 2025-12-26 11:32
+brand: github
+brand_logo_url: https://github.githubassets.com/images/modules/logos_page/GitHub-Logo.png
+updated_at: 2026-04-23 14:34

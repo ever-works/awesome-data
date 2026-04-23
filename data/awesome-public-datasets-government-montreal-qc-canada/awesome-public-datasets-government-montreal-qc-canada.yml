@@ -2,15 +2,12 @@ name: "Awesome Public Datasets - Government: Montreal, QC, Canada"
 description: Awesome Public Datasets listing for Montreal’s open data portal,
   providing access to a variety of city government datasets.
 source_url: http://donnees.ville.montreal.qc.ca/
-featured: false
-brand: awesome-public-datasets
-brand_logo_url: null
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - government
   - datasets
   - open-data
+featured: false
 markdown: >
   # Awesome Public Datasets – Government: Montreal, QC, Canada
 
@@ -110,4 +107,6 @@ markdown: >
 
   The portal is an open data site operated by a municipal government; no pricing
   or paid plans are indicated in the provided content.
-updated_at: 2025-12-30 18:29
+brand: awesome-public-datasets
+brand_logo_url: null
+updated_at: 2026-04-23 14:34

@@ -2,14 +2,12 @@ name: Awesome Internet of Things
 description: Awesome list of IoT frameworks, protocols, platforms, and resources
   focused on the Internet of Things.
 source_url: https://github.com/HQarroum/awesome-iot#readme
-featured: false
-brand_logo_url: null
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - iot
   - hardware
   - awesome-lists
+featured: false
 markdown: >-
   ## Awesome Internet of Things
 
@@ -67,4 +65,5 @@ markdown: >-
 
   - Not applicable. This is a free, open-source curated list of resources on
   GitHub.
-updated_at: 2025-12-25 11:11
+brand_logo_url: null
+updated_at: 2026-04-23 14:34

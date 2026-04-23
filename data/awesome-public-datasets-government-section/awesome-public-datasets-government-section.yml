@@ -7,15 +7,12 @@ description: A curated sub-list within the broader Awesome ecosystem that
   government-focused open data resources useful for research, analytics, and
   open data projects.
 source_url: https://github.com/awesomedata/apd-core/tree/master/core/Government
-featured: true
-brand: awesome
-brand_logo_url: https://raw.githubusercontent.com/sindresorhus/awesome/main/media/logo.png
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - datasets
   - government
   - open-data
+featured: true
 markdown: |-
   # Awesome Public Datasets – Government Section
 
@@ -75,4 +72,6 @@ markdown: |-
 
   ## Pricing
   - **Cost:** Free (public GitHub list of links to open datasets and portals)
-updated_at: 2025-12-30 18:29
+brand: awesome
+brand_logo_url: https://raw.githubusercontent.com/sindresorhus/awesome/main/media/logo.png
+updated_at: 2026-04-23 14:34

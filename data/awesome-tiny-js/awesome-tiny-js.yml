@@ -2,15 +2,12 @@ name: Awesome Tiny JS
 description: A curated collection of ultra-small frontend JavaScript libraries
   (≤ 2 kB) and tools suitable for lightweight web projects.
 source_url: https://github.com/thoughtspile/awesome-tiny-js#readme
-featured: false
-brand: thoughtspile
-brand_logo_url: null
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - awesome-lists
   - javascript
   - web-development
+featured: false
 markdown: >-
   # Awesome Tiny JS
 
@@ -86,4 +83,6 @@ markdown: >-
   - javascript
 
   - web-development
-updated_at: 2025-12-25 11:11
+brand: thoughtspile
+brand_logo_url: null
+updated_at: 2026-04-23 14:34

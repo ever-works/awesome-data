@@ -3,15 +3,12 @@ description: An Awesome list of tools, libraries, and papers on explainable AI
   (XAI), interpretability techniques, and methods for providing insight into
   machine learning models.
 source_url: https://github.com/altamiracorp/awesome-xai#readme
-featured: false
-brand: awesome-lists
-brand_logo_url: null
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - awesome-lists
   - ai
   - research
+featured: false
 markdown: >
   # Awesome XAI
 
@@ -73,4 +70,6 @@ markdown: >
   - Not a paid product or service.  
 
   - Access to the list and repository content is free and open-source.
-updated_at: 2025-12-25 11:11
+brand: awesome-lists
+brand_logo_url: null
+updated_at: 2026-04-23 14:34

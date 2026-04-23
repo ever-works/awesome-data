@@ -2,14 +2,12 @@ name: Awesome Software-Defined Networking
 description: An Awesome list of Software-Defined Networking (SDN) resources,
   frameworks, and tools for programmable network management and control.
 source_url: https://github.com/sdnds-tw/awesome-sdn#readme
-featured: false
-brand_logo_url: null
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - networking
   - sdn
   - infrastructure
+featured: false
 markdown: >
   # Awesome Software-Defined Networking
 
@@ -51,4 +49,5 @@ markdown: >
 
   - Not applicable – this is an open, GitHub-hosted curated list rather than a
   commercial product or service.
-updated_at: 2025-12-25 11:11
+brand_logo_url: null
+updated_at: 2026-04-23 14:34

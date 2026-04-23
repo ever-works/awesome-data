@@ -2,14 +2,12 @@ name: "meta-awesome: Formal Verification"
 description: A meta-awesome entry that aggregates awesome lists about formal
   verification, theorem proving, and correctness-by-construction tooling.
 source_url: https://github.com/jepemo/meta-awesome/blob/master/doc/formal-verification.md
-featured: false
-brand_logo_url: null
-images: []
-category: meta-directories
+category: Meta Directories
 tags:
   - meta-directory
   - awesome-lists
   - programming
+featured: false
 markdown: >
   # meta-awesome: Formal Verification
 
@@ -60,4 +58,6 @@ markdown: >
   ## Pricing
 
   - Not applicable (GitHub-hosted directory; access is free).
-updated_at: 2025-12-25 11:11
+brand_logo_url: null
+images: []
+updated_at: 2026-04-23 14:34

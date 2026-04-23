@@ -3,16 +3,12 @@ description: Research corpus of about 1 billion web pages collected in 2009 by
   the Lemur Project, designed for information retrieval and web mining
   experiments and commonly listed in awesome datasets directories.
 source_url: http://lemurproject.org/clueweb09/
-featured: false
-brand: lemur-project
-brand_logo_url: http://lemurproject.org/images/lemur-logo.png
-images:
-  - http://lemurproject.org/images/lemur-logo.png
-category: themed-directories
+category: Themed Directories
 tags:
   - datasets
   - web
   - information-retrieval
+featured: false
 markdown: >-
   # ClueWeb09
 
@@ -165,4 +161,8 @@ markdown: >-
   The provided content does not specify pricing or licensing terms. Users should
   consult the ClueWeb09 "How to Get It" or FAQ pages for current access
   conditions and any associated fees.
-updated_at: 2025-12-30 18:29
+brand: lemur-project
+brand_logo_url: http://lemurproject.org/images/lemur-logo.png
+images:
+  - http://lemurproject.org/images/lemur-logo.png
+updated_at: 2026-04-23 14:34

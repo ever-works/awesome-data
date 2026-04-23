@@ -3,15 +3,12 @@ description: An Awesome entry referencing the g0v-related Taiwan government open
   data portal, providing access to a wide range of Taiwanese public sector
   datasets for civic tech and analysis.
 source_url: https://data.gov.tw/
-featured: false
-brand: taiwan-government
-brand_logo_url: /awesome-data
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - datasets
   - government
   - open-data
+featured: false
 markdown: >-
   # Awesome Public Datasets – Government: Taiwan g0v
 
@@ -59,4 +56,6 @@ markdown: >-
 
   - Access to the portal and datasets appears to be **free and open** (no
   pricing information is indicated in the provided content).
-updated_at: 2025-12-30 18:29
+brand: taiwan-government
+brand_logo_url: /awesome-data
+updated_at: 2026-04-23 14:34

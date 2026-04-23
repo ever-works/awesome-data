@@ -2,15 +2,12 @@ name: Awesome Mac
 description: A curated collection of awesome macOS applications, tools, and
   resources for Apple’s desktop operating system.
 source_url: https://github.com/jaywcjlove/awesome-mac#readme
-featured: false
-brand: jaywcjlove
-brand_logo_url: /jaywcjlove.png
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - awesome-lists
   - desktop
   - web-directory
+featured: false
 markdown: >-
   ## Awesome Mac
 
@@ -69,4 +66,6 @@ markdown: >-
 
   - No pricing or paid plans are indicated in the available content; the list
   itself is free to access and contribute to.
-updated_at: 2025-12-25 11:11
+brand: jaywcjlove
+brand_logo_url: /jaywcjlove.png
+updated_at: 2026-04-23 14:34

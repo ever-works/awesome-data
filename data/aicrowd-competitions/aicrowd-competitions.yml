@@ -3,15 +3,12 @@ description: AIcrowd is a platform hosting a wide range of machine learning and
   AI competitions and challenges, providing curated datasets and leaderboards
   for researchers and practitioners.
 source_url: https://www.aicrowd.com/
-featured: false
-brand: aicrowd
-brand_logo_url: null
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - datasets
   - machine-learning
   - challenges
+featured: false
 markdown: >-
   ## AIcrowd Competitions
 
@@ -55,4 +52,6 @@ markdown: >-
   ### Pricing
 
   - Not specified on the provided content.
-updated_at: 2025-12-30 18:29
+brand: aicrowd
+brand_logo_url: null
+updated_at: 2026-04-23 14:34

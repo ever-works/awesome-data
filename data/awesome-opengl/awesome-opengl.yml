@@ -2,15 +2,12 @@ name: Awesome OpenGL
 description: An awesome list of OpenGL libraries, resources, and learning
   materials for 2D and 3D graphics programming.
 source_url: https://github.com/eug/awesome-opengl#readme
-featured: false
-brand_logo_url: null
-images:
-  - https://opengraph.githubassets.com/1/eug/awesome-opengl
-category: themed-directories
+category: Themed Directories
 tags:
   - awesome-lists
   - graphics
   - cpp
+featured: false
 markdown: >-
   # Awesome OpenGL
 
@@ -108,4 +105,7 @@ markdown: >-
   - **Free**: The list and all repository contents are freely accessible as an
   open-source GitHub repository (individual linked resources may have their own
   licenses or pricing).
-updated_at: 2025-12-25 11:11
+brand_logo_url: null
+images:
+  - https://opengraph.githubassets.com/1/eug/awesome-opengl
+updated_at: 2026-04-23 14:34

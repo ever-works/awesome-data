@@ -4,15 +4,12 @@ description: An Awesome Public Datasets (APD) catalog entry under the eSports
   Kaggle, integrating it into an awesome-style meta collection of high-quality
   public datasets.
 source_url: https://github.com/awesomedata/apd-core/tree/master/core//eSports/fifa2021.yml
-featured: false
-brand: awesome-public-datasets
-brand_logo_url: null
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - datasets
   - games
   - sports
+featured: false
 markdown: |-
   # Awesome Public Datasets - eSports: FIFA Complete Player Dataset
 
@@ -44,4 +41,6 @@ markdown: |-
 
   ## Pricing
   - Not applicable. This is a catalog entry in an open-source dataset directory; no pricing information is provided here. Access to the underlying Kaggle dataset is governed by Kaggle’s own terms and conditions.
-updated_at: 2025-12-30 18:29
+brand: awesome-public-datasets
+brand_logo_url: null
+updated_at: 2026-04-23 14:34

@@ -2,16 +2,12 @@ name: Awesome Sass
 description: A curated awesome list of Sass tools, libraries, frameworks, and
   resources for the Sass CSS preprocessor.
 source_url: https://github.com/Famolus/awesome-sass#readme
-featured: false
-brand: sass
-brand_logo_url: https://sass-lang.com/assets/img/logos/logo-b6e1ef6e.svg
-images:
-  - https://sass-lang.com/assets/img/logos/logo-b6e1ef6e.svg
-category: themed-directories
+category: Themed Directories
 tags:
   - awesome-lists
   - web-development
   - css
+featured: false
 markdown: >-
   # Awesome Sass
 
@@ -92,4 +88,8 @@ markdown: >-
 
   - Awesome Sass is an open-source, freely accessible resource with no pricing
   or paid plans.
-updated_at: 2025-12-25 11:11
+brand: sass
+brand_logo_url: https://sass-lang.com/assets/img/logos/logo-b6e1ef6e.svg
+images:
+  - https://sass-lang.com/assets/img/logos/logo-b6e1ef6e.svg
+updated_at: 2026-04-23 14:34

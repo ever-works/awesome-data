@@ -2,7 +2,7 @@ name: awesome.facts.dev
 description: The most popular awesome lists on GitHub, ranked and categorized.
   Provides a directory of awesome lists with rankings based on popularity.
 source_url: https://awesome.facts.dev
-category: meta-directories
+category: Meta Directories
 tags:
   - awesome-lists
   - ranked
@@ -21,4 +21,4 @@ markdown: |-
   ## Pricing
 
   Free.
-updated_at: 2026-04-23 02:45
+updated_at: 2026-04-23 14:34

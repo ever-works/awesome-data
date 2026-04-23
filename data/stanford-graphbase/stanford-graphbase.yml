@@ -4,16 +4,12 @@ description: Donald Knuth’s Stanford GraphBase is a classic collection of
   algorithms, often listed in curated and awesome-style graph and network
   collections.
 source_url: https://cs.stanford.edu/~knuth/sgb.html
-featured: false
-brand: stanford-university
-brand_logo_url: https://identity.stanford.edu/wp-content/uploads/sites/3/2020/07/SU_Seal_Red.png
-images:
-  - https://cs.stanford.edu/~knuth/sgb.gif
-category: themed-directories
+category: Themed Directories
 tags:
   - datasets
   - graph
   - algorithms
+featured: false
 markdown: >-
   # Stanford GraphBase
 
@@ -145,4 +141,8 @@ markdown: >-
   - The accompanying book is sold via publishers (e.g., ACM Press,
   Addison-Wesley); pricing depends on the retailer and is not specified on the
   source page.
-updated_at: 2025-12-30 18:29
+brand: stanford-university
+brand_logo_url: https://identity.stanford.edu/wp-content/uploads/sites/3/2020/07/SU_Seal_Red.png
+images:
+  - https://cs.stanford.edu/~knuth/sgb.gif
+updated_at: 2026-04-23 14:34

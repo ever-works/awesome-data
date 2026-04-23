@@ -3,16 +3,12 @@ description: An open dataset of audio files and extensive metadata derived from
   the Free Music Archive, created for music information retrieval and machine
   learning research. Commonly indexed in awesome lists of ML datasets.
 source_url: https://github.com/mdeff/fma
-featured: false
-brand: fma-dataset
-brand_logo_url: null
-images:
-  - https://github.com/mdeff/fma/raw/master/doc/fma_overview.png
-category: themed-directories
+category: Themed Directories
 tags:
   - datasets
   - audio
   - machine-learning
+featured: false
 markdown: >-
   # Free Music Archive Dataset
 
@@ -88,4 +84,8 @@ markdown: >-
 
   - **Free**: The dataset and accompanying code are available at no cost under
   the MIT license.
-updated_at: 2025-12-30 18:29
+brand: fma-dataset
+brand_logo_url: null
+images:
+  - https://github.com/mdeff/fma/raw/master/doc/fma_overview.png
+updated_at: 2026-04-23 14:34

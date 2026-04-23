@@ -3,15 +3,12 @@ description: An Awesome collection of resources for TensorFlow Lite, focusing on
   optimizing and deploying TensorFlow models for on-device and mobile machine
   learning.
 source_url: https://github.com/margaretmz/awesome-tensorflow-lite#readme
-featured: false
-brand: awesome-lists
-brand_logo_url: null
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - machine-learning
   - mobile
   - ai
+featured: false
 markdown: >-
   # Awesome TensorFlow Lite
 
@@ -117,4 +114,6 @@ markdown: >-
 
   - **License:** Open-source license (see `LICENSE` file in the repository for
   details).
-updated_at: 2025-12-25 11:11
+brand: awesome-lists
+brand_logo_url: null
+updated_at: 2026-04-23 14:34

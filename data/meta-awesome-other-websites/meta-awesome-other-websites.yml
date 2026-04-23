@@ -3,15 +3,12 @@ description: A meta Awesome directory that aggregates other curated website
   lists, helping users discover additional Awesome-style collections of
   high-quality sites across different domains.
 source_url: https://github.com/jepemo/meta-awesome/blob/master/doc/other-websites.md
-featured: false
-brand: github
-brand_logo_url: https://github.githubassets.com/images/modules/logos_page/GitHub-Logo.png
-images: null
-category: meta-directories
+category: Meta Directories
 tags:
   - meta-directory
   - awesome-lists
   - websites
+featured: false
 markdown: >-
   # Meta Awesome – Other Websites
 
@@ -60,4 +57,6 @@ markdown: >-
 
   - Not applicable. This is an open GitHub-based directory with no pricing
   information indicated.
-updated_at: 2025-12-26 11:32
+brand: github
+brand_logo_url: https://github.githubassets.com/images/modules/logos_page/GitHub-Logo.png
+updated_at: 2026-04-23 14:34

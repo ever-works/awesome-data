@@ -2,15 +2,12 @@ name: Awesome Dev Fun
 description: A curated Awesome directory of fun, humorous, and entertaining
   developer projects, libraries, and resources.
 source_url: https://github.com/mislavcimpersak/awesome-dev-fun#readme
-featured: false
-brand: ""
-brand_logo_url: /
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - awesome-lists
   - developer-tools
   - fun
+featured: false
 markdown: >-
   # Awesome Dev Fun
 
@@ -60,4 +57,6 @@ markdown: >-
   - **Free**
     - Public GitHub repository
     - Open for browsing and community contributions at no cost.
-updated_at: 2025-12-25 11:11
+brand: ""
+brand_logo_url: /
+updated_at: 2026-04-23 14:34

@@ -2,14 +2,11 @@ name: Awesome JVM
 description: A curated list of awesome libraries, tools, and resources for the
   Java Virtual Machine ecosystem.
 source_url: https://github.com/deephacks/awesome-jvm#readme
-featured: false
-brand: deephacks
-brand_logo_url: /deephacks.png
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - awesome-lists
   - developer-resources
+featured: false
 markdown: >-
   # Awesome JVM
 
@@ -148,4 +145,6 @@ markdown: >-
 
   Not applicable. Awesome JVM is an open curated list of resources and tools; no
   pricing plans are indicated.
-updated_at: 2025-12-25 11:11
+brand: deephacks
+brand_logo_url: /deephacks.png
+updated_at: 2026-04-23 14:34

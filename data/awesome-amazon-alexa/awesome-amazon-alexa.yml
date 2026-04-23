@@ -2,16 +2,12 @@ name: Awesome Amazon Alexa
 description: A curated list of resources, frameworks, and tools for building
   skills and integrations with Amazon Alexa.
 source_url: https://github.com/miguelmota/awesome-amazon-alexa#readme
-featured: false
-brand: amazon-alexa
-brand_logo_url: https://d1.awsstatic.com/logos/alexa/alexa-skill-kit-logo.7f3c1f7a9f2e7e7b9a.svg
-images:
-  - https://repository-images.githubusercontent.com/63505944/359d9c80-6f3f-11ea-9f66-9e3ff4466e29
-category: themed-directories
+category: Themed Directories
 tags:
   - ai
   - voice
   - awesome-lists
+featured: false
 markdown: |
   # Awesome Amazon Alexa
 
@@ -128,4 +124,8 @@ markdown: |
 
   - **Brand:** Amazon Alexa
   - **Brand Logo:** https://d1.awsstatic.com/logos/alexa/alexa-skill-kit-logo.7f3c1f7a9f2e7e7b9a.svg
-updated_at: 2025-12-25 11:11
+brand: amazon-alexa
+brand_logo_url: https://d1.awsstatic.com/logos/alexa/alexa-skill-kit-logo.7f3c1f7a9f2e7e7b9a.svg
+images:
+  - https://repository-images.githubusercontent.com/63505944/359d9c80-6f3f-11ea-9f66-9e3ff4466e29
+updated_at: 2026-04-23 14:34

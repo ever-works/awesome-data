@@ -2,15 +2,12 @@ name: Awesome Android
 description: An Awesome list cataloging Android packages, libraries, and
   development resources for the Android platform.
 source_url: https://github.com/JStumpp/awesome-android
-featured: false
-brand: jstumpp
-brand_logo_url: /JStumpp.png
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - awesome-lists
   - mobile
   - android
+featured: false
 markdown: >
   # Awesome Android
 
@@ -64,4 +61,6 @@ markdown: >
 
   - Access to the Awesome Android list is free and open-source; no pricing or
   paid plans are associated with the directory itself.
-updated_at: 2025-12-25 11:11
+brand: jstumpp
+brand_logo_url: /JStumpp.png
+updated_at: 2026-04-23 14:34

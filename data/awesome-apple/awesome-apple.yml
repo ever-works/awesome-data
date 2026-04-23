@@ -2,15 +2,12 @@ name: awesome-apple
 description: An opinionated awesome-list of libraries, tools, and resources for
   development across Apple platforms such as iOS, macOS, watchOS, and tvOS.
 source_url: https://github.com/joeljfischer/awesome-apple
-featured: false
-brand: joeljfischer
-brand_logo_url: /joeljfischer
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - awesome-lists
   - apple
   - mobile
+featured: false
 markdown: >-
   # awesome-apple
 
@@ -82,4 +79,6 @@ markdown: >-
 
   - Not applicable. This is a free, open GitHub repository (awesome list) with
   no pricing plans.
-updated_at: 2025-12-25 11:11
+brand: joeljfischer
+brand_logo_url: /joeljfischer
+updated_at: 2026-04-23 14:34

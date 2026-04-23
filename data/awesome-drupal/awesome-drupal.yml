@@ -2,15 +2,12 @@ name: Awesome Drupal
 description: A comprehensive Awesome list of modules, tools, and resources for
   the extensible PHP-based Drupal CMS.
 source_url: https://github.com/nirgn975/awesome-drupal#readme
-featured: false
-brand: drupal
-brand_logo_url: null
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - awesome-lists
   - php
   - cms
+featured: false
 markdown: >-
   # Awesome Drupal
 
@@ -112,4 +109,6 @@ markdown: >-
   - cms  
 
   - drupal
-updated_at: 2025-12-25 11:11
+brand: drupal
+brand_logo_url: null
+updated_at: 2026-04-23 14:34

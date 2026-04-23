@@ -2,15 +2,11 @@ name: Awesome KDE
 description: A curated list of applications, tools, and resources from the KDE
   community for a user‑friendly computing experience.
 source_url: https://github.com/francoism90/awesome-kde#readme
-featured: false
-brand: kde
-brand_logo_url: https://kde.org/stuff/clipart/logo/kde-logo-white-blue-rounded-source.svg
-images:
-  - https://repository-images.githubusercontent.com/91569558/6fd6ae00-6f3d-11ea-9cc1-4b1cd5df2c22
-category: themed-directories
+category: Themed Directories
 tags:
   - awesome-lists
   - desktop
+featured: false
 markdown: >-
   ## Awesome KDE
 
@@ -83,4 +79,8 @@ markdown: >-
   - Awesome KDE is an open, community‑maintained list. No pricing or paid plans
   are associated with the list itself (all entries link to their respective
   external projects, which may have their own licensing or pricing details).
-updated_at: 2025-12-25 11:11
+brand: kde
+brand_logo_url: https://kde.org/stuff/clipart/logo/kde-logo-white-blue-rounded-source.svg
+images:
+  - https://repository-images.githubusercontent.com/91569558/6fd6ae00-6f3d-11ea-9cc1-4b1cd5df2c22
+updated_at: 2026-04-23 14:34

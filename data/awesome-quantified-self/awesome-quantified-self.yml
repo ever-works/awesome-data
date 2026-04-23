@@ -2,15 +2,12 @@ name: Awesome Quantified Self
 description: An Awesome directory of tools, apps, devices, and resources for
   self-tracking and Quantified Self practices.
 source_url: https://github.com/woop/awesome-quantified-self#readme
-featured: false
-brand: sindresorhusawesome
-brand_logo_url: /sindresorhus/awesome/raw/main/media/logo.png
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - health
   - quantified-self
   - devices
+featured: false
 markdown: >-
   # Awesome Quantified Self
 
@@ -121,4 +118,6 @@ markdown: >-
   - Not a commercial product or paid service.
 
   - Access to the directory and its contents is **free** under the CC0 license.
-updated_at: 2025-12-25 11:11
+brand: sindresorhusawesome
+brand_logo_url: /sindresorhus/awesome/raw/main/media/logo.png
+updated_at: 2026-04-23 14:34

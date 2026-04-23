@@ -3,15 +3,12 @@ description: A curated Awesome-style directory of resources focused on
   application security, including guides, tools, and best practices for securing
   software applications.
 source_url: https://github.com/paragonie/awesome-appsec#readme
-featured: false
-brand: github
-brand_logo_url: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - awesome-lists
   - security
   - software
+featured: false
 markdown: >-
   # Awesome Application Security
 
@@ -77,4 +74,6 @@ markdown: >-
 
   - Some listed resources are non‑free (paid) and are visually flagged via a
   “nonfree” icon in the list.
-updated_at: 2025-12-31 19:34
+brand: github
+brand_logo_url: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
+updated_at: 2026-04-23 14:34

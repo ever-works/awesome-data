@@ -4,15 +4,12 @@ description: Aggregator ranking GitHub Awesome lists by stars, forks, activity,
   comparison. Facilitates quick discovery of top/maintained lists; excels over
   GitHub search with dedicated metrics and visualizations.
 source_url: https://awesomerank.github.io/
-category: Awesome List Aggregators
+category: Awesome List Tools & Trackers
 tags:
-  - ranking
-  - metrics
-  - trends
-  - sortable
-  - aggregator
-  - searchable-lists
-  - meta-index
+  - meta-awesome
+  - list-aggregator
+  - github-stars
+  - curated-index
 markdown: |-
   ## Overview
 
@@ -40,4 +37,4 @@ markdown: |-
   ## Pricing
   Free.
 brand_logo_url: https://raw.githubusercontent.com/sindresorhus/awesome/master/media/logo.svg
-updated_at: 2026-04-23 05:34
+updated_at: 2026-04-23 14:34

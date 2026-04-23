@@ -2,14 +2,12 @@ name: Awesome CouchDB
 description: A curated Awesome list of tools, libraries, and resources for
   Apache CouchDB, a document-oriented NoSQL database.
 source_url: https://github.com/quangv/awesome-couchdb#readme
-featured: false
-brand_logo_url: null
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - awesome-lists
   - database
   - couchdb
+featured: false
 markdown: >-
   # Awesome CouchDB
 
@@ -143,4 +141,5 @@ markdown: >-
 
   - Not applicable. Awesome CouchDB is an open, GitHub-hosted curated list and
   does not have pricing plans.
-updated_at: 2025-12-25 11:11
+brand_logo_url: null
+updated_at: 2026-04-23 14:34

@@ -2,15 +2,12 @@ name: Awesome Bitcoin Payment Processors
 description: A curated list of Bitcoin payment processors and related services
   for merchants and developers wanting to start accepting Bitcoin.
 source_url: https://github.com/alexk111/awesome-bitcoin-payment-processors#readme
-featured: false
-brand: awesome
-brand_logo_url: /.github/logo.png
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - bitcoin
   - payments
   - blockchain
+featured: false
 markdown: >-
   # Awesome Bitcoin Payment Processors
 
@@ -186,4 +183,6 @@ markdown: >-
 
 
   For full details and the complete catalog, visit the GitHub repository README.
-updated_at: 2025-12-25 11:11
+brand: awesome
+brand_logo_url: /.github/logo.png
+updated_at: 2026-04-23 14:34

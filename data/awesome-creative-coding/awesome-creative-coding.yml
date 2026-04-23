@@ -3,15 +3,12 @@ description: A curated Awesome list of resources for creative coding—programmi
   with a focus on expression and art, including libraries, frameworks, and
   learning materials.
 source_url: https://github.com/terkelg/awesome-creative-coding#readme
-featured: false
-brand: ""
-brand_logo_url: /
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - creative-coding
   - design
   - graphics
+featured: false
 markdown: >-
   # Awesome Creative Coding
 
@@ -180,4 +177,6 @@ markdown: >-
   - Completely free to access and use.
 
   - Open-source, community-maintained resource with no paid tiers or plans.
-updated_at: 2025-12-25 11:11
+brand: ""
+brand_logo_url: /
+updated_at: 2026-04-23 14:34

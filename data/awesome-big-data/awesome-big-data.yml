@@ -2,14 +2,12 @@ name: Awesome Big Data
 description: A curated GitHub list of awesome big data frameworks, tools, and
   educational resources.
 source_url: https://github.com/onurakpolat/awesome-bigdata
-featured: false
-brand_logo_url: null
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - big-data
   - data-science
   - distributed
+featured: false
 markdown: >-
   # Awesome Big Data
 
@@ -90,4 +88,5 @@ markdown: >-
 
   - Contributing additional big data resources to a public, community-driven
   directory.
-updated_at: 2025-12-25 11:11
+brand_logo_url: null
+updated_at: 2026-04-23 14:34

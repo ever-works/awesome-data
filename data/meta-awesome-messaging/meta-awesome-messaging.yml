@@ -2,15 +2,12 @@ name: Meta Awesome - Messaging
 description: An Awesome directory in Meta Awesome for messaging protocols,
   platforms, and communication libraries.
 source_url: https://github.com/jepemo/meta-awesome/blob/master/doc/messaging.md
-featured: false
-brand: jepemometa-awesome
-brand_logo_url: null
-images: null
-category: meta-directories
+category: Meta Directories
 tags:
   - awesome-lists
   - meta-directory
   - messaging
+featured: false
 markdown: >-
   # Meta Awesome – Messaging
 
@@ -55,4 +52,6 @@ markdown: >-
 
   - Not applicable (GitHub-hosted open directory; no pricing information
   provided).
-updated_at: 2025-12-26 11:32
+brand: jepemometa-awesome
+brand_logo_url: null
+updated_at: 2026-04-23 14:34

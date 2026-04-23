@@ -2,15 +2,12 @@ name: "Awesome Public Datasets - Government: Moncton, NB, Canada"
 description: Catalog item in Awesome Public Datasets referencing Moncton’s
   municipal open data portal that publishes local government datasets.
 source_url: http://open.moncton.ca/
-featured: false
-brand: awesome-public-datasets
-brand_logo_url: null
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - government
   - datasets
   - open-data
+featured: false
 markdown: >-
   # Awesome Public Datasets – Government: Moncton, NB, Canada
 
@@ -58,4 +55,6 @@ markdown: >-
 
   - Not specified (government open data portals are typically free to access and
   use, subject to their open data license).
-updated_at: 2025-12-30 18:29
+brand: awesome-public-datasets
+brand_logo_url: null
+updated_at: 2026-04-23 14:34

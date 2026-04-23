@@ -2,14 +2,12 @@ name: "Awesome Public Datasets - Government: Mississauga, ON, Canada"
 description: Listing in Awesome Public Datasets for the City of Mississauga’s
   open data catalogue, offering municipal datasets to the public.
 source_url: http://www.mississauga.ca/portal/residents/publicationsopendatacatalogue
-featured: false
-brand_logo_url: null
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - datasets
   - government
   - open-data
+featured: false
 markdown: >
   # Awesome Public Datasets – Government: Mississauga, ON, Canada
 
@@ -179,4 +177,5 @@ markdown: >
 
   - No pricing information is listed; datasets are intended for public use under
   the city’s open data framework.
-updated_at: 2025-12-30 18:29
+brand_logo_url: null
+updated_at: 2026-04-23 14:34

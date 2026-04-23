@@ -3,15 +3,12 @@ description: A Meta Awesome sublist aggregating Awesome-style directories and
   curated lists of package manager tools across multiple platforms and
   languages.
 source_url: https://github.com/jepemo/meta-awesome/blob/master/doc/package-managers.md
-featured: false
-brand: github
-brand_logo_url: https://github.githubassets.com/images/modules/logos_page/GitHub-Logo.png
-images: null
-category: meta-directories
+category: Meta Directories
 tags:
   - awesome-lists
   - package-manager
   - developer-tools
+featured: false
 markdown: >-
   # Meta Awesome - Package Managers
 
@@ -56,4 +53,6 @@ markdown: >-
 
   - Not applicable (open GitHub list / repository; no pricing information
   provided).
-updated_at: 2025-12-26 11:32
+brand: github
+brand_logo_url: https://github.githubassets.com/images/modules/logos_page/GitHub-Logo.png
+updated_at: 2026-04-23 14:34

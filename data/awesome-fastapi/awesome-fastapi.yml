@@ -2,15 +2,12 @@ name: Awesome FastAPI
 description: A curated collection of libraries, tools, and learning resources
   for building APIs with FastAPI in Python.
 source_url: https://github.com/mjhea0/awesome-fastapi#readme
-featured: false
-brand: rawesome
-brand_logo_url: null
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - awesome-lists
   - python
   - apis
+featured: false
 markdown: >-
   ---
 
@@ -143,4 +140,6 @@ markdown: >-
 
   - Distributed under an open-source license (see the `LICENSE` file in the
   repository for full details).
-updated_at: 2025-12-25 11:11
+brand: rawesome
+brand_logo_url: null
+updated_at: 2026-04-23 14:34

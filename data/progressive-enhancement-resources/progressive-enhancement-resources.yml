@@ -2,14 +2,12 @@ name: Progressive Enhancement Resources
 description: An awesome-style curated collection of articles, tools, and
   references focused on progressive enhancement in web development.
 source_url: https://github.com/jbmoelker/progressive-enhancement-resources#readme
-featured: false
-brand_logo_url: null
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - web-development
   - accessibility
   - resources
+featured: false
 markdown: >-
   # Progressive Enhancement Resources
 
@@ -118,4 +116,5 @@ markdown: >-
 
   - Access to the GitHub repository and listed resources is free (subject to
   each linked resource’s own terms, if any).
-updated_at: 2025-12-25 11:11
+brand_logo_url: null
+updated_at: 2026-04-23 14:34

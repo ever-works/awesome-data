@@ -2,15 +2,12 @@ name: Papers We Love
 description: An Awesome-style community-driven repository of academic computer
   science papers, organized by topic and institution.
 source_url: https://github.com/papers-we-love/papers-we-love#readme
-featured: false
-brand: papers-we-love
-brand_logo_url: https://avatars.githubusercontent.com/u/7575099
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - computer-science
   - research
   - papers
+featured: false
 markdown: >-
   # Papers We Love
 
@@ -90,4 +87,6 @@ markdown: >-
   - Academic Resources  
 
   - Open Repository
-updated_at: 2025-12-25 11:11
+brand: papers-we-love
+brand_logo_url: https://avatars.githubusercontent.com/u/7575099
+updated_at: 2026-04-23 14:34

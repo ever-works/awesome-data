@@ -2,15 +2,12 @@ name: Meta Awesome - Internationalization
 description: The American-spelling counterpart Awesome list in Meta Awesome for
   internationalization resources, libraries, and tooling.
 source_url: https://github.com/jepemo/meta-awesome/blob/master/doc/internationalization.md
-featured: false
-brand: jepemometa-awesome
-brand_logo_url: null
-images: null
-category: meta-directories
+category: Meta Directories
 tags:
   - awesome-lists
   - localization
   - developer-tools
+featured: false
 markdown: >
   # Meta Awesome – Internationalization
 
@@ -64,4 +61,6 @@ markdown: >
   - The item is a GitHub-hosted curated list/directory. No pricing or paid plans
   are indicated; it is assumed to be free to access based on the available
   information.
-updated_at: 2025-12-26 11:32
+brand: jepemometa-awesome
+brand_logo_url: null
+updated_at: 2026-04-23 14:34

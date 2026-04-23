@@ -4,15 +4,12 @@ description: The Violent-Flows dataset is a crowd violence/non-violence video
   within an awesome-style list of image processing datasets, making it part of
   the Awesome meta-directory ecosystem.
 source_url: http://www.openu.ac.il/home/hassner/data/violentflows/
-featured: false
-brand: open-university-of-israel
-brand_logo_url: null
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - datasets
   - video
   - computer-vision
+featured: false
 markdown: >-
   # Violent-Flows Dataset
 
@@ -152,4 +149,6 @@ markdown: >-
   - video
 
   - computer-vision
-updated_at: 2025-12-30 18:29
+brand: open-university-of-israel
+brand_logo_url: null
+updated_at: 2026-04-23 14:34

@@ -3,15 +3,12 @@ description: An Awesome catalog entry linking to the U.S. Census Bureau’s
   American Community Survey (ACS), a rich source of detailed demographic,
   social, economic, and housing data.
 source_url: https://www.census.gov/programs-surveys/acs/
-featured: false
-brand: us-census-bureau
-brand_logo_url: /awesome-data
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - datasets
   - demographics
   - government
+featured: false
 markdown: >-
   # Awesome Public Datasets – Government: U.S. American Community Survey (ACS)
 
@@ -149,4 +146,6 @@ markdown: >-
   https://www.census.gov/programs-surveys/acs/methodology.html
 
   - **News & Updates:** https://www.census.gov/programs-surveys/acs/news.html
-updated_at: 2025-12-30 18:29
+brand: us-census-bureau
+brand_logo_url: /awesome-data
+updated_at: 2026-04-23 14:34

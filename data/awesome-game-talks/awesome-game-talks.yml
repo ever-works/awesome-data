@@ -2,14 +2,12 @@ name: Awesome Game Talks
 description: An awesome-style collection of recorded game development talks,
   presentations, and lectures from conferences and online events.
 source_url: https://github.com/hzoo/awesome-gametalks#readme
-featured: false
-brand_logo_url: null
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - games
   - education
   - media
+featured: false
 markdown: >-
   # Awesome Game Talks
 
@@ -78,4 +76,5 @@ markdown: >-
 
   - No pricing information is provided; the list is hosted as a public GitHub
   repository and appears to be freely accessible.
-updated_at: 2025-12-25 11:11
+brand_logo_url: null
+updated_at: 2026-04-23 14:34

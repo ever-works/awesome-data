@@ -3,16 +3,12 @@ description: Twitter ego-network datasets from the SNAP collection, cataloged in
   the Awesome Data Project as social network graph data for user-centric
   analysis.
 source_url: http://snap.stanford.edu/data/egonets-Twitter.html
-featured: false
-brand: snap-stanford
-brand_logo_url: null
-images:
-  - http://snap.stanford.edu/data/images/egonets-Twitter.png
-category: themed-directories
+category: Themed Directories
 tags:
   - datasets
   - social
   - graph
+featured: false
 markdown: >-
   # Twitter Ego Datasets
 
@@ -86,4 +82,8 @@ markdown: >-
 
   - Not specified; distributed as an academic dataset via SNAP (typically freely
   available for research and educational use, subject to SNAP’s terms).
-updated_at: 2025-12-30 18:29
+brand: snap-stanford
+brand_logo_url: null
+images:
+  - http://snap.stanford.edu/data/images/egonets-Twitter.png
+updated_at: 2026-04-23 14:34

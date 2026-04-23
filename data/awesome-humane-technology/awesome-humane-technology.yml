@@ -2,15 +2,12 @@ name: Awesome Humane Technology
 description: A curated Awesome list of open source projects intended to improve
   society and promote humane technology practices.
 source_url: https://github.com/humanetech-community/awesome-humane-tech#readme
-featured: false
-brand: sindresorhusawesome
-brand_logo_url: https://raw.githubusercontent.com/sindresorhus/awesome/main/media/logo.svg
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - open-source
   - ethics
   - technology
+featured: false
 markdown: >-
   # Awesome Humane Technology
 
@@ -100,4 +97,6 @@ markdown: >-
   - **Community Forum:** https://community.humanetech.com
 
   - **Mastodon:** https://mastodon.social/@humanetech
-updated_at: 2025-12-25 11:11
+brand: sindresorhusawesome
+brand_logo_url: https://raw.githubusercontent.com/sindresorhus/awesome/main/media/logo.svg
+updated_at: 2026-04-23 14:34

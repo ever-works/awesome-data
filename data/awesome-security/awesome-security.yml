@@ -3,16 +3,12 @@ description: An awesome list of security-related software, libraries, documents,
   and resources. It serves as a comprehensive security directory in the
   awesome-list ecosystem.
 source_url: https://github.com/sbilly/awesome-security
-featured: false
-brand: sbilly
-brand_logo_url: https://avatars.githubusercontent.com/u/639001?v=4
-images:
-  - https://opengraph.githubassets.com/1/sbilly/awesome-security
-category: themed-directories
+category: Themed Directories
 tags:
   - security
   - devops
   - awesome-lists
+featured: false
 markdown: >-
   # Awesome Security
 
@@ -152,4 +148,8 @@ markdown: >-
 
   - Referencing a centralized directory when designing or improving security
   architectures.
-updated_at: 2025-12-25 11:11
+brand: sbilly
+brand_logo_url: https://avatars.githubusercontent.com/u/639001?v=4
+images:
+  - https://opengraph.githubassets.com/1/sbilly/awesome-security
+updated_at: 2026-04-23 14:34

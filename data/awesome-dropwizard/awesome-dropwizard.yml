@@ -2,15 +2,12 @@ name: Awesome Dropwizard
 description: A curated list of libraries, tools, and resources for the
   Dropwizard Java framework.
 source_url: https://github.com/stve/awesome-dropwizard#readme
-featured: false
-brand: rawesome
-brand_logo_url: null
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - awesome-lists
   - java
   - server
+featured: false
 markdown: >
   # Awesome Dropwizard
 
@@ -146,4 +143,6 @@ markdown: >
 
   - The list and linked resources are open source; no pricing or paid plans are
   specified for the directory itself.
-updated_at: 2025-12-25 11:11
+brand: rawesome
+brand_logo_url: null
+updated_at: 2026-04-23 14:34

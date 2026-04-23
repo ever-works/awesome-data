@@ -4,16 +4,12 @@ description: A curated link directory hosted by Jon Haveman that brings together
   Awesome Public Datasets economics section as an awesome‑like meta‑collection
   pointing to numerous trade data providers.
 source_url: https://freit.org/TradeResources/TradeData.php
-featured: false
-brand: freit
-brand_logo_url: https://freit.org/wp-content/themes/freit/images/freit_logo.png
-images:
-  - https://freit.org/wp-content/themes/freit/images/freit_logo.png
-category: meta-directories
+category: Meta Directories
 tags:
   - meta-directory
   - economics
   - trade
+featured: false
 markdown: >-
   # Jon Haveman International Trade Data Links
 
@@ -152,4 +148,8 @@ markdown: >-
   - **Host:** freit.org  
 
   - **Copyright:** © 2025 freit.org (as indicated on the page).
-updated_at: 2025-12-30 18:29
+brand: freit
+brand_logo_url: https://freit.org/wp-content/themes/freit/images/freit_logo.png
+images:
+  - https://freit.org/wp-content/themes/freit/images/freit_logo.png
+updated_at: 2026-04-23 14:34

@@ -5,16 +5,12 @@ description: An international research project that maintains standardized
   in the Awesome Public Datasets economics section as a directory for
   age‑structured economic accounts data across countries.
 source_url: https://ntaccounts.org/web/nta/show/Browse%20database#H-zfl0oo
-featured: false
-brand: national-transfer-accounts
-brand_logo_url: https://ntaccounts.org/++theme++ntaccounts_theme/images/nta-logo.png
-images:
-  - https://ntaccounts.org/++theme++ntaccounts_theme/images/nta-logo.png
-category: themed-directories
+category: Themed Directories
 tags:
   - datasets
   - demographics
   - economics
+featured: false
 markdown: >-
   # National Transfer Accounts – Browse Database
 
@@ -170,4 +166,8 @@ markdown: >-
     - Indicate the NTA website and access date in publications.
   - The project welcomes copies of research that uses NTA data (contact
   information is provided on the site).
-updated_at: 2025-12-30 18:29
+brand: national-transfer-accounts
+brand_logo_url: https://ntaccounts.org/++theme++ntaccounts_theme/images/nta-logo.png
+images:
+  - https://ntaccounts.org/++theme++ntaccounts_theme/images/nta-logo.png
+updated_at: 2026-04-23 14:34

@@ -2,15 +2,12 @@ name: Meta Awesome - Native
 description: Meta-awesome category aggregating awesome lists about native
   development environments and tooling.
 source_url: https://github.com/jepemo/meta-awesome/blob/master/doc/native.md
-featured: false
-brand: jepemometa-awesome
-brand_logo_url: null
-images: null
-category: meta-directories
+category: Meta Directories
 tags:
   - meta-directory
   - native
   - awesome-lists
+featured: false
 markdown: >-
   ## Meta Awesome – Native
 
@@ -56,4 +53,6 @@ markdown: >-
   ### Pricing
 
   - Free to access and use (public GitHub repository).
-updated_at: 2025-12-25 11:11
+brand: jepemometa-awesome
+brand_logo_url: null
+updated_at: 2026-04-23 14:34

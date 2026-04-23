@@ -2,14 +2,11 @@ name: Awesome Security Card Games
 description: An awesome directory of security-focused card games that help train
   security skills and facilitate discussion on security topics.
 source_url: https://github.com/Karneades/awesome-security-card-games
-featured: false
-brand: karneades-on-github
-brand_logo_url: https://github.githubassets.com/favicons/favicon.svg
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - security
   - games
+featured: false
 markdown: >-
   # Awesome Security Card Games
 
@@ -66,4 +63,6 @@ markdown: >-
   ## Pricing
 
   - Access to the directory is **free** (public GitHub repository).
-updated_at: 2025-12-25 11:11
+brand: karneades-on-github
+brand_logo_url: https://github.githubassets.com/favicons/favicon.svg
+updated_at: 2026-04-23 14:34

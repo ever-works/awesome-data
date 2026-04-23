@@ -2,15 +2,12 @@ name: Awesome Dash
 description: A curated list of libraries, resources, and examples for building
   analytical web applications with Plotly Dash in Python.
 source_url: https://github.com/ucg8j/awesome-dash#readme
-featured: false
-brand: rawesome
-brand_logo_url: null
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - awesome-lists
   - python
   - data-visualization
+featured: false
 markdown: >-
   # Awesome Dash
 
@@ -64,4 +61,6 @@ markdown: >-
   ## Pricing
 
   - Not applicable — this is an open, free GitHub-based resource list.
-updated_at: 2025-12-25 11:11
+brand: rawesome
+brand_logo_url: null
+updated_at: 2026-04-23 14:34

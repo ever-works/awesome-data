@@ -2,16 +2,12 @@ name: Awesome Home Assistant
 description: An awesome collection of resources, custom components, and tools
   for Home Assistant, the open‑source home automation platform.
 source_url: https://github.com/frenck/awesome-home-assistant#readme
-featured: false
-brand: home-assistant
-brand_logo_url: https://www.home-assistant.io/images/home-assistant-logo.svg
-images:
-  - https://repository-images.githubusercontent.com/96510623/4d8e9a80-6f41-11ea-9a83-8519b3000a41
-category: themed-directories
+category: Themed Directories
 tags:
   - home-automation
   - iot
   - open-source
+featured: false
 markdown: |-
   # Awesome Home Assistant
 
@@ -60,4 +56,8 @@ markdown: |-
   ## Pricing
 
   - Access to the Awesome Home Assistant list and repository is **free** (open source).
-updated_at: 2025-12-25 11:11
+brand: home-assistant
+brand_logo_url: https://www.home-assistant.io/images/home-assistant-logo.svg
+images:
+  - https://repository-images.githubusercontent.com/96510623/4d8e9a80-6f41-11ea-9a83-8519b3000a41
+updated_at: 2026-04-23 14:34

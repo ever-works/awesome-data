@@ -3,16 +3,12 @@ description: A NASA-hosted, open database of confirmed exoplanets and related
   observational data, part of an awesome curated collection of physics and space
   science datasets.
 source_url: http://exoplanetarchive.ipac.caltech.edu/
-featured: false
-brand: nasa
-brand_logo_url: https://www.nasa.gov/wp-content/themes/nasa/assets/images/nasa-logo.svg
-images:
-  - https://exoplanetarchive.ipac.caltech.edu/docs/exonews_archives/images/Kepler-186f_artist_concept_1.jpg
-category: themed-directories
+category: Themed Directories
 tags:
   - datasets
   - space
   - physics
+featured: false
 markdown: >-
   # NASA Exoplanet Archive
 
@@ -148,4 +144,8 @@ markdown: >-
     - Exoplanet artist concepts
     - Mission logos and survey graphics (TESS, Kepler, K2, KELT, UKIRT)
     - Archive-generated plots of exoplanet properties and discovery statistics.
-updated_at: 2025-12-30 18:29
+brand: nasa
+brand_logo_url: https://www.nasa.gov/wp-content/themes/nasa/assets/images/nasa-logo.svg
+images:
+  - https://exoplanetarchive.ipac.caltech.edu/docs/exonews_archives/images/Kepler-186f_artist_concept_1.jpg
+updated_at: 2026-04-23 14:34

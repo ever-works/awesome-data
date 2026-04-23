@@ -3,15 +3,12 @@ description: A curated meta awesome directory for document processing, indexing
   awesome lists on parsing, converting, and transforming documents and text
   formats.
 source_url: https://github.com/jepemo/meta-awesome/blob/master/doc/document-processing.md
-featured: false
-brand: meta-awesome
-brand_logo_url: null
-images: null
-category: meta-directories
+category: Meta Directories
 tags:
   - documents
   - directory-of-directories
   - awesome-lists
+featured: false
 markdown: |-
   # Meta Awesome - Document Processing
 
@@ -50,4 +47,6 @@ markdown: |-
 
   ## Pricing
   - Not applicable (open GitHub directory; no pricing information provided).
-updated_at: 2025-12-25 11:11
+brand: meta-awesome
+brand_logo_url: null
+updated_at: 2026-04-23 14:34

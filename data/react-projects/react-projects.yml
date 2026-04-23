@@ -3,15 +3,12 @@ description: A GitHub repository that collects multiple example projects built
   with the React library, providing a curated set of project ideas and code
   samples that can fit into awesome-style listings for React learning resources.
 source_url: https://github.com/ajayns/react-projects
-featured: false
-brand: ""
-brand_logo_url: /
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - react
   - projects
   - frontend
+featured: false
 markdown: >-
   # React Projects
 
@@ -108,4 +105,6 @@ markdown: >-
   - **Category:** Themed Directories / Code Collections
 
   - **Tags:** `react`, `projects`, `frontend`
-updated_at: 2025-12-25 11:11
+brand: ""
+brand_logo_url: /
+updated_at: 2026-04-23 14:34

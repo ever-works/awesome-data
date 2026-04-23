@@ -2,14 +2,12 @@ name: Scalable CSS Reading List
 description: A curated reading list of articles and resources about writing
   scalable, maintainable CSS architectures.
 source_url: https://github.com/davidtheclark/scalable-css-reading-list#readme
-featured: false
-brand_logo_url: null
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - css
   - web-development
   - awesome-lists
+featured: false
 markdown: >-
   # Scalable CSS Reading List
 
@@ -148,4 +146,5 @@ markdown: >-
 
   - Repository & full list:
   https://github.com/davidtheclark/scalable-css-reading-list#readme
-updated_at: 2025-12-25 11:11
+brand_logo_url: null
+updated_at: 2026-04-23 14:34

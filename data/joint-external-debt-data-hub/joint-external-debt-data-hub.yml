@@ -4,15 +4,12 @@ description: A joint data portal providing a unified view of external debt
   referenced in the Awesome Public Datasets economics list as a centralized,
   awesome‑style hub for sovereign and external debt data across countries.
 source_url: http://www.jedh.org/
-featured: false
-brand: joint-external-debt-data-hub
-brand_logo_url: null
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - datasets
   - economics
   - finance
+featured: false
 markdown: >-
   # Joint External Debt Data Hub
 
@@ -69,4 +66,6 @@ markdown: >-
 
   - Not specified in the provided content (commonly, such official statistical
   portals are freely accessible, but this is not explicitly stated here).
-updated_at: 2025-12-30 18:29
+brand: joint-external-debt-data-hub
+brand_logo_url: null
+updated_at: 2026-04-23 14:34

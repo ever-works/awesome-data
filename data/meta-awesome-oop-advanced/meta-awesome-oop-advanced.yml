@@ -2,15 +2,12 @@ name: meta-awesome - OOP Advanced
 description: Part of meta-awesome listing awesome resources and collections on
   advanced object-oriented programming concepts and patterns.
 source_url: https://github.com/jepemo/meta-awesome/blob/master/doc/oop-advanced.md
-featured: false
-brand: jepemometa-awesome
-brand_logo_url: null
-images: null
-category: meta-directories
+category: Meta Directories
 tags:
   - awesome-lists
   - oop
   - directory-of-directories
+featured: false
 markdown: >-
   # meta-awesome – OOP Advanced
 
@@ -59,4 +56,6 @@ markdown: >-
   ## Pricing
 
   - Not applicable (GitHub-hosted list; no pricing information provided).
-updated_at: 2025-12-25 11:11
+brand: jepemometa-awesome
+brand_logo_url: null
+updated_at: 2026-04-23 14:34

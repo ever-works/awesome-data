@@ -2,15 +2,12 @@ name: Awesome Boilerplate Projects
 description: A curated awesome list of project boilerplates and starter kits for
   quickly bootstrapping applications.
 source_url: https://github.com/melvin0008/awesome-projects-boilerplates#readme
-featured: false
-brand_logo_url: null
-images:
-  - https://opengraph.githubassets.com/1/melvin0008/awesome-projects-boilerplates
-category: themed-directories
+category: Themed Directories
 tags:
   - templates
   - developer-tools
   - project-starters
+featured: false
 markdown: >-
   # Awesome Boilerplate Projects
 
@@ -75,4 +72,7 @@ markdown: >-
   ## Pricing
 
   - **Free** (open-source, CC0 licensed).
-updated_at: 2025-12-25 11:11
+brand_logo_url: null
+images:
+  - https://opengraph.githubassets.com/1/melvin0008/awesome-projects-boilerplates
+updated_at: 2026-04-23 14:34

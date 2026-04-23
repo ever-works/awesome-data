@@ -3,16 +3,12 @@ description: The U.S. Open Payments Data portal exposing healthcare financial
   relationship data between providers and industry, referenced as a healthcare
   data resource in the Awesome Public Datasets collection.
 source_url: https://openpaymentsdata.cms.gov
-featured: false
-brand: centers-for-medicare-medicaid-services-cms
-brand_logo_url: https://www.cms.gov/themes/custom/enterprise_exhibit/logo.svg
-images:
-  - https://openpaymentsdata.cms.gov/api/assets/portal-home-openpayments.png
-category: themed-directories
+category: Themed Directories
 tags:
   - datasets
   - healthcare
   - open-data
+featured: false
 markdown: >-
   # OpenPaymentsData
 
@@ -172,4 +168,8 @@ markdown: >-
   - Financial Transparency
 
   - U.S. Providers / Hospitals / Life Sciences Industry
-updated_at: 2025-12-30 18:29
+brand: centers-for-medicare-medicaid-services-cms
+brand_logo_url: https://www.cms.gov/themes/custom/enterprise_exhibit/logo.svg
+images:
+  - https://openpaymentsdata.cms.gov/api/assets/portal-home-openpayments.png
+updated_at: 2026-04-23 14:34

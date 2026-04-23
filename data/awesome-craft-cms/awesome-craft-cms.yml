@@ -2,14 +2,11 @@ name: Awesome Craft CMS
 description: An official Awesome-style collection of plugins, starter projects,
   and resources for Craft CMS, a content-first CMS.
 source_url: https://github.com/craftcms/awesome#readme
-featured: false
-brand: craft-cms
-brand_logo_url: null
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - cms
   - web-development
+featured: false
 markdown: >-
   # Awesome Craft CMS
 
@@ -154,4 +151,6 @@ markdown: >-
   - Access to the list, contributions, and browsing of all linked resources is
   free. Some external plugins or resources listed may have their own pricing,
   but the Awesome Craft CMS directory itself does not charge any fees.
-updated_at: 2025-12-25 11:11
+brand: craft-cms
+brand_logo_url: null
+updated_at: 2026-04-23 14:34

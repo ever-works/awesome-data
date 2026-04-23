@@ -3,15 +3,12 @@ description: An MRI-based prostate cancer imaging collection listed within the
   Awesome Public Datasets ecosystem. It offers prostate MRI scans suitable for
   medical imaging research, model development, and evaluation.
 source_url: https://wiki.cancerimagingarchive.net/display/Public/Prostate-MRI
-featured: false
-brand: rawesomedata-awesome-public-datasets
-brand_logo_url: https://raw.githubusercontent.com/awesomedata/apd-core/master/media/apd-logo.png
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - datasets
   - medical-imaging
   - health
+featured: false
 markdown: >
   # Prostate-MRI
 
@@ -124,4 +121,6 @@ markdown: >
 
   - Access to this dataset is **free** under the CC BY 3.0 license; no paid
   plans are indicated.
-updated_at: 2025-12-30 18:29
+brand: rawesomedata-awesome-public-datasets
+brand_logo_url: https://raw.githubusercontent.com/awesomedata/apd-core/master/media/apd-logo.png
+updated_at: 2026-04-23 14:34

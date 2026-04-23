@@ -2,14 +2,12 @@ name: awesome-digital-wellbeing
 description: An awesome-style curated list of resources to improve digital
   wellbeing and help people live more offline in an online world.
 source_url: https://github.com/jcanfield/awesome-digital-wellbeing
-featured: false
-brand_logo_url: null
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - health
   - lifestyle
   - productivity
+featured: false
 markdown: >-
   ## awesome-digital-wellbeing
 
@@ -59,4 +57,5 @@ markdown: >-
   ### Pricing
 
   - Free, open-source resource directory (no paid plans mentioned).
-updated_at: 2025-12-25 11:11
+brand_logo_url: null
+updated_at: 2026-04-23 14:34

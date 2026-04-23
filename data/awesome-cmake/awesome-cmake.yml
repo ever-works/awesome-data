@@ -2,15 +2,12 @@ name: Awesome CMake
 description: A curated Awesome directory of CMake modules, tools, examples, and
   learning resources for building, testing, and packaging software.
 source_url: https://github.com/onqtam/awesome-cmake#readme
-featured: false
-brand: awesome
-brand_logo_url: null
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - awesome-lists
   - build-tools
   - developer-tools
+featured: false
 markdown: >-
   # Awesome CMake
 
@@ -68,4 +65,6 @@ markdown: >-
 
 
   - Not applicable (open GitHub directory / awesome list).
-updated_at: 2025-12-25 11:11
+brand: awesome
+brand_logo_url: null
+updated_at: 2026-04-23 14:34

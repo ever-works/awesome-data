@@ -2,15 +2,12 @@ name: Awesome Theravada
 description: A curated Awesome list of resources, texts, and materials related
   to the Theravada Buddhist tradition.
 source_url: https://github.com/johnjago/awesome-theravada#readme
-featured: false
-brand: ""
-brand_logo_url: /
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - education
   - culture
   - awesome-lists
+featured: false
 markdown: >-
   ---
 
@@ -92,4 +89,6 @@ markdown: >-
   - Access and use of the list are **free**.
 
   - No paid plans or pricing tiers are associated with this resource.
-updated_at: 2025-12-25 11:11
+brand: ""
+brand_logo_url: /
+updated_at: 2026-04-23 14:34

@@ -4,14 +4,12 @@ description: A curated sub-list within the meta-awesome collection that indexes
   (IDEs). It serves as a directory of specialized awesome lists for tools
   developers use to write and manage code.
 source_url: https://github.com/jepemo/meta-awesome/blob/master/doc/editors-and-ide.md
-featured: false
-brand_logo_url: null
-images: []
-category: meta-directories
+category: Meta Directories
 tags:
   - editor
   - developer-tools
   - directory-of-directories
+featured: false
 markdown: >-
   # Meta Awesome – Editors and IDE
 
@@ -69,4 +67,6 @@ markdown: >-
 
   - Not applicable. This is an open, GitHub-hosted curated list (no pricing
   information provided).
-updated_at: 2025-12-25 11:11
+brand_logo_url: null
+images: []
+updated_at: 2026-04-23 14:34

@@ -4,15 +4,12 @@ description: An Awesome Public Datasets finance category item pointing to NASDAQ
   the Awesome-style meta-directory that indexes major public financial data
   providers.
 source_url: https://data.nasdaq.com/
-featured: false
-brand: awesomedata-awesome-public-datasets
-brand_logo_url: /awesomedata/apd-core/raw/master/apd-logo.png
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - datasets
   - financial
   - awesome-lists
+featured: false
 markdown: >-
   ### Awesome Public Datasets – Finance / NASDAQ Data
 
@@ -111,4 +108,6 @@ markdown: >-
   - Sign up: https://data.nasdaq.com/sign-up
 
   - Data Fabric info: https://data.nasdaq.com/datafabric
-updated_at: 2025-12-30 18:29
+brand: awesomedata-awesome-public-datasets
+brand_logo_url: /awesomedata/apd-core/raw/master/apd-logo.png
+updated_at: 2026-04-23 14:34

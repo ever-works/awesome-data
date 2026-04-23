@@ -3,15 +3,12 @@ description: A curated Awesome list of inspirational resources for designers and
   developers, including landing pages, SaaS examples, components, and UX
   patterns.
 source_url: https://github.com/SHSFWork/awesome-inspiration
-featured: false
-brand: shsfwork
-brand_logo_url: /SHSFWork.png
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - design
   - web
   - curated-lists
+featured: false
 markdown: >-
   # awesome-inspiration
 
@@ -97,4 +94,6 @@ markdown: >-
 
   - Free, open-source repository and website (no pricing or paid plans
   mentioned).
-updated_at: 2025-12-25 11:11
+brand: shsfwork
+brand_logo_url: /SHSFWork.png
+updated_at: 2026-04-23 14:34

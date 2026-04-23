@@ -2,14 +2,12 @@ name: "meta-awesome: Error Handling"
 description: A meta-awesome file aggregating awesome lists centered on error
   handling concepts, patterns, and tooling in software development.
 source_url: https://github.com/jepemo/meta-awesome/blob/master/doc/error-handling.md
-featured: false
-brand_logo_url: null
-images: []
-category: meta-directories
+category: Meta Directories
 tags:
   - meta-directory
   - developer-resources
   - awesome-lists
+featured: false
 markdown: >-
   # meta-awesome: Error Handling
 
@@ -72,4 +70,6 @@ markdown: >-
 
   - No pricing or paid plans are associated with this meta-list itself (subject
   to GitHub’s standard free access to public repositories).
-updated_at: 2025-12-25 11:11
+brand_logo_url: null
+images: []
+updated_at: 2026-04-23 14:34

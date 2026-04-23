@@ -2,15 +2,11 @@ name: Awesome lit
 description: An awesome list of resources, tools, and examples for lit, the
   library for building fast, lightweight web components.
 source_url: https://github.com/web-padawan/awesome-lit#readme
-featured: false
-brand: lit
-brand_logo_url: https://lit.dev/images/logo.svg
-images:
-  - https://lit.dev/images/logo.svg
-category: themed-directories
+category: Themed Directories
 tags:
   - awesome-lists
   - web-development
+featured: false
 markdown: >-
   # Awesome lit
 
@@ -127,4 +123,8 @@ markdown: >-
 
   - Not applicable. Awesome lit is an open, curated directory of resources, not
   a paid product or service.
-updated_at: 2025-12-25 11:11
+brand: lit
+brand_logo_url: https://lit.dev/images/logo.svg
+images:
+  - https://lit.dev/images/logo.svg
+updated_at: 2026-04-23 14:34

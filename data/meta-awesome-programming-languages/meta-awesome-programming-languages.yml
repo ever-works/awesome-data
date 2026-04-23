@@ -3,15 +3,12 @@ description: An Awesome-style meta collection that indexes other Awesome
   repositories and curated lists dedicated to specific programming languages and
   language ecosystems.
 source_url: https://github.com/jepemo/meta-awesome/blob/master/doc/programming-languages.md
-featured: false
-brand: github
-brand_logo_url: https://github.githubassets.com/images/modules/logos_page/GitHub-Logo.png
-images: null
-category: meta-directories
+category: Meta Directories
 tags:
   - awesome-lists
   - programming-languages
   - directory-of-directories
+featured: false
 markdown: |-
   # Meta Awesome – Programming Languages
 
@@ -33,4 +30,6 @@ markdown: |-
 
   ## Pricing
   - Not applicable (GitHub-hosted markdown index; no pricing information provided).
-updated_at: 2025-12-26 11:32
+brand: github
+brand_logo_url: https://github.githubassets.com/images/modules/logos_page/GitHub-Logo.png
+updated_at: 2026-04-23 14:34

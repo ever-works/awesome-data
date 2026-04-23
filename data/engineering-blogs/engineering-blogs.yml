@@ -2,15 +2,12 @@ name: Engineering Blogs
 description: A curated awesome list of software engineering blogs from companies
   and developers, covering technology, culture, and practices.
 source_url: https://github.com/kilimchoi/engineering-blogs#readme
-featured: false
-brand_logo_url: null
-images:
-  - https://opengraph.githubassets.com/1/kilimchoi/engineering-blogs
-category: themed-directories
+category: Themed Directories
 tags:
   - engineering
   - blogs
   - resources
+featured: false
 markdown: |
   # Engineering Blogs
 
@@ -87,4 +84,7 @@ markdown: |
   - Resources  
   - Software Development  
   - Tech Culture
-updated_at: 2025-12-25 11:11
+brand_logo_url: null
+images:
+  - https://opengraph.githubassets.com/1/kilimchoi/engineering-blogs
+updated_at: 2026-04-23 14:34

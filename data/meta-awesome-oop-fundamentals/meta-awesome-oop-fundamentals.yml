@@ -2,15 +2,12 @@ name: meta-awesome - OOP Fundamentals
 description: A meta-awesome subpage aggregating awesome lists about fundamental
   object-oriented programming principles and learning materials.
 source_url: https://github.com/jepemo/meta-awesome/blob/master/doc/oop-fundamentals.md
-featured: false
-brand: jepemometa-awesome
-brand_logo_url: null
-images: null
-category: meta-directories
+category: Meta Directories
 tags:
   - oop
   - programming
   - meta-directory
+featured: false
 markdown: >-
   # meta-awesome – OOP Fundamentals
 
@@ -61,4 +58,6 @@ markdown: >-
 
   - Not applicable. This is a GitHub-hosted, open directory of links and appears
   to be free to access based on the available information.
-updated_at: 2025-12-25 11:11
+brand: jepemometa-awesome
+brand_logo_url: null
+updated_at: 2026-04-23 14:34

@@ -1,15 +1,12 @@
 name: Awesome Events in Italy
 description: An Awesome list of tech-related events taking place in Italy.
 source_url: https://github.com/ildoc/awesome-italy-events#readme
-featured: false
-brand: sindresorhusawesome
-brand_logo_url: https://raw.githubusercontent.com/sindresorhus/awesome/main/media/logo.svg
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - events
   - italy
   - technology
+featured: false
 markdown: >-
   # Awesome Events in Italy
 
@@ -74,4 +71,6 @@ markdown: >-
 
   - Distributed under the license detailed in `LICENSE.md` in the repository
   (open-source license; see file for exact terms).
-updated_at: 2025-12-25 11:11
+brand: sindresorhusawesome
+brand_logo_url: https://raw.githubusercontent.com/sindresorhus/awesome/main/media/logo.svg
+updated_at: 2026-04-23 14:34

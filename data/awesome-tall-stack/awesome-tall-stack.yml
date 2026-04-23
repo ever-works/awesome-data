@@ -2,15 +2,12 @@ name: Awesome TALL Stack
 description: A curated list of resources and libraries for the TALL stack
   (Tailwind, Alpine.js, Laravel, Livewire) built by the Laravel community.
 source_url: https://github.com/livewire/awesome-tall-stack#readme
-featured: false
-brand: rawesome
-brand_logo_url: null
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - stack
   - web-development
   - php
+featured: false
 markdown: >-
   # Awesome TALL Stack
 
@@ -101,4 +98,6 @@ markdown: >-
 
   - Contributing new TALL-related resources back to the Laravel/Livewire
   community.
-updated_at: 2025-12-25 11:11
+brand: rawesome
+brand_logo_url: null
+updated_at: 2026-04-23 14:34

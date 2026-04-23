@@ -3,16 +3,12 @@ description: A Twitter network dataset from the SNAP collection related to the
   spread of information about the Higgs boson, referenced by the Awesome Data
   Project as a major social network dataset.
 source_url: http://snap.stanford.edu/data/higgs-twitter.html
-featured: false
-brand: snap-stanford
-brand_logo_url: null
-images:
-  - http://snap.stanford.edu/data/images/higgs-twitter.png
-category: themed-directories
+category: Themed Directories
 tags:
   - social
   - datasets
   - research
+featured: false
 markdown: >-
   # Higgs Twitter Dataset
 
@@ -235,4 +231,8 @@ markdown: >-
 
   - Not specified in the provided content (dataset is part of the SNAP
   collection; check source page for any licensing or usage terms).
-updated_at: 2025-12-30 18:29
+brand: snap-stanford
+brand_logo_url: null
+images:
+  - http://snap.stanford.edu/data/images/higgs-twitter.png
+updated_at: 2026-04-23 14:34

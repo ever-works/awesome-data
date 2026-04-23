@@ -3,15 +3,12 @@ description: A curated GitHub list of open-source internships and programs,
   functioning as an awesome-style directory of opportunities for contributors
   interested in open-source career paths.
 source_url: https://github.com/deepanshu1422/List-Of-Open-Source-Internships-Programs
-featured: false
-brand: deepanshu1422-github
-brand_logo_url: /deepanshu1422.png
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - open-source
   - career
   - opportunities
+featured: false
 markdown: >-
   # List-Of-Open-Source-Internships-Programs
 
@@ -195,4 +192,6 @@ markdown: >-
   - Individual programs in the list may be **paid (with stipends)**,
   **prize‑based**, or **unpaid/learning‑oriented**, and are labeled accordingly
   in the directory.
-updated_at: 2025-12-25 11:11
+brand: deepanshu1422-github
+brand_logo_url: /deepanshu1422.png
+updated_at: 2026-04-23 14:34

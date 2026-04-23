@@ -2,15 +2,12 @@ name: Awesome IoT & Hybrid
 description: An awesome list of tools, frameworks, and resources for building
   IoT and hybrid applications, with a focus on web technologies.
 source_url: https://github.com/weblancaster/awesome-IoT-hybrid#readme
-featured: false
-brand: weblancaster
-brand_logo_url: /weblancaster.png
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - iot
   - web
   - framework
+featured: false
 markdown: >-
   # Awesome IoT & Hybrid
 
@@ -78,4 +75,6 @@ markdown: >-
 
   - Not applicable. This is an open-source, MIT-licensed curated list available
   free of charge.
-updated_at: 2025-12-25 11:11
+brand: weblancaster
+brand_logo_url: /weblancaster.png
+updated_at: 2026-04-23 14:34

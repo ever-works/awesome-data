@@ -4,15 +4,12 @@ description: A dataset of images of cats and dogs with pixel-level segmentation
   data/image-processing collection, it forms part of the Awesome meta-collection
   of datasets.
 source_url: http://www.robots.ox.ac.uk/~vgg/data/pets/
-featured: false
-brand: visual-geometry-group-oxford
-brand_logo_url: null
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - computer-vision
   - images
   - datasets
+featured: false
 markdown: >
   # Oxford-IIIT Pet Dataset
 
@@ -81,4 +78,6 @@ markdown: >
 
   - No pricing information is provided; the dataset is distributed under CC
   BY-SA 4.0 and is available for download without listed fees.
-updated_at: 2025-12-30 18:29
+brand: visual-geometry-group-oxford
+brand_logo_url: null
+updated_at: 2026-04-23 14:34

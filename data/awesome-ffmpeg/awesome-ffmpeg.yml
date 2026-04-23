@@ -3,14 +3,12 @@ description: Awesome list of resources, tools, and examples for FFmpeg, a
   cross-platform solution for recording, converting, and streaming audio and
   video.
 source_url: https://github.com/transitive-bullshit/awesome-ffmpeg#readme
-featured: false
-brand_logo_url: null
-images: []
-category: themed-directories
+category: Themed Directories
 tags:
   - awesome-lists
   - audio
   - video
+featured: false
 markdown: >
   # Awesome FFmpeg
 
@@ -57,4 +55,6 @@ markdown: >
 
   - Not applicable. Awesome FFmpeg is an open, freely accessible directory
   hosted on GitHub.
-updated_at: 2025-12-25 11:11
+brand_logo_url: null
+images: []
+updated_at: 2026-04-23 14:34

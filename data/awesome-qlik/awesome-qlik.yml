@@ -2,15 +2,12 @@ name: Awesome Qlik
 description: An Awesome collection of resources, extensions, and tools for Qlik,
   the business intelligence and data analytics platform.
 source_url: https://github.com/ambster-public/awesome-qlik#readme
-featured: false
-brand: ambster-public
-brand_logo_url: https://avatars.githubusercontent.com/u/16293328
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - awesome-lists
   - data-visualization
   - business-tools
+featured: false
 markdown: >-
   # Awesome Qlik
 
@@ -117,4 +114,6 @@ markdown: >-
 
   - Licensed under **CC0-1.0** (public domain dedication), as indicated in the
   repository.
-updated_at: 2025-12-25 11:11
+brand: ambster-public
+brand_logo_url: https://avatars.githubusercontent.com/u/16293328
+updated_at: 2026-04-23 14:34

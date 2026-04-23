@@ -2,15 +2,11 @@ name: Awesome Construct
 description: An awesome list of behaviors, plugins, templates, and resources for
   Construct 2 and Construct game engine users.
 source_url: https://github.com/ConstructCommunity/awesome-construct#readme
-featured: false
-brand: construct
-brand_logo_url: https://www.construct.net/images/v1648363975/meta/open-graph-default.png
-images:
-  - https://www.construct.net/images/v1648363975/meta/open-graph-default.png
-category: themed-directories
+category: Themed Directories
 tags:
   - games
   - engine
+featured: false
 markdown: >-
   # Awesome Construct
 
@@ -66,4 +62,8 @@ markdown: >-
 
   - **Intended users:** Construct 2 & Construct 3 developers looking for
   plugins, behaviors, templates, tools, and learning resources.
-updated_at: 2025-12-25 11:11
+brand: construct
+brand_logo_url: https://www.construct.net/images/v1648363975/meta/open-graph-default.png
+images:
+  - https://www.construct.net/images/v1648363975/meta/open-graph-default.png
+updated_at: 2026-04-23 14:34

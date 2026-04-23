@@ -2,15 +2,12 @@ name: Meta Awesome - Hex Editors
 description: An Awesome-style list in Meta Awesome dedicated to hex editors and
   related binary inspection tools.
 source_url: https://github.com/jepemo/meta-awesome/blob/master/doc/hex-editors.md
-featured: false
-brand: jepemometa-awesome
-brand_logo_url: null
-images: null
-category: meta-directories
+category: Meta Directories
 tags:
   - awesome-lists
   - tools
   - hex-editors
+featured: false
 markdown: >-
   # Meta Awesome – Hex Editors
 
@@ -51,4 +48,6 @@ markdown: >-
 
   - Not applicable. This is an open GitHub directory/list, not a commercial
   product or service.
-updated_at: 2025-12-26 11:32
+brand: jepemometa-awesome
+brand_logo_url: null
+updated_at: 2026-04-23 14:34

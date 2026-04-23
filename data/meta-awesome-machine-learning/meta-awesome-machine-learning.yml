@@ -2,15 +2,12 @@ name: Meta Awesome - Machine Learning
 description: A Meta Awesome Awesome directory focusing on machine learning
   libraries, frameworks, and educational resources.
 source_url: https://github.com/jepemo/meta-awesome/blob/master/doc/machine-learning.md
-featured: false
-brand: jepemometa-awesome
-brand_logo_url: null
-images: null
-category: meta-directories
+category: Meta Directories
 tags:
   - awesome-lists
   - machine-learning
   - data-science
+featured: false
 markdown: >-
   # Meta Awesome - Machine Learning
 
@@ -77,4 +74,6 @@ markdown: >-
   Learning itself. It is hosted as an open GitHub document. Pricing, if any,
   applies only to external tools/services like GitHub products linked from the
   directory and should be checked on their respective pages.
-updated_at: 2025-12-26 11:32
+brand: jepemometa-awesome
+brand_logo_url: null
+updated_at: 2026-04-23 14:34

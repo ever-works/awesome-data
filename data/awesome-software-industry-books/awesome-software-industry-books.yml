@@ -2,15 +2,12 @@ name: awesome-software-industry-books
 description: An Awesome-style curated list of books relevant to software
   developers and the broader software industry, beyond just programming topics.
 source_url: https://github.com/talonx/awesome-software-industry-books
-featured: false
-brand: talonx
-brand_logo_url: /talonx.png
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - software
   - books
   - awesome-lists
+featured: false
 markdown: >
   # Awesome Software Industry Books
 
@@ -59,4 +56,6 @@ markdown: >
 
   - Not applicable. This is an open, GitHub-hosted curated list with no stated
   pricing or paid plans.
-updated_at: 2025-12-25 11:11
+brand: talonx
+brand_logo_url: /talonx.png
+updated_at: 2026-04-23 14:34

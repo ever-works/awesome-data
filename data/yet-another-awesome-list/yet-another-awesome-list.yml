@@ -5,17 +5,12 @@ description: Yet Another Awesome List (yaal) is a meta awesome list that
   and large language models—into a unified, browsable catalog, making it easier
   to discover and navigate multiple awesome lists from one place.
 source_url: https://github.com/0xWelt/yaal
-featured: true
-brand: 0xwelt
-brand_logo_url: null
-images:
-  - https://opengraph.githubassets.com/1/0xWelt/yaal
-  - https://repository-images.githubusercontent.com/838382046/6a6c4a85-7ef1-4b7a-bb58-575c8b65fd45
-category: meta-directories
+category: Meta Directories
 tags:
   - meta-directory
   - ai
   - awesome-lists
+featured: true
 markdown: >-
   # Yet Another Awesome List
 
@@ -81,4 +76,9 @@ markdown: >-
   - ai  
 
   - awesome-lists
-updated_at: 2025-12-25 11:11
+brand: 0xwelt
+brand_logo_url: null
+images:
+  - https://opengraph.githubassets.com/1/0xWelt/yaal
+  - https://repository-images.githubusercontent.com/838382046/6a6c4a85-7ef1-4b7a-bb58-575c8b65fd45
+updated_at: 2026-04-23 14:34

@@ -2,15 +2,12 @@ name: Awesome iOS
 description: A curated Awesome list of iOS ecosystem libraries, tools, and
   example projects, including both Objective-C and Swift resources.
 source_url: https://github.com/vsouza/awesome-ios
-featured: false
-brand: vsouza
-brand_logo_url: /vsouza.png
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - awesome-lists
   - developer-resources
   - mobile
+featured: false
 markdown: >-
   # Awesome iOS
 
@@ -61,4 +58,6 @@ markdown: >-
 
   - Maintained as a long-lived project with many commits and history, suggesting
   ongoing updates to the directory.
-updated_at: 2025-12-25 11:11
+brand: vsouza
+brand_logo_url: /vsouza.png
+updated_at: 2026-04-23 14:34

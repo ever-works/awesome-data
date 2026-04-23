@@ -3,15 +3,12 @@ description: Awesome Public Datasets catalog item referencing Durham, North
   Carolina’s ArcGIS-based open data portal, a structured directory for city
   datasets and maps.
 source_url: https://live-durhamnc.opendata.arcgis.com/
-featured: false
-brand: awesome-data
-brand_logo_url: /awesome-data/logo.png
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - government
   - datasets
   - gis
+featured: false
 markdown: >-
   # Awesome Public Datasets – Government (Meta: Durham, NC Open Data)
 
@@ -60,4 +57,6 @@ markdown: >-
 
   No pricing information is provided; the portal appears to be an open public
   data resource.
-updated_at: 2025-12-30 18:29
+brand: awesome-data
+brand_logo_url: /awesome-data/logo.png
+updated_at: 2026-04-23 14:34

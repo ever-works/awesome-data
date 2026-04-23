@@ -3,16 +3,12 @@ description: NASA’s National Space Science Data Center archive providing data
   for hundreds of spacecraft, included in an awesome-style list of physics and
   space mission datasets.
 source_url: http://nssdc.gsfc.nasa.gov/nssdc/obtaining_data.html
-featured: false
-brand: nasa
-brand_logo_url: https://www.nasa.gov/wp-content/themes/nasa/assets/images/nasa-logo.svg
-images:
-  - https://nssdc.gsfc.nasa.gov/webmaster/NSSDC-logo.svg
-category: themed-directories
+category: Themed Directories
 tags:
   - datasets
   - space
   - physics
+featured: false
 markdown: >-
   # NSSDC Spacecraft Data
 
@@ -77,4 +73,8 @@ markdown: >-
   ## Slug
 
   - `nssdc-spacecraft-data`
-updated_at: 2025-12-30 18:29
+brand: nasa
+brand_logo_url: https://www.nasa.gov/wp-content/themes/nasa/assets/images/nasa-logo.svg
+images:
+  - https://nssdc.gsfc.nasa.gov/webmaster/NSSDC-logo.svg
+updated_at: 2026-04-23 14:34

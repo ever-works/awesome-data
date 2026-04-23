@@ -3,15 +3,12 @@ description: An awesome meta-list within the Meta Awesome project that catalogs
   awesome lists and resources related to web servers, making it easier to
   discover curated content in this niche.
 source_url: https://github.com/jepemo/meta-awesome/blob/master/doc/web-servers.md
-featured: false
-brand: meta-awesome
-brand_logo_url: ://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
-images: null
-category: meta-directories
+category: Meta Directories
 tags:
   - meta-directory
   - server
   - awesome-lists
+featured: false
 markdown: >-
   # Meta Awesome – Web Servers
 
@@ -71,4 +68,6 @@ markdown: >-
 
   - **Free** – Public GitHub resource, available to view, clone, and contribute
   to at no cost.
-updated_at: 2025-12-25 11:11
+brand: meta-awesome
+brand_logo_url: ://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
+updated_at: 2026-04-23 14:34

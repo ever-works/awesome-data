@@ -2,7 +2,7 @@ name: Awesome Flutter
 description: Curated list of the best Flutter libraries, tools, tutorials,
   articles, and plugins for building natively compiled mobile apps.
 source_url: https://github.com/Solido/awesome-flutter
-category: themed-directories
+category: Themed Directories
 tags:
   - flutter
   - dart
@@ -23,4 +23,4 @@ markdown: |-
   ## Pricing
 
   Free and open-source.
-updated_at: 2026-04-23 05:34
+updated_at: 2026-04-23 14:34

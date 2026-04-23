@@ -2,15 +2,12 @@ name: Awesome JavaScript Learning
 description: An awesome list of high-quality resources, tutorials, and materials
   for learning JavaScript.
 source_url: https://github.com/micromata/awesome-javascript-learning#readme
-featured: false
-brand: micromata
-brand_logo_url: https://avatars.githubusercontent.com/u/762752
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - javascript
   - education
   - web-development
+featured: false
 markdown: >
   ---
 
@@ -87,4 +84,6 @@ markdown: >
   - **Free**: The directory and all listed GitHub content are freely accessible.
   Individual linked resources may have their own terms, but the list itself is
   open and free to use.
-updated_at: 2025-12-25 11:11
+brand: micromata
+brand_logo_url: https://avatars.githubusercontent.com/u/762752
+updated_at: 2026-04-23 14:34

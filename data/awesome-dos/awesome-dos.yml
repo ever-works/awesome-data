@@ -3,15 +3,12 @@ description: An Awesome list collecting tools, documentation, emulators, and
   resources related to DOS, the x86 operating system popular in the 1980s and
   early 1990s.
 source_url: https://github.com/balintkissdev/awesome-dos#readme
-featured: false
-brand: balintkissdev
-brand_logo_url: /balintkissdev.png
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - awesome-lists
   - software
   - curated-lists
+featured: false
 markdown: >-
   # Awesome DOS
 
@@ -177,4 +174,6 @@ markdown: >-
   - This is a free, open GitHub-based curated list. No pricing or paid plans are
   associated with the list itself (some linked resources may be paid, as noted
   in their own documentation).
-updated_at: 2025-12-25 11:11
+brand: balintkissdev
+brand_logo_url: /balintkissdev.png
+updated_at: 2026-04-23 14:34

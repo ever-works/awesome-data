@@ -1,15 +1,12 @@
 name: Awesome PureScript
 description: A curated Awesome list of PureScript libraries, tools, and resources.
 source_url: https://github.com/passy/awesome-purescript#readme
-featured: false
-brand: ""
-brand_logo_url: /
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - programming-languages
   - functional-programming
   - developer-tools
+featured: false
 markdown: >-
   # Awesome PureScript
 
@@ -138,4 +135,6 @@ markdown: >-
 
   - **Free**: The list and all its contents are freely accessible on GitHub.
   There is no pricing or paid plan associated with Awesome PureScript itself.
-updated_at: 2025-12-25 11:11
+brand: ""
+brand_logo_url: /
+updated_at: 2026-04-23 14:34

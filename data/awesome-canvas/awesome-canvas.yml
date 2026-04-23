@@ -2,14 +2,12 @@ name: Awesome Canvas
 description: A curated list of HTML5 Canvas resources, libraries, and examples
   for drawing and animations.
 source_url: https://github.com/raphamorim/awesome-canvas#readme
-featured: false
-brand_logo_url: null
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - awesome-lists
   - javascript
   - web
+featured: false
 markdown: >-
   # Awesome Canvas
 
@@ -59,4 +57,5 @@ markdown: >-
   - Not a paid product or service.  
 
   - Public, open GitHub repository available free of charge.
-updated_at: 2025-12-25 11:11
+brand_logo_url: null
+updated_at: 2026-04-23 14:34

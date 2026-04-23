@@ -1,0 +1,37 @@
+name: RubyBib.org
+description: A curated bibliography meta-collection of Ruby-related books,
+  articles, and resources, aggregating publications and GitHub-linked content
+  for comprehensive discovery. Features searchable, categorized entries with
+  periodic updates. Ideal for researching Ruby projects and finding literature
+  alternatives; more niche than sindresorhus/awesome.
+source_url: http://rubybib.org/
+category: Themed Directories
+tags:
+  - meta-list
+  - list-of-lists
+  - ruby
+featured: false
+markdown: |-
+  ## Overview
+
+  The Ruby Bibliography with books, articles, and resources.
+
+  ## Features
+
+  - Curated Ruby publications
+  - Categorized bibliography
+  - Searchable and updated
+
+  ## Use Cases
+
+  - Researching Ruby literature
+  - Finding Ruby references
+
+  ## Comparison
+
+  More niche than sindresorhus/awesome.
+
+  ## Pricing
+
+  Free.
+updated_at: 2026-04-23 14:34

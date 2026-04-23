@@ -2,15 +2,12 @@ name: Awesome Captcha
 description: An Awesome list of CAPTCHA libraries, services, and resources for
   implementing human-verification challenge–response tests in applications.
 source_url: https://github.com/ZYSzys/awesome-captcha#readme
-featured: false
-brand: ""
-brand_logo_url: /
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - awesome-lists
   - security
   - web-development
+featured: false
 markdown: >
   # Awesome Captcha
 
@@ -76,4 +73,6 @@ markdown: >
 
   - Not applicable. Awesome Captcha is an open-source, free GitHub repository
   and curated list; no pricing plans are provided.
-updated_at: 2025-12-25 11:11
+brand: ""
+brand_logo_url: /
+updated_at: 2026-04-23 14:34

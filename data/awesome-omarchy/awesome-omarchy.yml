@@ -2,15 +2,12 @@ name: Awesome Omarchy
 description: A curated list of resources related to Omarchy, an opinionated Arch
   Linux and Hyprland desktop environment from the creator of Ruby on Rails.
 source_url: https://github.com/aorumbayev/awesome-omarchy#readme
-featured: false
-brand: aorumbayev
-brand_logo_url: /aorumbayev.png
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - awesome-lists
   - linux
   - desktop
+featured: false
 markdown: >
   # Awesome Omarchy
 
@@ -84,4 +81,6 @@ markdown: >
 
   - Not applicable. Awesome Omarchy is an open, GitHub-hosted curated list with
   no pricing or paid plans indicated.
-updated_at: 2025-12-25 11:11
+brand: aorumbayev
+brand_logo_url: /aorumbayev.png
+updated_at: 2026-04-23 14:34

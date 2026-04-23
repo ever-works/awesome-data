@@ -2,16 +2,12 @@ name: Awesome Draft.js
 description: A curated list of resources, plugins, and examples for Draft.js,
   Facebook’s rich text editor framework for React.
 source_url: https://github.com/nikgraf/awesome-draft-js#readme
-featured: false
-brand: draftjs
-brand_logo_url: https://draftjs.org/img/draftjs-logo.svg
-images:
-  - https://draftjs.org/img/draftjs-logo.svg
-category: themed-directories
+category: Themed Directories
 tags:
   - awesome-lists
   - react
   - javascript
+featured: false
 markdown: >-
   # Awesome Draft.js
 
@@ -97,4 +93,8 @@ markdown: >-
 
   - Contributors who want to share or maintain Draft.js plugins, utilities, and
   demos.
-updated_at: 2025-12-25 11:11
+brand: draftjs
+brand_logo_url: https://draftjs.org/img/draftjs-logo.svg
+images:
+  - https://draftjs.org/img/draftjs-logo.svg
+updated_at: 2026-04-23 14:34

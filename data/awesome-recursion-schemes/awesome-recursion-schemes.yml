@@ -2,15 +2,12 @@ name: Awesome Recursion Schemes
 description: A curated Awesome list of resources on recursion schemes for
   traversing and transforming nested data structures.
 source_url: https://github.com/passy/awesome-recursion-schemes#readme
-featured: false
-brand: passy
-brand_logo_url: https://avatars.githubusercontent.com/u/85566
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - functional-programming
   - programming
   - resources
+featured: false
 markdown: >-
   # Awesome Recursion Schemes
 
@@ -73,4 +70,6 @@ markdown: >-
   ## Pricing
 
   - Not applicable (free, open resource list).
-updated_at: 2025-12-25 11:11
+brand: passy
+brand_logo_url: https://avatars.githubusercontent.com/u/85566
+updated_at: 2026-04-23 14:34

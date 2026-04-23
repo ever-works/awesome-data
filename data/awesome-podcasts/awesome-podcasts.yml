@@ -3,15 +3,12 @@ description: A community-maintained Awesome list collecting high-quality
   podcasts across various topics, following the Awesome list curation style and
   format.
 source_url: https://github.com/rShetty/awesome-podcasts
-featured: false
-brand: github
-brand_logo_url: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - media
   - curated-lists
   - awesome-lists
+featured: false
 markdown: >-
   # awesome-podcasts
 
@@ -69,4 +66,6 @@ markdown: >-
   ## Pricing
 
   - Free, open-source GitHub repository (no paid plans mentioned).
-updated_at: 2025-12-25 11:11
+brand: github
+brand_logo_url: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
+updated_at: 2026-04-23 14:34

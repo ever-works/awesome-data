@@ -2,15 +2,12 @@ name: Awesome Radio
 description: A curated awesome list of radio-related software, tools, and
   resources, including streaming and broadcasting utilities.
 source_url: https://github.com/kyleterry/awesome-radio#readme
-featured: false
-brand_logo_url: null
-images:
-  - https://opengraph.githubassets.com/1/kyleterry/awesome-radio
-category: themed-directories
+category: Themed Directories
 tags:
   - awesome-lists
   - communication
   - audio
+featured: false
 markdown: >-
   # Awesome Radio
 
@@ -78,4 +75,7 @@ markdown: >-
 
   Awesome Radio is an open-source GitHub repository and is free to access and
   use. There are no paid plans or pricing tiers.
-updated_at: 2025-12-25 11:11
+brand_logo_url: null
+images:
+  - https://opengraph.githubassets.com/1/kyleterry/awesome-radio
+updated_at: 2026-04-23 14:34

@@ -2,14 +2,12 @@ name: Awesome Material Design
 description: A curated awesome list of Material Design resources, frameworks,
   and tools for building material-styled UIs.
 source_url: https://github.com/sachin1092/awesome-material#readme
-featured: false
-brand_logo_url: null
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - design
   - ui
   - web-development
+featured: false
 markdown: >-
   ---
 
@@ -91,4 +89,5 @@ markdown: >-
 
   - Free to access and use (open GitHub repository under an open-source license;
   see LICENSE in the repo for details).
-updated_at: 2025-12-25 11:11
+brand_logo_url: null
+updated_at: 2026-04-23 14:34

@@ -2,15 +2,12 @@ name: Awesome Beginner-Friendly Projects
 description: An Awesome directory of open-source projects that are friendly to
   beginners and first-time contributors.
 source_url: https://github.com/MunGell/awesome-for-beginners#readme
-featured: false
-brand: sindresorhusawesome
-brand_logo_url: /sindresorhus/awesome/raw/main/media/logo.png
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - open-source
   - beginners
   - awesome-lists
+featured: false
 markdown: >-
   # Awesome Beginner-Friendly Projects
 
@@ -199,4 +196,6 @@ markdown: >-
   - **Category:** Themed Directories
 
   - **Tags:** `open-source`, `beginners`, `awesome-lists`
-updated_at: 2025-12-25 11:11
+brand: sindresorhusawesome
+brand_logo_url: /sindresorhus/awesome/raw/main/media/logo.png
+updated_at: 2026-04-23 14:34

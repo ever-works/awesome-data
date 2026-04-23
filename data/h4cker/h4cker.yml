@@ -4,15 +4,12 @@ description: An extensive awesome-style curated repository of thousands of
   research, DFIR, exploit development, and related cybersecurity topics,
   maintained by Omar Santos.
 source_url: https://github.com/The-Art-of-Hacking/h4cker
-featured: false
-brand: the-art-of-hacking
-brand_logo_url: null
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - security
   - hacking
   - resources
+featured: false
 markdown: >-
   # h4cker
 
@@ -131,4 +128,6 @@ markdown: >-
   - **MIT License** – permits use, modification, distribution, and private or
   commercial reuse, subject to license terms in the `LICENSE` file of the
   repository.
-updated_at: 2025-12-25 11:11
+brand: the-art-of-hacking
+brand_logo_url: null
+updated_at: 2026-04-23 14:34

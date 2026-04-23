@@ -3,7 +3,7 @@ description: A curated collection of geospatial-related sources, including
   tools, data, communities, and more. This fits the Awesome Directories theme as
   it is an organized directory of valuable geospatial resources.
 source_url: https://github.com/sshuair/awesome-gis
-category: themed-directories
+category: Themed Directories
 tags:
   - gis
   - geospatial
@@ -49,4 +49,4 @@ markdown: |-
 
   ## License
   - See repository for license details.
-updated_at: 2025-05-26 10:11
+updated_at: 2026-04-23 14:34

@@ -2,15 +2,12 @@ name: Meta Awesome - IDE
 description: An Awesome-style list under Meta Awesome centered on Integrated
   Development Environment (IDE) tools and resources (singular-focused page).
 source_url: https://github.com/jepemo/meta-awesome/blob/master/doc/ide.md
-featured: false
-brand: jepemometa-awesome
-brand_logo_url: null
-images: null
-category: meta-directories
+category: Meta Directories
 tags:
   - meta-directory
   - developer-tools
   - ide
+featured: false
 markdown: >
   # Meta Awesome – IDE
 
@@ -69,4 +66,6 @@ markdown: >
   GitHub.  
 
   - No paid plans or pricing tiers are associated with the directory content.
-updated_at: 2025-12-26 11:32
+brand: jepemometa-awesome
+brand_logo_url: null
+updated_at: 2026-04-23 14:34

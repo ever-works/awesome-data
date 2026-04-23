@@ -5,15 +5,12 @@ description: '"Other Awesome Lists" is a section of the meta-awesome project
   as a hub for navigating to curated awesome lists across diverse technical
   subjects, fitting the overall goal of an Awesome meta collection.'
 source_url: https://github.com/jepemo/meta-awesome/blob/master/doc/other-awesome-lists.md
-featured: true
-brand: meta-awesome
-brand_logo_url: null
-images: null
-category: meta-directories
+category: Meta Directories
 tags:
   - meta-directory
   - awesome-lists
   - directory-of-directories
+featured: true
 markdown: |-
   # meta-awesome: Other Awesome Lists
 
@@ -61,4 +58,6 @@ markdown: |-
 
   ## Pricing
   - Not applicable. This is a public, GitHub-hosted directory of links and is free to access.
-updated_at: 2025-12-25 11:11
+brand: meta-awesome
+brand_logo_url: null
+updated_at: 2026-04-23 14:34

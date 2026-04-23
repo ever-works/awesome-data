@@ -4,15 +4,12 @@ description: A curated entry in the Awesome Public Datasets (APD) collection for
   Kaggle. It provides structured metadata and categorization so this dataset can
   be discovered as part of a larger awesome-style directory of public datasets.
 source_url: https://github.com/awesomedata/apd-core/tree/master/core//eSports/csgo.yml
-featured: false
-brand: awesome-public-datasets
-brand_logo_url: null
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - games
   - datasets
   - machine-learning
+featured: false
 markdown: >-
   # Awesome Public Datasets (APD) – eSports: CS:GO Competitive Matchmaking Data
 
@@ -92,4 +89,6 @@ markdown: >-
 
   For detailed dataset contents (fields, schema, size, license), refer to the
   linked Kaggle dataset via the APD GitHub entry.
-updated_at: 2025-12-30 18:29
+brand: awesome-public-datasets
+brand_logo_url: null
+updated_at: 2026-04-23 14:34

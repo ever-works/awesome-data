@@ -2,15 +2,12 @@ name: Awesome Stacks Chain
 description: An Awesome collection of libraries, tools, and educational
   resources for the Stacks smart contract platform secured by Bitcoin.
 source_url: https://github.com/friedger/awesome-stacks-chain#readme
-featured: false
-brand: stacks
-brand_logo_url: null
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - blockchain
   - bitcoin
   - developer-tools
+featured: false
 markdown: >-
   # Awesome Stacks Chain
 
@@ -153,4 +150,6 @@ markdown: >-
 
   - Not applicable. Awesome Stacks Chain is an open, public GitHub-based
   directory of resources, with no pricing plans listed.
-updated_at: 2025-12-25 11:11
+brand: stacks
+brand_logo_url: null
+updated_at: 2026-04-23 14:34

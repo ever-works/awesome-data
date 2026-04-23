@@ -2,14 +2,11 @@ name: Awesome H2O
 description: An Awesome list of resources, extensions, and tooling around H2O,
   the open-source distributed machine learning platform.
 source_url: https://github.com/h2oai/awesome-h2o#readme
-featured: false
-brand: h2oai
-brand_logo_url: null
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - awesome-lists
   - ai
+featured: false
 markdown: >
   # Awesome H2O
 
@@ -83,4 +80,6 @@ markdown: >
 
   - Not applicable. Awesome H2O is an open GitHub-based curated list and is
   freely accessible.
-updated_at: 2025-12-25 11:11
+brand: h2oai
+brand_logo_url: null
+updated_at: 2026-04-23 14:34

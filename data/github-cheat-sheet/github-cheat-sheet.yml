@@ -2,15 +2,12 @@ name: GitHub Cheat Sheet
 description: A community-driven cheat sheet of GitHub tips, features, and best
   practices, maintained in an awesome-list style repository.
 source_url: https://github.com/tiimgreen/github-cheat-sheet#readme
-featured: false
-brand: github
-brand_logo_url: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - github
   - developer-tools
   - documentation
+featured: false
 markdown: >-
   # GitHub Cheat Sheet
 
@@ -76,4 +73,6 @@ markdown: >-
 
   - **Free** – Open-source GitHub repository, available to use and contribute to
   at no cost.
-updated_at: 2025-12-25 11:11
+brand: github
+brand_logo_url: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
+updated_at: 2026-04-23 14:34

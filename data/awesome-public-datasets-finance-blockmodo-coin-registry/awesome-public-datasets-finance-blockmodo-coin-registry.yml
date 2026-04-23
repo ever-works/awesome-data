@@ -4,15 +4,12 @@ description: An Awesome Public Datasets finance category entry referencing
   metadata for cryptocurrencies. It is included as part of the curated
   Awesome-style directory of public financial and crypto-related datasets.
 source_url: https://github.com/Blockmodo/coin_registry
-featured: false
-brand: awesomedata-awesome-public-datasets
-brand_logo_url: /awesomedata/apd-core/raw/master/apd-logo.png
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - datasets
   - finance
   - blockchain
+featured: false
 markdown: >-
   # Awesome Public Datasets – Finance / Blockmodo Coin Registry
 
@@ -85,4 +82,6 @@ markdown: >-
 
   - No pricing information is provided; as an MIT-licensed GitHub repository,
   the dataset itself is available for free use, subject to the license terms.
-updated_at: 2025-12-30 18:29
+brand: awesomedata-awesome-public-datasets
+brand_logo_url: /awesomedata/apd-core/raw/master/apd-logo.png
+updated_at: 2026-04-23 14:34

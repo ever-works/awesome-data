@@ -2,15 +2,12 @@ name: Awesome Storybook
 description: An awesome list of resources, addons, tutorials, and tools for
   Storybook, the UI component development environment.
 source_url: https://github.com/lauthieb/awesome-storybook#readme
-featured: false
-brand: lauthieb
-brand_logo_url: null
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - storybook
   - ui
   - developer-tools
+featured: false
 markdown: >-
   # Awesome Storybook
 
@@ -57,4 +54,6 @@ markdown: >-
   - Not a paid product or service.  
 
   - Public, open GitHub repository; access to the list is free.
-updated_at: 2025-12-25 11:11
+brand: lauthieb
+brand_logo_url: null
+updated_at: 2026-04-23 14:34

@@ -2,16 +2,12 @@ name: Awesome Summernote
 description: Awesome list of community modules, plugins, and extensions for the
   Summernote WYSIWYG editor ecosystem.
 source_url: https://github.com/summernote/awesome-summernote
-featured: false
-brand: summernote
-brand_logo_url: https://summernote.org/img/favicons/favicon-96x96.png
-images:
-  - https://summernote.org/img/logo/summernote.png
-category: themed-directories
+category: Themed Directories
 tags:
   - editor
   - web-development
   - plugins
+featured: false
 markdown: >-
   # Awesome Summernote
 
@@ -134,4 +130,8 @@ markdown: >-
   - The repository is an open, community-maintained list under a CC0 license.
   Listed plugins/connectors may have their own licenses or terms, which are
   defined in their respective repositories.
-updated_at: 2025-12-25 11:11
+brand: summernote
+brand_logo_url: https://summernote.org/img/favicons/favicon-96x96.png
+images:
+  - https://summernote.org/img/logo/summernote.png
+updated_at: 2026-04-23 14:34

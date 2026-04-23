@@ -2,16 +2,12 @@ name: Awesome Roslyn
 description: An awesome list of analyzers, code fixes, and resources for Roslyn,
   the open‑source C# and VB.NET compiler and analysis platform.
 source_url: https://github.com/ironcev/awesome-roslyn#readme
-featured: false
-brand: microsoft
-brand_logo_url: https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg
-images:
-  - https://repository-images.githubusercontent.com/67522629/6c0b8a00-6f3e-11ea-8bdb-a6f1bd4d09c3
-category: themed-directories
+category: Themed Directories
 tags:
   - awesome-lists
   - developer-tools
   - dotnet
+featured: false
 markdown: |-
   # Awesome Roslyn
 
@@ -60,4 +56,8 @@ markdown: |-
   ## Pricing
 
   - **Free** – The Awesome Roslyn list and all its content are freely accessible as a public GitHub repository. Individual linked resources or books may have their own licensing or pricing, but the directory itself is free to use.
-updated_at: 2025-12-25 11:11
+brand: microsoft
+brand_logo_url: https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg
+images:
+  - https://repository-images.githubusercontent.com/67522629/6c0b8a00-6f3e-11ea-8bdb-a6f1bd4d09c3
+updated_at: 2026-04-23 14:34

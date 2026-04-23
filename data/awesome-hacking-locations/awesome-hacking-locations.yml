@@ -2,15 +2,12 @@ name: Awesome Hacking Locations
 description: An Awesome list of public places and locations around the world
   that are suitable for hacking, coding, and collaborating.
 source_url: https://github.com/daviddias/awesome-hacking-locations#readme
-featured: false
-brand: github
-brand_logo_url: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - awesome-lists
   - locations
   - remote-work
+featured: false
 markdown: >-
   # Awesome Hacking Locations
 
@@ -98,4 +95,6 @@ markdown: >-
   - Not a paid product or service.  
 
   - Access to the list and repository is **free** and open-source.
-updated_at: 2025-12-31 19:34
+brand: github
+brand_logo_url: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
+updated_at: 2026-04-23 14:34

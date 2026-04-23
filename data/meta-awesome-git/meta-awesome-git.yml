@@ -2,14 +2,12 @@ name: "meta-awesome: Git"
 description: A meta-awesome entry that aggregates awesome lists about Git usage,
   workflows, advanced features, and educational material.
 source_url: https://github.com/jepemo/meta-awesome/blob/master/doc/git.md
-featured: false
-brand_logo_url: null
-images: []
-category: meta-directories
+category: Meta Directories
 tags:
   - meta-directory
   - awesome-lists
   - git
+featured: false
 markdown: >-
   # meta-awesome: Git
 
@@ -52,4 +50,6 @@ markdown: >-
   ## Pricing
 
   - Not applicable (GitHub repository / directory of links).
-updated_at: 2025-12-25 11:11
+brand_logo_url: null
+images: []
+updated_at: 2026-04-23 14:34

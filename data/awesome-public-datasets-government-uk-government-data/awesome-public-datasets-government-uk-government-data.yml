@@ -3,15 +3,12 @@ description: An Awesome-listed government data source referencing the UK
   national open data portal, data.gov.uk, aggregating datasets from central and
   local government bodies.
 source_url: https://data.gov.uk
-featured: false
-brand: uk-government
-brand_logo_url: /awesome-data
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - datasets
   - government
   - open-data
+featured: false
 markdown: >-
   # Awesome Public Datasets – Government: U.K. Government Data
 
@@ -98,4 +95,6 @@ markdown: >-
   - Access to datasets via data.gov.uk is provided as open government data.  
 
   - No pricing or paid plans are indicated in the provided content.
-updated_at: 2025-12-30 18:29
+brand: uk-government
+brand_logo_url: /awesome-data
+updated_at: 2026-04-23 14:34

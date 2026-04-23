@@ -3,15 +3,12 @@ description: An Awesome public datasets entry pointing to the State of Texas
   open data portal, aggregating statewide government datasets on topics such as
   health, transportation, and public services.
 source_url: https://data.texas.gov/
-featured: false
-brand: state-of-texas
-brand_logo_url: /awesome-data
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - datasets
   - government
   - open-data
+featured: false
 markdown: >-
   # Awesome Public Datasets – Government: Texas Open Data
 
@@ -63,4 +60,6 @@ markdown: >-
   ## Pricing
 
   - Not specified (government open data portal; typically free public access).
-updated_at: 2025-12-30 18:29
+brand: state-of-texas
+brand_logo_url: /awesome-data
+updated_at: 2026-04-23 14:34

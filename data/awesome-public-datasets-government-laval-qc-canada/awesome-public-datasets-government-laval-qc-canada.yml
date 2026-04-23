@@ -2,15 +2,12 @@ name: "Awesome Public Datasets - Government: Laval, QC, Canada"
 description: Awesome Public Datasets catalog entry referencing Laval’s municipal
   open data portal, offering local government datasets for public use.
 source_url: http://www.laval.ca/Pages/Fr/Citoyens/donnees.aspx
-featured: false
-brand: awesome-public-datasets
-brand_logo_url: null
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - datasets
   - government
   - open-data
+featured: false
 markdown: >
   # Awesome Public Datasets – Government: Laval, QC, Canada
 
@@ -141,4 +138,6 @@ markdown: >
 
   - Public municipal information and documents presented are **freely
   accessible**; no pricing or paid plans are indicated.
-updated_at: 2025-12-30 18:29
+brand: awesome-public-datasets
+brand_logo_url: null
+updated_at: 2026-04-23 14:34

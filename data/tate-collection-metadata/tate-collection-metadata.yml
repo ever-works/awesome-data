@@ -2,15 +2,12 @@ name: Tate Collection metadata
 description: A GitHub repository exposing metadata for the Tate art collections,
   included as a museum data resource in the Awesome Public Datasets project.
 source_url: https://github.com/tategallery/collection
-featured: false
-brand: tate
-brand_logo_url: null
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - datasets
   - art
   - metadata
+featured: false
 markdown: >
   # Tate Collection metadata
 
@@ -118,4 +115,6 @@ markdown: >
 
   - **Free**: Metadata is available at no cost under the CC0 Public Domain
   license.
-updated_at: 2025-12-30 18:29
+brand: tate
+brand_logo_url: null
+updated_at: 2026-04-23 14:34

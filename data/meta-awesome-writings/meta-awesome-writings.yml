@@ -3,15 +3,12 @@ description: An awesome meta-collection within Meta Awesome that organizes
   awesome lists and curated resources focused on writing, technical writing, and
   related content-focused tools.
 source_url: https://github.com/jepemo/meta-awesome/blob/master/doc/writings.md
-featured: false
-brand: meta-awesome
-brand_logo_url: ://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
-images: null
-category: meta-directories
+category: Meta Directories
 tags:
   - awesome-lists
   - meta-directory
   - wikis
+featured: false
 markdown: >-
   # Meta Awesome – Writings
 
@@ -66,4 +63,6 @@ markdown: >-
 
   Not applicable. This is a free, open, GitHub-hosted meta-directory of
   writing-related resources.
-updated_at: 2025-12-25 11:11
+brand: meta-awesome
+brand_logo_url: ://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
+updated_at: 2026-04-23 14:34

@@ -2,15 +2,12 @@ name: Awesome CSV
 description: An awesome list of libraries, tools, and resources for working with
   CSV, a text-based tabular data format using comma-separated values.
 source_url: https://github.com/secretGeek/awesomeCSV#readme
-featured: false
-brand_logo_url: null
-images:
-  - https://opengraph.githubassets.com/1/secretGeek/awesomeCSV
-category: themed-directories
+category: Themed Directories
 tags:
   - awesome-lists
   - datasets
   - developer-tools
+featured: false
 markdown: >
   # Awesome CSV
 
@@ -111,4 +108,7 @@ markdown: >
 
   - The repository includes a `license` file; usage is governed by the license
   specified there (see the GitHub repository for full details).
-updated_at: 2025-12-25 11:11
+brand_logo_url: null
+images:
+  - https://opengraph.githubassets.com/1/secretGeek/awesomeCSV
+updated_at: 2026-04-23 14:34

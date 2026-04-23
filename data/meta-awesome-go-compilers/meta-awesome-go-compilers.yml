@@ -2,15 +2,12 @@ name: Meta Awesome - Go Compilers
 description: An Awesome-style directory within Meta Awesome cataloging Go
   language compilers and related compiler toolchains.
 source_url: https://github.com/jepemo/meta-awesome/blob/master/doc/go-compilers.md
-featured: false
-brand: jepemometa-awesome
-brand_logo_url: null
-images: null
-category: meta-directories
+category: Meta Directories
 tags:
   - meta-directory
   - golang
   - compilers
+featured: false
 markdown: >-
   # Meta Awesome – Go Compilers
 
@@ -64,4 +61,6 @@ markdown: >-
 
   - Not applicable (GitHub-hosted curated list / documentation; no pricing
   information provided).
-updated_at: 2025-12-26 11:32
+brand: jepemometa-awesome
+brand_logo_url: null
+updated_at: 2026-04-23 14:34

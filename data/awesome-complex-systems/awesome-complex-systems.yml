@@ -2,15 +2,12 @@ name: Awesome Complex Systems
 description: An Awesome collection of resources on complex systems, focusing on
   systems with multiple interacting parts and emergent properties.
 source_url: https://github.com/sellisd/awesome-complexity#readme
-featured: false
-brand: sellisd
-brand_logo_url: https://avatars.githubusercontent.com/u/1959575
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - complex-systems
   - research
   - science
+featured: false
 markdown: >
   # Awesome Complex Systems
 
@@ -73,4 +70,6 @@ markdown: >
   ## Pricing
 
   - Not applicable – this is a free, open curated list hosted on GitHub.
-updated_at: 2025-12-25 11:11
+brand: sellisd
+brand_logo_url: https://avatars.githubusercontent.com/u/1959575
+updated_at: 2026-04-23 14:34

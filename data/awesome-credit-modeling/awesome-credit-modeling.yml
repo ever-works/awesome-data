@@ -2,15 +2,12 @@ name: Awesome Credit Modeling
 description: Awesome collection of resources, papers, and tools related to
   credit risk modeling and credit scoring.
 source_url: https://github.com/mourarthur/awesome-credit-modeling#readme
-featured: false
-brand: awesome-lists
-brand_logo_url: /.github/logo.svg
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - financial
   - data-science
   - analytics
+featured: false
 markdown: >-
   ---
 
@@ -89,4 +86,6 @@ markdown: >-
 
 
   - Not applicable – this is a free, open GitHub repository of resources.
-updated_at: 2025-12-25 11:11
+brand: awesome-lists
+brand_logo_url: /.github/logo.svg
+updated_at: 2026-04-23 14:34

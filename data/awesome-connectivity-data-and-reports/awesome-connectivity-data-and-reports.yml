@@ -3,15 +3,12 @@ description: A curated list of datasets, reports, and resources to better
   understand global access to telecommunication and internet infrastructure and
   the terms of that access.
 source_url: https://github.com/stevesong/awesome-connectivity-info#readme
-featured: false
-brand: awesome
-brand_logo_url: /.github/logo.png
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - datasets
   - telecom
   - research
+featured: false
 markdown: >-
   # Awesome Connectivity Data and Reports
 
@@ -82,4 +79,6 @@ markdown: >-
 
   - Building derivative tools, visualizations, or analyses from referenced
   public resources.
-updated_at: 2025-12-25 11:11
+brand: awesome
+brand_logo_url: /.github/logo.png
+updated_at: 2026-04-23 14:34

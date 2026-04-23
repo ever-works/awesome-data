@@ -2,15 +2,12 @@ name: awesome-resources
 description: A community-driven Awesome list of helpful resources for developers
   and learners, aggregating links and tools contributed by the community.
 source_url: https://github.com/shahednasser/awesome-resources
-featured: false
-brand: shahednasser
-brand_logo_url: /shahednasser.png
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - developer-resources
   - curated-lists
   - awesome-lists
+featured: false
 markdown: >-
   ## awesome-resources
 
@@ -68,4 +65,6 @@ markdown: >-
   - **Maintainer/brand:** shahednasser  
 
   - **Brand logo:** `/shahednasser.png`
-updated_at: 2025-12-25 11:11
+brand: shahednasser
+brand_logo_url: /shahednasser.png
+updated_at: 2026-04-23 14:34

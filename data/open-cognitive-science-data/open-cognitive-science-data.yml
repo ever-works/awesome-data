@@ -4,15 +4,12 @@ description: An open repository of publicly available behavioral datasets from
   cataloged in the awesomedata / apd-core Awesome Data directories under
   Psychology and Cognition.
 source_url: https://nimh-dsst.github.io/OpenCogData/
-featured: false
-brand: nimh-data-science-and-sharing-team
-brand_logo_url: null
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - datasets
   - cognitive-science
   - research
+featured: false
 markdown: >-
   # Open Cognitive Science Data
 
@@ -108,4 +105,6 @@ markdown: >-
 
   - No pricing information is provided. The site and its listings are presented
   as an open, MIT-licensed resource.
-updated_at: 2025-12-30 18:29
+brand: nimh-data-science-and-sharing-team
+brand_logo_url: null
+updated_at: 2026-04-23 14:34

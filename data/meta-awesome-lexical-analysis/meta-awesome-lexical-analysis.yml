@@ -2,15 +2,12 @@ name: Meta Awesome - Lexical analysis
 description: An Awesome-format list within Meta Awesome focusing on lexical
   analysis tools, parsers, and related resources.
 source_url: https://github.com/jepemo/meta-awesome/blob/master/doc/lexical-analysis.md
-featured: false
-brand: jepemometa-awesome
-brand_logo_url: null
-images: null
-category: meta-directories
+category: Meta Directories
 tags:
   - awesome-lists
   - compiler
   - parsing
+featured: false
 markdown: >-
   # Meta Awesome – Lexical Analysis
 
@@ -72,4 +69,6 @@ markdown: >-
   ## Pricing
 
   - Not applicable. This is a free, open, GitHub-hosted curated list.
-updated_at: 2025-12-26 11:32
+brand: jepemometa-awesome
+brand_logo_url: null
+updated_at: 2026-04-23 14:34

@@ -2,15 +2,12 @@ name: Awesome Fuse
 description: A curated list of awesome Fuse tools, libraries, and resources for
   mobile app development with the Fuse platform.
 source_url: https://github.com/fuse-compound/awesome-fuse#readme
-featured: false
-brand: fuse
-brand_logo_url: https://github.com/fuse-compound.png
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - awesome-lists
   - mobile
   - developer-tools
+featured: false
 markdown: >-
   # Awesome Fuse
 
@@ -69,4 +66,6 @@ markdown: >-
   - Best suited for developers working with or exploring the Fuse mobile app
   development platform who want a centralized index of tools, examples, and
   learning materials.
-updated_at: 2025-12-25 11:11
+brand: fuse
+brand_logo_url: https://github.com/fuse-compound.png
+updated_at: 2026-04-23 14:34

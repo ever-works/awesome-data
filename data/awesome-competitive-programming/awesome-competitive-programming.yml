@@ -3,14 +3,12 @@ description: A curated GitHub directory of awesome competitive programming,
   algorithm, and data structure resources, fitting into the broader ecosystem of
   Awesome-style lists.
 source_url: https://github.com/lnishan/awesome-competitive-programming
-featured: false
-brand_logo_url: null
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - algorithms
   - education
   - programming
+featured: false
 markdown: >
   # Awesome Competitive Programming
 
@@ -133,4 +131,5 @@ markdown: >
   - **Free**: The list and all its entries are freely accessible on GitHub.
   Individual linked resources may have their own terms, but the directory itself
   is free to use and contribute to.
-updated_at: 2025-12-25 11:11
+brand_logo_url: null
+updated_at: 2026-04-23 14:34

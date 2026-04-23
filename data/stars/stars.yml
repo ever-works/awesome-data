@@ -3,15 +3,12 @@ description: A personal, curated collection of starred GitHub repositories
   organized as an awesome-style list, aggregating interesting tools and
   resources across many topics.
 source_url: https://github.com/kzndotsh/stars
-featured: false
-brand: kzndotsh
-brand_logo_url: null
-images: null
-category: meta-directories
+category: Meta Directories
 tags:
   - awesome-lists
   - github
   - curated-lists
+featured: false
 markdown: >-
   ## Overview
 
@@ -88,4 +85,6 @@ markdown: >-
 
   - Not applicable. This is an open GitHub repository / list available free of
   charge.
-updated_at: 2025-12-26 11:32
+brand: kzndotsh
+brand_logo_url: null
+updated_at: 2026-04-23 14:34

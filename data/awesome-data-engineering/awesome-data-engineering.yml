@@ -2,15 +2,12 @@ name: Awesome Data Engineering
 description: An Awesome collection of data engineering resources, tools, and
   best practices for building and maintaining data infrastructure.
 source_url: https://github.com/igorbarinov/awesome-data-engineering#readme
-featured: false
-brand: igorbarinov
-brand_logo_url: https://avatars.githubusercontent.com/u/554584
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - awesome-lists
   - big-data
   - data-engineering
+featured: false
 markdown: >-
   # Awesome Data Engineering
 
@@ -103,4 +100,6 @@ markdown: >-
 
   - Not applicable. This is an open, public GitHub repository of curated
   resources.
-updated_at: 2025-12-25 11:11
+brand: igorbarinov
+brand_logo_url: https://avatars.githubusercontent.com/u/554584
+updated_at: 2026-04-23 14:34

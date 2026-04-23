@@ -3,15 +3,12 @@ description: An Awesome-inspired meta list that aggregates curated Awesome
   directories and resource lists centered on physics, educational materials, and
   scientific tools.
 source_url: https://github.com/jepemo/meta-awesome/blob/master/doc/physics.md
-featured: false
-brand: github
-brand_logo_url: https://github.githubassets.com/images/modules/logos_page/GitHub-Logo.png
-images: null
-category: meta-directories
+category: Meta Directories
 tags:
   - meta-directory
   - physics
   - science
+featured: false
 markdown: >
   # Meta Awesome - Physics
 
@@ -62,4 +59,6 @@ markdown: >
 
   - Not applicable. This is an open, GitHub-hosted meta list of links and
   resources, with no pricing or plans indicated.
-updated_at: 2025-12-26 11:32
+brand: github
+brand_logo_url: https://github.githubassets.com/images/modules/logos_page/GitHub-Logo.png
+updated_at: 2026-04-23 14:34

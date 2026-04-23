@@ -2,14 +2,12 @@ name: Awesome Music
 description: Curated awesome list of frameworks, libraries, software, and
   resources for music creation, analysis, and processing.
 source_url: https://github.com/ciconia/awesome-music#readme
-featured: false
-brand_logo_url: null
-images: []
-category: themed-directories
+category: Themed Directories
 tags:
   - awesome-lists
   - media
   - audio
+featured: false
 markdown: >-
   # Awesome Music
 
@@ -74,4 +72,6 @@ markdown: >-
 
   - Not applicable. Awesome Music is an open, freely accessible GitHub-based
   directory under a CC0 license.
-updated_at: 2025-12-25 11:11
+brand_logo_url: null
+images: []
+updated_at: 2026-04-23 14:34

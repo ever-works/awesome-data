@@ -3,16 +3,12 @@ description: An open science platform providing de-identified, richly structured
   clinical datasets for machine learning and health research, listed within the
   Awesome Public Datasets healthcare section.
 source_url: https://docs.nightingalescience.org/
-featured: false
-brand: nightingale-open-science
-brand_logo_url: https://nightingalescience.org/wp-content/uploads/2020/09/nightingale-logo.svg
-images:
-  - https://nightingalescience.org/wp-content/uploads/2021/05/hosptial-data-visualization.png
-category: themed-directories
+category: Themed Directories
 tags:
   - datasets
   - health
   - machine-learning
+featured: false
 markdown: |-
   # Nightingale Open Science
 
@@ -93,4 +89,8 @@ markdown: |-
   ## Source
   - Documentation: https://docs.nightingalescience.org/
   - Copyright © 2021–2025 Nightingale Open Science. All rights reserved.
-updated_at: 2025-12-30 18:29
+brand: nightingale-open-science
+brand_logo_url: https://nightingalescience.org/wp-content/uploads/2020/09/nightingale-logo.svg
+images:
+  - https://nightingalescience.org/wp-content/uploads/2021/05/hosptial-data-visualization.png
+updated_at: 2026-04-23 14:34

@@ -2,15 +2,12 @@ name: Awesome Userscripts
 description: An Awesome list of user scripts and related tools to enhance and
   customize web browsing experiences.
 source_url: https://github.com/bvolpato/awesome-userscripts#readme
-featured: false
-brand: sindresorhusawesome
-brand_logo_url: /sindresorhus/awesome/raw/main/media/logo.png
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - awesome-lists
   - browser
   - javascript
+featured: false
 markdown: >
   ---
 
@@ -47,4 +44,6 @@ markdown: >
 
   pricing: |
     - Free: Open-source, no cost to access or use the list or referenced scripts.
-updated_at: 2025-12-25 11:11
+brand: sindresorhusawesome
+brand_logo_url: /sindresorhus/awesome/raw/main/media/logo.png
+updated_at: 2026-04-23 14:34

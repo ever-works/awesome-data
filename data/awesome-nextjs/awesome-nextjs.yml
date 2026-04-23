@@ -2,15 +2,12 @@ name: awesome-nextjs
 description: An awesome curated list of Next.js-based libraries and resources
   for building small and large-scale applications with Next.js.
 source_url: https://github.com/officialrajdeepsingh/awesome-nextjs
-featured: false
-brand_logo_url: null
-images:
-  - https://repository-images.githubusercontent.com/602577409/d3473953-65c1-4ae0-80dd-b8ca54fe41b4
-category: themed-directories
+category: Themed Directories
 tags:
   - web-development
   - react
   - awesome-lists
+featured: false
 markdown: >-
   # awesome-nextjs
 
@@ -57,4 +54,7 @@ markdown: >-
   ## Pricing
 
   - Free and open-source (MIT license).
-updated_at: 2025-12-25 11:11
+brand_logo_url: null
+images:
+  - https://repository-images.githubusercontent.com/602577409/d3473953-65c1-4ae0-80dd-b8ca54fe41b4
+updated_at: 2026-04-23 14:34

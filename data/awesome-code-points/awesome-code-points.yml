@@ -1,15 +1,12 @@
 name: Awesome Code Points
 description: An Awesome list focused on Unicode code points, related tools, and resources.
 source_url: https://github.com/Codepoints/awesome-codepoints#readme
-featured: false
-brand: sindresorhusawesome
-brand_logo_url: /sindresorhus/awesome/raw/main/media/logo.png
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - awesome-lists
   - unicode
   - developer-tools
+featured: false
 markdown: >-
   # Awesome Code Points
 
@@ -101,4 +98,6 @@ markdown: >-
 
   Not applicable. Awesome Code Points is an open, GitHub-hosted curated list and
   is free to use.
-updated_at: 2025-12-25 11:11
+brand: sindresorhusawesome
+brand_logo_url: /sindresorhus/awesome/raw/main/media/logo.png
+updated_at: 2026-04-23 14:34

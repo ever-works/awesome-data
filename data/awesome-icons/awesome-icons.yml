@@ -2,14 +2,12 @@ name: Awesome Icons
 description: Curated awesome list of downloadable SVG, PNG, and font icon
   projects and related resources.
 source_url: https://github.com/notlmn/awesome-icons#readme
-featured: false
-brand_logo_url: null
-images: []
-category: themed-directories
+category: Themed Directories
 tags:
   - awesome-lists
   - design
   - css
+featured: false
 markdown: >-
   # Awesome Icons
 
@@ -82,4 +80,6 @@ markdown: >-
 
   - Individual icon projects linked from the list have their own licenses, which
   must be checked per project.
-updated_at: 2025-12-25 11:11
+brand_logo_url: null
+images: []
+updated_at: 2026-04-23 14:34

@@ -2,14 +2,11 @@ name: Awesome Elixir
 description: Curated Awesome directory of Elixir libraries, frameworks, and
   learning resources.
 source_url: https://github.com/h4cc/awesome-elixir#readme
-featured: false
-brand: sindresorhusawesome
-brand_logo_url: https://raw.githubusercontent.com/sindresorhus/awesome/main/media/logo.svg
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - elixir
   - awesome-lists
+featured: false
 markdown: >-
   # Awesome Elixir
 
@@ -246,4 +243,6 @@ markdown: >-
 
   - Not applicable. Awesome Elixir is an open, community-maintained curated list
   hosted on GitHub.
-updated_at: 2025-12-25 11:11
+brand: sindresorhusawesome
+brand_logo_url: https://raw.githubusercontent.com/sindresorhus/awesome/main/media/logo.svg
+updated_at: 2026-04-23 14:34

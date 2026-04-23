@@ -2,14 +2,12 @@ name: "meta-awesome: Feeds"
 description: A meta-awesome document indexing awesome lists focused on feeds,
   syndication formats, RSS/Atom tooling, and feed-related services.
 source_url: https://github.com/jepemo/meta-awesome/blob/master/doc/feeds.md
-featured: false
-brand_logo_url: null
-images: []
-category: meta-directories
+category: Meta Directories
 tags:
   - meta-directory
   - rss
   - awesome-lists
+featured: false
 markdown: >-
   # meta-awesome: Feeds
 
@@ -49,4 +47,6 @@ markdown: >-
   - Not a commercial product or service.
 
   - Publicly accessible GitHub document, free to use and reference.
-updated_at: 2025-12-25 11:11
+brand_logo_url: null
+images: []
+updated_at: 2026-04-23 14:34

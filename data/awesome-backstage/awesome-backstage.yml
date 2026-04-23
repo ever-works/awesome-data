@@ -3,14 +3,11 @@ description: An Awesome collection of plugins, integrations, examples, and
   resources for Backstage, the open‑source platform for building Internal
   Developer Portals.
 source_url: https://github.com/shano/awesome-backstage#readme
-featured: false
-brand: shano
-brand_logo_url: /shano.png
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - developer-tools
   - open-source
+featured: false
 markdown: >-
   # Awesome Backstage
 
@@ -72,4 +69,6 @@ markdown: >-
 
   - Not applicable – Awesome Backstage is a free, open‑source curated list
   hosted on GitHub.
-updated_at: 2025-12-25 11:11
+brand: shano
+brand_logo_url: /shano.png
+updated_at: 2026-04-23 14:34

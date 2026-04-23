@@ -1,15 +1,12 @@
 name: Awesome macOS Screensavers
 description: A curated list of awesome screensavers available for macOS.
 source_url: https://github.com/agarrharr/awesome-macos-screensavers#readme
-featured: false
-brand: agarrharr
-brand_logo_url: /agarrharr.png
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - macos
   - desktop
   - media
+featured: false
 markdown: >-
   # Awesome macOS Screensavers
 
@@ -71,4 +68,6 @@ markdown: >-
   - Individual listed screensavers may have their own licensing or pricing,
   which is determined by their respective creators (not specified centrally in
   this list).
-updated_at: 2025-12-25 11:11
+brand: agarrharr
+brand_logo_url: /agarrharr.png
+updated_at: 2026-04-23 14:34

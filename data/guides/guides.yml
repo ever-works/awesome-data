@@ -2,15 +2,12 @@ name: Guides
 description: An awesome-style collection of design and development guides,
   coding standards, and best practices across languages and tools.
 source_url: https://github.com/NARKOZ/guides#readme
-featured: false
-brand_logo_url: null
-images:
-  - https://opengraph.githubassets.com/1/NARKOZ/guides
-category: themed-directories
+category: Themed Directories
 tags:
   - best-practices
   - developer-tools
   - documentation
+featured: false
 markdown: >-
   # Guides
 
@@ -75,4 +72,7 @@ markdown: >-
 
   - Not applicable – this is an open GitHub repository/directory of resources
   (no pricing plans indicated).
-updated_at: 2025-12-25 11:11
+brand_logo_url: null
+images:
+  - https://opengraph.githubassets.com/1/NARKOZ/guides
+updated_at: 2026-04-23 14:34

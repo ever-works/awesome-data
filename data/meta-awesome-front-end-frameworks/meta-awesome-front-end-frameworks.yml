@@ -2,13 +2,11 @@ name: "meta-awesome: Front End Frameworks"
 description: A focused meta-awesome entry listing awesome collections about
   front-end frameworks, UI libraries, and client-side stacks.
 source_url: https://github.com/jepemo/meta-awesome/blob/master/doc/front-end-frameworks.md
-featured: false
-brand_logo_url: null
-images: []
-category: meta-directories
+category: Meta Directories
 tags:
   - meta-directory
   - frontend
+featured: false
 markdown: >-
   # meta-awesome: Front End Frameworks
 
@@ -54,4 +52,6 @@ markdown: >-
   ## Pricing
 
   - Not applicable (GitHub-hosted open directory / list).
-updated_at: 2025-12-25 11:11
+brand_logo_url: null
+images: []
+updated_at: 2026-04-23 14:34

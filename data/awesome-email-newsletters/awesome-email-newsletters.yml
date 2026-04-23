@@ -2,15 +2,12 @@ name: Awesome Email Newsletters
 description: An awesome collection of high-quality email newsletters for
   developers, designers, and tech enthusiasts.
 source_url: https://github.com/zudochkin/awesome-newsletters#readme
-featured: false
-brand: github
-brand_logo_url: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - newsletters
   - developer-resources
   - awesome-lists
+featured: false
 markdown: >
   # Awesome Email Newsletters
 
@@ -138,4 +135,6 @@ markdown: >
 
   - The resource is an open GitHub repository and is **free to use and access**
   (no paid plans described).
-updated_at: 2025-12-25 11:11
+brand: github
+brand_logo_url: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
+updated_at: 2026-04-23 14:34

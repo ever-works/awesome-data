@@ -6,17 +6,12 @@ description: A curated subset of the Awesome Public Datasets project that
   providing structured metadata files for each dataset to make discovery and
   reuse easier across the wider awesome ecosystem.
 source_url: https://github.com/awesomedata/apd-core/tree/master/core/SocialNetworks
-featured: true
-brand: awesomedata
-brand_logo_url: https://avatars.githubusercontent.com/u/16695515?s=200&v=4
-images:
-  - https://repository-images.githubusercontent.com/26494442/8d2af200-8a20-11ea-89df-1e08a821f2a4
-  - https://raw.githubusercontent.com/awesomedata/apd-core/master/logo.png
-category: themed-directories
+category: Themed Directories
 tags:
   - datasets
   - social
   - awesome-lists
+featured: true
 markdown: >
   # Awesome Public Datasets – Social Networks
 
@@ -119,4 +114,9 @@ markdown: >
 
   - **Brand logo:**
     - https://avatars.githubusercontent.com/u/16695515?s=200&v=4
-updated_at: 2025-12-30 18:29
+brand: awesomedata
+brand_logo_url: https://avatars.githubusercontent.com/u/16695515?s=200&v=4
+images:
+  - https://repository-images.githubusercontent.com/26494442/8d2af200-8a20-11ea-89df-1e08a821f2a4
+  - https://raw.githubusercontent.com/awesomedata/apd-core/master/logo.png
+updated_at: 2026-04-23 14:34

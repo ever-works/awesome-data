@@ -2,15 +2,12 @@ name: Awesome Ledger
 description: An Awesome list of tools, scripts, and resources for Ledger, a
   command-line double-entry accounting system.
 source_url: https://github.com/sfischer13/awesome-ledger#readme
-featured: false
-brand: ""
-brand_logo_url: /
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - awesome-lists
   - financial
   - cli
+featured: false
 markdown: >-
   # Awesome Ledger
 
@@ -88,4 +85,6 @@ markdown: >-
 
   - Not applicable. Awesome Ledger is an open, GitHub-hosted resource list with
   no pricing or paid plans.
-updated_at: 2025-12-25 11:11
+brand: ""
+brand_logo_url: /
+updated_at: 2026-04-23 14:34

@@ -2,15 +2,12 @@ name: Vert.x Awesome
 description: A curated collection of Vert.x modules, examples, and resources for
   building reactive applications on the JVM.
 source_url: https://github.com/vert-x3/vertx-awesome#readme
-featured: false
-brand: rawesome
-brand_logo_url: null
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - jvm
   - framework
   - awesome-lists
+featured: false
 markdown: >-
   # Vert.x Awesome
 
@@ -114,4 +111,6 @@ markdown: >-
 
   - Not applicable. Vert.x Awesome is an open, GitHub-hosted curated list and
   does not expose pricing or paid plans.
-updated_at: 2025-12-25 11:11
+brand: rawesome
+brand_logo_url: null
+updated_at: 2026-04-23 14:34

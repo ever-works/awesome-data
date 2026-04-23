@@ -3,15 +3,12 @@ description: Entry in Awesome Public Datasets for Gatineau’s open data site,
   providing a structured directory of municipal datasets for the city in Quebec,
   Canada.
 source_url: http://www.gatineau.ca/donneesouvertes/default_fr.aspx
-featured: false
-brand: awesome-data
-brand_logo_url: /awesome-data/logo.png
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - datasets
   - government
   - open-data
+featured: false
 markdown: >
   # Awesome Public Datasets – Government (Meta: Gatineau, QC, Canada)
 
@@ -71,4 +68,6 @@ markdown: >
 
   - No pricing information is specified in the available content.  
     (Open-data portals following Sunlight Foundation principles are typically free to access and reuse, but users should verify licensing and any usage conditions on the source site.)
-updated_at: 2025-12-30 18:29
+brand: awesome-data
+brand_logo_url: /awesome-data/logo.png
+updated_at: 2026-04-23 14:34

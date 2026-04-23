@@ -2,15 +2,12 @@ name: "Awesome Public Datasets - Government: U.S. Federal Government Data Catalo
 description: An Awesome-curated link to catalog.data.gov, the primary U.S.
   federal government data catalog aggregating datasets from numerous agencies.
 source_url: http://catalog.data.gov/dataset
-featured: false
-brand: us-federal-government
-brand_logo_url: /awesome-data
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - datasets
   - government
   - open-data
+featured: false
 markdown: >-
   # Awesome Public Datasets – Government: U.S. Federal Government Data Catalog
 
@@ -114,4 +111,6 @@ markdown: >-
 
   - Not specified in the provided content; Data.gov is generally offered as a
   free public open data catalog, with no paid plans indicated here.
-updated_at: 2025-12-30 18:29
+brand: us-federal-government
+brand_logo_url: /awesome-data
+updated_at: 2026-04-23 14:34

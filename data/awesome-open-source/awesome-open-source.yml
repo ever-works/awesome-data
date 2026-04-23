@@ -3,7 +3,7 @@ description: A directory website that indexes and categorizes open-source
   projects from GitHub, making it easy to discover and explore high-quality
   repositories by topic.
 source_url: https://medium.com/towards-agi/20-best-open-source-projects-on-github-ranked-cfa28b2bb726
-category: themed-directories
+category: Themed Directories
 tags:
   - open-source
   - github
@@ -36,4 +36,4 @@ markdown: |-
 
   ## Pricing
   No pricing information provided; the directory indexes open-source projects, which are generally free to access.
-updated_at: 2025-05-26 10:11
+updated_at: 2026-04-23 14:34

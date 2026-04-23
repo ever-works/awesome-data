@@ -2,14 +2,12 @@ name: Wardley Maps
 description: An awesome directory of resources about Wardley Maps, a strategic
   mapping technique for improving situational awareness and decision-making.
 source_url: https://github.com/wardley-maps-community/awesome-wardley-maps#readme
-featured: false
-brand_logo_url: null
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - strategy
   - management
   - resources
+featured: false
 markdown: >-
   # Wardley Maps
 
@@ -134,4 +132,5 @@ markdown: >-
   - The repository and list content are released under a **CC0** (public
   domain-style) license, allowing free reuse, modification, and sharing, subject
   to the terms in `LICENSE.txt`.
-updated_at: 2025-12-25 11:11
+brand_logo_url: null
+updated_at: 2026-04-23 14:34

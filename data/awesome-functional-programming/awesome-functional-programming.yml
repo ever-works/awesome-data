@@ -2,14 +2,12 @@ name: Awesome Functional Programming
 description: A curated awesome list of functional programming resources,
   including languages, libraries, articles, and learning materials.
 source_url: https://github.com/lucasviola/awesome-functional-programming#readme
-featured: false
-brand_logo_url: null
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - functional-programming
   - programming-languages
   - resources
+featured: false
 markdown: >
   # Awesome Functional Programming
 
@@ -73,4 +71,5 @@ markdown: >
   - **Free** – The list and all its curation are freely accessible on GitHub.
   Individual linked resources may have their own licensing or pricing, but the
   directory itself is free to use.
-updated_at: 2025-12-25 11:11
+brand_logo_url: null
+updated_at: 2026-04-23 14:34

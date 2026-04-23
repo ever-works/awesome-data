@@ -2,13 +2,11 @@ name: Awesome Visual Regression Testing
 description: A curated Awesome list of tools and resources for visual regression
   testing to ensure UI changes don’t break existing functionality or styles.
 source_url: https://github.com/mojoaxel/awesome-regression-testing#readme
-featured: false
-brand_logo_url: null
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - testing
   - frontend
+featured: false
 markdown: >-
   # Awesome Visual Regression Testing
 
@@ -77,4 +75,5 @@ markdown: >-
 
   - It complements broader software testing lists (e.g., `awesome-testing`) by
   specializing in visual regression testing.
-updated_at: 2025-12-25 11:11
+brand_logo_url: null
+updated_at: 2026-04-23 14:34

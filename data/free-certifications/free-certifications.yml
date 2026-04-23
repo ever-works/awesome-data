@@ -5,14 +5,12 @@ description: Free-Certifications is an awesome-style curated list of free online
   vouchers, making it a specialized awesome list within the broader awesome
   ecosystem.
 source_url: https://github.com/cloudcommunity/Free-Certifications
-featured: false
-brand_logo_url: null
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - education
   - certifications
   - resources
+featured: false
 markdown: |
   # Free-Certifications
 
@@ -61,4 +59,5 @@ markdown: |
   - Education  
   - Certifications  
   - Resources
-updated_at: 2025-12-25 11:11
+brand_logo_url: null
+updated_at: 2026-04-23 14:34

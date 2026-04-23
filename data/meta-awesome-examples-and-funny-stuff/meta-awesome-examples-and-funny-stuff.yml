@@ -3,14 +3,12 @@ description: A meta-awesome page that aggregates awesome lists featuring example
   projects, playful experiments, and humorous or entertaining software
   resources.
 source_url: https://github.com/jepemo/meta-awesome/blob/master/doc/examples-and-funny-stuff.md
-featured: false
-brand_logo_url: null
-images: []
-category: meta-directories
+category: Meta Directories
 tags:
   - meta-directory
   - fun
   - examples
+featured: false
 markdown: |-
   # Meta Awesome – Examples and Funny Stuff
 
@@ -45,4 +43,6 @@ markdown: |-
 
   ## Pricing
   - Not applicable. This is a free, open GitHub-based directory of links to other public resources.
-updated_at: 2025-12-25 11:11
+brand_logo_url: null
+images: []
+updated_at: 2026-04-23 14:34

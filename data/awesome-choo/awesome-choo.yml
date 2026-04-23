@@ -2,16 +2,12 @@ name: Awesome choo
 description: An awesome list of resources, examples, and tools for choo, a small
   front-end framework for building web applications.
 source_url: https://github.com/choojs/awesome-choo#readme
-featured: false
-brand: choo
-brand_logo_url: https://choo.io/logo.png
-images:
-  - https://choo.io/logo.png
-category: themed-directories
+category: Themed Directories
 tags:
   - awesome-lists
   - javascript
   - web-development
+featured: false
 markdown: >-
   # Awesome choo
 
@@ -65,4 +61,8 @@ markdown: >-
   ## Pricing
 
   - Free, open-source resource list (CC0 license).
-updated_at: 2025-12-25 11:11
+brand: choo
+brand_logo_url: https://choo.io/logo.png
+images:
+  - https://choo.io/logo.png
+updated_at: 2026-04-23 14:34

@@ -2,14 +2,12 @@ name: "meta-awesome: Games"
 description: A meta-awesome file collecting awesome lists about games
   themselves, including open-source games, catalogs, and playful projects.
 source_url: https://github.com/jepemo/meta-awesome/blob/master/doc/games.md
-featured: false
-brand_logo_url: null
-images: []
-category: meta-directories
+category: Meta Directories
 tags:
   - meta-directory
   - games
   - awesome-lists
+featured: false
 markdown: >-
   # meta-awesome: Games
 
@@ -45,4 +43,6 @@ markdown: >-
   ## Pricing
 
   - Not applicable (open GitHub document / directory list).
-updated_at: 2025-12-25 11:11
+brand_logo_url: null
+images: []
+updated_at: 2026-04-23 14:34

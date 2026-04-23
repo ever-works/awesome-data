@@ -2,15 +2,12 @@ name: Meta Awesome - Other Books
 description: Meta-awesome subpage aggregating awesome lists of books and reading
   materials that complement other technical categories.
 source_url: https://github.com/jepemo/meta-awesome/blob/master/doc/other-books.md
-featured: false
-brand: jepemometa-awesome
-brand_logo_url: null
-images: null
-category: meta-directories
+category: Meta Directories
 tags:
   - meta-directory
   - books
   - resources
+featured: false
 markdown: >-
   # Meta Awesome – Other Books
 
@@ -70,4 +67,6 @@ markdown: >-
   ## Pricing
 
   - Not applicable (open GitHub resource / markdown directory).
-updated_at: 2025-12-25 11:11
+brand: jepemometa-awesome
+brand_logo_url: null
+updated_at: 2026-04-23 14:34

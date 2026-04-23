@@ -2,7 +2,7 @@ name: Bail Funds
 description: Directory of bail funds for protestors across the USA, providing
   resources for legal support.
 source_url: https://bailfunds.github.io/
-category: themed-directories
+category: Themed Directories
 tags:
   - activism
   - directory
@@ -19,4 +19,4 @@ markdown: |-
   ## Pricing
 
   Free resource directory.
-updated_at: 2026-04-23 09:02
+updated_at: 2026-04-23 14:34

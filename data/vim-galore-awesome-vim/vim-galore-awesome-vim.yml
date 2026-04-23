@@ -2,14 +2,12 @@ name: Vim Galore - Awesome Vim
 description: An extensive, awesome-style compendium of Vim tips, tricks, and
   resources that serves as a comprehensive guide and reference for Vim users.
 source_url: https://github.com/mhinz/vim-galore#readme
-featured: false
-brand_logo_url: null
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - editor
   - vim
   - developer-tools
+featured: false
 markdown: >-
   # Vim Galore – Awesome Vim
 
@@ -192,4 +190,5 @@ markdown: >-
 
   Vim Galore is an open GitHub repository and reference resource; no pricing or
   paid plans are indicated.
-updated_at: 2025-12-25 11:11
+brand_logo_url: null
+updated_at: 2026-04-23 14:34

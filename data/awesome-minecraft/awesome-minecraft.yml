@@ -2,16 +2,12 @@ name: Awesome Minecraft
 description: An awesome list of tools, mods, libraries, and resources for
   Minecraft-related development and content creation.
 source_url: https://github.com/bs-community/awesome-minecraft#readme
-featured: false
-brand: minecraft
-brand_logo_url: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main/resources/img/minecraft-creeper-face.jpg
-images:
-  - https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main/resources/img/minecraft-creeper-face.jpg
-category: themed-directories
+category: Themed Directories
 tags:
   - awesome-lists
   - games
   - mods
+featured: false
 markdown: >
   # Awesome Minecraft
 
@@ -93,4 +89,8 @@ markdown: >
 
   - Not applicable. Awesome Minecraft is an open, freely accessible curated
   list.
-updated_at: 2025-12-25 11:11
+brand: minecraft
+brand_logo_url: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main/resources/img/minecraft-creeper-face.jpg
+images:
+  - https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main/resources/img/minecraft-creeper-face.jpg
+updated_at: 2026-04-23 14:34

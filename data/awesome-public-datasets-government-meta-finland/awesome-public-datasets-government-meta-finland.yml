@@ -2,15 +2,12 @@ name: "Awesome Public Datasets - Government (Meta: Finland)"
 description: Awesome Public Datasets catalog entry for Finland’s national open
   data service, a centralized directory of Finnish governmental datasets.
 source_url: https://www.opendata.fi/en
-featured: false
-brand: awesome-data
-brand_logo_url: /awesome-data/logo.png
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - datasets
   - government
   - open-data
+featured: false
 markdown: >-
   # Awesome Public Datasets – Government (Meta: Finland)
 
@@ -155,4 +152,6 @@ markdown: >-
 
   - **Access model:** Open data; separate linked service for restricted
   (non‑open) data requests.
-updated_at: 2025-12-30 18:29
+brand: awesome-data
+brand_logo_url: /awesome-data/logo.png
+updated_at: 2026-04-23 14:34

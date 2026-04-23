@@ -2,15 +2,12 @@ name: Machine Learning with Ruby
 description: An Awesome list of resources for learning, implementing, and
   applying machine learning using the Ruby programming language.
 source_url: https://github.com/arbox/machine-learning-with-ruby#readme
-featured: false
-brand: awesome-lists
-brand_logo_url: null
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - ruby
   - machine-learning
   - awesome-lists
+featured: false
 markdown: >-
   # Machine Learning with Ruby
 
@@ -132,4 +129,6 @@ markdown: >-
   - Main resource: https://github.com/arbox/machine-learning-with-ruby#readme
 
   - Ruby language: https://www.ruby-lang.org/en/
-updated_at: 2025-12-25 11:11
+brand: awesome-lists
+brand_logo_url: null
+updated_at: 2026-04-23 14:34

@@ -3,16 +3,12 @@ description: A large archive of medical images of cancer (radiology and related
   modalities) for public download, widely used in research and listed by Awesome
   Public Datasets under healthcare.
 source_url: https://www.cancerimagingarchive.net
-featured: false
-brand: the-cancer-imaging-archive
-brand_logo_url: https://www.cancerimagingarchive.net/wp-content/uploads/2018/03/tcia-logo.png
-images:
-  - https://www.cancerimagingarchive.net/wp-content/uploads/2018/03/TCIAhome-1024x512.png
-category: themed-directories
+category: Themed Directories
 tags:
   - health
   - medical-imaging
   - datasets
+featured: false
 markdown: >
   ---
 
@@ -128,4 +124,8 @@ markdown: >
   - No pricing information is provided in the available content. The archive is
   described as accessible for public download, but specific access or usage fees
   (if any) are not detailed here.
-updated_at: 2025-12-30 18:29
+brand: the-cancer-imaging-archive
+brand_logo_url: https://www.cancerimagingarchive.net/wp-content/uploads/2018/03/tcia-logo.png
+images:
+  - https://www.cancerimagingarchive.net/wp-content/uploads/2018/03/TCIAhome-1024x512.png
+updated_at: 2026-04-23 14:34

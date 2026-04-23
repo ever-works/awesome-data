@@ -2,15 +2,12 @@ name: Awesome CI/CD Attacks
 description: An awesome list of offensive security research, techniques, and
   resources related to attacking CI/CD systems and software delivery pipelines.
 source_url: https://github.com/TupleType/awesome-cicd-attacks#readme
-featured: false
-brand: tupletype
-brand_logo_url: /TupleType
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - security
   - devops
   - awesome-lists
+featured: false
 markdown: >-
   # Awesome CI/CD Attacks
 
@@ -68,4 +65,6 @@ markdown: >-
 
   This is an open-source, public GitHub repository and is free to use and
   browse.
-updated_at: 2025-12-25 11:11
+brand: tupletype
+brand_logo_url: /TupleType
+updated_at: 2026-04-23 14:34

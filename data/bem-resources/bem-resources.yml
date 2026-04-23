@@ -2,14 +2,12 @@ name: BEM Resources
 description: A curated collection of resources for learning and applying BEM
   (Block Element Modifier) methodology in front-end development.
 source_url: https://github.com/sturobson/BEM-resources#readme
-featured: false
-brand_logo_url: null
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - css
   - frontend
   - awesome-lists
+featured: false
 markdown: >-
   # BEM Resources
 
@@ -128,4 +126,5 @@ markdown: >-
 
   - Discovering talks, videos, and slides for teaching or team onboarding on
   BEM.
-updated_at: 2025-12-25 11:11
+brand_logo_url: null
+updated_at: 2026-04-23 14:34

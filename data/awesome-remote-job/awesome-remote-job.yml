@@ -2,14 +2,12 @@ name: Awesome Remote Job
 description: A curated GitHub directory of awesome remote job resources,
   including job boards, online communities, and tools for remote work.
 source_url: https://github.com/lukasz-madon/awesome-remote-job
-featured: false
-brand_logo_url: null
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - career
   - remote-work
   - awesome-lists
+featured: false
 markdown: >-
   # Awesome Remote Job
 
@@ -156,4 +154,5 @@ markdown: >-
   about remote work.  
 
   - Connecting with **communities and events** tailored to remote professionals.
-updated_at: 2025-12-25 11:11
+brand_logo_url: null
+updated_at: 2026-04-23 14:34

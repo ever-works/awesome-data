@@ -2,16 +2,12 @@ name: Awesome Cycle.js
 description: A curated awesome list of Cycle.js resources, libraries, and
   learning materials for the functional and reactive JavaScript framework.
 source_url: https://github.com/cyclejs-community/awesome-cyclejs#readme
-featured: false
-brand: cyclejs
-brand_logo_url: https://cycle.js.org/img/cyclejs_logo.svg
-images:
-  - https://cycle.js.org/img/cyclejs_diagram.png
-category: themed-directories
+category: Themed Directories
 tags:
   - awesome-lists
   - javascript
   - framework
+featured: false
 markdown: >-
   # Awesome Cycle.js
 
@@ -113,4 +109,8 @@ markdown: >-
   - **Free**: The repository and all listed resources (where applicable) are
   freely accessible. There are no pricing plans for using the awesome list
   itself.
-updated_at: 2025-12-25 11:11
+brand: cyclejs
+brand_logo_url: https://cycle.js.org/img/cyclejs_logo.svg
+images:
+  - https://cycle.js.org/img/cyclejs_diagram.png
+updated_at: 2026-04-23 14:34

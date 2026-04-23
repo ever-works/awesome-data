@@ -2,15 +2,12 @@ name: Awesome Standard
 description: An awesome list of packages, tools, and resources related to
   JavaScript Standard Style and its ecosystem.
 source_url: https://github.com/standard/awesome-standard#readme
-featured: false
-brand: javascript-standard-style
-brand_logo_url: https://standardjs.com/favicon.ico
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - awesome-lists
   - javascript
   - developer-tools
+featured: false
 markdown: >
   # Awesome Standard
 
@@ -78,4 +75,6 @@ markdown: >
 
   - Not applicable. Awesome Standard is an open, public-domain curated list with
   no pricing or paid plans.
-updated_at: 2025-12-25 11:11
+brand: javascript-standard-style
+brand_logo_url: https://standardjs.com/favicon.ico
+updated_at: 2026-04-23 14:34

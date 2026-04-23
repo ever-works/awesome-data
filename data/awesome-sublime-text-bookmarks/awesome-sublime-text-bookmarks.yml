@@ -2,16 +2,12 @@ name: Awesome Sublime Text Bookmarks
 description: A curated list of useful resources, plugins, themes, and tips for
   the Sublime Text editor, collected in an "awesome"-style directory.
 source_url: https://github.com/dreikanter/sublime-bookmarks
-featured: false
-brand: rsublimetext
-brand_logo_url: https://styles.redditmedia.com/t5_2r0ij/styles/communityIcon_6vjsw9t2t2c11.png
-images:
-  - https://opengraph.githubassets.com/1/dreikanter/sublime-bookmarks
-category: themed-directories
+category: Themed Directories
 tags:
   - editor
   - productivity
   - awesome-lists
+featured: false
 markdown: |-
   ## Awesome Sublime Text Bookmarks
 
@@ -107,4 +103,8 @@ markdown: |-
   This is a free, open, community-maintained bookmark list. There is no pricing or paid tier associated with the directory itself.
 
   (Individual linked plugins, themes, or tools may have their own licenses or pricing, which are managed separately by their respective authors.)
-updated_at: 2025-12-30 18:29
+brand: rsublimetext
+brand_logo_url: https://styles.redditmedia.com/t5_2r0ij/styles/communityIcon_6vjsw9t2t2c11.png
+images:
+  - https://opengraph.githubassets.com/1/dreikanter/sublime-bookmarks
+updated_at: 2026-04-23 14:34

@@ -3,15 +3,12 @@ description: A public GitHub repository providing structured metadata about the
   Minneapolis Institute of Art’s collection, listed under the Museums section of
   Awesome Public Datasets.
 source_url: https://github.com/artsmia/collection
-featured: false
-brand: minneapolis-institute-of-art
-brand_logo_url: null
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - datasets
   - art
   - github
+featured: false
 markdown: >-
   ## Overview
 
@@ -103,4 +100,6 @@ markdown: >-
   - **Free & open**
     - The repository and dataset are publicly accessible on GitHub at no cost.
     - Metadata is released under CC0, allowing free use without licensing fees.
-updated_at: 2025-12-30 18:29
+brand: minneapolis-institute-of-art
+brand_logo_url: null
+updated_at: 2026-04-23 14:34

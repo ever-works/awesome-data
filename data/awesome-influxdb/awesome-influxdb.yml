@@ -2,14 +2,12 @@ name: Awesome InfluxDB
 description: A curated Awesome list of resources, libraries, tools, and
   integrations for the InfluxDB time-series database.
 source_url: https://github.com/mark-rushakoff/awesome-influxdb#readme
-featured: false
-brand_logo_url: null
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - awesome-lists
   - database
   - big-data
+featured: false
 markdown: >-
   # Awesome InfluxDB
 
@@ -154,4 +152,5 @@ markdown: >-
 
   Not applicable. Awesome InfluxDB is an open, community-maintained list and is
   free to use under the CC0 public domain dedication.
-updated_at: 2025-12-25 11:11
+brand_logo_url: null
+updated_at: 2026-04-23 14:34

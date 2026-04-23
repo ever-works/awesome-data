@@ -3,16 +3,12 @@ description: The LIGO Open Science Center provides public access to
   gravitational‑wave data from the LIGO Hanford and Livingston observatories,
   referenced in an awesome list of physics data resources.
 source_url: https://losc.ligo.org
-featured: false
-brand: ligo
-brand_logo_url: https://losc.ligo.org/img/ligo-logo.svg
-images:
-  - https://losc.ligo.org/img/losc_home.png
-category: themed-directories
+category: Themed Directories
 tags:
   - datasets
   - physics
   - space
+featured: false
 markdown: >-
   ## LIGO Open Science Center
 
@@ -66,4 +62,8 @@ markdown: >-
 
   - Access to the released data and resources is free under the CC BY 4.0 open
   license (no paid plans indicated).
-updated_at: 2025-12-30 18:29
+brand: ligo
+brand_logo_url: https://losc.ligo.org/img/ligo-logo.svg
+images:
+  - https://losc.ligo.org/img/losc_home.png
+updated_at: 2026-04-23 14:34

@@ -2,15 +2,12 @@ name: awesome-angular2
 description: An Awesome-style curated list of Angular 2 resources, libraries,
   tools, and tutorials, maintained by AngularClass as a developer directory.
 source_url: https://github.com/AngularClass/awesome-angular2
-featured: false
-brand: angularclass
-brand_logo_url: null
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - javascript
   - framework
   - awesome-lists
+featured: false
 markdown: >
   # awesome-angular2
 
@@ -76,4 +73,6 @@ markdown: >
   - **Maintainer/Brand:** angularclass
 
   - **Slug:** awesome-angular2
-updated_at: 2025-12-25 11:11
+brand: angularclass
+brand_logo_url: null
+updated_at: 2026-04-23 14:34

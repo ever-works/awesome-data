@@ -4,15 +4,12 @@ description: A curated dataset of 13,322 Asian face images spanning ages 2 to
   across age, and related tasks. Listed as part of an awesome-style machine
   learning dataset collection.
 source_url: https://github.com/JingchunCheng/All-Age-Faces-Dataset
-featured: false
-brand: awesomedata-awesome-public-datasets
-brand_logo_url: /awesomedata/apd-core
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - machine-learning
   - images
   - datasets
+featured: false
 markdown: >
   # All-Age-Faces Dataset
 
@@ -101,4 +98,6 @@ markdown: >
   - The content does not specify any pricing; the dataset is presented as a
   public research dataset (check the repository for any license terms or usage
   conditions).
-updated_at: 2025-12-30 18:29
+brand: awesomedata-awesome-public-datasets
+brand_logo_url: /awesomedata/apd-core
+updated_at: 2026-04-23 14:34

@@ -3,15 +3,12 @@ description: Awesome Public Datasets entry pointing to Lexington, Kentucky’s
   open data portal with city government datasets for civic and research
   applications.
 source_url: http://data.lexingtonky.gov/
-featured: false
-brand: awesome-public-datasets
-brand_logo_url: null
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - government
   - datasets
   - open-data
+featured: false
 markdown: >
   # Awesome Public Datasets – Government: Lexington, KY
 
@@ -55,4 +52,6 @@ markdown: >
   ## Pricing
 
   - Access to the listed public datasets is free (open data).
-updated_at: 2025-12-30 18:29
+brand: awesome-public-datasets
+brand_logo_url: null
+updated_at: 2026-04-23 14:34

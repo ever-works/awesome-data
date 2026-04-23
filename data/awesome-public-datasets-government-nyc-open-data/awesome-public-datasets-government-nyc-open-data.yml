@@ -3,15 +3,12 @@ description: Awesome Public Datasets catalog entry linking to New York City’s
   official open data portal, offering thousands of public datasets across city
   agencies.
 source_url: https://opendata.cityofnewyork.us/
-featured: false
-brand: awesome-public-datasets
-brand_logo_url: null
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - government
   - datasets
   - open-data
+featured: false
 markdown: >-
   # Awesome Public Datasets – Government: NYC Open Data
 
@@ -104,4 +101,6 @@ markdown: >-
 
   - Access to NYC Open Data and its datasets is **free** for the public (no
   listed pricing tiers or paid plans).
-updated_at: 2025-12-30 18:29
+brand: awesome-public-datasets
+brand_logo_url: null
+updated_at: 2026-04-23 14:34

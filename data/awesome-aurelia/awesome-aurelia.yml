@@ -2,16 +2,12 @@ name: Awesome Aurelia
 description: An awesome list of libraries, plugins, and learning resources for
   the Aurelia front-end application framework.
 source_url: https://github.com/aurelia-contrib/awesome-aurelia#readme
-featured: false
-brand: aurelia
-brand_logo_url: https://aurelia.io/styles/images/aurelia-icon.png
-images:
-  - https://aurelia.io/styles/images/aurelia-icon.png
-category: themed-directories
+category: Themed Directories
 tags:
   - awesome-lists
   - javascript
   - framework
+featured: false
 markdown: >-
   # Awesome Aurelia
 
@@ -167,4 +163,8 @@ markdown: >-
 
   - Not applicable. Awesome Aurelia is an open, curated list hosted on GitHub
   and does not list paid plans or pricing information.
-updated_at: 2025-12-25 11:11
+brand: aurelia
+brand_logo_url: https://aurelia.io/styles/images/aurelia-icon.png
+images:
+  - https://aurelia.io/styles/images/aurelia-icon.png
+updated_at: 2026-04-23 14:34

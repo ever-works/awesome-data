@@ -2,15 +2,12 @@ name: Awesome Agriculture
 description: A curated list of open source technology projects for farming and
   gardening, including hardware, software, and data resources.
 source_url: https://github.com/brycejohnston/awesome-agriculture#readme
-featured: false
-brand: awesome
-brand_logo_url: /.github/logo.png
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - awesome-lists
   - agriculture
   - open-source
+featured: false
 markdown: >-
   # Awesome Agriculture
 
@@ -110,4 +107,6 @@ markdown: >-
 
   - **Contribution method:** Fork-and-pull-request workflow following the listed
   contributing guidelines.
-updated_at: 2025-12-25 11:11
+brand: awesome
+brand_logo_url: /.github/logo.png
+updated_at: 2026-04-23 14:34

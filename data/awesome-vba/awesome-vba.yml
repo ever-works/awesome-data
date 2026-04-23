@@ -3,14 +3,11 @@ description: A curated Awesome list of Visual Basic for Applications (VBA)
   resources, including libraries, modules, tools, and learning material for
   Office automation and scripting.
 source_url: https://github.com/sancarn/awesome-vba#readme
-featured: false
-brand: awesome
-brand_logo_url: null
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - awesome-lists
   - developer-resources
+featured: false
 markdown: >
   # Awesome VBA
 
@@ -73,4 +70,6 @@ markdown: >
 
   - The repository includes a `LICENSE` file; details and exact terms are
   available in the GitHub project.
-updated_at: 2025-12-25 11:11
+brand: awesome
+brand_logo_url: null
+updated_at: 2026-04-23 14:34

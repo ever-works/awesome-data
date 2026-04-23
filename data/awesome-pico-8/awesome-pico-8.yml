@@ -2,16 +2,12 @@ name: Awesome PICO-8
 description: An awesome directory of carts, tools, libraries, and resources for
   the PICO-8 fantasy console.
 source_url: https://github.com/pico-8/awesome-PICO-8#readme
-featured: false
-brand: pico-8
-brand_logo_url: https://www.lexaloffle.com/gfx/p8_logo.png
-images:
-  - https://www.lexaloffle.com/gfx/p8_logo.png
-category: themed-directories
+category: Themed Directories
 tags:
   - awesome-lists
   - games
   - hardware
+featured: false
 markdown: >
   # Awesome PICO-8
 
@@ -143,4 +139,8 @@ markdown: >
 
   Not applicable. Awesome PICO-8 is a curated directory of links hosted on
   GitHub and does not define pricing or paid plans within the provided content.
-updated_at: 2025-12-25 11:11
+brand: pico-8
+brand_logo_url: https://www.lexaloffle.com/gfx/p8_logo.png
+images:
+  - https://www.lexaloffle.com/gfx/p8_logo.png
+updated_at: 2026-04-23 14:34

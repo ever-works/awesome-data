@@ -3,7 +3,7 @@ description: Curated list of highly recommended books across mathematics,
   computer science, machine learning, AI, physics, philosophy of science,
   software design, and more. Contains 83 entries with 31 free or open access.
 source_url: https://github.com/queelius/curations/tree/main/books
-category: themed-directories
+category: Themed Directories
 tags:
   - books
   - curated
@@ -23,4 +23,4 @@ markdown: >-
   - Total entries: 83
 
   - Free/open: 31
-updated_at: 2026-04-23 09:02
+updated_at: 2026-04-23 14:34

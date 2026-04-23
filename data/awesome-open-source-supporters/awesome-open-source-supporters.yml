@@ -2,15 +2,12 @@ name: Awesome Open Source Supporters
 description: A curated Awesome list of companies and organizations that provide
   free tools, services, or infrastructure to open source projects.
 source_url: https://github.com/zachflower/awesome-open-source-supporters#readme
-featured: false
-brand: ""
-brand_logo_url: /
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - open-source
   - community
   - business-tools
+featured: false
 markdown: |-
   # Awesome Open Source Supporters
 
@@ -112,4 +109,6 @@ markdown: |-
   - Discover tools that provide **enhanced free tiers** or **special programs** for open source maintainers.
   - Plan tooling for new open source projects (CI, coverage, QA, dependencies).
   - Compare categories of services relevant to maintaining and scaling open source repositories.
-updated_at: 2025-12-25 11:11
+brand: ""
+brand_logo_url: /
+updated_at: 2026-04-23 14:34

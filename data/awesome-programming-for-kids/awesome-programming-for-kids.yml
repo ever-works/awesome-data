@@ -2,15 +2,12 @@ name: Awesome Programming for Kids
 description: A curated awesome list of resources, tools, and learning materials
   to teach programming to children.
 source_url: https://github.com/HollyAdele/awesome-programming-for-kids#readme
-featured: false
-brand: hollyadele
-brand_logo_url: https://avatars.githubusercontent.com/u/21152114
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - education
   - programming
   - awesome-lists
+featured: false
 markdown: >-
   # Awesome Programming for Kids
 
@@ -86,4 +83,6 @@ markdown: >-
 
   - Not applicable. This is an open-source curated list on GitHub; no pricing or
   paid plans are indicated in the available content.
-updated_at: 2025-12-25 11:11
+brand: hollyadele
+brand_logo_url: https://avatars.githubusercontent.com/u/21152114
+updated_at: 2026-04-23 14:34

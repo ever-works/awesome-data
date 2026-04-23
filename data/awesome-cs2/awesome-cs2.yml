@@ -4,15 +4,12 @@ description: An awesome list collecting Counter-Strike 2 (CS2) development
   development information. Organized as an awesome-list/awesome-lists style
   directory for the CS2 ecosystem.
 source_url: https://github.com/samyycX/awesome-cs2
-featured: false
-brand: samyycx
-brand_logo_url: https://avatars.githubusercontent.com/u/53951556
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - awesome-lists
   - games
   - mods
+featured: false
 markdown: >
   # awesome-cs2
 
@@ -117,4 +114,6 @@ markdown: >
   open-source or freely accessible as described in the repository.  
 
   - No pricing plans are defined within the provided content.
-updated_at: 2025-12-26 11:32
+brand: samyycx
+brand_logo_url: https://avatars.githubusercontent.com/u/53951556
+updated_at: 2026-04-23 14:34

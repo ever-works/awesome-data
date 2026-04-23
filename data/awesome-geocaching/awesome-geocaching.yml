@@ -2,14 +2,12 @@ name: Awesome Geocaching
 description: An Awesome list collecting tools, apps, guides, and resources for
   the GPS-based outdoor treasure-hunting activity Geocaching.
 source_url: https://github.com/FoxFil/awesome-geocaching#readme
-featured: false
-brand_logo_url: null
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - awesome-lists
   - outdoors
   - gps
+featured: false
 markdown: >-
   # Awesome Geocaching
 
@@ -64,4 +62,5 @@ markdown: >-
   ## Source
 
   - GitHub: https://github.com/FoxFil/awesome-geocaching#readme
-updated_at: 2025-12-25 11:11
+brand_logo_url: null
+updated_at: 2026-04-23 14:34

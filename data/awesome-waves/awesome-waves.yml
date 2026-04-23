@@ -2,15 +2,12 @@ name: Awesome Waves
 description: An Awesome list of resources, SDKs, and tools for the Waves open
   source blockchain platform and Web 3.0 application development.
 source_url: https://github.com/msmolyakov/awesome-waves#readme
-featured: false
-brand: waves
-brand_logo_url: null
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - awesome-lists
   - blockchain
   - curated-lists
+featured: false
 markdown: >-
   # Awesome Waves
 
@@ -140,4 +137,6 @@ markdown: >-
 
   - Not applicable. This is a free, open-source curated list of resources hosted
   on GitHub.
-updated_at: 2025-12-25 11:11
+brand: waves
+brand_logo_url: null
+updated_at: 2026-04-23 14:34

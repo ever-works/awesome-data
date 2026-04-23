@@ -2,15 +2,12 @@ name: Awesome Laravel
 description: A curated awesome list of Laravel ecosystem resources, including
   packages, tutorials, and learning materials.
 source_url: https://github.com/chiraggude/awesome-laravel
-featured: false
-brand: laravel
-brand_logo_url: null
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - awesome-lists
   - php
   - web-development
+featured: false
 markdown: >-
   # Awesome Laravel
 
@@ -132,4 +129,6 @@ markdown: >-
 
   Awesome Laravel is an open-source, community-maintained list and is free to
   use.
-updated_at: 2025-12-25 11:11
+brand: laravel
+brand_logo_url: null
+updated_at: 2026-04-23 14:34

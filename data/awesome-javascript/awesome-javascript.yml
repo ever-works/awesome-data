@@ -4,7 +4,7 @@ description: A curated list of awesome JavaScript frameworks, libraries, and
   headers for topics and bullet lists of links with descriptions. It uses
   GitHub's pull request system for moderated contributions.
 source_url: https://github.com/sindresorhus/awesome-javascript
-category: meta-awesome-directories
+category: Awesome Meta Collections
 tags:
   - awesome-lists
   - github
@@ -34,4 +34,4 @@ markdown: >-
 
   Ideal for discovering JavaScript tools, libraries, and resources in a
   wiki-like, unstyled format optimized for quick navigation to content.
-updated_at: 2026-04-22 14:53
+updated_at: 2026-04-23 14:34

@@ -2,16 +2,12 @@ name: Awesome libGDX
 description: An awesome curated list of extensions, tools, and resources for the
   libGDX Java game development framework.
 source_url: https://github.com/rafaskb/awesome-libgdx#readme
-featured: false
-brand: libgdx
-brand_logo_url: https://libgdx.badlogicgames.com/img/logo.png
-images:
-  - https://libgdx.badlogicgames.com/img/logo.png
-category: themed-directories
+category: Themed Directories
 tags:
   - awesome-lists
   - games
   - java
+featured: false
 markdown: >
   ---
 
@@ -185,4 +181,8 @@ markdown: >
   - Awesome libGDX and all listed resources in the repository itself are free to
   access. (Individual third‑party tools or assets in the list may have their own
   licensing or pricing, which must be checked per item.)
-updated_at: 2025-12-25 11:11
+brand: libgdx
+brand_logo_url: https://libgdx.badlogicgames.com/img/logo.png
+images:
+  - https://libgdx.badlogicgames.com/img/logo.png
+updated_at: 2026-04-23 14:34

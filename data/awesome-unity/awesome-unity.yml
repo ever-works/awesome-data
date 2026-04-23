@@ -2,16 +2,12 @@ name: Awesome Unity
 description: An awesome list of Unity plugins, assets, frameworks, and learning
   resources for Unity game development.
 source_url: https://github.com/RyanNielson/awesome-unity#readme
-featured: false
-brand: unity
-brand_logo_url: https://unity.com/files/images/ogimg.jpg
-images:
-  - https://unity.com/files/images/ogimg.jpg
-category: themed-directories
+category: Themed Directories
 tags:
   - awesome-lists
   - games
   - developer-tools
+featured: false
 markdown: >-
   # Awesome Unity
 
@@ -107,4 +103,8 @@ markdown: >-
 
   - Still useful as a reference starting point when exploring Unity tools,
   plugins, and learning materials across many categories.
-updated_at: 2025-12-25 11:11
+brand: unity
+brand_logo_url: https://unity.com/files/images/ogimg.jpg
+images:
+  - https://unity.com/files/images/ogimg.jpg
+updated_at: 2026-04-23 14:34

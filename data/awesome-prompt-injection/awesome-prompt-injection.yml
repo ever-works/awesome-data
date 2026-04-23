@@ -3,15 +3,12 @@ description: An awesome list of resources focused on prompt injection, a class
   of vulnerabilities targeting machine learning and LLM systems, including
   papers, tools, and mitigation techniques.
 source_url: https://github.com/FonduAI/awesome-prompt-injection#readme
-featured: false
-brand: fondu-ai
-brand_logo_url: /FonduAI
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - awesome-lists
   - security
   - llm
+featured: false
 markdown: >-
   # Awesome Prompt Injection
 
@@ -126,4 +123,6 @@ markdown: >-
 
   - **Cost:** Free to access and use under the terms of its open-source license
   (see the `LICENSE` file in the repository for details).
-updated_at: 2025-12-25 11:11
+brand: fondu-ai
+brand_logo_url: /FonduAI
+updated_at: 2026-04-23 14:34

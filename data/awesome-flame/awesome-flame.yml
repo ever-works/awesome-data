@@ -2,16 +2,12 @@ name: Awesome Flame
 description: An awesome curated list of libraries, examples, and tools for the
   Flame game engine for Flutter.
 source_url: https://github.com/flame-engine/awesome-flame#readme
-featured: false
-brand: flame-engine
-brand_logo_url: https://raw.githubusercontent.com/flame-engine/brand/main/logo_flame.png
-images:
-  - https://raw.githubusercontent.com/flame-engine/brand/main/logo_flame.png
-category: themed-directories
+category: Themed Directories
 tags:
   - awesome-lists
   - games
   - dart
+featured: false
 markdown: >
   # Awesome Flame
 
@@ -95,4 +91,8 @@ markdown: >
 
   - **Contribution guide:**
   https://github.com/flame-engine/awesome-flame/blob/main/CONTRIBUTING.md
-updated_at: 2025-12-25 11:11
+brand: flame-engine
+brand_logo_url: https://raw.githubusercontent.com/flame-engine/brand/main/logo_flame.png
+images:
+  - https://raw.githubusercontent.com/flame-engine/brand/main/logo_flame.png
+updated_at: 2026-04-23 14:34

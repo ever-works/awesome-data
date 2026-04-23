@@ -2,15 +2,12 @@ name: Awesome R
 description: An Awesome-curated list of R packages, frameworks, and software for
   data analysis, statistics, and visualization.
 source_url: https://github.com/qinwf/awesome-R
-featured: false
-brand: qinwf
-brand_logo_url: /qinwf.png
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - awesome-lists
   - datasets
   - research
+featured: false
 markdown: >-
   # Awesome R
 
@@ -147,4 +144,6 @@ markdown: >-
   ## Pricing
 
   - Not applicable (open-source curated list hosted on GitHub).
-updated_at: 2025-12-25 11:11
+brand: qinwf
+brand_logo_url: /qinwf.png
+updated_at: 2026-04-23 14:34

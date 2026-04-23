@@ -2,16 +2,12 @@ name: Urban and Regional Planning Resources
 description: An awesome-style curated list of resources for urban and regional
   planning focused on the built environment and communities.
 source_url: https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme
-featured: false
-brand: apa-technology-division
-brand_logo_url: null
-images:
-  - https://opengraph.githubassets.com/1/APA-Technology-Division/urban-and-regional-planning-resources
-category: themed-directories
+category: Themed Directories
 tags:
   - gis
   - planning
   - resources
+featured: false
 markdown: |
   # Urban and Regional Planning Resources
 
@@ -55,4 +51,8 @@ markdown: |
 
   - Not a commercial product or service.  
   - Access to the repository and its curated lists is free and open-source.
-updated_at: 2025-12-25 11:11
+brand: apa-technology-division
+brand_logo_url: null
+images:
+  - https://opengraph.githubassets.com/1/APA-Technology-Division/urban-and-regional-planning-resources
+updated_at: 2026-04-23 14:34

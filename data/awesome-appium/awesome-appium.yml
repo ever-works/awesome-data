@@ -2,14 +2,12 @@ name: Awesome Appium
 description: A curated Awesome list of Appium clients, tools, tutorials, and
   resources for mobile app test automation.
 source_url: https://github.com/SrinivasanTarget/awesome-appium#readme
-featured: false
-brand_logo_url: null
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - awesome-lists
   - testing
   - mobile
+featured: false
 markdown: >-
   # Awesome Appium
 
@@ -86,4 +84,5 @@ markdown: >-
   - **Directory Category:** Themed Directories  
 
   - **Tags:** `awesome-lists`, `testing`, `mobile`
-updated_at: 2025-12-25 11:11
+brand_logo_url: null
+updated_at: 2026-04-23 14:34

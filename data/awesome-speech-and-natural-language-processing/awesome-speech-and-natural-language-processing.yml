@@ -3,15 +3,12 @@ description: An Awesome-style curated list of resources for speech and natural
   language processing, including language-specific and task-specific Awesome
   sublists.
 source_url: https://github.com/edobashira/speech-language-processing#readme
-featured: false
-brand: awesome-lists
-brand_logo_url: null
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - nlp
   - speech-recognition
   - awesome-lists
+featured: false
 markdown: |
   # Awesome Speech and Natural Language Processing
 
@@ -77,4 +74,6 @@ markdown: |
 
   ## Pricing
   - Not applicable – this is a free, open GitHub repository of curated resources.
-updated_at: 2025-12-25 11:11
+brand: awesome-lists
+brand_logo_url: null
+updated_at: 2026-04-23 14:34

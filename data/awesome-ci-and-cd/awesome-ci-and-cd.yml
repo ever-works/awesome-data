@@ -2,14 +2,11 @@ name: Awesome CI and CD
 description: An awesome list of resources and tools for Continuous Integration
   and Continuous Delivery workflows.
 source_url: https://github.com/cicdops/awesome-ciandcd#readme
-featured: false
-brand_logo_url: null
-images:
-  - https://opengraph.githubassets.com/1/cicdops/awesome-ciandcd
-category: themed-directories
+category: Themed Directories
 tags:
   - developer-tools
   - awesome-lists
+featured: false
 markdown: >-
   # Awesome CI and CD
 
@@ -122,4 +119,7 @@ markdown: >-
 
   This is an open-source, curated list hosted on GitHub. There is no pricing or
   paid plan associated with accessing the list.
-updated_at: 2025-12-25 11:11
+brand_logo_url: null
+images:
+  - https://opengraph.githubassets.com/1/cicdops/awesome-ciandcd
+updated_at: 2026-04-23 14:34

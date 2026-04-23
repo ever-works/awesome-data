@@ -2,15 +2,12 @@ name: Awesome Linux
 description: A curated list of awesome Linux distributions, tools, resources,
   and learning material for Linux users and developers.
 source_url: https://github.com/inputsh/awesome-linux#readme
-featured: false
-brand: inputsh
-brand_logo_url: /inputsh.png
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - awesome-lists
   - software
   - curated-lists
+featured: false
 markdown: >-
   # Awesome Linux
 
@@ -111,4 +108,6 @@ markdown: >-
 
   - The repository includes a **License** section (standard for Awesome lists).
   Users should refer to the GitHub page for exact licensing terms.
-updated_at: 2025-12-25 11:11
+brand: inputsh
+brand_logo_url: /inputsh.png
+updated_at: 2026-04-23 14:34

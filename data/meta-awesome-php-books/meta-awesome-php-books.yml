@@ -3,15 +3,12 @@ description: An Awesome-style meta collection within Meta Awesome that
   aggregates curated lists of PHP books and book-centric resources, rather than
   individual books themselves.
 source_url: https://github.com/jepemo/meta-awesome/blob/master/doc/php-books.md
-featured: false
-brand: github
-brand_logo_url: https://github.githubassets.com/images/modules/logos_page/GitHub-Logo.png
-images: null
-category: meta-directories
+category: Meta Directories
 tags:
   - awesome-lists
   - meta-directory
   - php
+featured: false
 markdown: >-
   # Meta Awesome - PHP Books
 
@@ -68,4 +65,6 @@ markdown: >-
 
   - Accessed as a public GitHub document; no pricing or paid plans are indicated
   (free to browse and use subject to GitHub’s terms).
-updated_at: 2025-12-26 11:32
+brand: github
+brand_logo_url: https://github.githubassets.com/images/modules/logos_page/GitHub-Logo.png
+updated_at: 2026-04-23 14:34

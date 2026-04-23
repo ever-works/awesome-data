@@ -1,15 +1,12 @@
 name: Awesome Haskell
 description: A curated Awesome list of Haskell libraries, frameworks, and software.
 source_url: https://github.com/krispo/awesome-haskell#readme
-featured: false
-brand: ""
-brand_logo_url: /
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - awesome-lists
   - haskell
   - functional-programming
+featured: false
 markdown: >-
   # Awesome Haskell
 
@@ -108,4 +105,6 @@ markdown: >-
 
   - Awesome Haskell is a free, open, GitHub-hosted curated list. No pricing or
   paid plans are involved.
-updated_at: 2025-12-25 11:11
+brand: ""
+brand_logo_url: /
+updated_at: 2026-04-23 14:34

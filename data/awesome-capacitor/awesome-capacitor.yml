@@ -2,15 +2,12 @@ name: Awesome Capacitor
 description: A curated Awesome list of plugins, tools, and resources for
   Capacitor, the cross‑platform runtime for building Web Native apps.
 source_url: https://github.com/riderx/awesome-capacitor#readme
-featured: false
-brand: riderx
-brand_logo_url: /riderx.png
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - mobile
   - framework
   - javascript
+featured: false
 markdown: >-
   # Awesome Capacitor
 
@@ -61,4 +58,6 @@ markdown: >-
   ## Pricing
 
   - Free to use and contribute (open-source GitHub repository).
-updated_at: 2025-12-25 11:11
+brand: riderx
+brand_logo_url: /riderx.png
+updated_at: 2026-04-23 14:34

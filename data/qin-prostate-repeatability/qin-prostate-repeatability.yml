@@ -3,15 +3,12 @@ description: A prostate cancer imaging dataset focused on test–retest
   repeatability, listed under the Awesome Public Datasets meta-collection. It
   supports quantitative imaging and robustness studies in prostate MRI.
 source_url: https://wiki.cancerimagingarchive.net/display/Public/QIN-PROSTATE-Repeatability
-featured: false
-brand: rawesomedata-awesome-public-datasets
-brand_logo_url: https://raw.githubusercontent.com/awesomedata/apd-core/master/media/apd-logo.png
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - datasets
   - medical-imaging
   - research
+featured: false
 markdown: |-
   # QIN-PROSTATE-Repeatability
 
@@ -83,4 +80,6 @@ markdown: |-
   - Quantitative imaging  
   - Test–retest / repeatability  
   - Research
-updated_at: 2025-12-30 18:29
+brand: rawesomedata-awesome-public-datasets
+brand_logo_url: https://raw.githubusercontent.com/awesomedata/apd-core/master/media/apd-logo.png
+updated_at: 2026-04-23 14:34

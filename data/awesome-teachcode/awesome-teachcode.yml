@@ -3,15 +3,12 @@ description: A curated "awesome" list of resources for teaching code—covering
   classroom use, code reviews, and creating tutorials or lesson plans. It is an
   Awesome-style directory focused on programming education materials.
 source_url: https://github.com/droxey/awesome-teachcode
-featured: false
-brand: droxey
-brand_logo_url: /droxey.png
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - education
   - programming
   - awesome-lists
+featured: false
 markdown: >-
   # awesome-teachcode
 
@@ -77,4 +74,6 @@ markdown: >-
 
 
   - GitHub repository: https://github.com/droxey/awesome-teachcode
-updated_at: 2025-12-25 11:11
+brand: droxey
+brand_logo_url: /droxey.png
+updated_at: 2026-04-23 14:34

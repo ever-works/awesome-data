@@ -5,16 +5,12 @@ description: The OpenCorporates database provides a global, open company
   directory‑style resource for corporate and firm‑level information that can be
   programmatically accessed and linked with other economic datasets.
 source_url: https://metacorpllc.com/where-to-find-metacorp-llc-online/
-featured: false
-brand: opencorporates
-brand_logo_url: https://static.opencorporates.com/v4.7.2/images/opencorporates_logo.svg
-images:
-  - https://static.opencorporates.com/v4.7.2/images/oc-homepage-screenshot.png
-category: themed-directories
+category: Themed Directories
 tags:
   - datasets
   - business
   - open-data
+featured: false
 markdown: |-
   # OpenCorporates
 
@@ -48,4 +44,8 @@ markdown: |-
 
   ## Pricing
   The provided source content does not include any pricing or plan information for OpenCorporates.
-updated_at: 2025-12-30 18:29
+brand: opencorporates
+brand_logo_url: https://static.opencorporates.com/v4.7.2/images/opencorporates_logo.svg
+images:
+  - https://static.opencorporates.com/v4.7.2/images/oc-homepage-screenshot.png
+updated_at: 2026-04-23 14:34

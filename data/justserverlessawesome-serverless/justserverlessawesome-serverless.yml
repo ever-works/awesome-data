@@ -3,15 +3,12 @@ description: A curated list of resources related to the Serverless project and
   ecosystem, providing an awesome-style directory for serverless tooling and
   references.
 source_url: https://github.com/JustServerless/awesome-serverless
-featured: false
-brand: justserverless
-brand_logo_url: /JustServerless
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - awesome-lists
   - serverless
   - developer-resources
+featured: false
 markdown: >-
   # JustServerless/awesome-serverless
 
@@ -79,4 +76,6 @@ markdown: >-
 
   - Not applicable. This is an open-source, GitHub-hosted curated list with no
   pricing plans mentioned.
-updated_at: 2025-12-30 18:29
+brand: justserverless
+brand_logo_url: /JustServerless
+updated_at: 2026-04-23 14:34

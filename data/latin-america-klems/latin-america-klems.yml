@@ -5,15 +5,12 @@ description: A regional KLEMS‑style database project providing detailed
   data resource and directory of downloadable productivity statistics for the
   region.
 source_url: https://project-awesome.org/awesomedata/awesome-public-datasets
-featured: false
-brand: laklems
-brand_logo_url: null
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - datasets
   - productivity
   - economics
+featured: false
 markdown: >-
   ### Latin America KLEMS
 
@@ -64,4 +61,6 @@ markdown: >-
   - Listed as a public dataset resource; most Awesome Public Datasets entries
   are free, though some may not be. No specific pricing details are provided for
   Latin America KLEMS in the source content.
-updated_at: 2025-12-30 18:29
+brand: laklems
+brand_logo_url: null
+updated_at: 2026-04-23 14:34

@@ -2,15 +2,12 @@ name: Awesome MySQL
 description: A curated list of awesome MySQL software, libraries, tools, and
   resources, acting as a comprehensive directory for the MySQL ecosystem.
 source_url: https://github.com/shlomi-noach/awesome-mysql
-featured: false
-brand: shlomi-noach
-brand_logo_url: /shlomi-noach
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - mysql
   - database
   - awesome-lists
+featured: false
 markdown: >
   # Awesome MySQL
 
@@ -75,4 +72,6 @@ markdown: >
   - **Free** – The list and all its content are freely accessible. Tools listed
   may each have their own licenses and pricing, but the directory itself is free
   to use.
-updated_at: 2025-12-30 18:29
+brand: shlomi-noach
+brand_logo_url: /shlomi-noach
+updated_at: 2026-04-23 14:34

@@ -3,15 +3,12 @@ description: A curated awesome list of patterns, principles, and resources for
   designing scalable, reliable, and performant large-scale systems, focused on
   system design, distributed systems, architecture, and related interviews.
 source_url: https://github.com/binhnguyennus/awesome-scalability
-featured: false
-brand: github
-brand_logo_url: https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - architecture
   - distributed
   - performance
+featured: false
 markdown: >-
   # awesome-scalability
 
@@ -60,4 +57,6 @@ markdown: >-
   ## Pricing
 
   - Free (open-source under the MIT License).
-updated_at: 2025-12-25 11:11
+brand: github
+brand_logo_url: https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png
+updated_at: 2026-04-23 14:34

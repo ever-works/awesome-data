@@ -2,15 +2,12 @@ name: Awesome Lucid Dreams
 description: An Awesome list of resources about lucid dreaming, where dreamers
   are aware they are dreaming, including guides and research.
 source_url: https://github.com/IAmCoder/awesome-lucid-dreams#readme
-featured: false
-brand: sindresorhusawesome
-brand_logo_url: https://raw.githubusercontent.com/sindresorhus/awesome/main/media/logo.svg
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - lifestyle
   - health
   - awesome-lists
+featured: false
 markdown: >
   # Awesome Lucid Dreams
 
@@ -155,4 +152,6 @@ markdown: >
   - **Free**: This is an open, public GitHub repository. Accessing and using the
   curated list is free; individual linked resources may have their own pricing
   or licensing.
-updated_at: 2025-12-25 11:11
+brand: sindresorhusawesome
+brand_logo_url: https://raw.githubusercontent.com/sindresorhus/awesome/main/media/logo.svg
+updated_at: 2026-04-23 14:34

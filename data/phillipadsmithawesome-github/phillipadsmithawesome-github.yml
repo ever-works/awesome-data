@@ -2,15 +2,12 @@ name: phillipadsmith/awesome-github
 description: A curated list of GitHub-related tools, tips, and resources,
   collecting GitHub’s "awesomeness" in a single directory-style repository.
 source_url: https://github.com/phillipadsmith/awesome-github
-featured: false
-brand: phillipadsmith
-brand_logo_url: /phillipadsmith
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - awesome-lists
   - github
   - developer-tools
+featured: false
 markdown: >
   # phillipadsmith/awesome-github
 
@@ -61,4 +58,6 @@ markdown: >
 
   - Not applicable. This is a free, open-source GitHub repository and curated
   list with no paid plans.
-updated_at: 2025-12-30 18:29
+brand: phillipadsmith
+brand_logo_url: /phillipadsmith
+updated_at: 2026-04-23 14:34

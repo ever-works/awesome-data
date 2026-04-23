@@ -3,15 +3,12 @@ description: A meta awesome index for software and package distribution topics,
   referencing awesome lists that cover distribution channels, packaging formats,
   and artifact delivery.
 source_url: https://github.com/jepemo/meta-awesome/blob/master/doc/distribution.md
-featured: false
-brand: meta-awesome
-brand_logo_url: null
-images: null
-category: meta-directories
+category: Meta Directories
 tags:
   - awesome-lists
   - distribution
   - directory-of-directories
+featured: false
 markdown: >-
   # Meta Awesome – Distribution
 
@@ -75,4 +72,6 @@ markdown: >-
 
   - Not applicable. This is an open GitHub-hosted meta index; no pricing
   information is provided.
-updated_at: 2025-12-25 11:11
+brand: meta-awesome
+brand_logo_url: null
+updated_at: 2026-04-23 14:34

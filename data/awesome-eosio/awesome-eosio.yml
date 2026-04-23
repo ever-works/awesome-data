@@ -2,14 +2,12 @@ name: Awesome EOSIO
 description: A curated Awesome directory of tools, libraries, and resources for
   building on the EOSIO decentralized operating system and blockchain platform.
 source_url: https://github.com/DanailMinchev/awesome-eosio#readme
-featured: false
-brand_logo_url: null
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - awesome-lists
   - blockchain
   - developer-tools
+featured: false
 markdown: >-
   # Awesome EOSIO
 
@@ -73,4 +71,5 @@ markdown: >-
 
   - Not applicable. Awesome EOSIO is an open-source, freely accessible directory
   on GitHub.
-updated_at: 2025-12-25 11:11
+brand_logo_url: null
+updated_at: 2026-04-23 14:34

@@ -4,17 +4,12 @@ description: KONECT is a comprehensive collection of network datasets from
   more), presented with statistics, plots, and formats suitable for research and
   often cited in awesome network-data directories.
 source_url: https://www.stateofdigitalpublishing.com/digital-publishing/top-data-sources-journalists/
-featured: false
-brand: university-of-koblenz-landau
-brand_logo_url: https://www.uni-koblenz-landau.de/logos/logo-unikoblenzlandau.png
-images:
-  - http://konect.uni-koblenz.de/images/konect-logo.png
-  - http://konect.uni-koblenz.de/images/example-network.png
-category: themed-directories
+category: Themed Directories
 tags:
   - graph
   - datasets
   - analytics
+featured: false
 markdown: |-
   # KONECT Koblenz Network Collection
 
@@ -62,4 +57,9 @@ markdown: |-
   - Example images:
     - ![KONECT Logo](http://konect.uni-koblenz.de/images/konect-logo.png)  
     - ![Example Network](http://konect.uni-koblenz.de/images/example-network.png)
-updated_at: 2025-12-30 18:29
+brand: university-of-koblenz-landau
+brand_logo_url: https://www.uni-koblenz-landau.de/logos/logo-unikoblenzlandau.png
+images:
+  - http://konect.uni-koblenz.de/images/konect-logo.png
+  - http://konect.uni-koblenz.de/images/example-network.png
+updated_at: 2026-04-23 14:34

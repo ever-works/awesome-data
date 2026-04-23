@@ -2,16 +2,12 @@ name: Awesome Cloudflare
 description: A curated list of Cloudflare tools, APIs, workers examples, and
   resources for enhancing and securing web properties.
 source_url: https://github.com/irazasyed/awesome-cloudflare#readme
-featured: false
-brand: cloudflare
-brand_logo_url: https://www.cloudflare.com/img/logo-cloudflare-dark.svg
-images:
-  - https://repository-images.githubusercontent.com/140844189/8a25b780-6f44-11ea-9e11-5c1fa89bbf15
-category: themed-directories
+category: Themed Directories
 tags:
   - cloud
   - security
   - web
+featured: false
 markdown: >-
   # Awesome Cloudflare
 
@@ -109,4 +105,8 @@ markdown: >-
 
 
   - **License file:** `license.md` in the Awesome Cloudflare GitHub repository.
-updated_at: 2025-12-25 11:11
+brand: cloudflare
+brand_logo_url: https://www.cloudflare.com/img/logo-cloudflare-dark.svg
+images:
+  - https://repository-images.githubusercontent.com/140844189/8a25b780-6f44-11ea-9e11-5c1fa89bbf15
+updated_at: 2026-04-23 14:34

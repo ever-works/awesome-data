@@ -3,15 +3,12 @@ description: An Awesome list of open source computational design tools, serving
   as a directory for software used in algorithmic and parametric design
   workflows.
 source_url: https://github.com/CameronBrooks11/awesome-computational-design
-featured: false
-brand: cameronbrooks11
-brand_logo_url: /CameronBrooks11.png
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - design
   - computing
   - awesome-lists
+featured: false
 markdown: >-
   ---
 
@@ -85,4 +82,6 @@ markdown: >-
 
 
   Not applicable – this is a free, open-source directory of tools.
-updated_at: 2025-12-25 11:11
+brand: cameronbrooks11
+brand_logo_url: /CameronBrooks11.png
+updated_at: 2026-04-23 14:34

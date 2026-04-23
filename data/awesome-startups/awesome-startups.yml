@@ -2,15 +2,12 @@ name: awesome-startups
 description: Awesome list of curated resources, tools, and references for
   startups and founders.
 source_url: https://github.com/softvar/awesome-startups
-featured: false
-brand: softvar
-brand_logo_url: /softvar.png
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - startups
   - business-tools
   - awesome-lists
+featured: false
 markdown: >-
   # awesome-startups
 
@@ -107,4 +104,6 @@ markdown: >-
   This is an open-source GitHub repository and directory list. There is no
   pricing or paid plan; usage and access are free, subject to the project’s
   LICENSE.
-updated_at: 2025-12-25 11:11
+brand: softvar
+brand_logo_url: /softvar.png
+updated_at: 2026-04-23 14:34

@@ -2,14 +2,12 @@ name: Awesome Polymer
 description: A curated list of resources and components for building Web
   Components applications with the Polymer library.
 source_url: https://github.com/Granze/awesome-polymer#readme
-featured: false
-brand_logo_url: null
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - awesome-lists
   - javascript
   - web-components
+featured: false
 markdown: >-
   # Awesome Polymer
 
@@ -92,4 +90,5 @@ markdown: >-
 
   Not applicable. Awesome Polymer is an open, freely accessible GitHub
   repository with no pricing or paid plans.
-updated_at: 2025-12-25 11:11
+brand_logo_url: null
+updated_at: 2026-04-23 14:34

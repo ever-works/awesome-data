@@ -3,15 +3,12 @@ description: A meta awesome list dedicated to data validation tooling and
   resources. It collects curated links to awesome lists and projects focused on
   validating, sanitizing, and enforcing constraints on data.
 source_url: https://github.com/jepemo/meta-awesome/blob/master/doc/data-validation.md
-featured: false
-brand: meta-awesome
-brand_logo_url: null
-images: null
-category: meta-directories
+category: Meta Directories
 tags:
   - meta-directory
   - data-validation
   - awesome-lists
+featured: false
 markdown: >
   # Meta Awesome – Data Validation
 
@@ -74,4 +71,6 @@ markdown: >
   - **Name:** meta-awesome
 
   - **Website/Repo:** <https://github.com/jepemo/meta-awesome>
-updated_at: 2025-12-25 11:11
+brand: meta-awesome
+brand_logo_url: null
+updated_at: 2026-04-23 14:34

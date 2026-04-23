@@ -4,15 +4,12 @@ description: A curated collection of healthcare-related public datasets that are
   and catalogs high‑quality, openly accessible medical and health datasets,
   suitable for research, analysis, and educational use.
 source_url: https://github.com/awesomedata/apd-core/tree/master/core/Healthcare
-featured: false
-brand: awesome-public-datasets
-brand_logo_url: https://raw.githubusercontent.com/awesomedata/apd-core/master/media/logo.png
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - datasets
   - health
   - research
+featured: false
 markdown: >
   # Awesome Public Datasets – Healthcare Category
 
@@ -70,4 +67,6 @@ markdown: >
   - **Free** – The directory itself is freely accessible as an open GitHub
   repository. Individual datasets may have their own licenses and usage
   conditions, which should be checked per dataset.
-updated_at: 2025-12-30 18:29
+brand: awesome-public-datasets
+brand_logo_url: https://raw.githubusercontent.com/awesomedata/apd-core/master/media/logo.png
+updated_at: 2026-04-23 14:34

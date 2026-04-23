@@ -2,15 +2,12 @@ name: Meta Awesome - Deployment
 description: A meta awesome directory for deployment-related topics, aggregating
   awesome lists on CI/CD, release engineering, and deployment automation tools.
 source_url: https://github.com/jepemo/meta-awesome/blob/master/doc/deployment.md
-featured: false
-brand: meta-awesome
-brand_logo_url: null
-images: null
-category: meta-directories
+category: Meta Directories
 tags:
   - meta-directory
   - devops
   - deployment
+featured: false
 markdown: >-
   # Meta Awesome - Deployment
 
@@ -72,4 +69,6 @@ markdown: >-
   - devops  
 
   - deployment
-updated_at: 2025-12-25 11:11
+brand: meta-awesome
+brand_logo_url: null
+updated_at: 2026-04-23 14:34

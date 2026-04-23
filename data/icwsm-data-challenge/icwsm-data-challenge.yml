@@ -3,15 +3,12 @@ description: The ICWSM Data Challenge, running since 2009, provides large-scale
   social media and web datasets for annual research competitions associated with
   the AAAI ICWSM conference.
 source_url: https://www.icwsm.org/2018/datasets/datasets/#obtaining
-featured: false
-brand: aaai-icwsm
-brand_logo_url: null
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - social
   - challenges
   - datasets
+featured: false
 markdown: >
   # ICWSM Data Challenge
 
@@ -113,4 +110,6 @@ markdown: >
 
   - No pricing or paid plans are mentioned; access appears to be free, subject
   to registration and any dataset-specific conditions.
-updated_at: 2025-12-30 18:29
+brand: aaai-icwsm
+brand_logo_url: null
+updated_at: 2026-04-23 14:34

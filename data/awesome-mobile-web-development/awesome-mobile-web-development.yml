@@ -2,15 +2,12 @@ name: Awesome Mobile Web Development
 description: A curated collection of articles, tools, and best practices focused
   on creating high-quality mobile web experiences.
 source_url: https://github.com/myshov/awesome-mobile-web-development#readme
-featured: false
-brand: myshov
-brand_logo_url: null
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - mobile
   - web-development
   - performance
+featured: false
 markdown: >-
   # Awesome Mobile Web Development
 
@@ -74,4 +71,6 @@ markdown: >-
 
   - Not a commercial product; the repository and its contents are **free to
   use** under the CC0 license.
-updated_at: 2025-12-25 11:11
+brand: myshov
+brand_logo_url: null
+updated_at: 2026-04-23 14:34

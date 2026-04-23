@@ -2,15 +2,12 @@ name: Awesome Gulp
 description: An awesome list of plugins, tools, and resources for Gulp, the
   JavaScript task runner.
 source_url: https://github.com/alferov/awesome-gulp#readme
-featured: false
-brand_logo_url: null
-images:
-  - https://opengraph.githubassets.com/1/alferov/awesome-gulp
-category: themed-directories
+category: Themed Directories
 tags:
   - awesome-lists
   - javascript
   - web-development
+featured: false
 markdown: >-
   # Awesome Gulp
 
@@ -122,4 +119,7 @@ markdown: >-
 
   - Not applicable. Awesome Gulp is an open, curated directory of links and
   resources hosted on GitHub; no pricing or paid plans are described.
-updated_at: 2025-12-25 11:11
+brand_logo_url: null
+images:
+  - https://opengraph.githubassets.com/1/alferov/awesome-gulp
+updated_at: 2026-04-23 14:34

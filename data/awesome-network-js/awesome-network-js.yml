@@ -2,15 +2,12 @@ name: Awesome Network JS
 description: A curated Awesome list of JavaScript resources and libraries
   focused on networking and HTTP/network layers.
 source_url: https://github.com/Kikobeats/awesome-network-js#readme
-featured: false
-brand: ""
-brand_logo_url: /
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - javascript
   - networking
   - developer-tools
+featured: false
 markdown: >-
   ---
 
@@ -90,4 +87,6 @@ markdown: >-
 
   - Contribution guidelines are documented in `CONTRIBUTING.md` in the
   repository.
-updated_at: 2025-12-25 11:11
+brand: ""
+brand_logo_url: /
+updated_at: 2026-04-23 14:34

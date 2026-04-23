@@ -2,16 +2,12 @@ name: Awesome Gideros
 description: An awesome curated collection of libraries, plugins, and learning
   materials for the Gideros game engine.
 source_url: https://github.com/stetso/awesome-gideros#readme
-featured: false
-brand: gideros
-brand_logo_url: http://giderosmobile.com/images/logo.png
-images:
-  - http://giderosmobile.com/images/logo.png
-category: themed-directories
+category: Themed Directories
 tags:
   - awesome-lists
   - games
   - framework
+featured: false
 markdown: >-
   # Awesome Gideros
 
@@ -57,4 +53,8 @@ markdown: >-
 
   - Not applicable. Awesome Gideros is an open GitHub repository and is
   available free of charge.
-updated_at: 2025-12-25 11:11
+brand: gideros
+brand_logo_url: http://giderosmobile.com/images/logo.png
+images:
+  - http://giderosmobile.com/images/logo.png
+updated_at: 2026-04-23 14:34

@@ -4,15 +4,12 @@ description: A large-scale image dataset from Google with millions of images and
   awesome-style curated list of image processing datasets, contributing to the
   Awesome meta-directory.
 source_url: https://storage.googleapis.com/openimages/web/download.html
-featured: false
-brand: google
-brand_logo_url: https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - datasets
   - computer-vision
   - images
+featured: false
 markdown: >
   # Open Images Dataset
 
@@ -149,4 +146,6 @@ markdown: >
   - Not specified in the provided content. The dataset is typically offered as a
   freely downloadable research resource; confirm any usage terms or licenses
   directly on the official site.
-updated_at: 2025-12-30 18:29
+brand: google
+brand_logo_url: https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png
+updated_at: 2026-04-23 14:34

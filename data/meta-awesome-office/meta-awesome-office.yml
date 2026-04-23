@@ -2,15 +2,12 @@ name: Meta Awesome - Office
 description: Meta-awesome document collecting awesome lists for office software,
   productivity suites, and document tooling.
 source_url: https://github.com/jepemo/meta-awesome/blob/master/doc/office.md
-featured: false
-brand: jepemometa-awesome
-brand_logo_url: null
-images: null
-category: meta-directories
+category: Meta Directories
 tags:
   - meta-directory
   - productivity
   - software
+featured: false
 markdown: >-
   # Meta Awesome – Office
 
@@ -63,4 +60,6 @@ markdown: >-
   ## Pricing
 
   - Not applicable (open GitHub document acting as a link directory).
-updated_at: 2025-12-25 11:11
+brand: jepemometa-awesome
+brand_logo_url: null
+updated_at: 2026-04-23 14:34

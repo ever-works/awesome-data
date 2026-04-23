@@ -3,15 +3,12 @@ description: A curated, community-driven list of awesome Meteor packages,
   libraries, resources, and related tools, serving as an index of high-quality
   resources in the Meteor ecosystem.
 source_url: https://github.com/Urigo/awesome-meteor
-featured: false
-brand: urigo
-brand_logo_url: /Urigo
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - javascript
   - framework
   - awesome-lists
+featured: false
 markdown: >-
   # Awesome Meteor
 
@@ -95,4 +92,6 @@ markdown: >-
 
   - Not applicable. Awesome Meteor is an open, community-maintained GitHub
   repository and directory; no pricing or paid plans are indicated.
-updated_at: 2025-12-30 18:29
+brand: urigo
+brand_logo_url: /Urigo
+updated_at: 2026-04-23 14:34

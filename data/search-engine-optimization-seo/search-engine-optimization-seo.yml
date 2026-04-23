@@ -2,15 +2,12 @@ name: Search Engine Optimization (SEO)
 description: An Awesome list of Search Engine Optimization (SEO) guidelines,
   tools, and resources for improving website visibility.
 source_url: https://github.com/marcobiedermann/search-engine-optimization#readme
-featured: false
-brand: marcobiedermann
-brand_logo_url: https://avatars.githubusercontent.com/u/3984453
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - seo
   - marketing
   - web
+featured: false
 markdown: >-
   # Search Engine Optimization (SEO)
 
@@ -183,4 +180,6 @@ markdown: >-
 
   - Educational resource for developers, marketers, or students learning SEO
   fundamentals.
-updated_at: 2025-12-25 11:11
+brand: marcobiedermann
+brand_logo_url: https://avatars.githubusercontent.com/u/3984453
+updated_at: 2026-04-23 14:34

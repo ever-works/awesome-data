@@ -1,15 +1,12 @@
 name: Awesome Scala
 description: Curated Awesome directory of Scala libraries, frameworks, and tools.
 source_url: https://github.com/lauris/awesome-scala#readme
-featured: false
-brand: sindresorhusawesome
-brand_logo_url: https://raw.githubusercontent.com/sindresorhus/awesome/main/media/logo.svg
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - awesome-lists
   - scala
   - developer-tools
+featured: false
 markdown: >-
   # Awesome Scala
 
@@ -103,4 +100,6 @@ markdown: >-
 
   - Awesome Scala is an open-source, community-maintained directory available
   **free of charge**.
-updated_at: 2025-12-25 11:11
+brand: sindresorhusawesome
+brand_logo_url: https://raw.githubusercontent.com/sindresorhus/awesome/main/media/logo.svg
+updated_at: 2026-04-23 14:34

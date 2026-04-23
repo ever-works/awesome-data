@@ -4,15 +4,12 @@ description: An Awesome Data Project (APD) core entry for the Visual Genome
   Awesome-style curated collection of data resources, cataloging the Visual
   Genome dataset for discovery and reuse.
 source_url: https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/Visual-genome.yml
-featured: false
-brand: awesome-data-awesomedata
-brand_logo_url: https://avatars.githubusercontent.com/u/1209999
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - datasets
   - computer-vision
   - awesome-lists
+featured: false
 markdown: |-
   # Awesome Data – Visual Genome
 
@@ -37,4 +34,6 @@ markdown: |-
 
   ## Pricing
   - Not applicable. This is a catalog entry in an open, curated directory; no pricing information is provided in the source content.
-updated_at: 2025-12-30 18:29
+brand: awesome-data-awesomedata
+brand_logo_url: https://avatars.githubusercontent.com/u/1209999
+updated_at: 2026-04-23 14:34

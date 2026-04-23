@@ -5,15 +5,12 @@ description: The Laboratory for Web Algorithmics (LAW) at the University of
   suitable for experiments in web mining, graph algorithms, and network
   analysis, aligning with "awesome"-type meta-lists of reusable data resources.
 source_url: http://law.di.unimi.it/datasets.php
-featured: false
-brand: university-of-milan-unimi
-brand_logo_url: /
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - web
   - graph
   - datasets
+featured: false
 markdown: >
   # LAW Network Datasets
 
@@ -108,4 +105,6 @@ markdown: >
 
   - Not specified on the provided content (datasets are typically research
   resources; no pricing information is given).
-updated_at: 2025-12-30 18:29
+brand: university-of-milan-unimi
+brand_logo_url: /
+updated_at: 2026-04-23 14:34

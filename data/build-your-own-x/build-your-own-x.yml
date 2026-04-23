@@ -4,15 +4,12 @@ description: A popular GitHub repository that curates links and resources
   databases, operating systems), effectively serving as an awesome-style meta
   collection of build-it-yourself tutorials and guides.
 source_url: https://github.com/danistefanovic/build-your-own-x
-featured: false
-brand: ""
-brand_logo_url: /
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - projects
   - tutorials
   - programming
+featured: false
 markdown: >
   # Build your own X
 
@@ -156,4 +153,6 @@ markdown: >
 
 
   (No paid plans or pricing tiers are indicated in the provided content.)
-updated_at: 2025-12-25 11:11
+brand: ""
+brand_logo_url: /
+updated_at: 2026-04-23 14:34

@@ -2,15 +2,12 @@ name: Awesome Sketch
 description: An awesome list of plugins, resources, and tools for Sketch, the
   macOS design application.
 source_url: https://github.com/diessica/awesome-sketch#readme
-featured: false
-brand_logo_url: null
-images:
-  - https://opengraph.githubassets.com/1/diessica/awesome-sketch
-category: themed-directories
+category: Themed Directories
 tags:
   - awesome-lists
   - design
   - macos
+featured: false
 markdown: >-
   # Awesome Sketch
 
@@ -162,4 +159,7 @@ markdown: >-
 
   Not applicable. Awesome Sketch is an open, curated list of third-party
   resources; it does not present its own pricing plans.
-updated_at: 2025-12-25 11:11
+brand_logo_url: null
+images:
+  - https://opengraph.githubassets.com/1/diessica/awesome-sketch
+updated_at: 2026-04-23 14:34

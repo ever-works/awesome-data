@@ -3,14 +3,12 @@ description: An awesome-style collection of monospaced fonts specifically for
   text editors and coding environments, showcasing typefaces optimized for
   source code.
 source_url: https://github.com/chrissimpkins/codeface#readme
-featured: false
-brand_logo_url: null
-images: []
-category: themed-directories
+category: Themed Directories
 tags:
   - fonts
   - design
   - developer-tools
+featured: false
 markdown: >-
   # Codeface
 
@@ -67,4 +65,6 @@ markdown: >-
   - Codeface is an open-source, GitHub-hosted project with no pricing tiers
   mentioned in the available content (usage is free, subject to individual font
   licenses).
-updated_at: 2025-12-25 11:11
+brand_logo_url: null
+images: []
+updated_at: 2026-04-23 14:34

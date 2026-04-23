@@ -3,15 +3,12 @@ description: An awesome-style GitHub repository that curates a list of developer
   community writer programs across various platforms and companies, serving as a
   directory of opportunities for technical writers and developer advocates.
 source_url: https://github.com/malgamves/CommunityWriterPrograms
-featured: false
-brand: malgamves-github
-brand_logo_url: /malgamves.png
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - writing
   - developer-tools
   - career
+featured: false
 markdown: >-
   ## Community Writer Programs
 
@@ -90,4 +87,6 @@ markdown: >-
 
 
   (Exact and current rates should be confirmed on each linked program page.)
-updated_at: 2025-12-25 11:11
+brand: malgamves-github
+brand_logo_url: /malgamves.png
+updated_at: 2026-04-23 14:34

@@ -2,15 +2,12 @@ name: Meta Awesome - HTTP
 description: An Awesome-format collection in Meta Awesome covering HTTP clients,
   servers, libraries, and protocol tools.
 source_url: https://github.com/jepemo/meta-awesome/blob/master/doc/http.md
-featured: false
-brand: jepemometa-awesome
-brand_logo_url: null
-images: null
-category: meta-directories
+category: Meta Directories
 tags:
   - meta-directory
   - http
   - web-development
+featured: false
 markdown: >-
   # Meta Awesome - HTTP
 
@@ -68,4 +65,6 @@ markdown: >-
   ## Pricing
 
   - Not applicable (GitHub-curated list / open directory).
-updated_at: 2025-12-26 11:32
+brand: jepemometa-awesome
+brand_logo_url: null
+updated_at: 2026-04-23 14:34

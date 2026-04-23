@@ -2,15 +2,12 @@ name: .htaccess Snippets
 description: A curated list of useful .htaccess snippets and configurations for
   Apache web servers.
 source_url: https://github.com/phanan/htaccess#readme
-featured: false
-brand: rawesome
-brand_logo_url: null
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - web
   - configuration
   - apache
+featured: false
 markdown: >-
   # .htaccess Snippets
 
@@ -83,4 +80,6 @@ markdown: >-
 
   - Not applicable. This is an open-source GitHub repository of configuration
   snippets (no paid plans indicated).
-updated_at: 2025-12-25 11:11
+brand: rawesome
+brand_logo_url: null
+updated_at: 2026-04-23 14:34

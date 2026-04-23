@@ -4,17 +4,12 @@ description: A curated Awesome-style subdirectory under the Awesome Public
   COMBED, DBFC, ECO, Global Power Plant Database). It aggregates and links to
   high-quality, structured energy datasets useful for research and data science.
 source_url: https://github.com/awesomedata/apd-core/tree/master/core/Energy
-featured: true
-brand: awesome-public-datasets
-brand_logo_url: https://raw.githubusercontent.com/awesomedata/apd-data/master/assets/apd-logo.png
-images:
-  - https://opengraph.githubassets.com/1/awesomedata/apd-core
-  - https://repository-images.githubusercontent.com/42488425/3a4f4b00-3a4c-11eb-9bd4-9c7f409775d2
-category: themed-directories
+category: Themed Directories
 tags:
   - datasets
   - energy
   - research
+featured: true
 markdown: |-
   # Awesome Public Datasets – Energy
 
@@ -68,4 +63,9 @@ markdown: |-
 
   - Access to the directory and linked datasets is free.  
     (Individual datasets may have their own licenses and terms of use specified at their respective sources.)
-updated_at: 2025-12-30 18:29
+brand: awesome-public-datasets
+brand_logo_url: https://raw.githubusercontent.com/awesomedata/apd-data/master/assets/apd-logo.png
+images:
+  - https://opengraph.githubassets.com/1/awesomedata/apd-core
+  - https://repository-images.githubusercontent.com/42488425/3a4f4b00-3a4c-11eb-9bd4-9c7f409775d2
+updated_at: 2026-04-23 14:34

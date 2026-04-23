@@ -2,16 +2,12 @@ name: Awesome ComputerCraft
 description: An awesome collection of APIs, tools, and resources for the
   ComputerCraft Minecraft mod, which adds programmable computers and turtles.
 source_url: https://github.com/tomodachi94/awesome-computercraft#readme
-featured: false
-brand: computercraft
-brand_logo_url: https://computercraft.info/wp-content/uploads/2013/05/computercraft-logo.png
-images:
-  - https://computercraft.info/wp-content/uploads/2013/05/computercraft-logo.png
-category: themed-directories
+category: Themed Directories
 tags:
   - games
   - mods
   - awesome-lists
+featured: false
 markdown: >-
   # Awesome ComputerCraft
 
@@ -64,4 +60,8 @@ markdown: >-
   https://computercraft.info/wp-content/uploads/2013/05/computercraft-logo.png  
 
   - **Slug:** `awesome-computercraft`
-updated_at: 2025-12-25 11:11
+brand: computercraft
+brand_logo_url: https://computercraft.info/wp-content/uploads/2013/05/computercraft-logo.png
+images:
+  - https://computercraft.info/wp-content/uploads/2013/05/computercraft-logo.png
+updated_at: 2026-04-23 14:34

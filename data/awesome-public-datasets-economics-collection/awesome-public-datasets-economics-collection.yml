@@ -6,16 +6,12 @@ description: A curated subset of the Awesome Public Datasets meta-collection,
   accessible economics datasets useful for research, data science, and policy
   analysis.
 source_url: https://github.com/awesomedata/apd-core/tree/master/core/Economics
-featured: true
-brand: awesome-public-datasets
-brand_logo_url: https://raw.githubusercontent.com/awesomedata/apd-data/master/media/logo.png
-images:
-  - https://raw.githubusercontent.com/awesomedata/apd-core/master/media/apd-core-header.png
-category: themed-directories
+category: Themed Directories
 tags:
   - datasets
   - economics
   - research
+featured: true
 markdown: |
   # Awesome Public Datasets – Economics Collection
 
@@ -68,4 +64,8 @@ markdown: |
   ## Pricing
 
   - **Cost:** No pricing information is provided in the available content. The collection points to public/open datasets; access is generally free but may depend on each underlying data provider’s terms.
-updated_at: 2025-12-30 18:29
+brand: awesome-public-datasets
+brand_logo_url: https://raw.githubusercontent.com/awesomedata/apd-data/master/media/logo.png
+images:
+  - https://raw.githubusercontent.com/awesomedata/apd-core/master/media/apd-core-header.png
+updated_at: 2026-04-23 14:34

@@ -2,15 +2,12 @@ name: Awesome Code
 description: A collection of links to awesome implementations of models, acting
   as a curated directory of notable code implementations.
 source_url: https://github.com/BinbinBian/Awesome-Code
-featured: false
-brand: binbinbian
-brand_logo_url: https://avatars.githubusercontent.com/u/10370392
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - awesome-lists
   - developer-tools
   - code
+featured: false
 markdown: >-
   # Awesome Code
 
@@ -49,4 +46,6 @@ markdown: >-
   ## Pricing
 
   - Not applicable (open GitHub list / directory).
-updated_at: 2025-12-25 11:11
+brand: binbinbian
+brand_logo_url: https://avatars.githubusercontent.com/u/10370392
+updated_at: 2026-04-23 14:34

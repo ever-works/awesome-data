@@ -3,15 +3,12 @@ description: A Meta Awesome sublist that collects Awesome-style directories and
   curated resources related to PHP, serving as a meta-index for PHP-focused
   Awesome lists and materials.
 source_url: https://github.com/jepemo/meta-awesome/blob/master/doc/php.md
-featured: false
-brand: github
-brand_logo_url: https://github.githubassets.com/images/modules/logos_page/GitHub-Logo.png
-images: null
-category: meta-directories
+category: Meta Directories
 tags:
   - meta-directory
   - php
   - programming
+featured: false
 markdown: >-
   # Meta Awesome - PHP
 
@@ -61,4 +58,6 @@ markdown: >-
 
   - Access to Meta Awesome - PHP is **free** as it is a public GitHub-hosted
   resource.
-updated_at: 2025-12-26 11:32
+brand: github
+brand_logo_url: https://github.githubassets.com/images/modules/logos_page/GitHub-Logo.png
+updated_at: 2026-04-23 14:34

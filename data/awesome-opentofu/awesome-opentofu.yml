@@ -2,17 +2,12 @@ name: Awesome OpenTofu
 description: A curated list of awesome OpenTofu modules, tools, providers, and
   learning resources for open-source infrastructure as code.
 source_url: https://github.com/virtualroot/awesome-opentofu#readme
-featured: false
-brand: opentofu
-brand_logo_url: https://opentofu.org/img/logos/tofu/logo_color.svg
-images:
-  - https://opengraph.githubassets.com/1/virtualroot/awesome-opentofu
-  - https://opentofu.org/img/og-image.png
-category: themed-directories
+category: Themed Directories
 tags:
   - awesome-lists
   - infrastructure
   - open-source
+featured: false
 markdown: >-
   # Awesome OpenTofu
 
@@ -76,4 +71,9 @@ markdown: >-
 
   - **Type:** Open-source curated “awesome list” directory, not a SaaS product
   or hosted service.
-updated_at: 2025-12-25 11:11
+brand: opentofu
+brand_logo_url: https://opentofu.org/img/logos/tofu/logo_color.svg
+images:
+  - https://opengraph.githubassets.com/1/virtualroot/awesome-opentofu
+  - https://opentofu.org/img/og-image.png
+updated_at: 2026-04-23 14:34

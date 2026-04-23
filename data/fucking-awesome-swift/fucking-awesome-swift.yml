@@ -3,15 +3,12 @@ description: A collaborative awesome list of Swift libraries and resources,
   collecting notable Swift frameworks, extensions, and tools with GitHub stars
   and forks as reference.
 source_url: https://github.com/Correia-jpv/fucking-awesome-swift
-featured: false
-brand: correia-jpv
-brand_logo_url: null
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - awesome-lists
   - swift
   - libraries
+featured: false
 markdown: >-
   # fucking-awesome-swift
 
@@ -85,4 +82,6 @@ markdown: >-
 
   - **Cost:** Free  
     The repository and its contents are available at no cost as an open-source curated list on GitHub.
-updated_at: 2025-12-26 11:32
+brand: correia-jpv
+brand_logo_url: null
+updated_at: 2026-04-23 14:34

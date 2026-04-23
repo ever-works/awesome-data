@@ -4,13 +4,11 @@ description: awesome-php is a popular awesome-list directory that curates PHP
   wider Awesome ecosystem and serves as a central, community-maintained
   directory for PHP tooling and learning resources.
 source_url: https://github.com/ziadoz/awesome-php
-featured: false
-brand_logo_url: null
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - php
   - awesome-lists
+featured: false
 markdown: >
   # awesome-php
 
@@ -110,4 +108,5 @@ markdown: >
   - **Free**  
     - The list and its contents are freely accessible.  
     - Licensed under the **WTFPL**, allowing very permissive reuse.
-updated_at: 2025-12-25 11:11
+brand_logo_url: null
+updated_at: 2026-04-23 14:34

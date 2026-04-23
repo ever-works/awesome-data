@@ -3,7 +3,7 @@ description: A curated directory of services and tools for building and hosting
   static websites, useful for those looking to create their own directory
   websites.
 source_url: https://github.com/agarrharr/awesome-static-website-services
-category: themed-directories
+category: Themed Directories
 tags:
   - static-websites
   - hosting
@@ -60,4 +60,4 @@ markdown: >-
 
   [Awesome Static Website Services on
   GitHub](https://github.com/agarrharr/awesome-static-website-services)
-updated_at: 2025-05-26 10:11
+updated_at: 2026-04-23 14:34

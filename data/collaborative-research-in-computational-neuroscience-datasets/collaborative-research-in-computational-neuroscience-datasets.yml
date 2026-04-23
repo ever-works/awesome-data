@@ -3,16 +3,12 @@ description: The CRCNS data sharing initiative provides a wide range of
   experimental and computational neuroscience datasets, including
   electrophysiology, imaging, and behavioral data.
 source_url: http://crcns.org/data-sets
-featured: false
-brand: crcns
-brand_logo_url: http://crcns.org/_/rsrc/1474481110274/config/customLogo.gif
-images:
-  - http://crcns.org/_/rsrc/1474481110274/config/customLogo.gif
-category: themed-directories
+category: Themed Directories
 tags:
   - datasets
   - neuroscience
   - research
+featured: false
 markdown: >
   # Collaborative Research in Computational Neuroscience Datasets (CRCNS)
 
@@ -148,4 +144,8 @@ markdown: >
 
   - **Representative image:**
   http://crcns.org/_/rsrc/1474481110274/config/customLogo.gif
-updated_at: 2025-12-30 18:29
+brand: crcns
+brand_logo_url: http://crcns.org/_/rsrc/1474481110274/config/customLogo.gif
+images:
+  - http://crcns.org/_/rsrc/1474481110274/config/customLogo.gif
+updated_at: 2026-04-23 14:34

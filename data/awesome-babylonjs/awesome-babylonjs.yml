@@ -2,16 +2,12 @@ name: Awesome Babylon.js
 description: An awesome curated list of tools, plugins, and learning resources
   for the Babylon.js 3D game engine and rendering framework.
 source_url: https://github.com/Symbitic/awesome-babylonjs#readme
-featured: false
-brand: babylonjs
-brand_logo_url: https://www.babylonjs.com/img/logo-babylonjs.svg
-images:
-  - https://www.babylonjs.com/img/logo-babylonjs.svg
-category: themed-directories
+category: Themed Directories
 tags:
   - games
   - javascript
   - 3d
+featured: false
 markdown: >-
   # Awesome Babylon.js
 
@@ -86,4 +82,8 @@ markdown: >-
 
   - Not applicable. Awesome Babylon.js is an open, community-maintained resource
   list hosted on GitHub.
-updated_at: 2025-12-25 11:11
+brand: babylonjs
+brand_logo_url: https://www.babylonjs.com/img/logo-babylonjs.svg
+images:
+  - https://www.babylonjs.com/img/logo-babylonjs.svg
+updated_at: 2026-04-23 14:34

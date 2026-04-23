@@ -2,15 +2,12 @@ name: awesome_3DReconstruction_list
 description: An awesome list of papers and resources focused on 3D
   reconstruction from images, collecting key research and tools in the field.
 source_url: https://github.com/openMVG/awesome_3DReconstruction_list
-featured: false
-brand: openmvg
-brand_logo_url: https://avatars.githubusercontent.com/u/7821882
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - 3d
   - computer-vision
   - research
+featured: false
 markdown: |
   # awesome_3DReconstruction_list
 
@@ -99,4 +96,6 @@ markdown: |
   ## Useful Links
   - Repository: https://github.com/openMVG/awesome_3DReconstruction_list
   - Generic computer vision awesome list (related resource): https://github.com/jbhuang0604/awesome-computer-vision
-updated_at: 2025-12-25 11:11
+brand: openmvg
+brand_logo_url: https://avatars.githubusercontent.com/u/7821882
+updated_at: 2026-04-23 14:34

@@ -3,14 +3,12 @@ description: An awesome-style curated list of project-based tutorials across
   languages and domains, helping learners build skills through hands-on
   projects.
 source_url: https://github.com/practical-tutorials/project-based-learning
-featured: false
-brand_logo_url: null
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - education
   - tutorials
   - projects
+featured: false
 markdown: >-
   # Project Based Learning
 
@@ -79,4 +77,5 @@ markdown: >-
   - Free and open source under the MIT License.
 
   - No paid plans or pricing tiers indicated.
-updated_at: 2025-12-25 11:11
+brand_logo_url: null
+updated_at: 2026-04-23 14:34

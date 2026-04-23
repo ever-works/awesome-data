@@ -4,16 +4,12 @@ description: Collection of Internet measurement and topology datasets from
   Frequently referenced in awesome data/networking lists for large-scale
   Internet research.
 source_url: http://www.caida.org/data/overview/
-featured: false
-brand: caida
-brand_logo_url: https://www.caida.org/images/caida_logo.png
-images:
-  - https://www.caida.org/images/caida_logo.png
-category: themed-directories
+category: Themed Directories
 tags:
   - datasets
   - networking
   - internet
+featured: false
 markdown: >-
   # CAIDA Internet Datasets
 
@@ -80,4 +76,8 @@ markdown: >-
   ## Pricing
 
   - Not specified on the provided content.
-updated_at: 2025-12-30 18:29
+brand: caida
+brand_logo_url: https://www.caida.org/images/caida_logo.png
+images:
+  - https://www.caida.org/images/caida_logo.png
+updated_at: 2026-04-23 14:34

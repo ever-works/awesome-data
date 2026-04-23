@@ -2,15 +2,12 @@ name: Awesome Ad-Free
 description: An Awesome directory of ad-free alternatives to popular services
   and products, focusing on privacy and cleaner user experiences.
 source_url: https://github.com/johnjago/awesome-ad-free#readme
-featured: false
-brand: ""
-brand_logo_url: /
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - awesome-lists
   - privacy
   - software-alternatives
+featured: false
 markdown: >-
   # Awesome Ad-Free
 
@@ -119,4 +116,6 @@ markdown: >-
 
   - Contribution guidelines and standards are defined in `CONTRIBUTING.md` in
   the repository.
-updated_at: 2025-12-25 11:11
+brand: ""
+brand_logo_url: /
+updated_at: 2026-04-23 14:34

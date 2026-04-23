@@ -3,15 +3,12 @@ description: An awesome list of beginner-friendly open source projects and
   tutorials, focused on first-timer and newcomer contributions, with GitHub star
   and fork metadata for each entry.
 source_url: https://github.com/Correia-jpv/fucking-awesome-for-beginners
-featured: false
-brand: correia-jpv
-brand_logo_url: null
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - awesome-lists
   - beginners
   - open-source
+featured: false
 markdown: >-
   # fucking-awesome-for-beginners
 
@@ -84,4 +81,6 @@ markdown: >-
   ## Pricing
 
   - Not applicable. This is an open source GitHub list available for free.
-updated_at: 2025-12-26 11:32
+brand: correia-jpv
+brand_logo_url: null
+updated_at: 2026-04-23 14:34

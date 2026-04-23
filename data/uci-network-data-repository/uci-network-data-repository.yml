@@ -5,15 +5,12 @@ description: The UCI Network Data Repository is an organized catalog of network
   resources for research and teaching, matching the meta-collection spirit of
   awesome-style lists.
 source_url: https://networkdata.ics.uci.edu/resources.php
-featured: false
-brand: university-of-california-irvine-uci
-brand_logo_url: /
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - graph
   - datasets
   - research
+featured: false
 markdown: >-
   # UCI Network Data Repository
 
@@ -85,4 +82,6 @@ markdown: >-
 
   - Not specified; the content indicates that datasets can be browsed and
   downloaded, but no pricing information is provided on the referenced page.
-updated_at: 2025-12-30 18:29
+brand: university-of-california-irvine-uci
+brand_logo_url: /
+updated_at: 2026-04-23 14:34

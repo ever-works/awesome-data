@@ -2,14 +2,12 @@ name: Critical-Path CSS Tools
 description: A curated list of tools and resources for generating and managing
   critical-path CSS to optimize page rendering performance.
 source_url: https://github.com/addyosmani/critical-path-css-tools#readme
-featured: false
-brand_logo_url: null
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - awesome-lists
   - css
   - performance
+featured: false
 markdown: >-
   # Critical-Path CSS Tools
 
@@ -130,4 +128,5 @@ markdown: >-
 
   - This is an open-source curated list. Individual tools listed are generally
   open-source; no centralized pricing is defined in this directory.
-updated_at: 2025-12-25 11:11
+brand_logo_url: null
+updated_at: 2026-04-23 14:34

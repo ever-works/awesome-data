@@ -2,15 +2,12 @@ name: Awesome SaltStack
 description: An Awesome collection of SaltStack modules, tools, and learning
   resources for the Python-based configuration management system.
 source_url: https://github.com/hbokh/awesome-saltstack#readme
-featured: false
-brand: sindresorhusawesome
-brand_logo_url: /sindresorhus/awesome/raw/main/media/logo.png
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - devops
   - configuration
   - awesome-lists
+featured: false
 markdown: >-
   # Awesome SaltStack
 
@@ -106,4 +103,6 @@ markdown: >-
   - **Brand Logo:** `/sindresorhus/awesome/raw/main/media/logo.png`  
 
   - **Slug:** `awesome-saltstack`
-updated_at: 2025-12-25 11:11
+brand: sindresorhusawesome
+brand_logo_url: /sindresorhus/awesome/raw/main/media/logo.png
+updated_at: 2026-04-23 14:34

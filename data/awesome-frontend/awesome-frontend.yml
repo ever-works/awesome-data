@@ -2,15 +2,12 @@ name: Awesome Frontend
 description: An "awesome" style curated list of frontend libraries, tools, and
   learning resources covering modern web UI development.
 source_url: https://github.com/JingwenTian/awesome-frontend
-featured: false
-brand: jingwentian
-brand_logo_url: /JingwenTian
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - awesome-lists
   - web-development
   - javascript
+featured: false
 markdown: >-
   # Awesome Frontend
 
@@ -138,4 +135,6 @@ markdown: >-
   ## Pricing
 
   - Not applicable (open, curated link directory hosted on GitHub).
-updated_at: 2025-12-25 11:11
+brand: jingwentian
+brand_logo_url: /JingwenTian
+updated_at: 2026-04-23 14:34

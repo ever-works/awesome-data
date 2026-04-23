@@ -3,15 +3,12 @@ description: An Awesome public datasets resource for U.S. Centers for Disease
   Control and Prevention (CDC) public health datasets, with downloadable data
   files covering mortality, natality, surveys, and other health statistics.
 source_url: https://wonder.cdc.gov/
-featured: false
-brand: centers-for-disease-control-and-prevention-cdc
-brand_logo_url: /awesome-data
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - datasets
   - health
   - government
+featured: false
 markdown: >
   # Awesome Public Datasets – Government: U.S. CDC Public Health Datasets (CDC
   WONDER)
@@ -216,4 +213,6 @@ markdown: >
   - **Tags:** datasets, health, government
 
   - **Brand:** Centers for Disease Control and Prevention (CDC)
-updated_at: 2025-12-30 18:29
+brand: centers-for-disease-control-and-prevention-cdc
+brand_logo_url: /awesome-data
+updated_at: 2026-04-23 14:34

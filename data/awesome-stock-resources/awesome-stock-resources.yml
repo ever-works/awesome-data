@@ -2,14 +2,12 @@ name: Awesome Stock Resources
 description: Awesome list of free and paid stock resources including photos,
   videos, vectors, and other media assets for creative projects.
 source_url: https://github.com/neutraltone/awesome-stock-resources#readme
-featured: false
-brand_logo_url: null
-images: []
-category: themed-directories
+category: Themed Directories
 tags:
   - media
   - design
   - resources
+featured: false
 markdown: >-
   # Awesome Stock Resources
 
@@ -60,4 +58,6 @@ markdown: >-
   - Individual linked stock sites may have their own **free** and/or **paid**
   pricing models; details are provided on those external sites, not in this
   directory.
-updated_at: 2025-12-25 11:11
+brand_logo_url: null
+images: []
+updated_at: 2026-04-23 14:34

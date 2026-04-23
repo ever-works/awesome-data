@@ -2,14 +2,11 @@ name: Awesome Web Archiving
 description: A curated list of tools, services, and resources for web archiving,
   supporting efforts to preserve the web for future generations.
 source_url: https://github.com/iipc/awesome-web-archiving#readme
-featured: false
-brand: awesome
-brand_logo_url: /.github/logo.png
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - web
   - awesome-lists
+featured: false
 markdown: >-
   # Awesome Web Archiving
 
@@ -134,4 +131,6 @@ markdown: >-
 
   Not applicable. This is an open, curated list of resources hosted on GitHub,
   not a commercial product or service.
-updated_at: 2025-12-25 11:11
+brand: awesome
+brand_logo_url: /.github/logo.png
+updated_at: 2026-04-23 14:34

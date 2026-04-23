@@ -2,16 +2,12 @@ name: Awesome Browserify
 description: An awesome list of resources, plugins, and tools for Browserify,
   the JavaScript module bundler.
 source_url: https://github.com/browserify/awesome-browserify#readme
-featured: false
-brand: browserify
-brand_logo_url: https://browserify.org/images/browserify.png
-images:
-  - https://browserify.org/images/browserify.png
-category: themed-directories
+category: Themed Directories
 tags:
   - awesome-lists
   - web-development
   - javascript
+featured: false
 markdown: >
   ---
 
@@ -129,4 +125,8 @@ markdown: >
 
   - Not applicable. Awesome Browserify is an open, public, CC0-licensed curated
   list (no pricing or plans).
-updated_at: 2025-12-25 11:11
+brand: browserify
+brand_logo_url: https://browserify.org/images/browserify.png
+images:
+  - https://browserify.org/images/browserify.png
+updated_at: 2026-04-23 14:34

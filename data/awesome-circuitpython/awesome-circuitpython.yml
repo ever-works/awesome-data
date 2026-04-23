@@ -2,15 +2,12 @@ name: Awesome CircuitPython
 description: An Awesome list of libraries and resources for Adafruit’s
   CircuitPython, a Python variant for microcontrollers.
 source_url: https://github.com/adafruit/awesome-circuitpython#readme
-featured: false
-brand: adafruit
-brand_logo_url: https://cdn-shop.adafruit.com/static/images/shop-adafruit-logo.svg
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - python
   - iot
   - awesome-lists
+featured: false
 markdown: >-
   # Awesome CircuitPython
 
@@ -155,4 +152,6 @@ markdown: >-
 
   There are **no pricing plans** or paid tiers mentioned for accessing or using
   the list.
-updated_at: 2025-12-25 11:11
+brand: adafruit
+brand_logo_url: https://cdn-shop.adafruit.com/static/images/shop-adafruit-logo.svg
+updated_at: 2026-04-23 14:34

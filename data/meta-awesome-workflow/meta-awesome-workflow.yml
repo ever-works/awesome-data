@@ -2,15 +2,12 @@ name: Meta Awesome - Workflow
 description: A curated meta awesome entry that indexes awesome lists and
   resources related to workflows, automation, and process management tools.
 source_url: https://github.com/jepemo/meta-awesome/blob/master/doc/workflow.md
-featured: false
-brand: meta-awesome
-brand_logo_url: ://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
-images: null
-category: meta-directories
+category: Meta Directories
 tags:
   - awesome-lists
   - meta-directory
   - productivity
+featured: false
 markdown: >-
   # Meta Awesome – Workflow
 
@@ -73,4 +70,6 @@ markdown: >-
   Meta Awesome – Workflow is a curated GitHub-based index of open resources and
   does not present any pricing or paid plans. It is generally available as a
   free, community-maintained resource.
-updated_at: 2025-12-25 11:11
+brand: meta-awesome
+brand_logo_url: ://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
+updated_at: 2026-04-23 14:34

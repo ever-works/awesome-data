@@ -2,16 +2,12 @@ name: Awesome JAMstack
 description: A curated list of JAMstack resources, services, tools, and articles
   for modern web development with JavaScript, APIs, and Markup.
 source_url: https://github.com/automata/awesome-jamstack#readme
-featured: false
-brand: jamstack
-brand_logo_url: https://jamstack.org/img/logo/jamstack-icon.svg
-images:
-  - https://jamstack.org/img/logo/jamstack-icon.svg
-category: themed-directories
+category: Themed Directories
 tags:
   - jamstack
   - web-development
   - static-websites
+featured: false
 markdown: >-
   # Awesome JAMstack
 
@@ -70,4 +66,8 @@ markdown: >-
 
 
   - Not applicable (public GitHub list / open directory).
-updated_at: 2025-12-25 11:11
+brand: jamstack
+brand_logo_url: https://jamstack.org/img/logo/jamstack-icon.svg
+images:
+  - https://jamstack.org/img/logo/jamstack-icon.svg
+updated_at: 2026-04-23 14:34

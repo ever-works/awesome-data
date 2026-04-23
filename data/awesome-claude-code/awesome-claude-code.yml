@@ -2,15 +2,12 @@ name: Awesome Claude Code
 description: An Awesome list of resources, tips, and integrations for Claude
   Code, Anthropic’s terminal-based AI coding assistant.
 source_url: https://github.com/hesreallyhim/awesome-claude-code#readme
-featured: false
-brand: anthropic
-brand_logo_url: https://upload.wikimedia.org/wikipedia/commons/8/8f/Anthropic-logo.svg
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - ai
   - developer-tools
   - chatgpt
+featured: false
 markdown: >-
   # Awesome Claude Code
 
@@ -97,4 +94,6 @@ markdown: >-
   - Developer tools
 
   - ChatGPT / LLM-related resources (positioned for Claude Code)
-updated_at: 2025-12-25 11:11
+brand: anthropic
+brand_logo_url: https://upload.wikimedia.org/wikipedia/commons/8/8f/Anthropic-logo.svg
+updated_at: 2026-04-23 14:34

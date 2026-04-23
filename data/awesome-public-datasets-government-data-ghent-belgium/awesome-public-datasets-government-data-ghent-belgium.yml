@@ -3,15 +3,12 @@ description: An APD government-data entry listing the official open data portal
   of the city of Ghent, Belgium, which offers a catalog of municipal open
   datasets for civic and research use.
 source_url: https://data.stad.gent/explore
-featured: false
-brand: city-of-ghent
-brand_logo_url: https://stad.gent/themes/custom/stadgent/logo.svg
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - datasets
   - government
   - open-data
+featured: false
 markdown: >-
   # Awesome Public Datasets – Government Data: Ghent, Belgium
 
@@ -71,4 +68,6 @@ markdown: >-
   - No pricing information is indicated in the provided content. The portal is
   an *open data* catalog and is typically freely accessible for public use, but
   specific license or usage terms should be confirmed on the portal itself.
-updated_at: 2025-12-30 18:29
+brand: city-of-ghent
+brand_logo_url: https://stad.gent/themes/custom/stadgent/logo.svg
+updated_at: 2026-04-23 14:34

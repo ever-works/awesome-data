@@ -3,14 +3,12 @@ description: A comprehensive Awesome list of programming and technical interview
   questions, categorized by language, framework, and role to help candidates
   prepare for interviews.
 source_url: https://github.com/DopplerHQ/awesome-interview-questions#readme
-featured: false
-brand_logo_url: null
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - career
   - programming
   - education
+featured: false
 markdown: >-
   # Awesome Interview Questions
 
@@ -136,4 +134,5 @@ markdown: >-
   - The maintainers indicate the project is "no longer actively supported,"
   meaning new contributions may not be reviewed regularly, but the existing
   curated links are still usable as a static resource.
-updated_at: 2025-12-25 11:11
+brand_logo_url: null
+updated_at: 2026-04-23 14:34

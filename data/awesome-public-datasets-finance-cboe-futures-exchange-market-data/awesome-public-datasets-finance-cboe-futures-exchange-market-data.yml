@@ -4,15 +4,12 @@ description: A listing within the Awesome Public Datasets finance section
   Awesome-style reference to futures data including pricing and trading
   information.
 source_url: https://www.kaggle.com/datasets/ajtheakhil/indian-wildlife-pg-dbda-mini-project-2025
-featured: false
-brand: awesomedata-awesome-public-datasets
-brand_logo_url: /awesomedata/apd-core/raw/master/apd-logo.png
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - finance
   - datasets
   - trading
+featured: false
 markdown: |
   # Awesome Public Datasets – Finance / CBOE Futures Exchange Market Data
 
@@ -37,4 +34,6 @@ markdown: |
 
   ## Pricing
   - Not applicable (curated reference to public datasets; no pricing information provided).
-updated_at: 2025-12-30 18:29
+brand: awesomedata-awesome-public-datasets
+brand_logo_url: /awesomedata/apd-core/raw/master/apd-logo.png
+updated_at: 2026-04-23 14:34

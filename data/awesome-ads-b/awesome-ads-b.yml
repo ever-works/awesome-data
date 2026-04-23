@@ -2,14 +2,12 @@ name: Awesome ADS-B
 description: Awesome collection of tools, libraries, and resources centered on
   ADS-B, the technology for broadcasting aircraft data.
 source_url: https://github.com/rickstaa/awesome-adsb#readme
-featured: false
-brand_logo_url: null
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - awesome-lists
   - gis
   - hardware
+featured: false
 markdown: >-
   # Awesome ADS-B
 
@@ -48,4 +46,5 @@ markdown: >-
   ## Pricing
 
   - Not applicable — this is an open, public GitHub list/directory.
-updated_at: 2025-12-25 11:11
+brand_logo_url: null
+updated_at: 2026-04-23 14:34

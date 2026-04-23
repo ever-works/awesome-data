@@ -2,15 +2,12 @@ name: Meta Awesome - Integration
 description: A Meta Awesome Awesome-style list that collects tools, patterns,
   and platforms for system and service integration.
 source_url: https://github.com/jepemo/meta-awesome/blob/master/doc/integration.md
-featured: false
-brand: jepemometa-awesome
-brand_logo_url: null
-images: null
-category: meta-directories
+category: Meta Directories
 tags:
   - awesome-lists
   - integration
   - systems
+featured: false
 markdown: >-
   # Meta Awesome – Integration
 
@@ -65,4 +62,6 @@ markdown: >-
   - Not a commercial product or service; it is a public, GitHub-hosted list.  
 
   - No pricing plans are associated with this directory itself.
-updated_at: 2025-12-26 11:32
+brand: jepemometa-awesome
+brand_logo_url: null
+updated_at: 2026-04-23 14:34

@@ -2,14 +2,11 @@ name: Awesome Nix
 description: A curated Awesome list of packages, tools, documentation, and
   learning resources for the Nix package manager and Nix ecosystem.
 source_url: https://github.com/nix-community/awesome-nix#readme
-featured: false
-brand: nix-community
-brand_logo_url: /nix-community.png
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - awesome-lists
   - developer-resources
+featured: false
 markdown: >-
   # Awesome Nix
 
@@ -138,4 +135,6 @@ markdown: >-
 
   - Conforms to the general "Awesome" list style and standards (listed on
   [awesome.re](https://awesome.re)).
-updated_at: 2025-12-25 11:11
+brand: nix-community
+brand_logo_url: /nix-community.png
+updated_at: 2026-04-23 14:34

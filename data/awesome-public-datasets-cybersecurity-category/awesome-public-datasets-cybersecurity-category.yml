@@ -5,14 +5,12 @@ description: The CyberSecurity category of the Awesome Public Datasets (APD)
   Exercise. It is part of the broader Awesome-style collection of high-quality,
   topic-organized resources.
 source_url: https://github.com/awesomedata/apd-core/tree/master/core//CyberSecurity
-featured: false
-brand_logo_url: null
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - datasets
   - security
   - research
+featured: false
 markdown: >-
   # Awesome Public Datasets – CyberSecurity Category
 
@@ -75,4 +73,5 @@ markdown: >-
 
   - Not applicable – the entry is a directory of public datasets; no pricing
   information is provided in the source content.
-updated_at: 2025-12-30 18:29
+brand_logo_url: null
+updated_at: 2026-04-23 14:34

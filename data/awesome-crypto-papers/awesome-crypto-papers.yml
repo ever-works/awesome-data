@@ -3,15 +3,12 @@ description: An Awesome curated list of cryptography papers that provide
   theoretical foundations and guidance for non-cryptographers using
   cryptographic methods.
 source_url: https://github.com/pFarb/awesome-crypto-papers#readme
-featured: false
-brand: awesome-lists
-brand_logo_url: null
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - cryptography
   - research
   - awesome-lists
+featured: false
 markdown: >-
   # Awesome Crypto Papers
 
@@ -69,4 +66,6 @@ markdown: >-
 
   - Licensed under terms specified in `LICENSE.md` in the repository
   (open‑source license; see project page for details).
-updated_at: 2025-12-25 11:11
+brand: awesome-lists
+brand_logo_url: null
+updated_at: 2026-04-23 14:34

@@ -3,15 +3,12 @@ description: A curated awesome list of tools, libraries, learning resources, and
   community projects for Roblox, an immersive platform for hosting millions of
   diverse experiences and games.
 source_url: https://github.com/awesome-roblox/awesome-roblox#readme
-featured: false
-brand: roblox
-brand_logo_url: https://images.rbxcdn.com/50b9a8c05ed6a1be0950c55f0b1e7278-Roblox_Logo2019
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - awesome-lists
   - games
   - community
+featured: false
 markdown: >-
   # Awesome Roblox
 
@@ -64,4 +61,6 @@ markdown: >-
   - Not a paid product or service.  
 
   - Public, open GitHub list available free of charge.
-updated_at: 2025-12-25 11:11
+brand: roblox
+brand_logo_url: https://images.rbxcdn.com/50b9a8c05ed6a1be0950c55f0b1e7278-Roblox_Logo2019
+updated_at: 2026-04-23 14:34

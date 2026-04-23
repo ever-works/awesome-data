@@ -2,15 +2,12 @@ name: Awesome JSON Datasets
 description: A curated awesome list of publicly available JSON datasets for
   testing, learning, and data-driven projects.
 source_url: https://github.com/jdorfman/awesome-json-datasets#readme
-featured: false
-brand_logo_url: null
-images:
-  - https://opengraph.githubassets.com/1/jdorfman/awesome-json-datasets
-category: themed-directories
+category: Themed Directories
 tags:
   - datasets
   - json
   - awesome-lists
+featured: false
 markdown: >
   # Awesome JSON Datasets
 
@@ -180,4 +177,7 @@ markdown: >
 
 
   - **Main Directory:** https://github.com/jdorfman/awesome-json-datasets#readme
-updated_at: 2025-12-25 11:11
+brand_logo_url: null
+images:
+  - https://opengraph.githubassets.com/1/jdorfman/awesome-json-datasets
+updated_at: 2026-04-23 14:34

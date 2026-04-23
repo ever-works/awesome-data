@@ -2,15 +2,12 @@ name: "Awesome Public Datasets – Government Data: Houston, TX, US"
 description: Awesome Public Datasets listing for the City of Houston’s open data
   portal, exposing municipal datasets for transparency and civic innovation.
 source_url: http://data.houstontx.gov/
-featured: false
-brand: city-of-houston
-brand_logo_url: https://www.houstontx.gov/branding/images/seal-color.png
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - government
   - datasets
   - open-data
+featured: false
 markdown: >-
   # Awesome Public Datasets – Government Data: Houston, TX, US
 
@@ -108,4 +105,6 @@ markdown: >-
   Access to the City of Houston Open Data portal and its public datasets is
   presented as open and publicly available. No pricing or paid plans are
   indicated in the provided content.
-updated_at: 2025-12-30 18:29
+brand: city-of-houston
+brand_logo_url: https://www.houstontx.gov/branding/images/seal-color.png
+updated_at: 2026-04-23 14:34

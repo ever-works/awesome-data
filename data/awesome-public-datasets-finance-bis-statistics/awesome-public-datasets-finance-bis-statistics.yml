@@ -4,15 +4,12 @@ description: A finance-focused entry in the Awesome Public Datasets
   statistical data sets. This Awesome-style listing provides a curated pointer
   and metadata for accessing international banking and financial statistics.
 source_url: https://www.bis.org/statistics/full_data_sets.htm
-featured: false
-brand: awesomedata-awesome-public-datasets
-brand_logo_url: /awesomedata/apd-core/raw/master/apd-logo.png
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - datasets
   - finance
   - economics
+featured: false
 markdown: >-
   # Awesome Public Datasets – Finance / BIS Statistics
 
@@ -174,4 +171,6 @@ markdown: >-
   No pricing information is indicated in the provided content; BIS statistical
   bulk downloads referenced here are typically publicly accessible without
   charge.
-updated_at: 2025-12-30 18:29
+brand: awesomedata-awesome-public-datasets
+brand_logo_url: /awesomedata/apd-core/raw/master/apd-logo.png
+updated_at: 2026-04-23 14:34

@@ -3,15 +3,12 @@ description: An Awesome entry pointing to the U.S. Census Bureau’s data portal
   providing access to a wide range of U.S. population, economic, and geographic
   datasets.
 source_url: http://www.census.gov/data.html
-featured: false
-brand: us-census-bureau
-brand_logo_url: /awesome-data
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - datasets
   - government
   - demographics
+featured: false
 markdown: >-
   # Awesome Public Datasets – U.S. Census Bureau
 
@@ -100,4 +97,6 @@ markdown: >-
   - Access to U.S. Census Bureau data, tools, tables, and APIs described here is
   provided **free of charge** (no pricing plans are indicated in the provided
   content).
-updated_at: 2025-12-30 18:29
+brand: us-census-bureau
+brand_logo_url: /awesome-data
+updated_at: 2026-04-23 14:34

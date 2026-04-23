@@ -4,15 +4,12 @@ description: Machine-readable access (plain text data files) to the Internet
   benchmark dataset in recommendation and ML research and listed in awesome
   dataset directories.
 source_url: https://www.imdb.com/interfaces
-featured: false
-brand: imdb
-brand_logo_url: https://m.media-amazon.com/images/G/01/imdb/images/social/imdb_logo.png
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - datasets
   - media
   - recommendation
+featured: false
 markdown: >
   # IMDb Database Interfaces
 
@@ -103,4 +100,6 @@ markdown: >
   - No explicit pricing information is provided in the content. The described
   access is for **non-commercial** use under IMDb’s licensing terms; commercial
   licensing is not detailed on this page.
-updated_at: 2025-12-30 18:29
+brand: imdb
+brand_logo_url: https://m.media-amazon.com/images/G/01/imdb/images/social/imdb_logo.png
+updated_at: 2026-04-23 14:34

@@ -4,15 +4,12 @@ description: An APD meta entry referencing the Istanbul Metropolitan
   Municipality’s open data portal, offering urban, transportation, and municipal
   datasets.
 source_url: https://data.ibb.gov.tr
-featured: false
-brand: istanbul-metropolitan-municipality-ibb
-brand_logo_url: https://data.ibb.gov.tr/favicon.ico
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - open-data
   - city
   - datasets
+featured: false
 markdown: >
   # Awesome Public Datasets – Government Data: Istanbul Municipality Open Data
   Portal
@@ -116,4 +113,6 @@ markdown: >
   - **Brand portal name**: İBB Açık Veri Portalı (İBB Open Data Portal)
 
   - **Favicon/Logo**: https://data.ibb.gov.tr/favicon.ico
-updated_at: 2025-12-30 18:29
+brand: istanbul-metropolitan-municipality-ibb
+brand_logo_url: https://data.ibb.gov.tr/favicon.ico
+updated_at: 2026-04-23 14:34

@@ -2,15 +2,12 @@ name: Awesome Research Tools
 description: An awesome list of research tools, platforms, and resources to
   support scientific and academic work.
 source_url: https://github.com/emptymalei/awesome-research#readme
-featured: false
-brand_logo_url: null
-images:
-  - https://opengraph.githubassets.com/1/emptymalei/awesome-research
-category: themed-directories
+category: Themed Directories
 tags:
   - research
   - datasets
   - awesome-lists
+featured: false
 markdown: >
   # Awesome Research Tools
 
@@ -172,4 +169,7 @@ markdown: >
 
   - Anyone in academia searching for a vetted starting point for
   research-relevant software and services.
-updated_at: 2025-12-25 11:11
+brand_logo_url: null
+images:
+  - https://opengraph.githubassets.com/1/emptymalei/awesome-research
+updated_at: 2026-04-23 14:34

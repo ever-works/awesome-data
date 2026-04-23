@@ -2,15 +2,12 @@ name: Meta Awesome - Input
 description: An Awesome-style collection in Meta Awesome covering input methods,
   devices, and input-handling libraries.
 source_url: https://github.com/jepemo/meta-awesome/blob/master/doc/input.md
-featured: false
-brand: jepemometa-awesome
-brand_logo_url: null
-images: null
-category: meta-directories
+category: Meta Directories
 tags:
   - meta-directory
   - input
   - developer-tools
+featured: false
 markdown: >-
   # Meta Awesome – Input
 
@@ -69,4 +66,6 @@ markdown: >-
 
   - Public GitHub documentation/list; no pricing or paid plans are associated
   with this directory itself.
-updated_at: 2025-12-26 11:32
+brand: jepemometa-awesome
+brand_logo_url: null
+updated_at: 2026-04-23 14:34

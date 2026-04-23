@@ -2,13 +2,11 @@ name: "meta-awesome: Financial"
 description: A meta-awesome category file that aggregates awesome lists relating
   to finance, fintech, quantitative tools, and financial data processing.
 source_url: https://github.com/jepemo/meta-awesome/blob/master/doc/financial.md
-featured: false
-brand_logo_url: null
-images: []
-category: meta-directories
+category: Meta Directories
 tags:
   - financial
   - meta-directory
+featured: false
 markdown: |
   # meta-awesome: Financial
 
@@ -32,4 +30,6 @@ markdown: |
 
   ## Pricing
   - Not applicable (open GitHub directory / list, no pricing plans indicated).
-updated_at: 2025-12-25 11:11
+brand_logo_url: null
+images: []
+updated_at: 2026-04-23 14:34

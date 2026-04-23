@@ -4,14 +4,13 @@ description: A curated Awesome-style entry for South Africa’s official
   (Stats SA) as a primary source for national datasets across demographics,
   economy, and social indicators.
 source_url: http://www.statssa.gov.za/
-featured: false
-brand: awesome-data
-brand_logo_url: /awesome-data
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - datasets
   - government
   - open-data
+featured: false
 markdown: ""
-updated_at: 2025-12-30 18:29
+brand: awesome-data
+brand_logo_url: /awesome-data
+updated_at: 2026-04-23 14:34

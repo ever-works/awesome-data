@@ -2,15 +2,12 @@ name: Awesome Framer
 description: An Awesome collection of resources, components, and tools for
   Framer, focused on prototyping interactive user interface designs.
 source_url: https://github.com/podo/awesome-framer#readme
-featured: false
-brand: ""
-brand_logo_url: /
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - awesome-lists
   - design
   - prototyping
+featured: false
 markdown: >
   # Awesome Framer
 
@@ -61,4 +58,6 @@ markdown: >
 
   - Not applicable. Awesome Framer is an open, curated list hosted on GitHub and
   does not advertise pricing or paid plans.
-updated_at: 2025-12-25 11:11
+brand: ""
+brand_logo_url: /
+updated_at: 2026-04-23 14:34

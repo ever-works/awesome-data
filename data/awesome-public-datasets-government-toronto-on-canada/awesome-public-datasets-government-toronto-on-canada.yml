@@ -3,15 +3,12 @@ description: An Awesome-curated link to the City of Toronto’s official open da
   portal, offering municipal datasets for urban planning, transportation,
   environment, and city services.
 source_url: https://open.toronto.ca/
-featured: false
-brand: city-of-toronto
-brand_logo_url: /awesome-data
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - government
   - datasets
   - open-data
+featured: false
 markdown: >-
   # Awesome Public Datasets – Government: Toronto, ON, Canada
 
@@ -67,4 +64,6 @@ markdown: >-
   The portal provides access to open data; no pricing information is indicated
   in the provided content (datasets appear to be freely accessible as open
   data).
-updated_at: 2025-12-30 18:29
+brand: city-of-toronto
+brand_logo_url: /awesome-data
+updated_at: 2026-04-23 14:34

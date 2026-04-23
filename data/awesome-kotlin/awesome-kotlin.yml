@@ -1,15 +1,12 @@
 name: Awesome Kotlin
 description: Curated Awesome list of Kotlin libraries, frameworks, and tools.
 source_url: https://github.com/KotlinBy/awesome-kotlin#readme
-featured: false
-brand: sindresorhusawesome
-brand_logo_url: https://raw.githubusercontent.com/sindresorhus/awesome/main/media/logo.svg
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - awesome-lists
   - developer-tools
   - curated-lists
+featured: false
 markdown: >-
   # Awesome Kotlin
 
@@ -96,4 +93,6 @@ markdown: >-
 
   - Not applicable – this is an open-source, freely accessible GitHub
   repository.
-updated_at: 2025-12-25 11:11
+brand: sindresorhusawesome
+brand_logo_url: https://raw.githubusercontent.com/sindresorhus/awesome/main/media/logo.svg
+updated_at: 2026-04-23 14:34

@@ -2,7 +2,7 @@ name: Hebrew-Language-Projects-Index
 description: "Projects and utilities for working with the Hebrew language:
   translation, TTS, LLMs, fonts, calendar, Paleo Hebrew."
 source_url: https://github.com/danielrosehill/Hebrew-Language-Projects-Index
-category: themed-directories
+category: Themed Directories
 tags:
   - hebrew
   - language-projects
@@ -14,4 +14,4 @@ markdown: >-
 
   Projects and utilities for working with the Hebrew language: translation, TTS,
   LLMs, fonts, calendar, Paleo Hebrew.
-updated_at: 2026-04-22 09:33
+updated_at: 2026-04-23 14:34

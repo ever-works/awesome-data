@@ -3,15 +3,12 @@ description: TunedIT is a platform for data mining and machine learning that
   hosts datasets, algorithms, and challenge competitions for benchmarking and
   research.
 source_url: https://vdoc.pub/documents/mastering-java-machine-learning-6nc7h5d2i3u0
-featured: false
-brand: tunedit
-brand_logo_url: null
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - machine-learning
   - challenges
   - datasets
+featured: false
 markdown: >
   # TunedIT Challenges
 
@@ -59,4 +56,6 @@ markdown: >
 
 
   No pricing information is provided in the available content.
-updated_at: 2025-12-30 18:29
+brand: tunedit
+brand_logo_url: null
+updated_at: 2026-04-23 14:34

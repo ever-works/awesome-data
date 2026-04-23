@@ -2,15 +2,12 @@ name: Awesome ChatOps
 description: An Awesome list of tools, frameworks, and practices for managing
   technical and business operations via chat (ChatOps).
 source_url: https://github.com/exAspArk/awesome-chatops#readme
-featured: false
-brand: sindresorhusawesome
-brand_logo_url: /sindresorhus/awesome/raw/main/media/logo.png
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - awesome-lists
   - devops
   - communication
+featured: false
 markdown: >-
   # Awesome ChatOps
 
@@ -92,4 +89,6 @@ markdown: >-
 
   - Not applicable. Awesome ChatOps is an open-source, community-maintained
   directory of resources and tools; no pricing or plans are provided.
-updated_at: 2025-12-25 11:11
+brand: sindresorhusawesome
+brand_logo_url: /sindresorhus/awesome/raw/main/media/logo.png
+updated_at: 2026-04-23 14:34

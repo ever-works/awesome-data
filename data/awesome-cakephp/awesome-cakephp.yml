@@ -2,15 +2,12 @@ name: Awesome CakePHP
 description: A curated collection of CakePHP plugins, helpers, components, and
   learning resources for the PHP framework.
 source_url: https://github.com/friendsofcake/awesome-cakephp#readme
-featured: false
-brand: rawesome
-brand_logo_url: null
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - awesome-lists
   - php
   - framework
+featured: false
 markdown: >-
   # Awesome CakePHP
 
@@ -120,4 +117,6 @@ markdown: >-
 
   - The repository includes a `LICENSE` file (open-source license; details
   available in the GitHub repo).
-updated_at: 2025-12-25 11:11
+brand: rawesome
+brand_logo_url: null
+updated_at: 2026-04-23 14:34

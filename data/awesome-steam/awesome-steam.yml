@@ -2,15 +2,12 @@ name: Awesome STEAM
 description: An awesome list of supplemental resources for science, technology,
   engineering, arts, and mathematics (STEAM) courses across all grade levels.
 source_url: https://github.com/RahulBirCodes/awesome-steam#readme
-featured: false
-brand: rahulbircodes
-brand_logo_url: /RahulBirCodes.png
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - education
   - resources
   - awesome-lists
+featured: false
 markdown: >-
   # Awesome STEAM
 
@@ -74,4 +71,6 @@ markdown: >-
 
   - Project appears to be free and open-source, subject to the terms of its
   license.
-updated_at: 2025-12-30 18:29
+brand: rahulbircodes
+brand_logo_url: /RahulBirCodes.png
+updated_at: 2026-04-23 14:34

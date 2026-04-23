@@ -4,15 +4,12 @@ description: Large-scale web crawl dataset containing 3.5 billion web pages from
   research. Listed as part of an awesome-style collection of computer networks
   datasets.
 source_url: http://www.bigdatanews.com/profiles/blogs/big-data-set-3-5-billion-web-pages-made-available-for-all-of-us
-featured: false
-brand: ""
-brand_logo_url: /
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - datasets
   - web
   - big-data
+featured: false
 markdown: |
   # 3.5B Web Pages from CommonCrawl 2012
 
@@ -51,4 +48,6 @@ markdown: |
 
   ## Pricing
   - Not specified in the provided content. (CommonCrawl datasets are typically freely available, but the exact access terms should be confirmed on the linked source.)
-updated_at: 2025-12-30 18:29
+brand: ""
+brand_logo_url: /
+updated_at: 2026-04-23 14:34

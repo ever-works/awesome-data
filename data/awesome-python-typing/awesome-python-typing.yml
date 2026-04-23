@@ -2,15 +2,12 @@ name: Awesome Python Typing
 description: An Awesome collection of tools, libraries, and resources for
   optional static typing in Python.
 source_url: https://github.com/typeddjango/awesome-python-typing#readme
-featured: false
-brand: ""
-brand_logo_url: /
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - awesome-lists
   - python
   - developer-tools
+featured: false
 markdown: |-
   # Awesome Python Typing
 
@@ -96,4 +93,6 @@ markdown: |-
 
   - **Directory Category**: Themed Directories
   - **Tags**: `awesome-lists`, `python`, `developer-tools`
-updated_at: 2025-12-25 11:11
+brand: ""
+brand_logo_url: /
+updated_at: 2026-04-23 14:34

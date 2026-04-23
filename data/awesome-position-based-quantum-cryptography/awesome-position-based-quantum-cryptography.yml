@@ -3,14 +3,12 @@ description: An awesome list collecting theory, papers, and resources on
   position-based quantum cryptography, which uses relativistic constraints to
   achieve security under certain conditions.
 source_url: https://github.com/Renaller/awesome-position-based-quantum-cryptography#readme
-featured: false
-brand_logo_url: null
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - quantum-computing
   - cryptography
   - research
+featured: false
 markdown: >-
   # Awesome Position-Based Quantum Cryptography
 
@@ -82,4 +80,5 @@ markdown: >-
 
   - Not applicable. This is an open, GitHub-hosted curated list of resources,
   available free of charge.
-updated_at: 2025-12-25 11:11
+brand_logo_url: null
+updated_at: 2026-04-23 14:34

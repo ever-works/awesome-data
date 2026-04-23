@@ -3,15 +3,12 @@ description: An Awesome Public Datasets entry for the U.S. Treasury’s Debt to
   the Penny dataset portal, a focused directory exposing official data on total
   public debt outstanding.
 source_url: https://fiscaldata.treasury.gov/datasets/debt-to-the-penny/debt-to-the-penny
-featured: false
-brand: awesome-data
-brand_logo_url: /awesome-data/logo.png
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - datasets
   - finance
   - government
+featured: false
 markdown: |-
   # Awesome Public Datasets – Government (Meta: Debt to the Penny)
 
@@ -132,4 +129,6 @@ markdown: |-
   ## Pricing
 
   - **Access cost:** Public, official U.S. government dataset; available **free of charge** for use and analysis.
-updated_at: 2025-12-30 18:29
+brand: awesome-data
+brand_logo_url: /awesome-data/logo.png
+updated_at: 2026-04-23 14:34

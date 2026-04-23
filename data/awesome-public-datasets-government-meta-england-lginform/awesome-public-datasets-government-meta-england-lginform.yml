@@ -3,15 +3,12 @@ description: Awesome Public Datasets meta link to LGInform, a UK local
   government data service providing a directory of statistics and indicators for
   councils across England.
 source_url: http://lginform.local.gov.uk/
-featured: false
-brand: awesome-data
-brand_logo_url: /awesome-data/logo.png
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - datasets
   - government
   - open-data
+featured: false
 markdown: >
   # Awesome Public Datasets – Government (Meta: England LGInform)
 
@@ -81,4 +78,6 @@ markdown: >
   ## Pricing
 
   No pricing information is provided in the available content.
-updated_at: 2025-12-30 18:29
+brand: awesome-data
+brand_logo_url: /awesome-data/logo.png
+updated_at: 2026-04-23 14:34

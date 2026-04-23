@@ -3,15 +3,12 @@ description: Awesome Public Datasets item that points to Fredericton’s open da
   catalogue, a municipal directory of civic datasets for Fredericton, New
   Brunswick.
 source_url: https://github.com/awesomedata/awesome-public-datasets
-featured: false
-brand: awesome-data
-brand_logo_url: /awesome-data/logo.png
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - datasets
   - government
   - open-data
+featured: false
 markdown: >-
   # Awesome Public Datasets – Government (Meta: Fredericton, NB, Canada)
 
@@ -71,4 +68,6 @@ markdown: >-
   Fredericton’s, are free to use as open data (subject to each data provider’s
   license and terms of use). No specific paid plans or pricing tiers are
   indicated in the available content.
-updated_at: 2025-12-30 18:29
+brand: awesome-data
+brand_logo_url: /awesome-data/logo.png
+updated_at: 2026-04-23 14:34

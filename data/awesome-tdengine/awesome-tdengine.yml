@@ -2,15 +2,12 @@ name: Awesome TDengine
 description: A curated Awesome list of resources, tools, and integrations for
   TDengine, an open-source high-performance time-series database.
 source_url: https://github.com/taosdata/awesome-tdengine#readme
-featured: false
-brand: tdengine
-brand_logo_url: null
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - awesome-lists
   - database
   - open-source
+featured: false
 markdown: >-
   # Awesome TDengine
 
@@ -93,4 +90,6 @@ markdown: >-
 
   - Not applicable. Awesome TDengine is an open, CC0‑licensed list of resources,
   available free of charge.
-updated_at: 2025-12-25 11:11
+brand: tdengine
+brand_logo_url: null
+updated_at: 2026-04-23 14:34

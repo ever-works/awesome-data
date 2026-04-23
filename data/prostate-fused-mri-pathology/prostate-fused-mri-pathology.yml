@@ -4,15 +4,12 @@ description: A curated prostate cancer imaging dataset that fuses MRI with
   directory of prostate cancer resources. The collection provides aligned
   imaging and pathology for research and benchmarking.
 source_url: https://www.scribd.com/document/653760991/data-science-public-datasets
-featured: false
-brand: rawesomedata-awesome-public-datasets
-brand_logo_url: https://raw.githubusercontent.com/awesomedata/apd-core/master/media/apd-logo.png
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - health
   - medical-imaging
   - datasets
+featured: false
 markdown: |
   # Prostate-Fused-MRI-Pathology
 
@@ -45,4 +42,6 @@ markdown: |
 
   ## Pricing
   The directory entry does not specify any pricing or licensing details for the Prostate-Fused-MRI-Pathology dataset. Terms of access (e.g., open access, registration, or institutional approval) are not described in the available content and would need to be confirmed via the dataset’s primary host or publication.
-updated_at: 2025-12-30 18:29
+brand: rawesomedata-awesome-public-datasets
+brand_logo_url: https://raw.githubusercontent.com/awesomedata/apd-core/master/media/apd-logo.png
+updated_at: 2026-04-23 14:34

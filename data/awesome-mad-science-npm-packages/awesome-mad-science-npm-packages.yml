@@ -2,15 +2,12 @@ name: Awesome Mad Science npm Packages
 description: A curated Awesome list of seemingly impossible or experimental npm
   packages that actually exist.
 source_url: https://github.com/feross/awesome-mad-science#readme
-featured: false
-brand: ""
-brand_logo_url: /
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - javascript
   - npm
   - awesome-lists
+featured: false
 markdown: >-
   # Awesome Mad Science npm Packages
 
@@ -107,4 +104,6 @@ markdown: >-
   - **License Notice:** To the extent possible under law, Feross Aboukhadijeh
   has waived all copyright and related or neighboring rights to this work via
   CC0.
-updated_at: 2025-12-25 11:11
+brand: ""
+brand_logo_url: /
+updated_at: 2026-04-23 14:34

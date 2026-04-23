@@ -1,7 +1,7 @@
 name: SITREP-Examples
 description: Aggregated SITREP examples.
 source_url: https://github.com/danielrosehill/SITREP-Examples
-category: themed-directories
+category: Themed Directories
 tags:
   - sitrep
   - examples
@@ -11,4 +11,4 @@ markdown: |-
   ## Overview
 
   Aggregated SITREP examples.
-updated_at: 2026-04-22 09:33
+updated_at: 2026-04-23 14:34

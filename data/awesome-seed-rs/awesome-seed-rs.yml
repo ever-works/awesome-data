@@ -2,15 +2,12 @@ name: Awesome Seed RS
 description: A curated collection of Seed framework resources, examples, and
   libraries for building Rust-powered WebAssembly web apps.
 source_url: https://github.com/seed-rs/awesome-seed-rs#readme
-featured: false
-brand: seed-rs
-brand_logo_url: null
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - awesome-lists
   - rust
   - webassembly
+featured: false
 markdown: >-
   # Awesome Seed RS
 
@@ -67,4 +64,6 @@ markdown: >-
 
   - Not applicable – this is an open, GitHub-hosted resource list with no
   pricing plans mentioned.
-updated_at: 2025-12-25 11:11
+brand: seed-rs
+brand_logo_url: null
+updated_at: 2026-04-23 14:34

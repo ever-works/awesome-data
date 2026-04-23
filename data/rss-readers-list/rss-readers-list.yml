@@ -1,0 +1,37 @@
+name: RSS Readers List
+description: A comprehensive meta-list of RSS readers and replacements,
+  aggregating GitHub repositories for easy discovery of alternatives. Key
+  features include categorized listings and regular updates. Ideal for
+  researching RSS tools and finding reader alternatives; more niche than
+  sindresorhus/awesome.
+source_url: https://github.com/smithbr/rss-readers-list
+category: Themed Directories
+tags:
+  - meta-list
+  - list-of-lists
+  - rss
+featured: false
+markdown: |-
+  ## Overview
+
+  Megalist of RSS reader alternatives and tools.
+
+  ## Features
+
+  - Comprehensive list of RSS readers
+  - Aggregates GitHub projects
+  - Categorized and updated
+
+  ## Use Cases
+
+  - Researching RSS projects
+  - Finding reader alternatives
+
+  ## Comparison
+
+  More niche than sindresorhus/awesome.
+
+  ## Pricing
+
+  Free.
+updated_at: 2026-04-23 14:34

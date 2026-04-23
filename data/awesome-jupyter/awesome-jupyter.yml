@@ -3,15 +3,12 @@ description: A curated Awesome list of tools, extensions, notebooks, and
   resources for the Jupyter ecosystem, supporting interactive computing and data
   science workflows.
 source_url: https://github.com/markusschanta/awesome-jupyter#readme
-featured: false
-brand: ""
-brand_logo_url: /
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - awesome-lists
   - python
   - data-science
+featured: false
 markdown: >-
   # Awesome Jupyter
 
@@ -77,4 +74,6 @@ markdown: >-
 
   - Not applicable. Awesome Jupyter is an open, GitHub-hosted curated list
   rather than a commercial product or service.
-updated_at: 2025-12-25 11:11
+brand: ""
+brand_logo_url: /
+updated_at: 2026-04-23 14:34

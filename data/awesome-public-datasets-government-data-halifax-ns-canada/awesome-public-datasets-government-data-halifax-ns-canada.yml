@@ -2,15 +2,12 @@ name: "Awesome Public Datasets – Government Data: Halifax, NS, Canada"
 description: APD entry for the Halifax Regional Municipality open data program,
   providing public access to municipal datasets for Halifax, Nova Scotia.
 source_url: https://www.halifax.ca/home/open-data
-featured: false
-brand: halifax-regional-municipality
-brand_logo_url: https://www.halifax.ca/themes/custom/hrm/logo.svg
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - datasets
   - government
   - open-data
+featured: false
 markdown: >-
   # Awesome Public Datasets – Government Data: Halifax, NS, Canada
 
@@ -48,4 +45,6 @@ markdown: >-
   Not specified; the catalogue is described as an open data program, which
   typically implies free public access, but no explicit pricing details are
   provided in the available content.
-updated_at: 2025-12-30 18:29
+brand: halifax-regional-municipality
+brand_logo_url: https://www.halifax.ca/themes/custom/hrm/logo.svg
+updated_at: 2026-04-23 14:34

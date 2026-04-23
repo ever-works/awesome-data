@@ -4,15 +4,12 @@ description: Repository of large-scale Internet-wide scan data (e.g., ZMap,
   measurement research and commonly referenced in awesome networking datasets
   lists.
 source_url: https://scans.io/
-featured: false
-brand: ""
-brand_logo_url: /
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - datasets
   - security
   - networking
+featured: false
 markdown: >-
   ## Internet-Wide Scan Data Repository
 
@@ -174,4 +171,6 @@ markdown: >-
 
   - Programmatic access via JSON interface at `/json` (no further technical
   details provided in the content).
-updated_at: 2025-12-30 18:29
+brand: ""
+brand_logo_url: /
+updated_at: 2026-04-23 14:34

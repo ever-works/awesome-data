@@ -5,15 +5,12 @@ description: A large curated directory of approximately 1,600 open data portals
   "awesome"-style list for discovering open data sources across countries and
   cities.
 source_url: https://www.opendatasoft.com/blog/2015/11/02/how-we-put-together-a-list-of-1600-open-data-portals-around-the-world-to-help-open-data-community
-featured: false
-brand: opendatasoft
-brand_logo_url: null
-images: null
-category: meta-directories
+category: Meta Directories
 tags:
   - open-data
   - datasets
   - directory-of-directories
+featured: false
 markdown: |
   # OpenDataSoft list of open data portals
 
@@ -34,4 +31,6 @@ markdown: |
 
   ## Pricing
   - Not specified (resource appears to be freely accessible as a blog-based directory).
-updated_at: 2025-12-30 18:29
+brand: opendatasoft
+brand_logo_url: null
+updated_at: 2026-04-23 14:34

@@ -2,15 +2,12 @@ name: Awesome Uno Platform
 description: An Awesome collection of samples, libraries, tooling, and learning
   resources for the Uno Platform, a .NET UI framework for cross‑platform apps.
 source_url: https://github.com/MartinZikmund/awesome-uno-platform#readme
-featured: false
-brand: martinzikmund
-brand_logo_url: /MartinZikmund.png
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - dotnet
   - framework
   - awesome-lists
+featured: false
 markdown: >-
   ---
 
@@ -94,4 +91,6 @@ markdown: >-
   - The repository includes a `LICENSE` file indicating it is open‑source. For
   exact terms and conditions, refer directly to the license in the GitHub
   repository.
-updated_at: 2025-12-25 11:11
+brand: martinzikmund
+brand_logo_url: /MartinZikmund.png
+updated_at: 2026-04-23 14:34

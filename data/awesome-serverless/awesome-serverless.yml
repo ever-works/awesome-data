@@ -2,15 +2,12 @@ name: Awesome Serverless
 description: Awesome curated list of services, solutions, and educational
   resources for serverless and no‑backend application architectures.
 source_url: https://github.com/anaibol/awesome-serverless
-featured: false
-brand: anaibol
-brand_logo_url: /anaibol.png
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - serverless
   - cloud
   - developer-tools
+featured: false
 markdown: >-
   # Awesome Serverless
 
@@ -71,4 +68,6 @@ markdown: >-
   ## Pricing
 
   - Not applicable (open-source GitHub list; access is free).
-updated_at: 2025-12-25 11:11
+brand: anaibol
+brand_logo_url: /anaibol.png
+updated_at: 2026-04-23 14:34

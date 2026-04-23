@@ -3,16 +3,12 @@ description: An open-source, cloud-based platform providing access to
   large-scale neuroscience datasets, tools, and services for managing,
   visualizing, and analyzing brain data.
 source_url: http://neurodata.io
-featured: false
-brand: neurodata
-brand_logo_url: https://neurodata.io/static/img/neurodata-logo-black.svg
-images:
-  - https://neurodata.io/static/img/neurodata-logo-black.svg
-category: themed-directories
+category: Themed Directories
 tags:
   - datasets
   - neuroscience
   - cloud
+featured: false
 markdown: >-
   # NeuroData
 
@@ -88,4 +84,8 @@ markdown: >-
   No pricing information is provided. The platform emphasizes open access to
   data and publications and open-source code, but no specific plans or costs are
   listed.
-updated_at: 2025-12-30 18:29
+brand: neurodata
+brand_logo_url: https://neurodata.io/static/img/neurodata-logo-black.svg
+images:
+  - https://neurodata.io/static/img/neurodata-logo-black.svg
+updated_at: 2026-04-23 14:34

@@ -3,15 +3,12 @@ description: The Rijksmuseum’s public API providing access to metadata and
   images of its historical art collection, featured as a museum dataset/API in
   the Awesome Public Datasets directory.
 source_url: https://www.rijksmuseum.nl/en/api
-featured: false
-brand: rijksmuseum
-brand_logo_url: null
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - datasets
   - apis
   - art
+featured: false
 markdown: >-
   # Rijksmuseum Historical Art Collection API
 
@@ -77,4 +74,6 @@ markdown: >-
   Rijksmuseum Historical Art Collection API. It is described in the context of
   open data; check the official API documentation for any up-to-date terms,
   quotas, or conditions of use.
-updated_at: 2025-12-30 18:29
+brand: rijksmuseum
+brand_logo_url: null
+updated_at: 2026-04-23 14:34

@@ -2,15 +2,12 @@ name: Awesome Plone
 description: Awesome-style curated list of add-ons, tools, and documentation for
   Plone, an open-source Python CMS.
 source_url: https://github.com/collective/awesome-plone#readme
-featured: false
-brand: plone
-brand_logo_url: null
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - awesome-lists
   - cms
   - python
+featured: false
 markdown: >-
   # Awesome Plone
 
@@ -82,4 +79,6 @@ markdown: >-
 
   - Not applicable — Awesome Plone is an open, community-maintained list, not a
   paid product or service.
-updated_at: 2025-12-25 11:11
+brand: plone
+brand_logo_url: null
+updated_at: 2026-04-23 14:34

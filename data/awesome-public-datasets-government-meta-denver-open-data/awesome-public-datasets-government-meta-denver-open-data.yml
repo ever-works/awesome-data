@@ -3,15 +3,12 @@ description: Meta entry in Awesome Public Datasets that links to Denver Open
   Data, the city’s comprehensive open data catalog spanning geospatial, civic,
   and operational datasets.
 source_url: http://data.denvergov.org/
-featured: false
-brand: awesome-data
-brand_logo_url: /awesome-data/logo.png
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - datasets
   - government
   - gis
+featured: false
 markdown: >-
   # Awesome Public Datasets – Government (Meta: Denver Open Data)
 
@@ -62,4 +59,6 @@ markdown: >-
 
   - Access to the Denver Open Data catalog is presented as open data; no pricing
   information is indicated in the provided content.
-updated_at: 2025-12-30 18:29
+brand: awesome-data
+brand_logo_url: /awesome-data/logo.png
+updated_at: 2026-04-23 14:34

@@ -2,15 +2,12 @@ name: Awesome Move
 description: A curated Awesome list of Move language tools, libraries,
   frameworks, and educational resources for writing safe smart contracts.
 source_url: https://github.com/MystenLabs/awesome-move#readme
-featured: false
-brand: awesome
-brand_logo_url: null
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - awesome-lists
   - blockchain
   - developer-tools
+featured: false
 markdown: >-
   # Awesome Move
 
@@ -126,4 +123,6 @@ markdown: >-
   ## Source
 
   - **Repository:** https://github.com/MystenLabs/awesome-move#readme
-updated_at: 2025-12-25 11:11
+brand: awesome
+brand_logo_url: null
+updated_at: 2026-04-23 14:34

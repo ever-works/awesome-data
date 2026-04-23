@@ -2,15 +2,12 @@ name: Meta Awesome - Desktop
 description: A meta awesome list for desktop development and applications,
   indexing awesome lists related to desktop frameworks, toolkits, and apps.
 source_url: https://github.com/jepemo/meta-awesome/blob/master/doc/desktop.md
-featured: false
-brand: meta-awesome
-brand_logo_url: null
-images: null
-category: meta-directories
+category: Meta Directories
 tags:
   - meta-directory
   - desktop
   - awesome-lists
+featured: false
 markdown: >-
   # Meta Awesome – Desktop
 
@@ -57,4 +54,6 @@ markdown: >-
 
   - Access to the Meta Awesome – Desktop list is **free** (public GitHub
   repository).
-updated_at: 2025-12-25 11:11
+brand: meta-awesome
+brand_logo_url: null
+updated_at: 2026-04-23 14:34

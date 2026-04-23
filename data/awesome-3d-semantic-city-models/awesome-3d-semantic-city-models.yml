@@ -3,7 +3,7 @@ description: Curated GitHub awesome list for open 3D semantic city models, with
   150 stars, covering CityGML datasets from institutions; ideal for developers
   seeking urban GIS data; alternative to general directories.
 source_url: https://github.com/OloOcki/awesome-citygml
-category: themed-directories
+category: Themed Directories
 tags:
   - gis
   - datasets
@@ -98,4 +98,4 @@ brand: github
 brand_logo_url: https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png
 images:
   - https://opengraph.githubassets.com/1/OloOcki/awesome-citygml
-updated_at: 2026-04-23 05:34
+updated_at: 2026-04-23 14:34

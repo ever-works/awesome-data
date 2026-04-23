@@ -3,15 +3,12 @@ description: Awesome Public Datasets listing for dati.gov.it, Italy’s national
   catalog of public data metadata, aggregating open datasets from Italian public
   administrations.
 source_url: https://www.dati.gov.it/
-featured: false
-brand: italian-government
-brand_logo_url: https://www.dati.gov.it/themes/custom/dati/assets/images/logo-italia.svg
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - datasets
   - government
   - open-data
+featured: false
 markdown: >-
   # Awesome Public Datasets – Government Data: Italy
 
@@ -115,4 +112,6 @@ markdown: >-
 
   - Building applications, research, or analyses based on Italian public sector
   data (via datasets referenced in the catalog).
-updated_at: 2025-12-30 18:29
+brand: italian-government
+brand_logo_url: https://www.dati.gov.it/themes/custom/dati/assets/images/logo-italia.svg
+updated_at: 2026-04-23 14:34

@@ -6,16 +6,12 @@ description: Awesome-Vibe-Coding is a curated "awesome" list of open-source
   the broader ecosystem of meta awesome directories focused on artificial
   intelligence and large language models.
 source_url: https://github.com/0xWelt/Awesome-Vibe-Coding
-featured: false
-brand: 0xwelt
-brand_logo_url: https://avatars.githubusercontent.com/u/171593609
-images:
-  - https://opengraph.githubassets.com/1/0xWelt/Awesome-Vibe-Coding
-category: themed-directories
+category: Themed Directories
 tags:
   - awesome-lists
   - ai
   - developer-tools
+featured: false
 markdown: >-
   # Awesome Vibe Coding
 
@@ -70,4 +66,8 @@ markdown: >-
   ## Pricing
 
   - Not applicable – this is a free, open-source curated list on GitHub.
-updated_at: 2025-12-31 19:34
+brand: 0xwelt
+brand_logo_url: https://avatars.githubusercontent.com/u/171593609
+images:
+  - https://opengraph.githubassets.com/1/0xWelt/Awesome-Vibe-Coding
+updated_at: 2026-04-23 14:34

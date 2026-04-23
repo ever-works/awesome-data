@@ -2,15 +2,12 @@ name: Awesome Biomedical Information Extraction
 description: A curated Awesome list of resources, tools, and research on
   extracting information from unstructured biomedical data and text.
 source_url: https://github.com/caufieldjh/awesome-bioie#readme
-featured: false
-brand: sindresorhusawesome
-brand_logo_url: https://raw.githubusercontent.com/sindresorhus/awesome/main/media/logo.svg
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - biology
   - nlp
   - awesome-lists
+featured: false
 markdown: |-
   # Awesome Biomedical Information Extraction
 
@@ -117,4 +114,6 @@ markdown: |-
 
   - Contributions are welcome via GitHub pull requests following the repository’s contribution guidelines.
   - The list is intended as a living reference for researchers, practitioners, and students working on biomedical NLP and information extraction.
-updated_at: 2025-12-25 11:11
+brand: sindresorhusawesome
+brand_logo_url: https://raw.githubusercontent.com/sindresorhus/awesome/main/media/logo.svg
+updated_at: 2026-04-23 14:34

@@ -2,14 +2,11 @@ name: Awesome inspectIT
 description: An Awesome collection of resources around inspectIT, an open source
   Java application performance management and monitoring tool.
 source_url: https://github.com/inspectit-labs/awesome-inspectit#readme
-featured: false
-brand: ""
-brand_logo_url: /
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - performance
   - awesome-lists
+featured: false
 markdown: >-
   # Awesome inspectIT
 
@@ -60,4 +57,6 @@ markdown: >-
   ## Pricing
 
   - Not applicable (open source curated list).
-updated_at: 2025-12-25 11:11
+brand: ""
+brand_logo_url: /
+updated_at: 2026-04-23 14:34

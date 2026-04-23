@@ -2,15 +2,12 @@ name: "Awesome Public Datasets - Government: Mountain View, California, US (GIS)
 description: Entry in Awesome Public Datasets for Mountain View’s GIS-focused
   open data portal, publishing geospatial datasets for the city.
 source_url: http://data-mountainview.opendata.arcgis.com/
-featured: false
-brand: awesome-public-datasets
-brand_logo_url: null
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - government
   - gis
   - datasets
+featured: false
 markdown: >-
   ## Awesome Public Datasets – Government: Mountain View, California, US (GIS)
 
@@ -63,4 +60,6 @@ markdown: >-
   - Not specified. The portal is described as an open data resource, typically
   implying free access, but explicit pricing information is not provided in the
   available content.
-updated_at: 2025-12-30 18:29
+brand: awesome-public-datasets
+brand_logo_url: null
+updated_at: 2026-04-23 14:34

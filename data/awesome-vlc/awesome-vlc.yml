@@ -2,14 +2,12 @@ name: Awesome VLC
 description: Awesome collection of plugins, tools, and resources for VLC, the
   cross-platform media player and streaming server.
 source_url: https://github.com/mfkl/awesome-vlc#readme
-featured: false
-brand_logo_url: null
-images: []
-category: themed-directories
+category: Themed Directories
 tags:
   - awesome-lists
   - media
   - software
+featured: false
 markdown: >-
   # Awesome VLC
 
@@ -99,4 +97,6 @@ markdown: >-
 
   - **Free** – Awesome VLC is an open, curated list hosted on GitHub and is free
   to access and use.
-updated_at: 2025-12-25 11:11
+brand_logo_url: null
+images: []
+updated_at: 2026-04-23 14:34

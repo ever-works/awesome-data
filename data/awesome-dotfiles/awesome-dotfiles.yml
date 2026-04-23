@@ -3,15 +3,12 @@ description: An awesome collection of dotfiles resources, examples, and
   frameworks to manage and share shell and development environment configuration
   files.
 source_url: https://github.com/webpro/awesome-dotfiles#readme
-featured: false
-brand: github
-brand_logo_url: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - awesome-lists
   - developer-tools
   - productivity
+featured: false
 markdown: >-
   # Awesome Dotfiles
 
@@ -130,4 +127,6 @@ markdown: >-
   - Awesome Dotfiles is an open-source, GitHub-hosted directory.  
 
   - **Pricing:** Free to access and use.
-updated_at: 2025-12-25 11:11
+brand: github
+brand_logo_url: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
+updated_at: 2026-04-23 14:34

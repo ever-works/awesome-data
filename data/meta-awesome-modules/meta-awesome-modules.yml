@@ -2,15 +2,12 @@ name: meta-awesome - Modules
 description: A meta-awesome document listing awesome collections focused on
   modules, modularization patterns, and related libraries.
 source_url: https://github.com/jepemo/meta-awesome/blob/master/doc/modules.md
-featured: false
-brand: jepemometa-awesome
-brand_logo_url: null
-images: null
-category: meta-directories
+category: Meta Directories
 tags:
   - meta-directory
   - developer-resources
   - awesome-lists
+featured: false
 markdown: >-
   # meta-awesome – Modules
 
@@ -68,4 +65,6 @@ markdown: >-
 
   This is a public GitHub document and is available to use and browse for free
   (no pricing or plans are indicated).
-updated_at: 2025-12-25 11:11
+brand: jepemometa-awesome
+brand_logo_url: null
+updated_at: 2026-04-23 14:34

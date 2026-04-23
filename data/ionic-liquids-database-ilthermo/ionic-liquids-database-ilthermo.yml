@@ -4,15 +4,12 @@ description: ILThermo is a NIST-hosted ionic liquids database providing
   compounds. It is referenced as part of an awesome-style meta collection for
   chemistry-related data resources.
 source_url: https://ilthermo.boulder.nist.gov
-featured: false
-brand: nist
-brand_logo_url: https://www.nist.gov/themes/custom/nist/logo.png
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - datasets
   - chemistry
   - science
+featured: false
 markdown: >-
   # Ionic Liquids Database – ILThermo
 
@@ -74,4 +71,6 @@ markdown: >-
   - **Brand:** NIST  
 
   - **Brand Logo:** https://www.nist.gov/themes/custom/nist/logo.png
-updated_at: 2025-12-30 18:29
+brand: nist
+brand_logo_url: https://www.nist.gov/themes/custom/nist/logo.png
+updated_at: 2026-04-23 14:34

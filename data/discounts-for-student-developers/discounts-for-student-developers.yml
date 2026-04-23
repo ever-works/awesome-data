@@ -2,15 +2,12 @@ name: Discounts for Student Developers
 description: An awesome list of discounts, free services, and resources
   specifically for student developers.
 source_url: https://github.com/AchoArnold/discount-for-student-dev#readme
-featured: false
-brand_logo_url: null
-images:
-  - https://opengraph.githubassets.com/1/AchoArnold/discount-for-student-dev
-category: themed-directories
+category: Themed Directories
 tags:
   - students
   - developer-tools
   - resources
+featured: false
 markdown: >
   # Discounts for Student Developers
 
@@ -146,4 +143,7 @@ markdown: >
   https://github.com/AchoArnold/discount-for-student-dev#readme
 
   - Contribution guidelines: `contributing.md` in the repository
-updated_at: 2025-12-25 11:11
+brand_logo_url: null
+images:
+  - https://opengraph.githubassets.com/1/AchoArnold/discount-for-student-dev
+updated_at: 2026-04-23 14:34

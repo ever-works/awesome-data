@@ -2,15 +2,12 @@ name: NLP with Ruby
 description: An Awesome list collecting libraries, tools, and resources for
   performing natural language processing using Ruby.
 source_url: https://github.com/arbox/nlp-with-ruby#readme
-featured: false
-brand: awesome-lists
-brand_logo_url: null
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - awesome-lists
   - ruby
   - machine-learning
+featured: false
 markdown: >-
   # NLP with Ruby
 
@@ -72,4 +69,6 @@ markdown: >-
 
   - Distributed under an open-source license (see `LICENSE` file in the
   repository for full terms).
-updated_at: 2025-12-25 11:11
+brand: awesome-lists
+brand_logo_url: null
+updated_at: 2026-04-23 14:34

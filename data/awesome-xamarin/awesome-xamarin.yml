@@ -3,15 +3,12 @@ description: A curated collection of awesome Xamarin resources, including IDE
   plugins, libraries, testing tools, and distribution services for
   cross‑platform mobile apps.
 source_url: https://github.com/XamSome/awesome-xamarin#readme
-featured: false
-brand: xamsome
-brand_logo_url: /XamSome.png
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - awesome-lists
   - mobile
   - developer-tools
+featured: false
 markdown: >-
   # Awesome Xamarin
 
@@ -50,4 +47,6 @@ markdown: >-
 
   - Not applicable. Awesome Xamarin is an open curated list hosted on GitHub,
   and access to the directory itself is free.
-updated_at: 2025-12-25 11:11
+brand: xamsome
+brand_logo_url: /XamSome.png
+updated_at: 2026-04-23 14:34

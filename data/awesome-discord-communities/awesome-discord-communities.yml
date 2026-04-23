@@ -2,15 +2,11 @@ name: Awesome Discord Communities
 description: An awesome collection of high-quality Discord servers and
   communities organized by topic and interest.
 source_url: https://github.com/mhxion/awesome-discord-communities#readme
-featured: false
-brand: discord
-brand_logo_url: https://discord.com/assets/145dc557845548a36a82337912ca3ac5.svg
-images:
-  - https://discord.com/assets/145dc557845548a36a82337912ca3ac5.svg
-category: themed-directories
+category: Themed Directories
 tags:
   - social
   - community
+featured: false
 markdown: >-
   # Awesome Discord Communities
 
@@ -78,4 +74,8 @@ markdown: >-
 
   - The directory is an open-source GitHub project and is free to access and
   use. No paid plans are listed.
-updated_at: 2025-12-25 11:11
+brand: discord
+brand_logo_url: https://discord.com/assets/145dc557845548a36a82337912ca3ac5.svg
+images:
+  - https://discord.com/assets/145dc557845548a36a82337912ca3ac5.svg
+updated_at: 2026-04-23 14:34

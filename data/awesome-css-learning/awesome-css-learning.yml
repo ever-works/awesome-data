@@ -2,15 +2,12 @@ name: Awesome CSS Learning
 description: An awesome list focused on learning CSS, including the language and
   its modules, curated in a GitHub directory.
 source_url: https://github.com/micromata/awesome-css-learning#readme
-featured: false
-brand: micromata
-brand_logo_url: https://avatars.githubusercontent.com/u/762752
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - css
   - web-development
   - education
+featured: false
 markdown: >-
   ---
 
@@ -107,4 +104,6 @@ markdown: >-
 
   - The repository includes a `LICENSE.MD` file; the specific license terms can
   be viewed directly in the GitHub repository.
-updated_at: 2025-12-25 11:11
+brand: micromata
+brand_logo_url: https://avatars.githubusercontent.com/u/762752
+updated_at: 2026-04-23 14:34

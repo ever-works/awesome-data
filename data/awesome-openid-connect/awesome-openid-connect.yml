@@ -3,15 +3,12 @@ description: A curated awesome list of libraries, tools, and resources for
   working with OpenID Connect, an identity and authentication protocol built on
   OAuth 2.0.
 source_url: https://github.com/cerberauth/awesome-openid-connect#readme
-featured: false
-brand: cerberauth
-brand_logo_url: /cerberauth
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - security
   - authentication
   - awesome-lists
+featured: false
 markdown: >
   # Awesome OpenID Connect
 
@@ -86,4 +83,6 @@ markdown: >
 
   - **License:** Openly licensed GitHub repository (see `LICENSE` file in the
   repo for exact terms). There are no paid plans for the list itself.
-updated_at: 2025-12-25 11:11
+brand: cerberauth
+brand_logo_url: /cerberauth
+updated_at: 2026-04-23 14:34

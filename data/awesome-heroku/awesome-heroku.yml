@@ -2,15 +2,11 @@ name: Awesome Heroku
 description: A curated list of Heroku resources, addons, tools, and guides for
   building and deploying applications on the Heroku PaaS.
 source_url: https://github.com/ianstormtaylor/awesome-heroku#readme
-featured: false
-brand: heroku
-brand_logo_url: https://brand.heroku.com/static/media/heroku-logo-solid.c5d9e5a8.svg
-images:
-  - https://github.com/ianstormtaylor/awesome-heroku/raw/master/logo.png
-category: themed-directories
+category: Themed Directories
 tags:
   - cloud
   - awesome-lists
+featured: false
 markdown: >-
   # Awesome Heroku
 
@@ -160,4 +156,8 @@ markdown: >-
 
   Awesome Heroku is an open-source, curated list of links. It is free to use and
   browse. No pricing plans are associated with this directory.
-updated_at: 2025-12-25 11:11
+brand: heroku
+brand_logo_url: https://brand.heroku.com/static/media/heroku-logo-solid.c5d9e5a8.svg
+images:
+  - https://github.com/ianstormtaylor/awesome-heroku/raw/master/logo.png
+updated_at: 2026-04-23 14:34

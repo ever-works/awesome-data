@@ -3,15 +3,12 @@ description: An "awesome awesomeness" meta-collection GitHub repository that
   curates multiple awesome lists, including their GitHub star and fork
   statistics, serving as a directory of awesome directories.
 source_url: https://github.com/Correia-jpv/fucking-awesome-awesomeness
-featured: false
-brand: correia-jpv
-brand_logo_url: /Correia-jpv.png
-images: null
-category: meta-directories
+category: Meta Directories
 tags:
   - awesome-lists
   - directory-of-directories
   - github
+featured: false
 markdown: |-
   # fucking-awesome-awesomeness
 
@@ -62,4 +59,6 @@ markdown: |-
 
   ## Pricing
   - **Free** – Open-source GitHub repository, accessible and usable at no cost.
-updated_at: 2025-12-26 11:32
+brand: correia-jpv
+brand_logo_url: /Correia-jpv.png
+updated_at: 2026-04-23 14:34

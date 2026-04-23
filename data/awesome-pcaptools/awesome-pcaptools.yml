@@ -3,14 +3,12 @@ description: An Awesome curated directory of tools for working with PCAP files,
   including analysis, manipulation, and visualization utilities for network
   traffic captures.
 source_url: https://github.com/caesar0301/awesome-pcaptools#readme
-featured: false
-brand_logo_url: null
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - networking
   - security
   - analysis
+featured: false
 markdown: >-
   # Awesome PCAPTools
 
@@ -148,4 +146,5 @@ markdown: >-
 
   - Each listed tool may have its own license, usage model, and pricing, which
   must be checked individually at their respective project pages.
-updated_at: 2025-12-25 11:11
+brand_logo_url: null
+updated_at: 2026-04-23 14:34

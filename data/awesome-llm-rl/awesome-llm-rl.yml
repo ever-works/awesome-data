@@ -5,16 +5,12 @@ description: Awesome-LLM-RL is an awesome-style curated list focused on
   Ray, vLLM, ZeRO-3, and HuggingFace Transformers, serving as a specialized
   awesome directory within the broader AI and LLM ecosystem.
 source_url: https://github.com/0xWelt/Awesome-LLM-RL
-featured: false
-brand: 0xwelt
-brand_logo_url: https://avatars.githubusercontent.com/u/171593609
-images:
-  - https://opengraph.githubassets.com/1/0xWelt/Awesome-LLM-RL
-category: themed-directories
+category: Themed Directories
 tags:
   - awesome-lists
   - ai
   - machine-learning
+featured: false
 markdown: >-
   # Awesome LLM RL
 
@@ -68,4 +64,8 @@ markdown: >-
 
   - Not applicable. This is a free, open-source curated list licensed under CC
   BY 4.0.
-updated_at: 2025-12-31 19:34
+brand: 0xwelt
+brand_logo_url: https://avatars.githubusercontent.com/u/171593609
+images:
+  - https://opengraph.githubassets.com/1/0xWelt/Awesome-LLM-RL
+updated_at: 2026-04-23 14:34

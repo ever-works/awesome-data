@@ -2,15 +2,12 @@ name: Awesome eBPF
 description: A curated list of awesome eBPF resources, libraries, and tools for
   efficient tracing, monitoring, and extending Linux kernel capabilities.
 source_url: https://github.com/zoidbergwill/awesome-ebpf#readme
-featured: false
-brand: zoidbergwill
-brand_logo_url: /zoidbergwill.png
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - awesome-lists
   - ebpf
   - security
+featured: false
 markdown: >-
   # Awesome eBPF
 
@@ -76,4 +73,6 @@ markdown: >-
 
   - Not applicable. Awesome eBPF is an open, public GitHub repository and
   resource list with no pricing or paid plans indicated.
-updated_at: 2025-12-25 11:11
+brand: zoidbergwill
+brand_logo_url: /zoidbergwill.png
+updated_at: 2026-04-23 14:34

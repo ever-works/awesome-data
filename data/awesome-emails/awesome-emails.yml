@@ -2,14 +2,12 @@ name: Awesome Emails
 description: A curated list of resources, templates, and tools for designing and
   developing HTML emails.
 source_url: https://github.com/jonathandion/awesome-emails#readme
-featured: false
-brand_logo_url: null
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - awesome-lists
   - web-development
   - design
+featured: false
 markdown: >-
   # Awesome Emails
 
@@ -163,4 +161,5 @@ markdown: >-
   - **CC0 1.0 Universal (Public Domain Dedication)** – content can be copied,
   modified, and distributed without restriction, as described in the
   repository’s license section.
-updated_at: 2025-12-25 11:11
+brand_logo_url: null
+updated_at: 2026-04-23 14:34

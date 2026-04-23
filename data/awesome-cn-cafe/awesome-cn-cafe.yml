@@ -2,15 +2,12 @@ name: awesome-cn-cafe
 description: A niche awesome list cataloging notable café places in China,
   demonstrating the breadth of the awesome-directories concept beyond software.
 source_url: https://github.com/ElaWorkshop/awesome-cn-cafe
-featured: false
-brand: elaworkshop
-brand_logo_url: /ElaWorkshop on GitHub
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - lifestyle
   - web-directory
   - awesome-lists
+featured: false
 markdown: >-
   # awesome-cn-cafe
 
@@ -79,4 +76,6 @@ markdown: >-
 
   - The project is an open-source GitHub repository; no pricing or paid plans
   are indicated in the available content.
-updated_at: 2025-12-25 11:11
+brand: elaworkshop
+brand_logo_url: /ElaWorkshop on GitHub
+updated_at: 2026-04-23 14:34

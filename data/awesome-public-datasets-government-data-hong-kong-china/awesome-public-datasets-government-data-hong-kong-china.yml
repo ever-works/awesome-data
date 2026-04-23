@@ -3,15 +3,12 @@ description: APD government section entry for data.gov.hk, the official Hong
   Kong SAR government data portal with machine-readable open datasets across
   departments.
 source_url: https://data.gov.hk/en/
-featured: false
-brand: govhk
-brand_logo_url: https://www.gov.hk/en/shared/template2011/images/logo2011.gif
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - datasets
   - government
   - open-data
+featured: false
 markdown: >-
   # Awesome Public Datasets – Government Data: Hong Kong, China
 
@@ -86,4 +83,6 @@ markdown: >-
 
   - Access to DATA.GOV.HK and its RSS feed is presented as an open government
   data service; no pricing or paid plans are indicated in the provided content.
-updated_at: 2025-12-30 18:29
+brand: govhk
+brand_logo_url: https://www.gov.hk/en/shared/template2011/images/logo2011.gif
+updated_at: 2026-04-23 14:34

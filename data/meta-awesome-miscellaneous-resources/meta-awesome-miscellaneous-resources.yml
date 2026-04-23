@@ -2,15 +2,12 @@ name: Meta Awesome - Miscellaneous Resources
 description: An index of assorted awesome resources and lists that complement
   the main meta-awesome categories.
 source_url: https://github.com/jepemo/meta-awesome/blob/master/doc/miscellaneous-resources.md
-featured: false
-brand: jepemometa-awesome
-brand_logo_url: null
-images: null
-category: meta-directories
+category: Meta Directories
 tags:
   - meta-directory
   - awesome-lists
   - resources
+featured: false
 markdown: |-
   ## Meta Awesome – Miscellaneous Resources
 
@@ -48,4 +45,6 @@ markdown: |-
   ### Pricing
   - Not a commercial product or service.
   - Publicly accessible GitHub document; no pricing or plans are associated with this resource index.
-updated_at: 2025-12-25 11:11
+brand: jepemometa-awesome
+brand_logo_url: null
+updated_at: 2026-04-23 14:34

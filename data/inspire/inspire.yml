@@ -2,14 +2,12 @@ name: Inspire
 description: A curated collection of design and development inspiration
   resources, sites, and tools.
 source_url: https://github.com/NoahBuscher/Inspire#readme
-featured: false
-brand_logo_url: null
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - design
   - inspiration
   - web
+featured: false
 markdown: >-
   # Inspire
 
@@ -64,4 +62,5 @@ markdown: >-
 
   - **CC0 1.0 Universal (Public Domain Dedication)**  
     To the extent possible under law, the author has waived all copyright and related or neighboring rights to this work.
-updated_at: 2025-12-25 11:11
+brand_logo_url: null
+updated_at: 2026-04-23 14:34

@@ -7,15 +7,12 @@ description: A curated Awesome-style collection of biological and genomics
   GitHub repository, making this part of a larger meta collection of Awesome
   data directories.
 source_url: https://github.com/awesomedata/apd-core/tree/master/core/Biology
-featured: true
-brand: awesome-data
-brand_logo_url: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - datasets
   - biology
   - research
+featured: true
 markdown: >
   # Awesome Data - Biology Datasets (Meta)
 
@@ -76,4 +73,6 @@ markdown: >
 
   - Not applicable — this is an open GitHub-based directory of dataset links and
   metadata; no pricing or plans are specified.
-updated_at: 2025-12-30 18:29
+brand: awesome-data
+brand_logo_url: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
+updated_at: 2026-04-23 14:34

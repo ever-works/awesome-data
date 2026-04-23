@@ -4,16 +4,12 @@ description: A curated "awesome"-style directory of Amazon Web Services
   other AWS-related tools. It is part of the broader Awesome ecosystem of
   topic-specific awesome lists.
 source_url: https://github.com/donnemartin/awesome-aws
-featured: false
-brand: amazon-web-services
-brand_logo_url: https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png
-images:
-  - https://opengraph.githubassets.com/1/donnemartin/awesome-aws
-category: themed-directories
+category: Themed Directories
 tags:
   - awesome-lists
   - cloud
   - curated-lists
+featured: false
 markdown: >-
   # Awesome AWS
 
@@ -65,4 +61,8 @@ markdown: >-
 
   - Not applicable. Awesome AWS is an open, public GitHub repository and curated
   list; no pricing or plans are indicated.
-updated_at: 2025-12-25 11:11
+brand: amazon-web-services
+brand_logo_url: https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png
+images:
+  - https://opengraph.githubassets.com/1/donnemartin/awesome-aws
+updated_at: 2026-04-23 14:34

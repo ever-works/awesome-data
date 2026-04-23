@@ -2,14 +2,12 @@ name: Awesome Audio Over IP
 description: Awesome list of tools, protocols, and references for transmitting
   uncompressed, low-latency audio over IP (layer 3) networks.
 source_url: https://github.com/Mo-way/awesome-aoip#readme
-featured: false
-brand_logo_url: null
-images: []
-category: themed-directories
+category: Themed Directories
 tags:
   - audio
   - networking
   - awesome-lists
+featured: false
 markdown: >
   # Awesome Audio Over IP
 
@@ -72,4 +70,6 @@ markdown: >
   ## Pricing
 
   - Not applicable (open GitHub repository / list; freely accessible).
-updated_at: 2025-12-25 11:11
+brand_logo_url: null
+images: []
+updated_at: 2026-04-23 14:34

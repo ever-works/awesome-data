@@ -3,15 +3,12 @@ description: An Awesome Public Datasets meta entry linking to the UN Human
   Development Reports, which provide open data on human development indices,
   socio-economic indicators, and related metrics worldwide.
 source_url: https://github.com/awesomedata/apd-core/tree/master/core//Economics/UN-Human-Development-Reports.yml
-featured: false
-brand: awesome-public-datasets
-brand_logo_url: /assets/images/brands/awesomedata.png
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - datasets
   - economics
   - research
+featured: false
 markdown: |-
   # UN Human Development Reports
 
@@ -52,4 +49,6 @@ markdown: |-
 
   ## Pricing
   - Access to the UN Human Development Reports datasets referenced by this entry is **free and open** (no pricing information listed in the source).
-updated_at: 2025-12-30 18:29
+brand: awesome-public-datasets
+brand_logo_url: /assets/images/brands/awesomedata.png
+updated_at: 2026-04-23 14:34

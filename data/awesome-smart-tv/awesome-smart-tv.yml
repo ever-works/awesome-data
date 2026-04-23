@@ -2,15 +2,12 @@ name: Awesome Smart TV
 description: An awesome collection of frameworks, tools, and resources for
   building applications for various Smart TV platforms.
 source_url: https://github.com/vitalets/awesome-smart-tv#readme
-featured: false
-brand: ""
-brand_logo_url: /
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - media
   - tv
   - apps
+featured: false
 markdown: >-
   # Awesome Smart TV
 
@@ -79,4 +76,6 @@ markdown: >-
 
   - Not applicable. This is an open, curated list of external resources hosted
   on GitHub (free to access).
-updated_at: 2025-12-25 11:11
+brand: ""
+brand_logo_url: /
+updated_at: 2026-04-23 14:34

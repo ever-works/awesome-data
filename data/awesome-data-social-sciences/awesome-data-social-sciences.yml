@@ -6,16 +6,12 @@ description: A curated subset of the Awesome Data project focused on social
   meta collection of high-quality open datasets for researchers and
   practitioners.
 source_url: https://github.com/awesomedata/apd-core/tree/master/core/SocialSciences
-featured: false
-brand: awesome-data
-brand_logo_url: https://avatars.githubusercontent.com/u/14289506?s=200&v=4
-images:
-  - https://repository-images.githubusercontent.com/33835309/8b6e4a00-7b5f-11ea-9f35-0d5b0f8ff1ac
-category: themed-directories
+category: Themed Directories
 tags:
   - datasets
   - social
   - research
+featured: false
 markdown: >-
   ## Awesome Data – Social Sciences
 
@@ -98,4 +94,8 @@ markdown: >-
 
   - Not applicable (GitHub-based curated list of open datasets; no pricing
   information provided).
-updated_at: 2025-12-30 18:29
+brand: awesome-data
+brand_logo_url: https://avatars.githubusercontent.com/u/14289506?s=200&v=4
+images:
+  - https://repository-images.githubusercontent.com/33835309/8b6e4a00-7b5f-11ea-9f35-0d5b0f8ff1ac
+updated_at: 2026-04-23 14:34

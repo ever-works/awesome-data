@@ -3,16 +3,12 @@ description: The Cancer Genome Atlas project’s genomic and clinical cancer
   datasets accessible through the NCI Genomic Data Commons portal, cataloged
   within the Awesome Public Datasets healthcare section.
 source_url: https://portal.gdc.cancer.gov/
-featured: false
-brand: nci-genomic-data-commons
-brand_logo_url: https://portal.gdc.cancer.gov/static/media/gdc-logo.13b5c0e3.svg
-images:
-  - https://portal.gdc.cancer.gov/static/media/gdc-portal-screenshot.3b3c7f3a.png
-category: themed-directories
+category: Themed Directories
 tags:
   - genomics
   - health
   - datasets
+featured: false
 markdown: >-
   # The Cancer Genome Atlas via GDC Portal
 
@@ -146,4 +142,8 @@ markdown: >-
   - No pricing information is provided in the available content. The portal is
   presented as a research data resource; any access controls or usage conditions
   are not detailed in the provided text.
-updated_at: 2025-12-30 18:29
+brand: nci-genomic-data-commons
+brand_logo_url: https://portal.gdc.cancer.gov/static/media/gdc-logo.13b5c0e3.svg
+images:
+  - https://portal.gdc.cancer.gov/static/media/gdc-portal-screenshot.3b3c7f3a.png
+updated_at: 2026-04-23 14:34

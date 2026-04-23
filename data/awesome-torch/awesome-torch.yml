@@ -2,15 +2,12 @@ name: awesome-torch
 description: A curated awesome-list of Torch ecosystem tutorials, projects,
   libraries, and community resources.
 source_url: https://github.com/carpedm20/awesome-torch
-featured: false
-brand: carpedm20
-brand_logo_url: /carpedm20
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - awesome-lists
   - machine-learning
   - python
+featured: false
 markdown: >-
   # awesome-torch
 
@@ -56,4 +53,6 @@ markdown: >-
 
   - Not applicable. This is an open, GitHub-hosted curated list of resources (no
   pricing or plans indicated).
-updated_at: 2025-12-25 11:11
+brand: carpedm20
+brand_logo_url: /carpedm20
+updated_at: 2026-04-23 14:34

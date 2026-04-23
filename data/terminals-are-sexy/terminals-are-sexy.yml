@@ -2,15 +2,12 @@ name: Terminals Are Sexy
 description: A curated list of terminal resources, tools, and themes, often
   referenced alongside awesome terminal-related lists.
 source_url: https://github.com/k4m4/terminals-are-sexy#readme
-featured: false
-brand: github
-brand_logo_url: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - terminal
   - cli
   - developer-tools
+featured: false
 markdown: >-
   # Terminals Are Sexy
 
@@ -66,4 +63,6 @@ markdown: >-
 
   - Distributed under an open-source license (see the `license` file in the
   repository for full terms).
-updated_at: 2025-12-25 11:11
+brand: github
+brand_logo_url: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
+updated_at: 2026-04-23 14:34

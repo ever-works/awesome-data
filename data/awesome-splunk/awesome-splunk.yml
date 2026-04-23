@@ -2,15 +2,12 @@ name: Awesome Splunk
 description: An Awesome list of apps, tools, and resources for Splunk, the
   platform for searching, monitoring, and analyzing machine-generated big data.
 source_url: https://github.com/sduff/awesome-splunk#readme
-featured: false
-brand: sduff
-brand_logo_url: https://avatars.githubusercontent.com/u/1457820
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - awesome-lists
   - big-data
   - devops
+featured: false
 markdown: >-
   # Awesome Splunk
 
@@ -117,4 +114,6 @@ markdown: >-
 
   *(Note: Individual Splunk products and premium apps like Splunk Enterprise
   Security have their own pricing, which is not specified in this repository.)*
-updated_at: 2025-12-25 11:11
+brand: sduff
+brand_logo_url: https://avatars.githubusercontent.com/u/1457820
+updated_at: 2026-04-23 14:34

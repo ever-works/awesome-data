@@ -2,14 +2,11 @@ name: awesome-asm
 description: Curated awesome list of assembler (assembly language) resources,
   tools, and references.
 source_url: https://github.com/CyberSecurityUP/Awesome-Malware-and-Reverse-Engineering
-featured: false
-brand: feb21
-brand_logo_url: /feb21.png
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - assembly
   - awesome-lists
+featured: false
 markdown: >-
   # awesome-asm
 
@@ -109,4 +106,6 @@ markdown: >-
 
 
   - Not applicable. This is an open, curated list of resources hosted on GitHub.
-updated_at: 2025-12-25 11:11
+brand: feb21
+brand_logo_url: /feb21.png
+updated_at: 2026-04-23 14:34

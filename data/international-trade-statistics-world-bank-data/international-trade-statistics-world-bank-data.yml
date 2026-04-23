@@ -5,16 +5,12 @@ description: The World Bank trade topic page provides a directory interface to
   Datasets economics section as a central, curated access point for global trade
   data.
 source_url: https://data.worldbank.org/topic/21
-featured: false
-brand: world-bank
-brand_logo_url: https://www.worldbank.org/content/dam/wbr/logo/logo-wb-header-en.svg
-images:
-  - https://www.worldbank.org/content/dam/wbr/homepage/imgs/wb-homepage-data-screenshot.jpg
-category: themed-directories
+category: Themed Directories
 tags:
   - datasets
   - economics
   - trade
+featured: false
 markdown: >-
   # International Trade Statistics – World Bank Data
 
@@ -92,4 +88,8 @@ markdown: >-
   No pricing information is mentioned. World Bank trade data and tools
   referenced on this page are typically provided as open, publicly accessible
   resources.
-updated_at: 2025-12-30 18:29
+brand: world-bank
+brand_logo_url: https://www.worldbank.org/content/dam/wbr/logo/logo-wb-header-en.svg
+images:
+  - https://www.worldbank.org/content/dam/wbr/homepage/imgs/wb-homepage-data-screenshot.jpg
+updated_at: 2026-04-23 14:34

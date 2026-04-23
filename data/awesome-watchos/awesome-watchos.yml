@@ -2,15 +2,12 @@ name: Awesome watchOS
 description: A curated list of awesome resources, libraries, and tools for
   developing apps on watchOS, the operating system for Apple Watch.
 source_url: https://github.com/yenchenlin/awesome-watchos#readme
-featured: false
-brand: yenchenlin
-brand_logo_url: /yenchenlin.png
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - awesome-lists
   - mobile
   - apple
+featured: false
 markdown: >-
   # Awesome watchOS
 
@@ -128,4 +125,6 @@ markdown: >-
 
   - Existing content remains useful as a historical and practical reference for
   watchOS developers, but links and tools may be outdated or unmaintained.
-updated_at: 2025-12-25 11:11
+brand: yenchenlin
+brand_logo_url: /yenchenlin.png
+updated_at: 2026-04-23 14:34

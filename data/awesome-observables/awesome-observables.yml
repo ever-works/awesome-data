@@ -2,15 +2,12 @@ name: Awesome Observables
 description: A curated Awesome list of observable pattern libraries and
   resources for JavaScript.
 source_url: https://github.com/sindresorhus/awesome-observables#readme
-featured: false
-brand: ""
-brand_logo_url: /
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - awesome-lists
   - javascript
   - developer-resources
+featured: false
 markdown: >-
   # Awesome Observables
 
@@ -66,4 +63,6 @@ markdown: >-
   ## Pricing
 
   - Not applicable (open GitHub-curated list of resources).
-updated_at: 2025-12-25 11:11
+brand: ""
+brand_logo_url: /
+updated_at: 2026-04-23 14:34

@@ -2,15 +2,12 @@ name: Awesome Design Systems
 description: A curated collection of resources, examples, and tools for building
   and maintaining design systems with reusable components and guidelines.
 source_url: https://github.com/klaufel/awesome-design-systems#readme
-featured: false
-brand: klaufel
-brand_logo_url: null
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - design
   - ui
   - frontend
+featured: false
 markdown: >-
   # Awesome Design Systems
 
@@ -136,4 +133,6 @@ markdown: >-
   ## Pricing
 
   - Not applicable. This is a free, open-source resource list hosted on GitHub.
-updated_at: 2025-12-25 11:11
+brand: klaufel
+brand_logo_url: null
+updated_at: 2026-04-23 14:34

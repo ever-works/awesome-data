@@ -2,15 +2,12 @@ name: Awesome Honeypots
 description: An Awesome collection of honeypot resources and tools for building
   deception traps to study and detect attackers.
 source_url: https://github.com/paralax/awesome-honeypots#readme
-featured: false
-brand: github
-brand_logo_url: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - awesome-lists
   - security
   - honeypots
+featured: false
 markdown: >-
   # Awesome Honeypots
 
@@ -219,4 +216,6 @@ markdown: >-
   - security  
 
   - honeypots
-updated_at: 2025-12-31 19:34
+brand: github
+brand_logo_url: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
+updated_at: 2026-04-23 14:34

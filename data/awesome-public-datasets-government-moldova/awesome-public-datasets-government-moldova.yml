@@ -2,15 +2,12 @@ name: "Awesome Public Datasets - Government: Moldova"
 description: Awesome Public Datasets entry pointing to Moldova’s national open
   data portal with government datasets for reuse and analysis.
 source_url: http://data.gov.md/
-featured: false
-brand: awesome-public-datasets
-brand_logo_url: null
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - government
   - datasets
   - open-data
+featured: false
 markdown: >
   # Awesome Public Datasets – Government: Moldova
 
@@ -77,4 +74,6 @@ markdown: >
   This directory entry acts as a pointer to the broader collection of government
   datasets available on the Moldova open data portal, where additional datasets
   can be explored beyond the examples listed above.
-updated_at: 2025-12-30 18:29
+brand: awesome-public-datasets
+brand_logo_url: null
+updated_at: 2026-04-23 14:34

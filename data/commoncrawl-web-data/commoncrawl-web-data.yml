@@ -3,16 +3,12 @@ description: Open repository of petabyte-scale web crawl data spanning multiple
   years, offering raw web page and metadata for large-scale analytics. A
   canonical item in many awesome datasets and web data directories.
 source_url: http://commoncrawl.org/the-data/get-started/
-featured: false
-brand: common-crawl-foundation
-brand_logo_url: https://commoncrawl.org/images/logo-small.png
-images:
-  - https://commoncrawl.org/images/logo-small.png
-category: themed-directories
+category: Themed Directories
 tags:
   - datasets
   - web
   - big-data
+featured: false
 markdown: >-
   # CommonCrawl Web Data
 
@@ -77,4 +73,8 @@ markdown: >-
   - Noted cost considerations relate to **AWS infrastructure charges** when
   accessing via S3 (e.g., inter-region data transfer, Elastic IP or load
   balancer traffic), which are billed by AWS, not by Common Crawl itself.
-updated_at: 2025-12-30 18:29
+brand: common-crawl-foundation
+brand_logo_url: https://commoncrawl.org/images/logo-small.png
+images:
+  - https://commoncrawl.org/images/logo-small.png
+updated_at: 2026-04-23 14:34

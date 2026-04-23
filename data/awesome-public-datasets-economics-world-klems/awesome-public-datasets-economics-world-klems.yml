@@ -4,15 +4,12 @@ description: An Awesome Public Datasets entry that catalogs the World KLEMS
   (M), and service (S) input measures for productivity and growth analysis
   across countries.
 source_url: https://www.reddit.com/r/awesome/
-featured: false
-brand: awesome-public-datasets
-brand_logo_url: /assets/images/brands/awesomedata.png
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - datasets
   - economics
   - research
+featured: false
 markdown: >-
   # Awesome Public Datasets – Economics: World KLEMS
 
@@ -78,4 +75,6 @@ markdown: >-
   - Not specified. The entry lists World KLEMS as a public/"awesome" dataset
   reference; consult the World KLEMS project or linked resources for access
   terms and any licensing details.
-updated_at: 2025-12-30 18:29
+brand: awesome-public-datasets
+brand_logo_url: /assets/images/brands/awesomedata.png
+updated_at: 2026-04-23 14:34

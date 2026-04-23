@@ -6,15 +6,12 @@ description: A curated Awesome-style subdirectory of the Awesome Data project
   meta-collection entry that links to individual data search engines within the
   broader Awesome ecosystem.
 source_url: https://github.com/awesomedata/apd-core/tree/master/core//SearchEngines
-featured: false
-brand: awesome-data
-brand_logo_url: null
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - datasets
   - search
   - awesome-lists
+featured: false
 markdown: >-
   # Awesome Data – Search Engines
 
@@ -75,4 +72,6 @@ markdown: >-
 
   No pricing information is provided. The item is a GitHub-hosted, Awesome-style
   directory of links and appears to be freely accessible.
-updated_at: 2025-12-30 18:29
+brand: awesome-data
+brand_logo_url: null
+updated_at: 2026-04-23 14:34

@@ -2,15 +2,12 @@ name: Awesome Sysadmin
 description: An Awesome-style list of open source sysadmin tools and resources,
   covering system administration, monitoring, backup, and related tasks.
 source_url: https://github.com/kahun/awesome-sysadmin
-featured: false
-brand: kahun
-brand_logo_url: /kahun.png
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - awesome-lists
   - security
   - developer-tools
+featured: false
 markdown: >-
   # Awesome Sysadmin
 
@@ -85,4 +82,6 @@ markdown: >-
 
   - Not applicable. This is a free, open source, community-maintained resource
   list.
-updated_at: 2025-12-25 11:11
+brand: kahun
+brand_logo_url: /kahun.png
+updated_at: 2026-04-23 14:34

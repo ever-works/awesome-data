@@ -4,15 +4,12 @@ description: A multi-view ROI prediction dataset for autonomous driving
   under image processing datasets, contributing to the meta-collection of
   Awesome resources.
 source_url: https://onehack.us/t/awesome-public-datasets-massive-collection-resources/211254
-featured: false
-brand: awesomedata
-brand_logo_url: https://raw.githubusercontent.com/awesomedata/apd-core/master/assets/logo.png
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - datasets
   - autonomous-driving
   - computer-vision
+featured: false
 markdown: |-
   # Multi-View Region of Interest Prediction Dataset for Autonomous Driving
 
@@ -48,4 +45,6 @@ markdown: |-
   ## Additional Notes
   - This item is part of a **meta-collection (Awesome Public Datasets)** and does not itself host the data; it points to external resources where the dataset is provided.
   - No testimonial, promotional, or support information is given in the available content.
-updated_at: 2025-12-30 18:29
+brand: awesomedata
+brand_logo_url: https://raw.githubusercontent.com/awesomedata/apd-core/master/assets/logo.png
+updated_at: 2026-04-23 14:34

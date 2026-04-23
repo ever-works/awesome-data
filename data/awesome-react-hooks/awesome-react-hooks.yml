@@ -2,14 +2,12 @@ name: Awesome React Hooks
 description: A curated list of React Hooks resources, libraries, and examples
   for using hooks-based React development.
 source_url: https://github.com/glauberfc/awesome-react-hooks#readme
-featured: false
-brand_logo_url: null
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - awesome-lists
   - react
   - web-development
+featured: false
 markdown: >-
   # Awesome React Hooks
 
@@ -46,4 +44,5 @@ markdown: >-
   ## Pricing
 
   - Free, open GitHub repository (no pricing or paid plans indicated).
-updated_at: 2025-12-25 11:11
+brand_logo_url: null
+updated_at: 2026-04-23 14:34

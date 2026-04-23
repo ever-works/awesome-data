@@ -2,15 +2,12 @@ name: Awesome Network Analysis
 description: A curated list of awesome network analysis resources, including
   tools, libraries, and references for network science and graph analysis.
 source_url: https://github.com/briatte/awesome-network-analysis
-featured: false
-brand: briatte
-brand_logo_url: /briatte
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - graph
   - data-science
   - awesome-lists
+featured: false
 markdown: >-
   # Awesome Network Analysis
 
@@ -81,4 +78,6 @@ markdown: >-
   - Access to the list is free (public GitHub repository).
 
   - No paid plans or pricing tiers are indicated.
-updated_at: 2025-12-30 18:29
+brand: briatte
+brand_logo_url: /briatte
+updated_at: 2026-04-23 14:34

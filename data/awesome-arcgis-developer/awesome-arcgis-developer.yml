@@ -3,15 +3,12 @@ description: An Awesome directory of SDKs, tools, samples, and learning
   resources for ArcGIS developers building mapping and location-aware
   applications.
 source_url: https://github.com/Esri/awesome-arcgis-developer#readme
-featured: false
-brand: esri
-brand_logo_url: https://www.esri.com/content/dam/esrisites/en-us/common/logos/esri-science-of-where-logo.png
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - gis
   - developer-tools
   - maps
+featured: false
 markdown: |
   # Awesome ArcGIS Developer
 
@@ -45,4 +42,6 @@ markdown: |
   ## Brand
   - **Maintainer / Brand:** Esri
   - **Brand logo:** https://www.esri.com/content/dam/esrisites/en-us/common/logos/esri-science-of-where-logo.png
-updated_at: 2025-12-25 11:11
+brand: esri
+brand_logo_url: https://www.esri.com/content/dam/esrisites/en-us/common/logos/esri-science-of-where-logo.png
+updated_at: 2026-04-23 14:34

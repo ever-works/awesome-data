@@ -4,15 +4,12 @@ description: A finance-focused Awesome Public Datasets listing for Quandl, a
   datasets. This entry is part of the Awesome-style meta-directory of public
   data sources.
 source_url: https://www.quandl.com/
-featured: false
-brand: awesomedata-awesome-public-datasets
-brand_logo_url: /awesomedata/apd-core/raw/master/apd-logo.png
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - datasets
   - financial
   - awesome-lists
+featured: false
 markdown: >-
   # Quandl
 
@@ -55,4 +52,6 @@ markdown: >-
   ## Pricing
 
   - Not specified in the provided content.
-updated_at: 2025-12-30 18:29
+brand: awesomedata-awesome-public-datasets
+brand_logo_url: /awesomedata/apd-core/raw/master/apd-logo.png
+updated_at: 2026-04-23 14:34

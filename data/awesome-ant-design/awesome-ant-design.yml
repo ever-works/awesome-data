@@ -2,16 +2,12 @@ name: Awesome Ant Design
 description: A curated list of Ant Design resources, components, tools, and
   ecosystem projects for building enterprise-class UIs.
 source_url: https://github.com/websemantics/awesome-ant-design#readme
-featured: false
-brand: ant-design
-brand_logo_url: https://antd.design/static/logo.svg
-images:
-  - https://antd.design/static/logo.svg
-category: themed-directories
+category: Themed Directories
 tags:
   - ui
   - react
   - design
+featured: false
 markdown: >-
   # Awesome Ant Design
 
@@ -68,4 +64,8 @@ markdown: >-
   - Not a commercial product or service.
 
   - Open-source GitHub list available to use and contribute to free of charge.
-updated_at: 2025-12-25 11:11
+brand: ant-design
+brand_logo_url: https://antd.design/static/logo.svg
+images:
+  - https://antd.design/static/logo.svg
+updated_at: 2026-04-23 14:34

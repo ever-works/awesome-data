@@ -4,7 +4,7 @@ description: A curated GitHub repository compiling the best SaaS directory
   launching, and promoting SaaS products, making it directly relevant as an
   'Awesome Directory' collection.
 source_url: https://github.com/mahseema/awesome-saas-directories
-category: meta-directories
+category: Meta Directories
 tags:
   - saas
   - meta-directory
@@ -42,4 +42,4 @@ markdown: |
   ## Tags
 
   `saas`, `meta-directory`, `curated-lists`, `github`, `directory`, `startup`, `promotion`
-updated_at: 2025-05-26 10:11
+updated_at: 2026-04-23 14:34

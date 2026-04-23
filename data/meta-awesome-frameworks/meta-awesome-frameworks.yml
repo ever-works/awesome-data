@@ -2,14 +2,12 @@ name: Meta Awesome - Frameworks
 description: A central meta-awesome directory indexing awesome lists for
   full-stack and specialized software frameworks across ecosystems.
 source_url: https://github.com/jepemo/meta-awesome/blob/master/doc/frameworks.md
-featured: false
-brand_logo_url: null
-images: []
-category: meta-directories
+category: Meta Directories
 tags:
   - framework
   - directory-of-directories
   - awesome-lists
+featured: false
 markdown: >-
   # Meta Awesome - Frameworks
 
@@ -57,4 +55,6 @@ markdown: >-
 
 
   - Not specified (GitHub-based directory; typically free to access).
-updated_at: 2025-12-25 11:11
+brand_logo_url: null
+images: []
+updated_at: 2026-04-23 14:34

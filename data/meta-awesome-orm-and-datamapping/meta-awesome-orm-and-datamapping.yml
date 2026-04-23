@@ -2,15 +2,12 @@ name: Meta Awesome - ORM and Datamapping
 description: A meta-awesome document aggregating awesome lists related to ORM
   and data mapping patterns and libraries.
 source_url: https://github.com/jepemo/meta-awesome/blob/master/doc/orm-and-datamapping.md
-featured: false
-brand: jepemometa-awesome
-brand_logo_url: null
-images: null
-category: meta-directories
+category: Meta Directories
 tags:
   - orm
   - database
   - directory-of-directories
+featured: false
 markdown: |-
   # Meta Awesome – ORM and Datamapping
 
@@ -47,4 +44,6 @@ markdown: |-
   ## Pricing
   - Not a commercial product or service.
   - Access to the document and repository is free (standard GitHub open-source access).
-updated_at: 2025-12-25 11:11
+brand: jepemometa-awesome
+brand_logo_url: null
+updated_at: 2026-04-23 14:34

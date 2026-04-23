@@ -2,15 +2,12 @@ name: Awesome Rails
 description: A curated list of tools, gems, guides, and resources for Ruby on
   Rails web application development.
 source_url: https://github.com/gramantin/awesome-rails#readme
-featured: false
-brand: rawesome
-brand_logo_url: null
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - awesome-lists
   - ruby
   - web-development
+featured: false
 markdown: >-
   # Awesome Rails
 
@@ -121,4 +118,6 @@ markdown: >-
 
   - The repository includes a `LICENSE` file specifying open-source licensing
   terms (details available directly in the repository).
-updated_at: 2025-12-25 11:11
+brand: rawesome
+brand_logo_url: null
+updated_at: 2026-04-23 14:34

@@ -2,15 +2,12 @@ name: Awesome Computational Geometry
 description: Awesome directory of algorithms, libraries, and learning resources
   for computational geometry.
 source_url: https://github.com/atkirtland/awesome-computational-geometry#readme
-featured: false
-brand: awesome
-brand_logo_url: /.github/logo.svg
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - geometry
   - algorithms
   - math
+featured: false
 markdown: >-
   # Awesome Computational Geometry
 
@@ -124,4 +121,6 @@ markdown: >-
 
   Not applicable. This is an open, curated directory of external resources and
   not a commercial product or service.
-updated_at: 2025-12-25 11:11
+brand: awesome
+brand_logo_url: /.github/logo.svg
+updated_at: 2026-04-23 14:34

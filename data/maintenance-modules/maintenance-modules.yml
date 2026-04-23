@@ -1,15 +1,12 @@
 name: Maintenance Modules
 description: An Awesome-style list of Node.js and npm maintenance-related modules and tools.
 source_url: https://github.com/maxogden/maintenance-modules#readme
-featured: false
-brand: ""
-brand_logo_url: /
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - nodejs
   - npm
   - developer-tools
+featured: false
 markdown: >-
   # Maintenance Modules
 
@@ -181,4 +178,6 @@ markdown: >-
   open-source resources.
 
   - No pricing or paid plans are specified in the provided content.
-updated_at: 2025-12-25 11:11
+brand: ""
+brand_logo_url: /
+updated_at: 2026-04-23 14:34

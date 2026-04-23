@@ -2,14 +2,11 @@ name: Awesome npm
 description: A curated Awesome list of resources, tools, and packages for the
   npm package manager ecosystem.
 source_url: https://github.com/sindresorhus/awesome-npm#readme
-featured: false
-brand: npm
-brand_logo_url: https://static.npmjs.com/da3ab40fb9c8f6577a57ff0db5d04c34.png
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - awesome-lists
   - developer-resources
+featured: false
 markdown: >
   # Awesome npm
 
@@ -140,4 +137,6 @@ markdown: >
 
   - Not applicable. Awesome npm is an open, community-maintained resource list
   hosted on GitHub.
-updated_at: 2025-12-25 11:11
+brand: npm
+brand_logo_url: https://static.npmjs.com/da3ab40fb9c8f6577a57ff0db5d04c34.png
+updated_at: 2026-04-23 14:34

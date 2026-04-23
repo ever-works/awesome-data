@@ -2,15 +2,12 @@ name: Awesome Markdown
 description: An Awesome list of Markdown tools, parsers, editors, and resources
   related to the Markdown markup language.
 source_url: https://github.com/BubuAnabelas/awesome-markdown#readme
-featured: false
-brand: ""
-brand_logo_url: /
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - awesome-lists
   - developer-tools
   - curated-lists
+featured: false
 markdown: >-
   # Awesome Markdown
 
@@ -51,4 +48,6 @@ markdown: >-
   ## Pricing
 
   - Free to access and use (public GitHub repository).
-updated_at: 2025-12-25 11:11
+brand: ""
+brand_logo_url: /
+updated_at: 2026-04-23 14:34

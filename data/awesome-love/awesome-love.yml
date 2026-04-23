@@ -2,16 +2,12 @@ name: Awesome LÖVE
 description: An awesome list of libraries, tools, and resources for the LÖVE
   (love2d) 2D game framework.
 source_url: https://github.com/love2d-community/awesome-love2d#readme
-featured: false
-brand: love
-brand_logo_url: https://love2d.org/wiki/images/3/3e/Love-game-framework.png
-images:
-  - https://love2d.org/wiki/images/3/3e/Love-game-framework.png
-category: themed-directories
+category: Themed Directories
 tags:
   - awesome-lists
   - developer-resources
   - games
+featured: false
 markdown: >-
   # Awesome LÖVE
 
@@ -170,4 +166,8 @@ markdown: >-
   - Not applicable. Awesome LÖVE is a public, community-maintained resource
   listing third-party libraries and tools; no pricing information is provided
   for the list itself.
-updated_at: 2025-12-25 11:11
+brand: love
+brand_logo_url: https://love2d.org/wiki/images/3/3e/Love-game-framework.png
+images:
+  - https://love2d.org/wiki/images/3/3e/Love-game-framework.png
+updated_at: 2026-04-23 14:34

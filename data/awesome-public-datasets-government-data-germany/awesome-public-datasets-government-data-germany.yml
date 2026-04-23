@@ -3,15 +3,12 @@ description: Part of the Awesome Public Datasets (APD) meta-collection, this
   entry catalogs the official German government statistics and open data portal,
   providing structured access to national statistical data for reuse.
 source_url: https://www-genesis.destatis.de/genesis/online
-featured: false
-brand: destatis-statistisches-bundesamt
-brand_logo_url: https://www.destatis.de/SiteGlobals/Frontend/Images/DE/logo-destatis.svg?__blob=normal&v=4
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - datasets
   - government
   - statistics
+featured: false
 markdown: >-
   # Awesome Public Datasets – Government Data: Germany
 
@@ -76,4 +73,6 @@ markdown: >-
 
   - **Access to tables**: Free of charge (unentgeltlich) for table retrieval and
   downloads.
-updated_at: 2025-12-30 18:29
+brand: destatis-statistisches-bundesamt
+brand_logo_url: https://www.destatis.de/SiteGlobals/Frontend/Images/DE/logo-destatis.svg?__blob=normal&v=4
+updated_at: 2026-04-23 14:34

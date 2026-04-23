@@ -2,16 +2,12 @@ name: Awesome Marionette.js
 description: A curated collection of resources, examples, and tools for
   Marionette.js, a Backbone-based application framework.
 source_url: https://github.com/sadcitizen/awesome-marionette#readme
-featured: false
-brand: marionettejs
-brand_logo_url: https://marionettejs.com/images/marionette_logo.png
-images:
-  - https://marionettejs.com/images/marionette_logo.png
-category: themed-directories
+category: Themed Directories
 tags:
   - javascript
   - framework
   - awesome-lists
+featured: false
 markdown: >
   ---
 
@@ -82,4 +78,8 @@ markdown: >
 
   - **Free** – Public GitHub repository; resources and lists are available at no
   cost.
-updated_at: 2025-12-25 11:11
+brand: marionettejs
+brand_logo_url: https://marionettejs.com/images/marionette_logo.png
+images:
+  - https://marionettejs.com/images/marionette_logo.png
+updated_at: 2026-04-23 14:34

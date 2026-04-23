@@ -2,15 +2,12 @@ name: Awesome Flask
 description: An Awesome list of Flask extensions, boilerplates, and learning
   resources for the Flask Python microframework.
 source_url: https://github.com/humiaozuzu/awesome-flask
-featured: false
-brand: humiaozuzu
-brand_logo_url: /humiaozuzu.png
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - awesome-lists
   - python
   - web-development
+featured: false
 markdown: >-
   # Awesome Flask
 
@@ -207,4 +204,6 @@ markdown: >-
 
   - Not applicable. Awesome Flask is an open, curated list hosted on GitHub and
   does not list pricing or paid plans.
-updated_at: 2025-12-25 11:11
+brand: humiaozuzu
+brand_logo_url: /humiaozuzu.png
+updated_at: 2026-04-23 14:34

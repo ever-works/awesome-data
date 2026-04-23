@@ -1,7 +1,7 @@
 name: AI-Harnesses
 description: Aggregated list of AI harnesses.
 source_url: https://github.com/danielrosehill/AI-Harnesses
-category: themed-directories
+category: Themed Directories
 tags:
   - ai
   - harnesses
@@ -11,4 +11,4 @@ markdown: |-
   ## Overview
 
   Aggregated list of AI harnesses.
-updated_at: 2026-04-22 09:33
+updated_at: 2026-04-23 14:34

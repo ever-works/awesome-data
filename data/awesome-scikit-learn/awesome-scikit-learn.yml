@@ -3,15 +3,12 @@ description: An awesome-style curated list of resources, libraries, and tools
   related to scikit-learn, organized as an "Awesome" directory for the
   scikit-learn ecosystem.
 source_url: https://github.com/cybersecurity-dev/awesome-scikit-learn
-featured: false
-brand: cybersecurity-dev
-brand_logo_url: /cybersecurity-dev.png
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - awesome-lists
   - python
   - machine-learning
+featured: false
 markdown: >-
   ---
 
@@ -76,4 +73,6 @@ markdown: >-
 
   - Access to the awesome-scikit-learn list is **free and open-source** (no
   pricing tiers indicated).
-updated_at: 2025-12-31 19:34
+brand: cybersecurity-dev
+brand_logo_url: /cybersecurity-dev.png
+updated_at: 2026-04-23 14:34

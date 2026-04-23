@@ -1,15 +1,12 @@
 name: Awesome Groovy
 description: Curated Awesome-style directory of Groovy libraries, frameworks, and tools.
 source_url: https://github.com/kdabir/awesome-groovy#readme
-featured: false
-brand: sindresorhusawesome
-brand_logo_url: https://raw.githubusercontent.com/sindresorhus/awesome/main/media/logo.svg
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - awesome-lists
   - developer-tools
   - jvm
+featured: false
 markdown: >-
   # Awesome Groovy
 
@@ -169,4 +166,6 @@ markdown: >-
 
   - Not applicable. This is a free, open-source curated directory hosted on
   GitHub.
-updated_at: 2025-12-25 11:11
+brand: sindresorhusawesome
+brand_logo_url: https://raw.githubusercontent.com/sindresorhus/awesome/main/media/logo.svg
+updated_at: 2026-04-23 14:34

@@ -2,15 +2,12 @@ name: Awesome Computer Vision
 description: An Awesome collection of computer vision resources, libraries,
   datasets, and research papers.
 source_url: https://github.com/jbhuang0604/awesome-computer-vision#readme
-featured: false
-brand: awesome-lists
-brand_logo_url: null
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - computer-vision
   - machine-learning
   - research
+featured: false
 markdown: >-
   # Awesome Computer Vision
 
@@ -239,4 +236,6 @@ markdown: >-
 
   - Not applicable – this is a free, open-source curated directory hosted on
   GitHub.
-updated_at: 2025-12-25 11:11
+brand: awesome-lists
+brand_logo_url: null
+updated_at: 2026-04-23 14:34

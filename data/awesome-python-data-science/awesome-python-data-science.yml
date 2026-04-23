@@ -2,15 +2,12 @@ name: Awesome Python Data Science
 description: A curated Awesome list of Python tools and libraries for data
   science, data analysis, and machine learning.
 source_url: https://github.com/krzjoa/awesome-python-data-science#readme
-featured: false
-brand: ""
-brand_logo_url: /
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - python
   - data-science
   - machine-learning
+featured: false
 markdown: >
   # Awesome Python Data Science
 
@@ -62,4 +59,6 @@ markdown: >
 
 
   - Not applicable – this is a free, open-source curated list on GitHub.
-updated_at: 2025-12-25 11:11
+brand: ""
+brand_logo_url: /
+updated_at: 2026-04-23 14:34

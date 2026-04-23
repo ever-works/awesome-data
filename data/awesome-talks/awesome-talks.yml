@@ -2,15 +2,12 @@ name: Awesome Talks
 description: A curated Awesome list of conference and technical talks that are
   educational and inspirational for developers.
 source_url: https://github.com/JanVanRyswyck/awesome-talks#readme
-featured: false
-brand: janvanryswyck
-brand_logo_url: https://avatars.githubusercontent.com/u/1594172
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - awesome-lists
   - developer-resources
   - media
+featured: false
 markdown: >-
   # Awesome Talks
 
@@ -93,4 +90,6 @@ markdown: >-
 
   - **CC0 1.0 Universal (Public Domain Dedication)**  
     Content in the repository can be copied, modified, and redistributed without restriction, as per the CC0 terms.
-updated_at: 2025-12-25 11:11
+brand: janvanryswyck
+brand_logo_url: https://avatars.githubusercontent.com/u/1594172
+updated_at: 2026-04-23 14:34

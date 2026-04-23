@@ -3,15 +3,12 @@ description: An awesome list focused on time tracking, collecting software,
   methodologies, and best practices for tracking time and productivity. Part of
   the broader awesome-lists ecosystem and maintained by ever-works.
 source_url: https://github.com/ever-works/awesome-time-tracking
-featured: false
-brand: ever-works
-brand_logo_url: null
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - awesome-lists
   - productivity
   - time-tracking
+featured: false
 markdown: >-
   # awesome-time-tracking
 
@@ -109,4 +106,6 @@ markdown: >-
 
   - Not applicable. This is an open, curated directory hosted on GitHub and does
   not represent a paid product or service.
-updated_at: 2025-12-31 19:34
+brand: ever-works
+brand_logo_url: null
+updated_at: 2026-04-23 14:34

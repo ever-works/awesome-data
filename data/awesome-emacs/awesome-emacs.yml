@@ -2,14 +2,12 @@ name: Awesome Emacs
 description: A curated directory of awesome Emacs packages, themes, and
   resources collected and maintained by the emacs-tw community.
 source_url: https://github.com/emacs-tw/awesome-emacs#readme
-featured: false
-brand_logo_url: null
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - awesome-lists
   - productivity
   - developer-tools
+featured: false
 markdown: >
   # Awesome Emacs
 
@@ -142,4 +140,5 @@ markdown: >
   - Not applicable. Awesome Emacs is a free, open, community-maintained
   directory. Individual listed packages may have their own licensing or funding
   options.
-updated_at: 2025-12-25 11:11
+brand_logo_url: null
+updated_at: 2026-04-23 14:34

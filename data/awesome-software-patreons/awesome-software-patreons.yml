@@ -3,15 +3,12 @@ description: A curated list of software-related Patreon creators, including
   individual programmers and open source projects that can be funded via
   Patreon.
 source_url: https://github.com/uraimo/awesome-software-patreons#readme
-featured: false
-brand: awesome
-brand_logo_url: /.github/logo.png
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - open-source
   - funding
   - community
+featured: false
 markdown: >-
   # Awesome Software Patreons
 
@@ -116,4 +113,6 @@ markdown: >-
 
   - Individual projects and creators have their own independent funding pages
   and pricing tiers (not standardized or listed centrally in this directory).
-updated_at: 2025-12-25 11:11
+brand: awesome
+brand_logo_url: /.github/logo.png
+updated_at: 2026-04-23 14:34

@@ -3,14 +3,12 @@ description: An Awesome collection of tools, libraries, and documentation for
   Simple Network Management Protocol (SNMP) used to manage and monitor devices
   on IP networks.
 source_url: https://github.com/eozer/awesome-snmp#readme
-featured: false
-brand_logo_url: null
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - awesome-lists
   - networking
   - security
+featured: false
 markdown: >-
   # Awesome SNMP
 
@@ -65,4 +63,5 @@ markdown: >-
   ## Links
 
   - Source / Project Page: https://github.com/eozer/awesome-snmp#readme
-updated_at: 2025-12-25 11:11
+brand_logo_url: null
+updated_at: 2026-04-23 14:34

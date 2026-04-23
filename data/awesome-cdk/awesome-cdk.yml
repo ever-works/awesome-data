@@ -2,15 +2,12 @@ name: Awesome CDK
 description: A curated list of resources, constructs, tools, and examples for
   the AWS Cloud Development Kit (CDK) and related CDK frameworks.
 source_url: https://github.com/kolomied/awesome-cdk#readme
-featured: false
-brand: rawesome
-brand_logo_url: null
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - awesome-lists
   - cloud
   - developer-resources
+featured: false
 markdown: >
   # Awesome CDK
 
@@ -112,4 +109,6 @@ markdown: >
   - Not a commercial product or service.  
 
   - Open-source GitHub repository; access and usage of the list are free.
-updated_at: 2025-12-25 11:11
+brand: rawesome
+brand_logo_url: null
+updated_at: 2026-04-23 14:34

@@ -2,15 +2,12 @@ name: Awesome Healthcare
 description: An Awesome list of open source healthcare software useful for
   medical facilities, providers, developers, policy experts, and researchers.
 source_url: https://github.com/kakoni/awesome-healthcare#readme
-featured: false
-brand: sindresorhusawesome
-brand_logo_url: https://raw.githubusercontent.com/sindresorhus/awesome/main/media/logo.svg
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - health
   - open-source
   - software
+featured: false
 markdown: >
   # Awesome Healthcare
 
@@ -104,4 +101,6 @@ markdown: >
   - **Free** – The Awesome Healthcare list itself is freely accessible as a
   public GitHub repository.  
     (Individual projects listed may have their own licenses and usage terms, but the directory is free to browse and use.)
-updated_at: 2025-12-25 11:11
+brand: sindresorhusawesome
+brand_logo_url: https://raw.githubusercontent.com/sindresorhus/awesome/main/media/logo.svg
+updated_at: 2026-04-23 14:34

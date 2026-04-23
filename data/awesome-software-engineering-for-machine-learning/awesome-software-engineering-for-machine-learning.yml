@@ -2,15 +2,12 @@ name: Awesome Software Engineering for Machine Learning
 description: An awesome-style collection of resources on software engineering
   practices for production-level machine learning systems.
 source_url: https://github.com/SE-ML/awesome-seml
-featured: false
-brand: se-ml
-brand_logo_url: /SE-ML.png
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - machine-learning
   - software-engineering
   - awesome-lists
+featured: false
 markdown: >-
   # Awesome Software Engineering for Machine Learning
 
@@ -101,4 +98,6 @@ markdown: >-
 
   - Not applicable. This is an open, CC0-licensed GitHub repository of resources
   and is free to access and use.
-updated_at: 2025-12-30 18:29
+brand: se-ml
+brand_logo_url: /SE-ML.png
+updated_at: 2026-04-23 14:34

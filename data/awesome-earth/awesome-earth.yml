@@ -2,15 +2,12 @@ name: Awesome Earth
 description: A curated list of projects, tools, and resources aimed at
   addressing and resolving the climate crisis and environmental challenges.
 source_url: https://github.com/philsturgeon/awesome-earth#readme
-featured: false
-brand: awesome
-brand_logo_url: /.github/logo.png
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - awesome-lists
   - research
   - datasets
+featured: false
 markdown: >-
   # Awesome Earth
 
@@ -158,4 +155,6 @@ markdown: >-
   products listed within the directory have their own pricing or subscription
   models, but those are external to the list and managed by their respective
   providers.
-updated_at: 2025-12-25 11:11
+brand: awesome
+brand_logo_url: /.github/logo.png
+updated_at: 2026-04-23 14:34

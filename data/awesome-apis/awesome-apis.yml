@@ -2,7 +2,7 @@ name: Awesome APIs
 description: A comprehensive directory of public APIs, this list is a go-to
   resource for developers seeking APIs for integration, data, or inspiration.
 source_url: https://github.com/public-apis/public-apis
-category: themed-directories
+category: Themed Directories
 tags:
   - apis
   - public-apis
@@ -31,4 +31,4 @@ markdown: |-
 
   ## Tags
   `apis` `public-apis` `developer-resources` `curated-lists`
-updated_at: 2025-05-26 10:11
+updated_at: 2026-04-23 14:34

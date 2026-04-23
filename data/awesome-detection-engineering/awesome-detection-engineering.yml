@@ -3,15 +3,12 @@ description: A curated awesome list of learning resources, tools, and best
   practices for detection engineering—designing, building, and operating
   detective cybersecurity controls.
 source_url: https://github.com/infosecB/awesome-detection-engineering#readme
-featured: false
-brand: infosecb
-brand_logo_url: /infosecB
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - security
   - monitoring
   - devops
+featured: false
 markdown: >-
   # Awesome Detection Engineering
 
@@ -117,4 +114,6 @@ markdown: >-
 
   - Not applicable. This is a free, open-source curated resource list hosted on
   GitHub.
-updated_at: 2025-12-25 11:11
+brand: infosecb
+brand_logo_url: /infosecB
+updated_at: 2026-04-23 14:34

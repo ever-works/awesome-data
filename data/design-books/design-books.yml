@@ -5,15 +5,12 @@ description: design-books is a curated "awesome"-style list of books covering
   book recommendations as a reference resource, fitting within the broader
   ecosystem of Awesome/awesome-lists directories.
 source_url: https://github.com/robleto/design-books
-featured: false
-brand: github
-brand_logo_url: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - design
   - books
   - awesome-lists
+featured: false
 markdown: >
   ---
 
@@ -78,4 +75,6 @@ markdown: >
 
   - Access to the design-books repository and its book list is **free** via
   GitHub.
-updated_at: 2025-12-26 11:32
+brand: github
+brand_logo_url: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
+updated_at: 2026-04-23 14:34

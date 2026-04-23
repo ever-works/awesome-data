@@ -3,16 +3,12 @@ description: A curated "awesome" list of web security materials and resources,
   functioning as an awesome-style directory for learning and practicing web
   security.
 source_url: https://github.com/qazbnm456/awesome-web-security
-featured: false
-brand: qazbnm456
-brand_logo_url: /qazbnm456.png
-images:
-  - https://opengraph.githubassets.com/1/qazbnm456/awesome-web-security
-category: themed-directories
+category: Themed Directories
 tags:
   - awesome-lists
   - security
   - web-development
+featured: false
 markdown: >
   # Awesome Web Security
 
@@ -70,4 +66,8 @@ markdown: >
   - Not a paid product or service.  
 
   - All content is accessible for free via the GitHub repository.
-updated_at: 2025-12-25 11:11
+brand: qazbnm456
+brand_logo_url: /qazbnm456.png
+images:
+  - https://opengraph.githubassets.com/1/qazbnm456/awesome-web-security
+updated_at: 2026-04-23 14:34

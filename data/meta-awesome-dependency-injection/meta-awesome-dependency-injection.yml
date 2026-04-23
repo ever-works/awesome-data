@@ -3,15 +3,12 @@ description: A meta awesome directory dedicated to dependency injection
   frameworks and patterns, linking to curated awesome lists and resources in
   this area.
 source_url: https://github.com/jepemo/meta-awesome/blob/master/doc/dependency-injection.md
-featured: false
-brand: meta-awesome
-brand_logo_url: null
-images: null
-category: meta-directories
+category: Meta Directories
 tags:
   - dependency-injection
   - programming
   - meta-directory
+featured: false
 markdown: |-
   # Meta Awesome – Dependency Injection
 
@@ -46,4 +43,6 @@ markdown: |-
 
   ## Pricing
   - Not applicable (public GitHub directory document, no pricing information provided).
-updated_at: 2025-12-25 11:11
+brand: meta-awesome
+brand_logo_url: null
+updated_at: 2026-04-23 14:34

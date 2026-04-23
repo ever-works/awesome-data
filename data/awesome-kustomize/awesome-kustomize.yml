@@ -2,16 +2,12 @@ name: Awesome Kustomize
 description: A curated list of awesome Kustomize resources, plugins, tools, and
   examples for Kubernetes-native declarative configuration management.
 source_url: https://github.com/DevOpsHiveHQ/awesome-kustomize#readme
-featured: false
-brand: kustomize
-brand_logo_url: null
-images:
-  - https://opengraph.githubassets.com/1/DevOpsHiveHQ/awesome-kustomize
-category: themed-directories
+category: Themed Directories
 tags:
   - kubernetes
   - devops
   - configuration
+featured: false
 markdown: >-
   # Awesome Kustomize
 
@@ -120,4 +116,8 @@ markdown: >-
 
   - **Primary image/preview:**
   `https://opengraph.githubassets.com/1/DevOpsHiveHQ/awesome-kustomize`
-updated_at: 2025-12-25 11:11
+brand: kustomize
+brand_logo_url: null
+images:
+  - https://opengraph.githubassets.com/1/DevOpsHiveHQ/awesome-kustomize
+updated_at: 2026-04-23 14:34

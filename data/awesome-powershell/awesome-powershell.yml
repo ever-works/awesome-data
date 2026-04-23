@@ -2,15 +2,12 @@ name: Awesome PowerShell
 description: An awesome collection of PowerShell modules, scripts, and resources
   for Windows, macOS, and Linux users.
 source_url: https://github.com/janikvonrotz/awesome-powershell#readme
-featured: false
-brand: github
-brand_logo_url: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - awesome-lists
   - windows
   - cli
+featured: false
 markdown: >-
   # Awesome PowerShell
 
@@ -132,4 +129,6 @@ markdown: >-
 
   - For the most up-to-date content and entries, use the new repository location
   on Codeberg: https://codeberg.org/janikvonrotz/awesome-powershell.
-updated_at: 2025-12-25 11:11
+brand: github
+brand_logo_url: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
+updated_at: 2026-04-23 14:34

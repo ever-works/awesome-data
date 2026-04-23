@@ -1,15 +1,12 @@
 name: Awesome Pascal
 description: Curated Awesome directory of Pascal libraries, tools, and resources.
 source_url: https://github.com/Fr0sT-Brutal/awesome-pascal#readme
-featured: false
-brand: sindresorhusawesome
-brand_logo_url: https://raw.githubusercontent.com/sindresorhus/awesome/main/media/logo.svg
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - awesome-lists
   - developer-tools
   - pascal
+featured: false
 markdown: >-
   # Awesome Pascal
 
@@ -76,4 +73,6 @@ markdown: >-
   - **Free**  
     - The list and all its contents are publicly available at no cost.  
     - All included projects are open-source or freeware, though individual projects may have their own licenses and usage terms.
-updated_at: 2025-12-25 11:11
+brand: sindresorhusawesome
+brand_logo_url: https://raw.githubusercontent.com/sindresorhus/awesome/main/media/logo.svg
+updated_at: 2026-04-23 14:34

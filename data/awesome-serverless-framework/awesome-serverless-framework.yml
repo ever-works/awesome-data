@@ -2,15 +2,12 @@ name: Awesome Serverless Framework
 description: A curated list of resources, examples, plugins, and tools for the
   Serverless Framework and serverless architectures.
 source_url: https://github.com/pmuens/awesome-serverless#readme
-featured: false
-brand: rawesome
-brand_logo_url: null
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - serverless
   - cloud
   - developer-tools
+featured: false
 markdown: >-
   # Awesome Serverless Framework
 
@@ -70,4 +67,6 @@ markdown: >-
 
   - Not applicable. This is a free, open-source GitHub repository / directory of
   resources.
-updated_at: 2025-12-25 11:11
+brand: rawesome
+brand_logo_url: null
+updated_at: 2026-04-23 14:34

@@ -2,15 +2,12 @@ name: CLI Workshoppers
 description: An awesome list of interactive, command-line based programming
   tutorials and workshoppers collected in a GitHub directory.
 source_url: https://github.com/therebelrobot/awesome-workshopper#readme
-featured: false
-brand: therebelrobot
-brand_logo_url: /therebelrobot.png
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - tutorials
   - cli
   - developer-tools
+featured: false
 markdown: >
   # CLI Workshoppers
 
@@ -132,4 +129,6 @@ markdown: >
   - Linked workshoppers are generally **open source**; any specific costs (if
   they exist) depend on individual project repositories and are not specified in
   the provided content.
-updated_at: 2025-12-25 11:11
+brand: therebelrobot
+brand_logo_url: /therebelrobot.png
+updated_at: 2026-04-23 14:34

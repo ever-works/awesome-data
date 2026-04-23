@@ -2,15 +2,12 @@ name: Medicare Data File
 description: A specific downloadable Medicare data file resource from CMS,
   linked as a distinct entry in the Awesome Public Datasets healthcare category.
 source_url: http://go.cms.gov/19xxPN4
-featured: false
-brand: centers-for-medicare-medicaid-services-cms
-brand_logo_url: https://www.cms.gov/themes/custom/enterprise_exhibit/logo.svg
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - datasets
   - health
   - government
+featured: false
 markdown: >-
   # Medicare Data File
 
@@ -94,4 +91,6 @@ markdown: >-
   No pricing information is provided in the available content. The resource
   appears as a public CMS data link; access details (including any licensing or
   cost) are not specified here.
-updated_at: 2025-12-30 18:29
+brand: centers-for-medicare-medicaid-services-cms
+brand_logo_url: https://www.cms.gov/themes/custom/enterprise_exhibit/logo.svg
+updated_at: 2026-04-23 14:34

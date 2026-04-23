@@ -4,15 +4,12 @@ description: A research database offering long‑run series on productivity,
   within the Awesome Public Datasets economics collection as a specialized
   directory for historical productivity data with bulk download options.
 source_url: http://longtermproductivity.com/download.html
-featured: false
-brand: long-term-productivity-database
-brand_logo_url: null
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - datasets
   - productivity
   - economics
+featured: false
 markdown: >-
   # Long-Term Productivity Database
 
@@ -104,4 +101,6 @@ markdown: >-
 
 
   - © Bergeaud, Cette and Lecat 2020.
-updated_at: 2025-12-30 18:29
+brand: long-term-productivity-database
+brand_logo_url: null
+updated_at: 2026-04-23 14:34

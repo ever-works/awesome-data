@@ -4,15 +4,12 @@ description: An awesome list of resources related to the Microsoft Agent
   other materials into an awesome-style directory for developers working with
   Microsoft’s agent technologies.
 source_url: https://github.com/webmaxru/awesome-microsoft-agent-framework
-featured: false
-brand: webmaxru
-brand_logo_url: null
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - awesome-lists
   - microsoft
   - developer-tools
+featured: false
 markdown: >-
   # awesome-microsoft-agent-framework
 
@@ -79,4 +76,6 @@ markdown: >-
 
   - Any pricing for third-party tools or services linked from the list depends
   on those external projects (not defined in this repository).
-updated_at: 2025-12-26 11:32
+brand: webmaxru
+brand_logo_url: null
+updated_at: 2026-04-23 14:34

@@ -2,14 +2,12 @@ name: ES6 Tools
 description: An awesome-style curated list of ES6 (ECMAScript 6) tools,
   transpilers, polyfills, and resources, maintained on GitHub.
 source_url: https://github.com/addyosmani/es6-tools#readme
-featured: false
-brand_logo_url: null
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - javascript
   - tools
   - polyfills
+featured: false
 markdown: >-
   # ES6 Tools
 
@@ -51,4 +49,5 @@ markdown: >-
 
   - Not a commercial product or service; it is an open, GitHub-hosted curated
   list available free of charge.
-updated_at: 2025-12-25 11:11
+brand_logo_url: null
+updated_at: 2026-04-23 14:34

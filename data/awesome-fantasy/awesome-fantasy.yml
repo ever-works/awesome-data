@@ -2,16 +2,12 @@ name: Awesome Fantasy
 description: An awesome list of fantasy books, part of the broader Awesome
   ecosystem of topic-specific curated lists.
 source_url: https://github.com/RichardLitt/awesome-fantasy
-featured: false
-brand: github
-brand_logo_url: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
-images:
-  - https://opengraph.githubassets.com/1/RichardLitt/awesome-fantasy
-category: themed-directories
+category: Themed Directories
 tags:
   - awesome-lists
   - media
   - curated-lists
+featured: false
 markdown: >-
   # Awesome Fantasy
 
@@ -92,4 +88,8 @@ markdown: >-
 
   This is a **free, open, GitHub-hosted list**. There are no pricing plans or
   paid tiers.
-updated_at: 2025-12-25 11:11
+brand: github
+brand_logo_url: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
+images:
+  - https://opengraph.githubassets.com/1/RichardLitt/awesome-fantasy
+updated_at: 2026-04-23 14:34

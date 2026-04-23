@@ -2,15 +2,12 @@ name: Awesome QR Code
 description: Awesome directory of libraries, tools, and resources for
   generating, reading, and using QR codes.
 source_url: https://github.com/make-github-pseudonymous-again/awesome-qr-code#readme
-featured: false
-brand: awesome
-brand_logo_url: /.github/logo.svg
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - awesome-lists
   - qr-code
   - web-development
+featured: false
 markdown: >-
   # Awesome QR Code
 
@@ -75,4 +72,6 @@ markdown: >-
 
   - Anyone looking for a structured starting point into QR code–related software
   and resources.
-updated_at: 2025-12-25 11:11
+brand: awesome
+brand_logo_url: /.github/logo.svg
+updated_at: 2026-04-23 14:34

@@ -2,16 +2,12 @@ name: Awesome Qt
 description: An awesome list of libraries, tools, and resources for the Qt
   cross‑platform GUI application framework.
 source_url: https://github.com/JesseTG/awesome-qt#readme
-featured: false
-brand: qt
-brand_logo_url: https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg
-images:
-  - https://repository-images.githubusercontent.com/61514369/5e2f5f80-ff0e-11e9-9f6d-9d1fdf238dab
-category: themed-directories
+category: Themed Directories
 tags:
   - awesome-lists
   - developer-tools
   - curated-lists
+featured: false
 markdown: >-
   # Awesome Qt
 
@@ -95,4 +91,8 @@ markdown: >-
 
   - Not applicable. Awesome Qt is an open, public GitHub repository and curated
   list, with no pricing plans indicated.
-updated_at: 2025-12-25 11:11
+brand: qt
+brand_logo_url: https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg
+images:
+  - https://repository-images.githubusercontent.com/61514369/5e2f5f80-ff0e-11e9-9f6d-9d1fdf238dab
+updated_at: 2026-04-23 14:34

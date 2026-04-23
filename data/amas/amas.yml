@@ -2,16 +2,12 @@ name: AMAs
 description: A curated collection of developer and tech-related "Ask Me
   Anything" sessions; maintained in an awesome-list style directory.
 source_url: https://github.com/sindresorhus/amas#readme
-featured: false
-brand: sindresorhus
-brand_logo_url: null
-images:
-  - https://opengraph.githubassets.com/1/sindresorhus/amas
-category: themed-directories
+category: Themed Directories
 tags:
   - community
   - developer-tools
   - resources
+featured: false
 markdown: >-
   # AMAs
 
@@ -61,4 +57,8 @@ markdown: >-
 
   - **CC0 1.0 Universal (Public Domain Dedication)**
     - Copyright and related rights waived by Sindre Sorhus to the extent possible under law.
-updated_at: 2025-12-25 11:11
+brand: sindresorhus
+brand_logo_url: null
+images:
+  - https://opengraph.githubassets.com/1/sindresorhus/amas
+updated_at: 2026-04-23 14:34

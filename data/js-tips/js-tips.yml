@@ -2,15 +2,12 @@ name: JS Tips
 description: An awesome list of JavaScript tips and tricks, curated in the style
   of Awesome directories.
 source_url: https://github.com/loverajoel/jstips#readme
-featured: false
-brand: ""
-brand_logo_url: /
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - javascript
   - tips
   - developer-tools
+featured: false
 markdown: >
   # JS Tips
 
@@ -59,4 +56,6 @@ markdown: >
 
   - JS Tips is an open-source GitHub project; no pricing or paid plans are
   indicated for using the tips directory itself.
-updated_at: 2025-12-25 11:11
+brand: ""
+brand_logo_url: /
+updated_at: 2026-04-23 14:34

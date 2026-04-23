@@ -3,15 +3,12 @@ description: A meta-collection of awesome lists centered on database drivers and
   connectivity libraries, helping users find curated resources for connecting
   applications to various databases.
 source_url: https://github.com/jepemo/meta-awesome/blob/master/doc/database-drivers.md
-featured: false
-brand: meta-awesome
-brand_logo_url: null
-images: null
-category: meta-directories
+category: Meta Directories
 tags:
   - meta-directory
   - database
   - drivers
+featured: false
 markdown: >-
   # Meta Awesome – Database Drivers
 
@@ -64,4 +61,6 @@ markdown: >-
 
   - Not applicable (GitHub-hosted, open resource; no pricing information
   provided).
-updated_at: 2025-12-25 11:11
+brand: meta-awesome
+brand_logo_url: null
+updated_at: 2026-04-23 14:34

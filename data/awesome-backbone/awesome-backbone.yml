@@ -2,14 +2,12 @@ name: Awesome Backbone
 description: A curated list of Backbone.js resources, plugins, and tools
   presented in an awesome-list format.
 source_url: https://github.com/sadcitizen/awesome-backbone#readme
-featured: false
-brand_logo_url: null
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - javascript
   - framework
   - web-development
+featured: false
 markdown: >-
   # Awesome Backbone
 
@@ -71,4 +69,5 @@ markdown: >-
   ## Pricing
 
   - Not applicable — this is a free, open-source curated list hosted on GitHub.
-updated_at: 2025-12-25 11:11
+brand_logo_url: null
+updated_at: 2026-04-23 14:34

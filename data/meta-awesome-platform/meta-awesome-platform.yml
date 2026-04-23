@@ -3,15 +3,12 @@ description: A Meta Awesome section that serves as a meta-directory for
   platform-related Awesome lists, likely covering OS, runtime, and
   infrastructure platforms.
 source_url: https://github.com/jepemo/meta-awesome/blob/master/doc/platform.md
-featured: false
-brand: github
-brand_logo_url: https://github.githubassets.com/images/modules/logos_page/GitHub-Logo.png
-images: null
-category: meta-directories
+category: Meta Directories
 tags:
   - awesome-lists
   - meta-directory
   - platform
+featured: false
 markdown: >-
   # Meta Awesome – Platform
 
@@ -63,4 +60,6 @@ markdown: >-
 
   - **Cost**: Free to access and use (standard for GitHub-hosted Awesome list
   directories; no pricing or plans indicated).
-updated_at: 2025-12-26 11:32
+brand: github
+brand_logo_url: https://github.githubassets.com/images/modules/logos_page/GitHub-Logo.png
+updated_at: 2026-04-23 14:34

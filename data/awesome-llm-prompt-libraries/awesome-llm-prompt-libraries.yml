@@ -1,7 +1,7 @@
 name: Awesome-LLM-Prompt-Libraries
 description: Awesome list of LLM prompt libraries.
 source_url: https://github.com/danielrosehill/Awesome-LLM-Prompt-Libraries
-category: themed-directories
+category: Themed Directories
 tags:
   - llm
   - prompts
@@ -11,4 +11,4 @@ markdown: |-
   ## Overview
 
   Awesome list of LLM prompt libraries.
-updated_at: 2026-04-22 09:33
+updated_at: 2026-04-23 14:34

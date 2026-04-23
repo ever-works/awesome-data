@@ -2,15 +2,12 @@ name: Awesome Payload
 description: Awesome list of resources, examples, and tools for Payload, an open
   source, Next.js–native headless CMS.
 source_url: https://github.com/DanailMinchev/awesome-payload#readme
-featured: false
-brand: payload-cms
-brand_logo_url: null
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - awesome-lists
   - cms
   - javascript
+featured: false
 markdown: >-
   # Awesome Payload
 
@@ -62,4 +59,6 @@ markdown: >-
 
   - Not applicable. Awesome Payload is an open, GitHub-hosted list of resources
   and can be accessed for free.
-updated_at: 2025-12-25 11:11
+brand: payload-cms
+brand_logo_url: null
+updated_at: 2026-04-23 14:34

@@ -2,15 +2,12 @@ name: Open Source macOS Apps
 description: A curated list of open source applications for macOS, organized in
   an awesome‑style directory.
 source_url: https://github.com/serhii-londar/open-source-mac-os-apps#readme
-featured: false
-brand: serhii-londar
-brand_logo_url: /serhii-londar.png
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - macos
   - open-source
   - apps
+featured: false
 markdown: >-
   # Open Source macOS Apps
 
@@ -64,4 +61,6 @@ markdown: >-
 
   - The repository includes a license section (specific license details are
   available in the GitHub repo’s License file).
-updated_at: 2025-12-25 11:11
+brand: serhii-londar
+brand_logo_url: /serhii-londar.png
+updated_at: 2026-04-23 14:34

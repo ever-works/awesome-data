@@ -1,0 +1,37 @@
+name: awesome-asyncio-cn
+description: "A Chinese meta-collection of awesome asyncio Python lists and
+  resources, aggregating GitHub repositories for easy discovery tailored to
+  Chinese developers. Key features: categorized, searchable, and regularly
+  updated content. Ideal for researching asyncio projects in Chinese; more niche
+  than sindresorhus/awesome."
+source_url: https://github.com/chenjiandongx/awesome-asyncio-cn
+category: Themed Directories
+tags:
+  - meta-list
+  - list-of-lists
+  - asyncio
+featured: false
+markdown: |-
+  ## Overview
+
+  Chinese resources for asyncio Python library.
+
+  ## Features
+
+  - Localized asyncio tools and tutorials
+  - Aggregates GitHub repos
+  - Categorized for Chinese users
+
+  ## Use Cases
+
+  - Researching asyncio in Chinese
+  - Finding Python async alternatives
+
+  ## Comparison
+
+  More niche than sindresorhus/awesome.
+
+  ## Pricing
+
+  Free and open-source.
+updated_at: 2026-04-23 14:34

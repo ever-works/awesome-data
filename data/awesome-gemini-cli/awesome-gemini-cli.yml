@@ -2,15 +2,12 @@ name: Awesome Gemini CLI
 description: An Awesome collection of tools, guides, and integrations for Gemini
   CLI, Google’s terminal-based AI coding assistant for Gemini models.
 source_url: https://github.com/Piebald-AI/awesome-gemini-cli#readme
-featured: false
-brand: google
-brand_logo_url: https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - awesome-lists
   - ai
   - cli
+featured: false
 markdown: >-
   ---
 
@@ -102,4 +99,6 @@ markdown: >-
 
   - The repository includes a `LICENSE` file (open-source license; see the
   GitHub repo for exact terms).
-updated_at: 2025-12-25 11:11
+brand: google
+brand_logo_url: https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png
+updated_at: 2026-04-23 14:34

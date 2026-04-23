@@ -3,15 +3,12 @@ description: A meta awesome collection focused on distributed applications,
   aggregating awesome lists on microservices, distributed architectures, and
   related tooling.
 source_url: https://github.com/jepemo/meta-awesome/blob/master/doc/distributed-applications.md
-featured: false
-brand: meta-awesome
-brand_logo_url: null
-images: null
-category: meta-directories
+category: Meta Directories
 tags:
   - meta-directory
   - distributed
   - microservices
+featured: false
 markdown: |-
   # Meta Awesome – Distributed Applications
 
@@ -48,4 +45,6 @@ markdown: |-
 
   ## Pricing
   - Not a commercial product; no pricing or plans are associated. The resource is freely accessible on GitHub.
-updated_at: 2025-12-25 11:11
+brand: meta-awesome
+brand_logo_url: null
+updated_at: 2026-04-23 14:34

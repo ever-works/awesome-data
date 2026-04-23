@@ -4,15 +4,12 @@ description: A curated awesome-style list of useful Quick Look plugins for
   macOS Quick Look enhancements and tagged as an awesome-list/awesome-lists
   collection.
 source_url: https://github.com/Correia-jpv/fucking-quick-look-plugins
-featured: false
-brand: correia-jpv
-brand_logo_url: /Correia-jpv.png
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - macos
   - developer-tools
   - awesome-lists
+featured: false
 markdown: >-
   # fucking-quick-look-plugins
 
@@ -102,4 +99,6 @@ markdown: >-
 
   - Individual plugins linked may have their own licenses, but from the provided
   content there are **no paid plans or pricing tiers** mentioned.
-updated_at: 2025-12-26 11:32
+brand: correia-jpv
+brand_logo_url: /Correia-jpv.png
+updated_at: 2026-04-23 14:34

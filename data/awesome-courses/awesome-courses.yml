@@ -3,15 +3,12 @@ description: A curated list of awesome university-level computer science courses
   with open materials, forming part of the broader Awesome ecosystem of
   topic-specific directories.
 source_url: https://github.com/prakhar1989/awesome-courses#readme
-featured: false
-brand: awesome-lists
-brand_logo_url: null
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - awesome-lists
   - education
   - computer-science
+featured: false
 markdown: >-
   # Awesome Courses
 
@@ -80,4 +77,6 @@ markdown: >-
 
   - Awesome Courses is free to access and use. There are no paid plans or
   pricing tiers.
-updated_at: 2025-12-25 11:11
+brand: awesome-lists
+brand_logo_url: null
+updated_at: 2026-04-23 14:34

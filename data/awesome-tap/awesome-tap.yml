@@ -2,14 +2,12 @@ name: Awesome TAP
 description: An Awesome list of resources, libraries, and tools for the Test
   Anything Protocol (TAP).
 source_url: https://github.com/sindresorhus/awesome-tap#readme
-featured: false
-brand_logo_url: null
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - awesome-lists
   - testing
   - developer-tools
+featured: false
 markdown: >
   # Awesome TAP
 
@@ -138,4 +136,5 @@ markdown: >
 
   - Not applicable. Awesome TAP is an open GitHub repository / curated list, not
   a paid product or service.
-updated_at: 2025-12-25 11:11
+brand_logo_url: null
+updated_at: 2026-04-23 14:34

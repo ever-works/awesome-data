@@ -2,15 +2,12 @@ name: Mind Expanding Books
 description: A curated Awesome-style list of books that broaden perspectives and
   challenge conventional thinking for developers and learners.
 source_url: https://github.com/hackerkid/Mind-Expanding-Books#readme
-featured: false
-brand: hackerkid
-brand_logo_url: https://avatars.githubusercontent.com/u/4047597
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - books
   - education
   - resources
+featured: false
 markdown: >-
   # Mind Expanding Books
 
@@ -103,4 +100,6 @@ markdown: >-
 
   - **Free**: The list is an open-source GitHub repository, freely accessible to
   browse and contribute to.
-updated_at: 2025-12-25 11:11
+brand: hackerkid
+brand_logo_url: https://avatars.githubusercontent.com/u/4047597
+updated_at: 2026-04-23 14:34

@@ -4,15 +4,12 @@ description: A GitHub repository by Brad Traversy featuring multiple mini
   functioning as a curated collection of vanilla web development examples
   suitable for awesome-style directories.
 source_url: https://github.com/bradtraversy/vanillawebprojects
-featured: false
-brand: brad-traversy
-brand_logo_url: /
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - web-development
   - projects
   - javascript
+featured: false
 markdown: >-
   # Vanilla Web Projects
 
@@ -75,4 +72,6 @@ markdown: >-
 
   - The GitHub repository and its contents are available for free (no pricing or
   paid plans indicated in the provided content).
-updated_at: 2025-12-25 11:11
+brand: brad-traversy
+brand_logo_url: /
+updated_at: 2026-04-23 14:34

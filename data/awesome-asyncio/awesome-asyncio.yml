@@ -2,15 +2,12 @@ name: Awesome Asyncio
 description: An Awesome list of Python asyncio libraries, frameworks, and
   resources for asynchronous I/O in Python 3.
 source_url: https://github.com/timofurrer/awesome-asyncio#readme
-featured: false
-brand: ""
-brand_logo_url: /
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - awesome-lists
   - python
   - async
+featured: false
 markdown: >-
   # Awesome Asyncio
 
@@ -99,4 +96,6 @@ markdown: >-
   ## Pricing
 
   - Free, open-source curated list (no pricing or plans).
-updated_at: 2025-12-25 11:11
+brand: ""
+brand_logo_url: /
+updated_at: 2026-04-23 14:34

@@ -2,15 +2,12 @@ name: Awesome Open Source Photography
 description: A curated awesome list of open source photography software, tools,
   and resources.
 source_url: https://github.com/ibaaj/awesome-OpenSourcePhotography#readme
-featured: false
-brand_logo_url: null
-images:
-  - https://opengraph.githubassets.com/1/ibaaj/awesome-OpenSourcePhotography
-category: themed-directories
+category: Themed Directories
 tags:
   - awesome-lists
   - photography
   - open-source
+featured: false
 markdown: |
   # Awesome Open Source Photography
 
@@ -143,4 +140,7 @@ markdown: |
   - Developers building photo- or camera-related applications
   - Educators and students exploring photography software ecosystems
   - Hobbyists experimenting with camera firmware, RAW workflows, or video post-production
-updated_at: 2025-12-25 11:11
+brand_logo_url: null
+images:
+  - https://opengraph.githubassets.com/1/ibaaj/awesome-OpenSourcePhotography
+updated_at: 2026-04-23 14:34

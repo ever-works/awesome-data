@@ -2,16 +2,12 @@ name: Awesome Deno
 description: A curated list of libraries, tools, and resources for Deno, a
   secure runtime for JavaScript and TypeScript built on V8 and Rust.
 source_url: https://github.com/denolib/awesome-deno#readme
-featured: false
-brand: deno
-brand_logo_url: https://deno.land/logo.svg
-images:
-  - https://repository-images.githubusercontent.com/204299143/5d9b6a80-6f46-11ea-99b5-b1c2c4d89f9f
-category: themed-directories
+category: Themed Directories
 tags:
   - awesome-lists
   - javascript
   - developer-tools
+featured: false
 markdown: >-
   # Awesome Deno
 
@@ -116,4 +112,8 @@ markdown: >-
 
   - Not applicable – Awesome Deno is an open, public GitHub repository and
   directory of resources with no pricing or plans listed.
-updated_at: 2025-12-25 11:11
+brand: deno
+brand_logo_url: https://deno.land/logo.svg
+images:
+  - https://repository-images.githubusercontent.com/204299143/5d9b6a80-6f46-11ea-99b5-b1c2c4d89f9f
+updated_at: 2026-04-23 14:34

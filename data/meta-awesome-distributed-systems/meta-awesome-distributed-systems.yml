@@ -3,15 +3,12 @@ description: An awesome meta-directory dedicated to distributed systems,
   collecting links to awesome lists covering consensus, fault tolerance,
   scalability, and distributed algorithms.
 source_url: https://github.com/jepemo/meta-awesome/blob/master/doc/distributed-systems.md
-featured: false
-brand: meta-awesome
-brand_logo_url: null
-images: null
-category: meta-directories
+category: Meta Directories
 tags:
   - meta-directory
   - distributed
   - awesome-lists
+featured: false
 markdown: |-
   # Meta Awesome – Distributed Systems
 
@@ -34,4 +31,6 @@ markdown: |-
 
   ## Pricing
   - Not applicable (GitHub document / open directory; no pricing information provided).
-updated_at: 2025-12-25 11:11
+brand: meta-awesome
+brand_logo_url: null
+updated_at: 2026-04-23 14:34

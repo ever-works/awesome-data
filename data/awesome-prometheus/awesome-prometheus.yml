@@ -2,15 +2,12 @@ name: Awesome Prometheus
 description: A curated Awesome list of tools, exporters, dashboards, and
   resources for the Prometheus open-source monitoring system.
 source_url: https://github.com/roaldnefs/awesome-prometheus#readme
-featured: false
-brand: ""
-brand_logo_url: /
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - monitoring
   - observability
   - devops
+featured: false
 markdown: >-
   # Awesome Prometheus
 
@@ -125,4 +122,6 @@ markdown: >-
 
   Awesome Prometheus is an open-source, GitHub-hosted list of resources. There
   is no pricing, plans, or paid tiers; it is free to use and contribute to.
-updated_at: 2025-12-25 11:11
+brand: ""
+brand_logo_url: /
+updated_at: 2026-04-23 14:34

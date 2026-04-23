@@ -6,15 +6,12 @@ description: APD Core is the central metadata repository that powers Awesome
   reports—into structured YAML files for use in awesome collections and meta
   indexes.
 source_url: https://github.com/awesomedata/apd-core
-featured: false
-brand: awesomedata
-brand_logo_url: null
-images: null
-category: meta-directories
+category: Meta Directories
 tags:
   - github
   - datasets
   - directory-of-directories
+featured: false
 markdown: >-
   # awesomedata/apd-core
 
@@ -71,4 +68,6 @@ markdown: >-
   ## Source
 
   - GitHub repository: https://github.com/awesomedata/apd-core
-updated_at: 2025-12-30 18:29
+brand: awesomedata
+brand_logo_url: null
+updated_at: 2026-04-23 14:34

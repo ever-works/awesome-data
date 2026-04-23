@@ -2,15 +2,12 @@ name: "Awesome Public Datasets - Government: U.S. Federal Government Agencies"
 description: An Awesome catalog entry referencing data.gov’s metrics section,
   summarizing open data publication across U.S. federal government agencies.
 source_url: http://www.data.gov/metrics
-featured: false
-brand: us-federal-government
-brand_logo_url: /awesome-data
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - government
   - datasets
   - open-data
+featured: false
 markdown: >-
   # Awesome Public Datasets – Government: U.S. Federal Government Agencies
 
@@ -182,4 +179,6 @@ markdown: >-
   - Access to the Data.gov metrics and associated CSV reports is **free** as
   part of the U.S. federal government’s open data initiative. No paid plans or
   pricing tiers are specified.
-updated_at: 2025-12-30 18:29
+brand: us-federal-government
+brand_logo_url: /awesome-data
+updated_at: 2026-04-23 14:34

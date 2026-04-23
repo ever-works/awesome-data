@@ -2,15 +2,12 @@ name: Awesome Material-UI
 description: A curated collection of components, templates, tools, and learning
   materials for Material-UI (MUI) React components.
 source_url: https://github.com/nadunindunil/awesome-material-ui#readme
-featured: false
-brand: mui
-brand_logo_url: null
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - ui
   - react
   - design
+featured: false
 markdown: >-
   # Awesome Material-UI
 
@@ -140,4 +137,6 @@ markdown: >-
   - **Category:** Themed Directories
 
   - **Tags:** ui, react, design, material-ui, mui
-updated_at: 2025-12-25 11:11
+brand: mui
+brand_logo_url: null
+updated_at: 2026-04-23 14:34

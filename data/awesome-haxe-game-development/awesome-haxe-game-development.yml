@@ -2,16 +2,12 @@ name: Awesome Haxe Game Development
 description: An awesome list of game development libraries, engines, and
   resources for the Haxe programming language.
 source_url: https://github.com/Dvergar/awesome-haxe-gamedev#readme
-featured: false
-brand: haxe
-brand_logo_url: https://haxe.org/img/haxe-logo.png
-images:
-  - https://haxe.org/img/haxe-logo.png
-category: themed-directories
+category: Themed Directories
 tags:
   - games
   - haxe
   - development
+featured: false
 markdown: >-
   # Awesome Haxe Game Development
 
@@ -141,4 +137,8 @@ markdown: >-
 
   Not applicable. This is an open, GitHub-hosted curated list of resources, not
   a commercial product or paid service.
-updated_at: 2025-12-25 11:11
+brand: haxe
+brand_logo_url: https://haxe.org/img/haxe-logo.png
+images:
+  - https://haxe.org/img/haxe-logo.png
+updated_at: 2026-04-23 14:34

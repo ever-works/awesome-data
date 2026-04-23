@@ -2,14 +2,11 @@ name: Awesome Algorithms Education
 description: A companion Awesome list focused on learning and practicing
   algorithms, including courses, tutorials, and problem sets.
 source_url: https://github.com/gaerae/awesome-algorithms-education#readme
-featured: false
-brand: gaerae
-brand_logo_url: https://avatars.githubusercontent.com/u/13250888
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - algorithms
   - education
+featured: false
 markdown: >-
   # Awesome Algorithms Education
 
@@ -63,4 +60,6 @@ markdown: >-
 
   - **Source repository:**
   https://github.com/gaerae/awesome-algorithms-education
-updated_at: 2025-12-25 11:11
+brand: gaerae
+brand_logo_url: https://avatars.githubusercontent.com/u/13250888
+updated_at: 2026-04-23 14:34

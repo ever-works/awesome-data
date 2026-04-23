@@ -3,14 +3,11 @@ description: A community-maintained awesome list of .NET libraries, tools,
   frameworks, and software, serving as a central directory for the .NET
   ecosystem.
 source_url: https://github.com/quozd/awesome-dotnet
-featured: false
-brand: net
-brand_logo_url: null
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - awesome-lists
   - developer-resources
+featured: false
 markdown: >
   ---
 
@@ -77,4 +74,6 @@ markdown: >
 
   - **Free**: Open, no-cost access to the list and repository; contributions are
   accepted via standard GitHub workflows.
-updated_at: 2025-12-25 11:11
+brand: net
+brand_logo_url: null
+updated_at: 2026-04-23 14:34

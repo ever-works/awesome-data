@@ -3,15 +3,12 @@ description: An Awesome list focused specifically on high-quality tutorials and
   learning resources for data science, extending the broader Awesome Data
   Science directory.
 source_url: https://github.com/siboehm/awesome-learn-datascience#readme
-featured: false
-brand: awesome-lists
-brand_logo_url: null
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - data-science
   - education
   - resources
+featured: false
 markdown: >-
   # Awesome Learn Data Science
 
@@ -77,4 +74,6 @@ markdown: >-
   ## Pricing
 
   - Free to access and use (open GitHub repository, CC0 license).
-updated_at: 2025-12-25 11:11
+brand: awesome-lists
+brand_logo_url: null
+updated_at: 2026-04-23 14:34

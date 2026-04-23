@@ -2,14 +2,12 @@ name: Awesome Theoretical Computer Science
 description: A curated awesome list of resources on theoretical computer
   science, emphasizing mathematically rigorous material and techniques.
 source_url: https://github.com/mostafatouny/awesome-theoretical-computer-science#readme
-featured: false
-brand_logo_url: null
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - computer-science
   - math
   - awesome-lists
+featured: false
 markdown: >-
   # Awesome Theoretical Computer Science
 
@@ -129,4 +127,5 @@ markdown: >-
 
   - Users should refer directly to that file for exact licensing terms and reuse
   conditions, as well as check licenses of individual linked resources.
-updated_at: 2025-12-25 11:11
+brand_logo_url: null
+updated_at: 2026-04-23 14:34

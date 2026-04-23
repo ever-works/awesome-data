@@ -3,15 +3,12 @@ description: A specialized awesome list curating top open-source applications
   and resources for homelab and self-hosting enthusiasts, fitting into the wider
   awesome-lists ecosystem.
 source_url: https://github.com/miantiao-me/awesome-homelab
-featured: false
-brand: miantiao-me
-brand_logo_url: /miantiao-me.png
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - awesome-lists
   - self-hosted
   - homelab
+featured: false
 markdown: >-
   # awesome-homelab
 
@@ -50,4 +47,6 @@ markdown: >-
   ## Pricing
 
   - Free, open-source list hosted on GitHub.
-updated_at: 2025-12-31 19:34
+brand: miantiao-me
+brand_logo_url: /miantiao-me.png
+updated_at: 2026-04-23 14:34

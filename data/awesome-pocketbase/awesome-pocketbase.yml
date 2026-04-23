@@ -2,15 +2,12 @@ name: Awesome PocketBase
 description: An Awesome list of resources, tools, and examples for PocketBase,
   an open-source Go-based backend in a single file.
 source_url: https://github.com/benallfree/awesome-pocketbase#readme
-featured: false
-brand: pocketbase
-brand_logo_url: null
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - backend
   - database
   - go
+featured: false
 markdown: >-
   ## Awesome PocketBase
 
@@ -74,4 +71,6 @@ markdown: >-
 
   - Awesome PocketBase is a free, open-source, community resource; no pricing
   plans are listed.
-updated_at: 2025-12-25 11:11
+brand: pocketbase
+brand_logo_url: null
+updated_at: 2026-04-23 14:34

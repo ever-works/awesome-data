@@ -5,7 +5,7 @@ description: Curated GitHub awesome list for Android security, with 5800 stars.
   analyze, exploit, and defend Android apps and devices. Alternative to general
   directories.
 source_url: https://github.com/ashishb/android-security-awesome
-category: themed-directories
+category: Themed Directories
 tags:
   - android
   - security
@@ -119,4 +119,4 @@ brand: ashishb-on-github
 brand_logo_url: https://github.githubassets.com/favicons/favicon.svg
 images:
   - https://opengraph.githubassets.com/1/ashishb/android-security-awesome
-updated_at: 2026-04-23 05:34
+updated_at: 2026-04-23 14:34

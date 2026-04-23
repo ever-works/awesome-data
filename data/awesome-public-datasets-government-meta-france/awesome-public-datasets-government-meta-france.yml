@@ -3,15 +3,12 @@ description: Meta entry in the Awesome Public Datasets list referring to
   data.gouv.fr’s datasets section, France’s official open data catalog and
   directory of public datasets.
 source_url: https://www.data.gouv.fr/en/datasets/
-featured: false
-brand: awesome-data
-brand_logo_url: /awesome-data/logo.png
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - datasets
   - government
   - open-data
+featured: false
 markdown: >-
   # Awesome Public Datasets – Government (Meta: France)
 
@@ -85,4 +82,6 @@ markdown: >-
   - Access to datasets is provided as **open data**; no pricing information is
   indicated (datasets are generally free to access and reuse under open
   licenses).
-updated_at: 2025-12-30 18:29
+brand: awesome-data
+brand_logo_url: /awesome-data/logo.png
+updated_at: 2026-04-23 14:34

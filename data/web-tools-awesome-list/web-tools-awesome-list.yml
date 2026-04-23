@@ -2,14 +2,12 @@ name: Web Tools (Awesome List)
 description: A curated collection of useful web-related tools and utilities
   presented in an awesome-list format.
 source_url: https://github.com/lvwzhen/tools#readme
-featured: false
-brand_logo_url: null
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - web-development
   - developer-tools
   - awesome-lists
+featured: false
 markdown: >-
   # Web Tools (Awesome List)
 
@@ -82,4 +80,5 @@ markdown: >-
   - A `LICENSE` file is present in the repository, indicating the project is
   open-source. (Specific license terms should be confirmed by viewing the
   LICENSE file in the repo.)
-updated_at: 2025-12-25 11:11
+brand_logo_url: null
+updated_at: 2026-04-23 14:34

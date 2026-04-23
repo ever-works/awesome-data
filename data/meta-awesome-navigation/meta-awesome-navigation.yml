@@ -2,15 +2,12 @@ name: meta-awesome - Navigation
 description: Part of meta-awesome aggregating awesome lists about navigation
   systems, routing, and related UI/UX components.
 source_url: https://github.com/jepemo/meta-awesome/blob/master/doc/navigation.md
-featured: false
-brand: jepemometa-awesome
-brand_logo_url: null
-images: null
-category: meta-directories
+category: Meta Directories
 tags:
   - navigation
   - ui
   - meta-directory
+featured: false
 markdown: >-
   # meta-awesome – Navigation
 
@@ -67,4 +64,6 @@ markdown: >-
 
   - No pricing information is provided. The resource appears to be a free, open
   GitHub-based meta-directory.
-updated_at: 2025-12-25 11:11
+brand: jepemometa-awesome
+brand_logo_url: null
+updated_at: 2026-04-23 14:34

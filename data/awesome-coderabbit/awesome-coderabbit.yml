@@ -2,15 +2,12 @@ name: Awesome CodeRabbit
 description: An Awesome list of resources, guides, and integrations for
   CodeRabbit, an AI-powered code review platform.
 source_url: https://github.com/coderabbitai/awesome-coderabbit#readme
-featured: false
-brand: coderabbit
-brand_logo_url: https://avatars.githubusercontent.com/u/149512820
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - ai
   - developer-tools
   - code
+featured: false
 markdown: >-
   # Awesome CodeRabbit
 
@@ -142,4 +139,6 @@ markdown: >-
   Awesome CodeRabbit is an open-source, curated list hosted on GitHub; no
   pricing or plans apply to this directory itself. (Any pricing for the
   underlying CodeRabbit product is not covered in this repository’s content.)
-updated_at: 2025-12-25 11:11
+brand: coderabbit
+brand_logo_url: https://avatars.githubusercontent.com/u/149512820
+updated_at: 2026-04-23 14:34

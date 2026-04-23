@@ -3,16 +3,12 @@ description: Large-scale web crawl dataset of 733 million web pages collected in
   2012, maintained by the Lemur Project and widely used for IR research;
   referenced in awesome-style dataset listings.
 source_url: http://lemurproject.org/clueweb12/
-featured: false
-brand: lemur-project
-brand_logo_url: http://lemurproject.org/images/lemur-logo.png
-images:
-  - http://lemurproject.org/images/lemur-logo.png
-category: themed-directories
+category: Themed Directories
 tags:
   - datasets
   - web
   - information-retrieval
+featured: false
 markdown: |-
   # ClueWeb12
 
@@ -94,4 +90,8 @@ markdown: |-
   ## Links
   - Dataset page: http://lemurproject.org/clueweb12/
   - Dataset progress/info: http://boston.lti.cs.cmu.edu/clueweb12/
-updated_at: 2025-12-30 18:29
+brand: lemur-project
+brand_logo_url: http://lemurproject.org/images/lemur-logo.png
+images:
+  - http://lemurproject.org/images/lemur-logo.png
+updated_at: 2026-04-23 14:34

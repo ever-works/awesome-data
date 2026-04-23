@@ -2,16 +2,12 @@ name: Awesome Python Books
 description: An awesome-style directory of Python books, collecting and
   organizing learning resources for Python developers.
 source_url: https://github.com/Junnplus/awesome-python-books
-featured: false
-brand: junnplus
-brand_logo_url: /Junnplus/awesome-python-books/raw/master/python-logo.png
-images:
-  - https://opengraph.githubassets.com/1/Junnplus/awesome-python-books
-category: themed-directories
+category: Themed Directories
 tags:
   - python
   - education
   - awesome-lists
+featured: false
 markdown: >
   ---
 
@@ -106,4 +102,8 @@ markdown: >
   - Contributions are welcomed via GitHub pull requests and issues.
 
   - Detailed contribution instructions are provided in `CONTRIBUTING.md`.
-updated_at: 2025-12-25 11:11
+brand: junnplus
+brand_logo_url: /Junnplus/awesome-python-books/raw/master/python-logo.png
+images:
+  - https://opengraph.githubassets.com/1/Junnplus/awesome-python-books
+updated_at: 2026-04-23 14:34

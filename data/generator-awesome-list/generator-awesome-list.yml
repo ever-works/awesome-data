@@ -6,13 +6,12 @@ description: Yeoman generator for building and maintaining GitHub awesome lists
   maintenance. Ideal for developers creating topic-specific resource
   compilations.
 source_url: https://github.com/sindresorhus/generator-awesome-list
-category: Awesome List Tools
+category: Awesome List Tools & Trackers
 tags:
+  - meta-awesome
+  - list-aggregator
+  - github-stars
   - list-builder
-  - automation
-  - open-source
-  - open-source-discovery
-  - 2026-curated
 featured: false
 markdown: |-
   ## Overview
@@ -46,4 +45,4 @@ markdown: |-
 
   Free and open-source under MIT license.
 brand: sindresorhus
-updated_at: 2026-04-23 02:45
+updated_at: 2026-04-23 14:34

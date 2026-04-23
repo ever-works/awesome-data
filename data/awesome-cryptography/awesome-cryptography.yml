@@ -2,15 +2,12 @@ name: Awesome Cryptography
 description: An Awesome directory of cryptography resources, libraries, and
   tools covering theory and practical implementations.
 source_url: https://github.com/sobolevn/awesome-cryptography#readme
-featured: false
-brand: awesome-lists
-brand_logo_url: null
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - security
   - cryptography
   - awesome-lists
+featured: false
 markdown: >-
   # Awesome Cryptography
 
@@ -64,4 +61,6 @@ markdown: >-
   ## Pricing
 
   - Free, open-source directory (no paid plans mentioned).
-updated_at: 2025-12-25 11:11
+brand: awesome-lists
+brand_logo_url: null
+updated_at: 2026-04-23 14:34

@@ -3,15 +3,12 @@ description: APD catalog entry for Glasgow’s official open data portal,
   providing open government datasets for the city, including geospatial,
   transportation, and civic information.
 source_url: https://data.glasgow.gov.uk/
-featured: false
-brand: glasgow-city-council
-brand_logo_url: https://www.glasgow.gov.uk/images/logo.png
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - government
   - datasets
   - open-data
+featured: false
 markdown: >
   # Awesome Public Datasets – Government Data: Glasgow, Scotland, UK
 
@@ -183,4 +180,6 @@ markdown: >
   - Feedback form: https://arcg.is/15fvrP
 
   - Contact (email): mailto:data@glasgow.gov.uk
-updated_at: 2025-12-30 18:29
+brand: glasgow-city-council
+brand_logo_url: https://www.glasgow.gov.uk/images/logo.png
+updated_at: 2026-04-23 14:34

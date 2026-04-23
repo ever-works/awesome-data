@@ -2,14 +2,12 @@ name: Awesome Selenium
 description: An Awesome collection of Selenium frameworks, tools, and resources
   for browser automation and end‑to‑end testing.
 source_url: https://github.com/christian-bromann/awesome-selenium#readme
-featured: false
-brand_logo_url: null
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - testing
   - automation
   - web
+featured: false
 markdown: >-
   # Awesome Selenium
 
@@ -83,4 +81,5 @@ markdown: >-
   ## Pricing
 
   - Not applicable. This is a free, open, public-domain resource directory.
-updated_at: 2025-12-25 11:11
+brand_logo_url: null
+updated_at: 2026-04-23 14:34

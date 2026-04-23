@@ -2,14 +2,12 @@ name: Awesome Non-Financial Blockchain
 description: An Awesome list focused on non-financial blockchain applications,
   aggregating tools, platforms, and resources beyond cryptocurrency use cases.
 source_url: https://github.com/machinomy/awesome-non-financial-blockchain#readme
-featured: false
-brand_logo_url: null
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - blockchain
   - decentralized
   - applications
+featured: false
 markdown: >-
   # Awesome Non-Financial Blockchain
 
@@ -164,4 +162,5 @@ markdown: >-
 
   - Individual projects listed may have their own pricing or licensing models
   (not detailed in the provided content).
-updated_at: 2025-12-25 11:11
+brand_logo_url: null
+updated_at: 2026-04-23 14:34

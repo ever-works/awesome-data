@@ -2,15 +2,12 @@ name: Typedb Awesome
 description: An Awesome-style collection of resources, drivers, and tooling
   around TypeDB, a logical database for complex networks of data.
 source_url: https://github.com/vaticle/typedb-awesome#readme
-featured: false
-brand: vaticle
-brand_logo_url: null
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - database
   - graph
   - developer-resources
+featured: false
 markdown: >-
   # Typedb Awesome
 
@@ -88,4 +85,6 @@ markdown: >-
 
   - Not applicable – Typedb Awesome is an open, GitHub-hosted curated list of
   resources, not a paid product or service.
-updated_at: 2025-12-25 11:11
+brand: vaticle
+brand_logo_url: null
+updated_at: 2026-04-23 14:34

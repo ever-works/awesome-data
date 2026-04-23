@@ -2,16 +2,12 @@ name: Awesome Adafruit IO
 description: An awesome collection of examples, libraries, and resources for
   Adafruit IO, a cloud service for visualizing and storing data from devices.
 source_url: https://github.com/adafruit/awesome-adafruitio#readme
-featured: false
-brand: adafruit
-brand_logo_url: https://cdn-shop.adafruit.com/static/skins/adafruit/img/adafruit-logo.svg
-images:
-  - https://repository-images.githubusercontent.com/102093904/31675d00-6f43-11ea-9c1f-9e93b2a1af9d
-category: themed-directories
+category: Themed Directories
 tags:
   - iot
   - cloud
   - data-visualization
+featured: false
 markdown: >-
   # Awesome Adafruit IO
 
@@ -129,4 +125,8 @@ markdown: >-
   Not applicable. This item is a curated resource/directory for Adafruit IO, not
   a standalone paid product or service, and the provided content does not list
   pricing plans.
-updated_at: 2025-12-25 11:11
+brand: adafruit
+brand_logo_url: https://cdn-shop.adafruit.com/static/skins/adafruit/img/adafruit-logo.svg
+images:
+  - https://repository-images.githubusercontent.com/102093904/31675d00-6f43-11ea-9c1f-9e93b2a1af9d
+updated_at: 2026-04-23 14:34

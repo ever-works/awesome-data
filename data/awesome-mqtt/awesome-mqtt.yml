@@ -2,15 +2,12 @@ name: Awesome MQTT
 description: An Awesome list of MQTT-related resources, libraries, and tools for
   Internet of Things connectivity.
 source_url: https://github.com/hobbyquaker/awesome-mqtt#readme
-featured: false
-brand: sindresorhusawesome
-brand_logo_url: /sindresorhus/awesome/raw/main/media/logo.png
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - awesome-lists
   - iot
   - communication
+featured: false
 markdown: >
   ---
 
@@ -110,4 +107,6 @@ markdown: >
 
   - Not applicable. Awesome MQTT is an open, free-to-access curated list on
   GitHub.
-updated_at: 2025-12-25 11:11
+brand: sindresorhusawesome
+brand_logo_url: /sindresorhus/awesome/raw/main/media/logo.png
+updated_at: 2026-04-23 14:34

@@ -2,15 +2,12 @@ name: Awesome Hydrogen
 description: An awesome list of resources, starters, and tools for Shopify’s
   Hydrogen framework for building custom React-based storefronts.
 source_url: https://github.com/shopify/awesome-hydrogen#readme
-featured: false
-brand: shopify
-brand_logo_url: null
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - react
   - ecommerce
   - web-development
+featured: false
 markdown: >-
   # Awesome Hydrogen
 
@@ -68,4 +65,6 @@ markdown: >-
 
   - Access to the Awesome Hydrogen list and repository is **free and open
   source** (no pricing plans indicated).
-updated_at: 2025-12-25 11:11
+brand: shopify
+brand_logo_url: null
+updated_at: 2026-04-23 14:34

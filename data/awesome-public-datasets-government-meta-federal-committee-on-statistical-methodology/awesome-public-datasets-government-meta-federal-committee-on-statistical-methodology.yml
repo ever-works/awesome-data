@@ -4,15 +4,12 @@ description: Entry in Awesome Public Datasets that links to the Federal
   Committee on Statistical Methodology (formerly FedStats), a U.S. portal
   directing users to official federal statistical data sources.
 source_url: https://nces.ed.gov/FCSM/index.asp
-featured: false
-brand: awesome-data
-brand_logo_url: /awesome-data/logo.png
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - datasets
   - government
   - statistics
+featured: false
 markdown: |-
   # Awesome Public Datasets – Government (Meta: Federal Committee on Statistical Methodology)
 
@@ -67,4 +64,6 @@ markdown: |-
   - **Brand:** awesome-data  
   - **Brand logo:** `/awesome-data/logo.png`  
   - **Slug:** `awesome-public-datasets-government-meta-federal-committee-on-statistical-methodology`
-updated_at: 2025-12-30 18:29
+brand: awesome-data
+brand_logo_url: /awesome-data/logo.png
+updated_at: 2026-04-23 14:34

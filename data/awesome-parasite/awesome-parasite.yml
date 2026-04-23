@@ -2,15 +2,12 @@ name: Awesome Parasite
 description: A curated list of resources on parasites and host–pathogen
   interactions for research and study in parasitology and related fields.
 source_url: https://github.com/ecohealthalliance/awesome-parasite#readme
-featured: false
-brand: awesome
-brand_logo_url: /.github/logo.png
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - awesome-lists
   - research
   - biology
+featured: false
 markdown: >-
   # Awesome Parasite
 
@@ -83,4 +80,6 @@ markdown: >-
 
   - No pricing information is provided; the resource is presented as an open,
   non-commercial, curated list.
-updated_at: 2025-12-25 11:11
+brand: awesome
+brand_logo_url: /.github/logo.png
+updated_at: 2026-04-23 14:34

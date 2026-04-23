@@ -2,15 +2,12 @@ name: awesome-images
 description: A curated awesome-list directory of free stock photo and image
   resources for designers and developers.
 source_url: https://github.com/heyalexej/awesome-images
-featured: false
-brand: heyalexej
-brand_logo_url: /heyalexej
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - design
   - media
   - awesome-lists
+featured: false
 markdown: >
   # awesome-images
 
@@ -62,4 +59,6 @@ markdown: >
 
   - Not applicable – this is an open, public GitHub directory/list, free to
   access and use as a reference.
-updated_at: 2025-12-25 11:11
+brand: heyalexej
+brand_logo_url: /heyalexej
+updated_at: 2026-04-23 14:34

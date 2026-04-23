@@ -3,15 +3,12 @@ description: A separate Awesome public datasets listing for Taiwan’s governmen
   open data site, cataloging official datasets across domains like
   transportation, environment, and statistics.
 source_url: http://data.gov.tw/
-featured: false
-brand: taiwan-government
-brand_logo_url: /awesome-data
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - government
   - datasets
   - open-data
+featured: false
 markdown: >
   # Awesome Public Datasets – Government: Taiwan
 
@@ -87,4 +84,6 @@ markdown: >
   - No pricing or paid plans are indicated in the provided content; datasets
   appear to be freely accessible for public use, subject to the platform’s open
   data terms or licenses.
-updated_at: 2025-12-30 18:29
+brand: taiwan-government
+brand_logo_url: /awesome-data
+updated_at: 2026-04-23 14:34

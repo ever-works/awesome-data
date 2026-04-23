@@ -2,16 +2,12 @@ name: Awesome Actions on Google
 description: An awesome list of libraries, samples, and resources for building
   conversational experiences with Actions on Google and Google Assistant.
 source_url: https://github.com/ravirupareliya/awesome-actions-on-google#readme
-featured: false
-brand: google-assistant
-brand_logo_url: https://upload.wikimedia.org/wikipedia/commons/5/5e/Google_Assistant_logo.svg
-images:
-  - https://repository-images.githubusercontent.com/99739594/0e2d5f80-6f45-11ea-9a11-7a1f5ff82ec3
-category: themed-directories
+category: Themed Directories
 tags:
   - conversational-ai
   - google-cloud
   - apis
+featured: false
 markdown: |
   # Awesome Actions on Google
 
@@ -65,4 +61,8 @@ markdown: |
   - conversational-ai  
   - google-cloud  
   - apis
-updated_at: 2025-12-25 11:11
+brand: google-assistant
+brand_logo_url: https://upload.wikimedia.org/wikipedia/commons/5/5e/Google_Assistant_logo.svg
+images:
+  - https://repository-images.githubusercontent.com/99739594/0e2d5f80-6f45-11ea-9a11-7a1f5ff82ec3
+updated_at: 2026-04-23 14:34

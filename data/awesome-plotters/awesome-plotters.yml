@@ -2,14 +2,12 @@ name: Awesome Plotters
 description: Awesome directory of software, hardware, and projects related to
   computer-controlled plotters and drawing machines.
 source_url: https://github.com/beardicus/awesome-plotters#readme
-featured: false
-brand_logo_url: null
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - awesome-lists
   - hardware
   - graphics
+featured: false
 markdown: >-
   # Awesome Plotters
 
@@ -130,4 +128,5 @@ markdown: >-
   ## Pricing
 
   - Not applicable (open, curated resource list on GitHub).
-updated_at: 2025-12-25 11:11
+brand_logo_url: null
+updated_at: 2026-04-23 14:34

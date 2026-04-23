@@ -2,15 +2,12 @@ name: Awesome Data Visualization
 description: A curated awesome list of data visualization tools, libraries, and
   learning resources.
 source_url: https://github.com/javierluraschi/awesome-dataviz#readme
-featured: false
-brand_logo_url: null
-images:
-  - https://opengraph.githubassets.com/1/javierluraschi/awesome-dataviz
-category: themed-directories
+category: Themed Directories
 tags:
   - data-visualization
   - analytics
   - resources
+featured: false
 markdown: >-
   # Awesome Data Visualization
 
@@ -154,4 +151,7 @@ markdown: >-
 
   - Individual tools in the list may have their own licenses and terms; users
   should review each linked project separately.
-updated_at: 2025-12-25 11:11
+brand_logo_url: null
+images:
+  - https://opengraph.githubassets.com/1/javierluraschi/awesome-dataviz
+updated_at: 2026-04-23 14:34

@@ -2,15 +2,12 @@ name: Awesome Web Performance Budget
 description: An awesome list of concepts, tools, and techniques for defining and
   enforcing web performance budgets.
 source_url: https://github.com/pajaydev/awesome-web-performance-budget#readme
-featured: false
-brand: pajaydev
-brand_logo_url: null
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - performance
   - web
   - analytics
+featured: false
 markdown: >-
   # Awesome Web Performance Budget
 
@@ -89,4 +86,6 @@ markdown: >-
 
   - Not applicable. This is a free, open-source, community-maintained resource
   directory.
-updated_at: 2025-12-25 11:11
+brand: pajaydev
+brand_logo_url: null
+updated_at: 2026-04-23 14:34

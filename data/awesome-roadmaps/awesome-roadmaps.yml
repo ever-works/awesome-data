@@ -2,15 +2,12 @@ name: Awesome Roadmaps
 description: An awesome list of learning and career roadmaps that provide clear
   routes to improve knowledge and skills in various domains.
 source_url: https://github.com/liuchong/awesome-roadmaps#readme
-featured: false
-brand: liuchong
-brand_logo_url: https://avatars.githubusercontent.com/u/657065
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - awesome-lists
   - education
   - career
+featured: false
 markdown: >-
   # Awesome Roadmaps
 
@@ -63,4 +60,6 @@ markdown: >-
 
   - Part of the wider "Awesome" ecosystem of curated lists (compliant with
   awesome.re guidelines).
-updated_at: 2025-12-25 11:11
+brand: liuchong
+brand_logo_url: https://avatars.githubusercontent.com/u/657065
+updated_at: 2026-04-23 14:34

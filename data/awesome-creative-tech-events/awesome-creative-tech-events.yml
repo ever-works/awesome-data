@@ -2,15 +2,12 @@ name: Awesome Creative Tech Events
 description: An Awesome directory of creative technology events worldwide,
   covering creative coding, tech, design, music, and arts.
 source_url: https://github.com/danvoyce/awesome-creative-tech-events#readme
-featured: false
-brand: sindresorhusawesome
-brand_logo_url: https://raw.githubusercontent.com/sindresorhus/awesome/main/media/logo.svg
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - events
   - creative-coding
   - technology
+featured: false
 markdown: >-
   # Awesome Creative Tech Events
 
@@ -87,4 +84,6 @@ markdown: >-
 
   - Distributed under an open-source license (see the `LICENSE` file in the
   repository for exact terms).
-updated_at: 2025-12-25 11:11
+brand: sindresorhusawesome
+brand_logo_url: https://raw.githubusercontent.com/sindresorhus/awesome/main/media/logo.svg
+updated_at: 2026-04-23 14:34

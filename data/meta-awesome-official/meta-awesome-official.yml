@@ -2,15 +2,12 @@ name: Meta Awesome - Official
 description: A section in meta-awesome that indexes official awesome lists and
   primary resources maintained by core teams or organizations.
 source_url: https://github.com/jepemo/meta-awesome/blob/master/doc/official.md
-featured: false
-brand: jepemometa-awesome
-brand_logo_url: null
-images: null
-category: meta-directories
+category: Meta Directories
 tags:
   - meta-directory
   - official
   - awesome-lists
+featured: false
 markdown: >-
   # Meta Awesome – Official
 
@@ -48,4 +45,6 @@ markdown: >-
   ## Pricing
 
   - Not applicable (open GitHub resource / directory).
-updated_at: 2025-12-25 11:11
+brand: jepemometa-awesome
+brand_logo_url: null
+updated_at: 2026-04-23 14:34

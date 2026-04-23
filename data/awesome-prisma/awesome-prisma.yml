@@ -3,15 +3,12 @@ description: A curated list of awesome resources and tools around Prisma, a
   toolkit that can turn your database into a GraphQL API and simplify database
   workflows.
 source_url: https://github.com/catalinmiron/awesome-prisma#readme
-featured: false
-brand: awesome
-brand_logo_url: /.github/logo.png
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - awesome-lists
   - database
   - developer-tools
+featured: false
 markdown: >-
   # Awesome Prisma
 
@@ -58,4 +55,6 @@ markdown: >-
 
   - Awesome Prisma is an open-source, freely accessible GitHub repository. There
   are no pricing plans or paid tiers.
-updated_at: 2025-12-25 11:11
+brand: awesome
+brand_logo_url: /.github/logo.png
+updated_at: 2026-04-23 14:34

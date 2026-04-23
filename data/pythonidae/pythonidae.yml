@@ -1,0 +1,38 @@
+name: pythonidae
+description: A comprehensive index of curated lists and resources for Python
+  scientific programming, aggregating GitHub repositories for easy discovery in
+  scientific computing and data science. Key features include categorized,
+  searchable collections and regular updates. Ideal for researching Python
+  scientific projects and finding alternatives; more niche than
+  sindresorhus/awesome.
+source_url: https://github.com/svaksha/pythonidae
+category: Themed Directories
+tags:
+  - meta-list
+  - list-of-lists
+  - python
+featured: false
+markdown: |-
+  ## Overview
+
+  Curated decibans of Python resources for scientific computing.
+
+  ## Features
+
+  - Comprehensive libraries, tools, and resources
+  - Aggregates GitHub repos
+  - Categorized and searchable
+
+  ## Use Cases
+
+  - Researching scientific Python projects
+  - Finding data science alternatives
+
+  ## Comparison
+
+  More niche than sindresorhus/awesome.
+
+  ## Pricing
+
+  Free and open-source.
+updated_at: 2026-04-23 14:34

@@ -2,16 +2,12 @@ name: Awesome REST
 description: A curated awesome list of resources, frameworks, and tools for
   building and consuming RESTful APIs.
 source_url: https://github.com/marmelab/awesome-rest#readme
-featured: false
-brand: marmelab
-brand_logo_url: null
-images:
-  - https://opengraph.githubassets.com/1/marmelab/awesome-rest
-category: themed-directories
+category: Themed Directories
 tags:
   - awesome-lists
   - apis
   - web-development
+featured: false
 markdown: >-
   # Awesome REST
 
@@ -71,4 +67,8 @@ markdown: >-
 
   Not applicable. Awesome REST is a free, open, community-maintained resource
   list available on GitHub.
-updated_at: 2025-12-25 11:11
+brand: marmelab
+brand_logo_url: null
+images:
+  - https://opengraph.githubassets.com/1/marmelab/awesome-rest
+updated_at: 2026-04-23 14:34

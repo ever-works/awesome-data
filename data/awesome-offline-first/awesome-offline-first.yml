@@ -2,14 +2,12 @@ name: Awesome Offline-First
 description: An awesome list of resources, patterns, and tools for building
   offline-first web and mobile applications.
 source_url: https://github.com/pazguille/offline-first#readme
-featured: false
-brand_logo_url: null
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - web
   - mobile
   - offline
+featured: false
 markdown: >
   # Awesome Offline-First
 
@@ -157,4 +155,5 @@ markdown: >
 
 
   - GitHub: https://github.com/pazguille/offline-first#readme
-updated_at: 2025-12-25 11:11
+brand_logo_url: null
+updated_at: 2026-04-23 14:34

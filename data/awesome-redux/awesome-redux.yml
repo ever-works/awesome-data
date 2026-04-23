@@ -2,16 +2,12 @@ name: Awesome Redux
 description: A curated collection of Redux-related tools, middleware, utilities,
   and learning resources for state management in JavaScript apps.
 source_url: https://github.com/brillout/awesome-redux#readme
-featured: false
-brand: redux
-brand_logo_url: https://redux.js.org/img/redux-logo-landscape.png
-images:
-  - https://redux.js.org/img/redux-logo-landscape.png
-category: themed-directories
+category: Themed Directories
 tags:
   - awesome-lists
   - javascript
   - developer-tools
+featured: false
 markdown: >-
   # Awesome Redux
 
@@ -148,4 +144,8 @@ markdown: >-
 
   Awesome Redux is a public, open-source curated list hosted on GitHub. No
   pricing or paid plans are indicated; it is free to access and use.
-updated_at: 2025-12-25 11:11
+brand: redux
+brand_logo_url: https://redux.js.org/img/redux-logo-landscape.png
+images:
+  - https://redux.js.org/img/redux-logo-landscape.png
+updated_at: 2026-04-23 14:34

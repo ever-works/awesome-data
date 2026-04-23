@@ -2,15 +2,12 @@ name: Awesome Hyper
 description: An awesome list of plugins, themes, and resources for the Hyper
   terminal application.
 source_url: https://github.com/bnb/awesome-hyper#readme
-featured: false
-brand: github
-brand_logo_url: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - awesome-lists
   - terminal
   - javascript
+featured: false
 markdown: >-
   # Awesome Hyper
 
@@ -86,4 +83,6 @@ markdown: >-
 
 
   - Awesome Hyper is an open-source GitHub list and is free to access and use.
-updated_at: 2025-12-25 11:11
+brand: github
+brand_logo_url: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
+updated_at: 2026-04-23 14:34

@@ -4,15 +4,12 @@ description: A finance entry in the Awesome Public Datasets meta-collection
   FAANG companies. The Awesome listing provides a curated index entry and
   metadata in the APD core repo.
 source_url: https://www.reddit.com/r/linguistics/comments/13rbvpl/when_did_the_word_awesome_begin_to_be_associated/
-featured: false
-brand: awesomedata-awesome-public-datasets
-brand_logo_url: /awesomedata/apd-core/raw/master/apd-logo.png
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - finance
   - datasets
   - machine-learning
+featured: false
 markdown: >-
   ## Awesome Public Datasets – Finance / Complete FAANG Stock Data
 
@@ -93,4 +90,6 @@ markdown: >-
   No pricing information is provided. Awesome Public Datasets indexes **public**
   datasets; this entry is presumed to point to a freely accessible Kaggle
   dataset, but specific access terms are not stated in the available content.
-updated_at: 2025-12-30 18:29
+brand: awesomedata-awesome-public-datasets
+brand_logo_url: /awesomedata/apd-core/raw/master/apd-logo.png
+updated_at: 2026-04-23 14:34

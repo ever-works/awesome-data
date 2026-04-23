@@ -3,15 +3,12 @@ description: A curated Awesome list of libraries, tools, documentation, and
   learning material for Bluetooth Low Energy (BLE) development across platforms
   and devices.
 source_url: https://github.com/dotintent/awesome-ble#readme
-featured: false
-brand: intent
-brand_logo_url: /dotintent.png
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - iot
   - hardware
   - awesome-lists
+featured: false
 markdown: >-
   # Awesome Bluetooth Low Energy
 
@@ -155,4 +152,6 @@ markdown: >-
   ## Source
 
   - GitHub: https://github.com/dotintent/awesome-ble#readme
-updated_at: 2025-12-25 11:11
+brand: intent
+brand_logo_url: /dotintent.png
+updated_at: 2026-04-23 14:34

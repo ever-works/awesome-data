@@ -5,7 +5,7 @@ description: "DirectoriesWiki's Awesome Directories curates specialized
   directory aggregation and easy discovery. Use cases: finding themed
   directories for AI or productivity, more niche than broad GitHub topics."
 source_url: https://github.com/directorieswiki/awesome-directories
-category: Meta Awesome Collections
+category: Awesome Meta Collections
 tags:
   - meta-awesome
   - list-aggregator
@@ -98,4 +98,4 @@ markdown: >-
   Free and open-source.
 brand: directorieswiki
 brand_logo_url: https://github.com/directorieswiki.png
-updated_at: 2026-04-23 12:06
+updated_at: 2026-04-23 14:34

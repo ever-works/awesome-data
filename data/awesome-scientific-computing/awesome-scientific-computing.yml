@@ -3,15 +3,12 @@ description: A curated list of awesome libraries, tools, and resources for
   scientific computing focused on solving complex scientific problems using
   computers.
 source_url: https://github.com/nschloe/awesome-scientific-computing#readme
-featured: false
-brand: awesome
-brand_logo_url: /.github/logo.png
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - scientific-computing
   - data-science
   - awesome-lists
+featured: false
 markdown: >-
   # Awesome Scientific Computing
 
@@ -90,4 +87,6 @@ markdown: >-
   ## Source
 
   - GitHub: https://github.com/nschloe/awesome-scientific-computing#readme
-updated_at: 2025-12-25 11:11
+brand: awesome
+brand_logo_url: /.github/logo.png
+updated_at: 2026-04-23 14:34

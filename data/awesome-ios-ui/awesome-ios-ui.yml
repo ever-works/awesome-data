@@ -2,14 +2,11 @@ name: Awesome iOS UI
 description: A specialized Awesome list dedicated to iOS UI and UX libraries,
   components, and patterns.
 source_url: https://github.com/cjwirth/awesome-ios-ui
-featured: false
-brand: cjwirth
-brand_logo_url: /cjwirth.png
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - mobile
   - design
+featured: false
 markdown: >-
   # Awesome iOS UI
 
@@ -64,4 +61,6 @@ markdown: >-
   ## Pricing
 
   - Free and open-source directory (no pricing or paid plans indicated).
-updated_at: 2025-12-25 11:11
+brand: cjwirth
+brand_logo_url: /cjwirth.png
+updated_at: 2026-04-23 14:34

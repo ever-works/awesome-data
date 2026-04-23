@@ -2,15 +2,12 @@ name: Meta Awesome - PHP Magazines
 description: A Meta Awesome page aggregating Awesome-style lists or curated
   directories of PHP-related magazines and periodicals.
 source_url: https://github.com/jepemo/meta-awesome/blob/master/doc/php-magazines.md
-featured: false
-brand: github
-brand_logo_url: https://github.githubassets.com/images/modules/logos_page/GitHub-Logo.png
-images: null
-category: meta-directories
+category: Meta Directories
 tags:
   - awesome-lists
   - meta-directory
   - php
+featured: false
 markdown: |
   # Meta Awesome - PHP Magazines
 
@@ -31,4 +28,6 @@ markdown: |
 
   ## Pricing
   - Not a commercial product or service – it is an open, GitHub-hosted curated document with no pricing or paid plans.
-updated_at: 2025-12-26 11:32
+brand: github
+brand_logo_url: https://github.githubassets.com/images/modules/logos_page/GitHub-Logo.png
+updated_at: 2026-04-23 14:34

@@ -2,16 +2,12 @@ name: Awesome Ionic Framework
 description: An awesome list of Ionic Framework resources, plugins, components,
   and tools for building hybrid mobile apps.
 source_url: https://github.com/candelibas/awesome-ionic#readme
-featured: false
-brand: ionic
-brand_logo_url: https://ionicframework.com/img/meta/logo.png
-images:
-  - https://ionicframework.com/img/meta/logo.png
-category: themed-directories
+category: Themed Directories
 tags:
   - mobile
   - framework
   - javascript
+featured: false
 markdown: >
   # Awesome Ionic Framework
 
@@ -87,4 +83,8 @@ markdown: >
 
   - Not applicable. This is an open, public GitHub “awesome list” repository of
   resources, available free of charge.
-updated_at: 2025-12-25 11:11
+brand: ionic
+brand_logo_url: https://ionicframework.com/img/meta/logo.png
+images:
+  - https://ionicframework.com/img/meta/logo.png
+updated_at: 2026-04-23 14:34

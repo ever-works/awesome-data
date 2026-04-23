@@ -3,15 +3,12 @@ description: A meta awesome list gathering awesome directories and resources
   about wikis, including wiki engines, platforms, and notable curated wiki-based
   content.
 source_url: https://github.com/jepemo/meta-awesome/blob/master/doc/wikis.md
-featured: false
-brand: meta-awesome
-brand_logo_url: ://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
-images: null
-category: meta-directories
+category: Meta Directories
 tags:
   - awesome-lists
   - meta-directory
   - wikis
+featured: false
 markdown: >-
   # Meta Awesome – Wikis
 
@@ -61,4 +58,6 @@ markdown: >-
 
   - Not applicable. Meta Awesome – Wikis is a freely accessible, open GitHub
   markdown document (no pricing or plans mentioned).
-updated_at: 2025-12-25 11:11
+brand: meta-awesome
+brand_logo_url: ://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
+updated_at: 2026-04-23 14:34

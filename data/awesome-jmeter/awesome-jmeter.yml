@@ -2,14 +2,12 @@ name: Awesome JMeter
 description: A curated Awesome list of plugins, tools, and learning resources
   for Apache JMeter load testing and performance measurement.
 source_url: https://github.com/aliesbelik/awesome-jmeter#readme
-featured: false
-brand_logo_url: null
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - awesome-lists
   - testing
   - performance
+featured: false
 markdown: >-
   # Awesome JMeter
 
@@ -58,4 +56,5 @@ markdown: >-
 
   - No pricing information is provided; the list is hosted as a public GitHub
   repository and is typically free to access and use.
-updated_at: 2025-12-25 11:11
+brand_logo_url: null
+updated_at: 2026-04-23 14:34

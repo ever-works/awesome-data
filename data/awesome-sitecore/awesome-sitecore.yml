@@ -2,15 +2,12 @@ name: Awesome Sitecore
 description: Awesome directory of modules, tools, and learning resources for
   Sitecore, a .NET-based digital marketing and CMS platform.
 source_url: https://github.com/MartinMiles/Awesome-Sitecore#readme
-featured: false
-brand: sitecore
-brand_logo_url: null
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - awesome-lists
   - cms
   - dotnet
+featured: false
 markdown: >-
   # Awesome Sitecore
 
@@ -111,4 +108,6 @@ markdown: >-
 
   - Not applicable (GitHub repository / directory list; no pricing plans
   indicated).
-updated_at: 2025-12-25 11:11
+brand: sitecore
+brand_logo_url: null
+updated_at: 2026-04-23 14:34

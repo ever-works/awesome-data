@@ -2,7 +2,7 @@ name: Guitar Specs
 description: Specifications for electric guitar parts, serving as a reference
   directory for guitar builders and enthusiasts.
 source_url: https://gitfrage.github.io/guitarspecs/
-category: themed-directories
+category: Themed Directories
 tags:
   - guitar
   - specifications
@@ -19,4 +19,4 @@ markdown: |-
   ## Pricing
 
   Free.
-updated_at: 2026-04-23 09:02
+updated_at: 2026-04-23 14:34

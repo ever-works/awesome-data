@@ -2,15 +2,12 @@ name: Awesome Cytodata
 description: A curated list of resources for image-based profiling of biological
   phenotypes aimed at computational biologists and data scientists.
 source_url: https://github.com/cytodata/awesome-cytodata#readme
-featured: false
-brand: awesome
-brand_logo_url: /.github/logo.png
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - awesome-lists
   - data-science
   - biology
+featured: false
 markdown: >-
   # Awesome Cytodata
 
@@ -107,4 +104,6 @@ markdown: >-
 
   - Not applicable. This is an open, curated resource list hosted on GitHub (no
   pricing information provided).
-updated_at: 2025-12-25 11:11
+brand: awesome
+brand_logo_url: /.github/logo.png
+updated_at: 2026-04-23 14:34

@@ -2,14 +2,11 @@ name: Awesome Django
 description: An Awesome-curated list of Django apps, starter projects, and
   learning resources for the Django web framework.
 source_url: https://github.com/fkromer/best-of-django
-featured: false
-brand: rosarior
-brand_logo_url: /rosarior.png
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - python
   - awesome-lists
+featured: false
 markdown: >
   # Awesome Django
 
@@ -115,4 +112,6 @@ markdown: >
 
   - No paid plans or pricing tiers are mentioned; usage and contribution are
   open to the public.
-updated_at: 2025-12-25 11:11
+brand: rosarior
+brand_logo_url: /rosarior.png
+updated_at: 2026-04-23 14:34

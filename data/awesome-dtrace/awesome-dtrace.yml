@@ -2,15 +2,12 @@ name: Awesome DTrace
 description: An Awesome collection of resources, documentation, and examples for
   the DTrace dynamic tracing framework.
 source_url: https://github.com/xen0l/awesome-dtrace#readme
-featured: false
-brand: sindresorhusawesome
-brand_logo_url: /sindresorhus/awesome/raw/main/media/logo.png
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - awesome-lists
   - devops
   - observability
+featured: false
 markdown: >-
   # Awesome DTrace
 
@@ -124,4 +121,6 @@ markdown: >-
   - Potential contributors are directed to follow the repository’s
   **contribution guidelines** (`CONTRIBUTING.md`) before submitting changes or
   additions.
-updated_at: 2025-12-25 11:11
+brand: sindresorhusawesome
+brand_logo_url: /sindresorhus/awesome/raw/main/media/logo.png
+updated_at: 2026-04-23 14:34

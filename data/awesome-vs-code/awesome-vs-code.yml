@@ -2,15 +2,12 @@ name: Awesome VS Code
 description: A curated awesome list of Visual Studio Code extensions, themes,
   and resources aimed at enhancing the VS Code editing experience.
 source_url: https://github.com/viatsko/awesome-vscode#readme
-featured: false
-brand: microsoft
-brand_logo_url: https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - awesome-lists
   - editor
   - developer-tools
+featured: false
 markdown: >-
   # Awesome VS Code
 
@@ -316,4 +313,6 @@ markdown: >-
 
   - Anyone wanting to improve productivity, version control integration, and
   editing experience in VS Code.
-updated_at: 2025-12-25 11:11
+brand: microsoft
+brand_logo_url: https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg
+updated_at: 2026-04-23 14:34

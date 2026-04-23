@@ -3,14 +3,11 @@ description: A Meta Awesome subdirectory that curates awesome lists and
   resources related to internationalization (i18n), localization, and language
   support tooling.
 source_url: https://github.com/jepemo/meta-awesome/blob/master/doc/i18n.md
-featured: false
-brand: meta-awesome
-brand_logo_url: ://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
-images: null
-category: meta-directories
+category: Meta Directories
 tags:
   - meta-directory
   - developer-resources
+featured: false
 markdown: >-
   # Meta Awesome – i18n
 
@@ -55,4 +52,6 @@ markdown: >-
 
   - Not applicable – this is an open, GitHub-hosted curated directory of links
   and resources.
-updated_at: 2025-12-25 11:11
+brand: meta-awesome
+brand_logo_url: ://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
+updated_at: 2026-04-23 14:34

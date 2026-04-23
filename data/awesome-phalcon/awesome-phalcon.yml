@@ -1,15 +1,12 @@
 name: Awesome Phalcon
 description: A curated collection of Phalcon PHP framework resources, plugins, and tools.
 source_url: https://github.com/phalcon/awesome-phalcon#readme
-featured: false
-brand: rawesome
-brand_logo_url: null
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - awesome-lists
   - php
   - framework
+featured: false
 markdown: >
   # Awesome Phalcon
 
@@ -88,4 +85,6 @@ markdown: >
     - php
     - framework
     - Phalcon
-updated_at: 2025-12-25 11:11
+brand: rawesome
+brand_logo_url: null
+updated_at: 2026-04-23 14:34

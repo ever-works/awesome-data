@@ -3,14 +3,12 @@ description: A curated "awesome" list focused on GPU engineering for AI systems,
   collecting resources, tools, and references related to building and optimizing
   GPU-based AI infrastructure.
 source_url: https://github.com/goabiaryan/awesome-gpu-engineering
-featured: false
-brand_logo_url: null
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - gpu
   - ai
   - infrastructure
+featured: false
 markdown: >-
   # Awesome GPU Engineering
 
@@ -131,4 +129,5 @@ markdown: >-
 
   - **Free** – Open-source repository and resources, available at no cost under
   the CC BY 4.0 license.
-updated_at: 2025-12-25 11:11
+brand_logo_url: null
+updated_at: 2026-04-23 14:34

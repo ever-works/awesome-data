@@ -2,15 +2,12 @@ name: Awesome Bash
 description: An Awesome list of Bash scripts, tools, guides, and resources,
   curated as a directory for Bash users and shell scripting enthusiasts.
 source_url: https://github.com/awesome-lists/awesome-bash
-featured: false
-brand: github
-brand_logo_url: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - awesome-lists
   - cli
   - linux
+featured: false
 markdown: >-
   # Awesome Bash
 
@@ -79,4 +76,6 @@ markdown: >-
   ## Pricing
 
   - Awesome Bash is a free, open-source resource with no pricing or paid plans.
-updated_at: 2025-12-25 11:11
+brand: github
+brand_logo_url: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
+updated_at: 2026-04-23 14:34

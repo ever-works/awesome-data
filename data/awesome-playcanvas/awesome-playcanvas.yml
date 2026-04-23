@@ -2,16 +2,12 @@ name: Awesome PlayCanvas
 description: An awesome list of tutorials, components, and tools for the
   PlayCanvas WebGL game engine and platform.
 source_url: https://github.com/playcanvas/awesome-playcanvas#readme
-featured: false
-brand: playcanvas
-brand_logo_url: https://developer.playcanvas.com/images/logo.png
-images:
-  - https://developer.playcanvas.com/images/logo.png
-category: themed-directories
+category: Themed Directories
 tags:
   - games
   - webgl
   - engine
+featured: false
 markdown: >-
   ## Awesome PlayCanvas
 
@@ -73,4 +69,8 @@ markdown: >-
 
   - Distributed under the license specified in the repository’s `LICENSE` file
   (linked in the GitHub project).
-updated_at: 2025-12-25 11:11
+brand: playcanvas
+brand_logo_url: https://developer.playcanvas.com/images/logo.png
+images:
+  - https://developer.playcanvas.com/images/logo.png
+updated_at: 2026-04-23 14:34

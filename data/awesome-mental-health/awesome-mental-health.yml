@@ -2,15 +2,12 @@ name: Awesome Mental Health
 description: An Awesome collection of resources focused on mental health
   awareness and self-care in the software and tech industry.
 source_url: https://github.com/dreamingechoes/awesome-mental-health#readme
-featured: false
-brand: sindresorhusawesome
-brand_logo_url: https://raw.githubusercontent.com/sindresorhus/awesome/main/media/logo.svg
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - health
   - lifestyle
   - awesome-lists
+featured: false
 markdown: >-
   # Awesome Mental Health
 
@@ -74,4 +71,6 @@ markdown: >-
 
   - Includes a `LICENSE` file in the repository; see the GitHub project for the
   exact license terms.
-updated_at: 2025-12-25 11:11
+brand: sindresorhusawesome
+brand_logo_url: https://raw.githubusercontent.com/sindresorhus/awesome/main/media/logo.svg
+updated_at: 2026-04-23 14:34

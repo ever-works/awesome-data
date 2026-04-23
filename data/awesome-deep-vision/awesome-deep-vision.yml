@@ -4,15 +4,12 @@ description: A GitHub-hosted curated “awesome” list collecting deep learning
   tutorials. It is part of the broader Awesome ecosystem of topic-focused
   resource directories.
 source_url: https://github.com/kjw0612/awesome-deep-vision
-featured: false
-brand: kjw0612
-brand_logo_url: null
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - computer-vision
   - deep-learning
   - ai
+featured: false
 markdown: >-
   # Awesome Deep Vision
 
@@ -74,4 +71,6 @@ markdown: >-
   ## Pricing
 
   - Free to access and use (open GitHub repository / awesome list).
-updated_at: 2025-12-25 11:11
+brand: kjw0612
+brand_logo_url: null
+updated_at: 2026-04-23 14:34

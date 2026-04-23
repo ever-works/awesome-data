@@ -3,14 +3,12 @@ description: List Of Awesome Lists is a meta collection that scans and indexes a
   large number of awesome list repositories (130 under scanner), serving as an
   aggregated directory of awesome lists.
 source_url: https://github.com
-featured: false
-brand_logo_url: null
-images: null
-category: meta-directories
+category: Meta Directories
 tags:
   - meta-directory
   - awesome-lists
   - project-discovery
+featured: false
 markdown: >-
   ## List Of Awesome Lists
 
@@ -52,4 +50,5 @@ markdown: >-
   ### Source
 
   - **Code & project page:** https://github.com
-updated_at: 2025-12-30 18:29
+brand_logo_url: null
+updated_at: 2026-04-23 14:34

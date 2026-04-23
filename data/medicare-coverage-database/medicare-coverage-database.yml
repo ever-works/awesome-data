@@ -3,16 +3,12 @@ description: The U.S. Medicare Coverage Database providing structured
   information on national and local coverage determinations, referenced by the
   Awesome Public Datasets healthcare list.
 source_url: https://www.acpadvisors.org/acpa-comment-for-cms-4208-p
-featured: false
-brand: centers-for-medicare-medicaid-services-cms
-brand_logo_url: https://www.cms.gov/themes/custom/enterprise_exhibit/logo.svg
-images:
-  - https://www.cms.gov/sites/default/files/styles/featured_image/public/2021-01/cms-homepage.png
-category: themed-directories
+category: Themed Directories
 tags:
   - datasets
   - health
   - government
+featured: false
 markdown: |-
   # Medicare Coverage Database
 
@@ -56,4 +52,8 @@ markdown: |-
   ## Source
   - **Official information & access:** https://www.acpadvisors.org/acpa-comment-for-cms-4208-p  
   - **Item page:** https://www.medicare.gov/ (see Medicare Coverage Database via CMS resources)
-updated_at: 2025-12-30 18:29
+brand: centers-for-medicare-medicaid-services-cms
+brand_logo_url: https://www.cms.gov/themes/custom/enterprise_exhibit/logo.svg
+images:
+  - https://www.cms.gov/sites/default/files/styles/featured_image/public/2021-01/cms-homepage.png
+updated_at: 2026-04-23 14:34

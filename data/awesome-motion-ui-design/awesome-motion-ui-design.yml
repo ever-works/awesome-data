@@ -2,14 +2,12 @@ name: Awesome Motion UI Design
 description: A curated list of resources for motion UI design, including
   articles, tools, libraries, and examples.
 source_url: https://github.com/fliptheweb/motion-ui-design#readme
-featured: false
-brand_logo_url: null
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - design
   - ui
   - animation
+featured: false
 markdown: >-
   # Awesome Motion UI Design
 
@@ -107,4 +105,5 @@ markdown: >-
   improve motion design in their products.
 
   - Anyone researching or teaching **UI animation and motion design** concepts.
-updated_at: 2025-12-25 11:11
+brand_logo_url: null
+updated_at: 2026-04-23 14:34

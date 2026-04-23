@@ -1,7 +1,7 @@
 name: Hebrew-TTS-Providers
 description: Aggregated Hebrew TTS providers.
 source_url: https://github.com/danielrosehill/Hebrew-TTS-Providers
-category: themed-directories
+category: Themed Directories
 tags:
   - hebrew
   - tts
@@ -12,4 +12,4 @@ markdown: |-
   ## Overview
 
   Aggregated Hebrew TTS providers.
-updated_at: 2026-04-22 09:33
+updated_at: 2026-04-23 14:34

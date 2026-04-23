@@ -2,15 +2,12 @@ name: Awesome Question Answering
 description: An Awesome list of datasets, models, and research focused on
   automated question answering in natural language.
 source_url: https://github.com/seriousran/awesome-qa#readme
-featured: false
-brand: awesome-lists
-brand_logo_url: null
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - nlp
   - machine-learning
   - datasets
+featured: false
 markdown: >-
   # Awesome Question Answering
 
@@ -119,4 +116,6 @@ markdown: >-
 
   - Not applicable. This is an open-source, curated directory (awesome list)
   with no pricing plans indicated.
-updated_at: 2025-12-25 11:11
+brand: awesome-lists
+brand_logo_url: null
+updated_at: 2026-04-23 14:34

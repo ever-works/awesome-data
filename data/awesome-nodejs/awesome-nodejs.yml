@@ -2,15 +2,12 @@ name: Awesome Node.js
 description: A curated list of astonishing Node.js frameworks, libraries, and
   resources, serving as an awesome‑style directory for Node.js development.
 source_url: https://github.com/sindresorhus/awesome-nodejs
-featured: false
-brand: github
-brand_logo_url: https://github.githubassets.com/assets/GitHub-Logo-ee398b662d42.png
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - nodejs
   - developer-tools
   - awesome-lists
+featured: false
 markdown: >
   # Awesome Node.js
 
@@ -70,4 +67,6 @@ markdown: >
 
   - **Free**: Access to the Awesome Node.js list and all its content is free and
   open to everyone.
-updated_at: 2025-12-30 18:29
+brand: github
+brand_logo_url: https://github.githubassets.com/assets/GitHub-Logo-ee398b662d42.png
+updated_at: 2026-04-23 14:34

@@ -4,15 +4,12 @@ description: A finance section entry in the Awesome Public Datasets
   providing macroeconomic and financial time series. The Awesome listing offers
   a curated reference and metadata for this resource.
 source_url: https://research.stlouisfed.org/fred2/
-featured: false
-brand: awesomedata-awesome-public-datasets
-brand_logo_url: /awesomedata/apd-core/raw/master/apd-logo.png
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - datasets
   - financial
   - time-series
+featured: false
 markdown: |
   ## St. Louis Federal FRED
 
@@ -56,4 +53,6 @@ markdown: |
 
   ### Pricing
   - The content provided does not specify pricing or paid plans. FRED is generally known as a freely accessible public data service; no pricing information is indicated in the extracted content.
-updated_at: 2025-12-30 18:29
+brand: awesomedata-awesome-public-datasets
+brand_logo_url: /awesomedata/apd-core/raw/master/apd-logo.png
+updated_at: 2026-04-23 14:34

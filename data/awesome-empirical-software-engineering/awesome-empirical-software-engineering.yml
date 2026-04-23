@@ -3,14 +3,12 @@ description: An awesome list focusing on empirical software engineering and
   mining software repositories, collecting papers, datasets, and tools for
   evidence-based research on software systems.
 source_url: https://github.com/dspinellis/awesome-msr#readme
-featured: false
-brand_logo_url: null
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - software
   - research
   - awesome-lists
+featured: false
 markdown: >-
   # Awesome Empirical Software Engineering
 
@@ -65,4 +63,5 @@ markdown: >-
 
   - Access to the list and linked resources is free (subject to the licenses of
   individual datasets/tools).
-updated_at: 2025-12-25 11:11
+brand_logo_url: null
+updated_at: 2026-04-23 14:34

@@ -2,15 +2,12 @@ name: awesome-reversing
 description: An Awesome-style curated list of software reverse-engineering
   resources, including tools, tutorials, and references for reversing.
 source_url: https://github.com/tylerph3/awesome-reversing
-featured: false
-brand: github
-brand_logo_url: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - security
   - reverse-engineering
   - education
+featured: false
 markdown: >-
   # awesome-reversing
 
@@ -112,4 +109,6 @@ markdown: >-
 
   - Finding platform-specific tools (e.g., Android, macOS) and analysis
   categories (e.g., document analysis, YARA).
-updated_at: 2025-12-25 11:11
+brand: github
+brand_logo_url: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
+updated_at: 2026-04-23 14:34

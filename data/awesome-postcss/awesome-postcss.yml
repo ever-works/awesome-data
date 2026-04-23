@@ -2,16 +2,12 @@ name: Awesome PostCSS
 description: An awesome list of PostCSS plugins, tools, and resources for
   transforming CSS with JavaScript.
 source_url: https://github.com/jdrgomes/awesome-postcss#readme
-featured: false
-brand: postcss
-brand_logo_url: https://postcss.org/assets/postcss-logo.svg
-images:
-  - https://postcss.org/assets/postcss-logo.svg
-category: themed-directories
+category: Themed Directories
 tags:
   - awesome-lists
   - css
   - javascript
+featured: false
 markdown: >-
   # Awesome PostCSS
 
@@ -67,4 +63,8 @@ markdown: >-
 
   - **Free** – The list and all its contents are available at no cost as an
   open-source GitHub repository.
-updated_at: 2025-12-25 11:11
+brand: postcss
+brand_logo_url: https://postcss.org/assets/postcss-logo.svg
+images:
+  - https://postcss.org/assets/postcss-logo.svg
+updated_at: 2026-04-23 14:34

@@ -2,14 +2,12 @@ name: Meta Awesome - Extensions
 description: An awesome meta-directory listing awesome collections about
   extensions, such as browser, editor, or tool extensions.
 source_url: https://github.com/jepemo/meta-awesome/blob/master/doc/extensions.md
-featured: false
-brand_logo_url: null
-images: []
-category: meta-directories
+category: Meta Directories
 tags:
   - plugins
   - directory-of-directories
   - awesome-lists
+featured: false
 markdown: >
   # Meta Awesome – Extensions
 
@@ -57,4 +55,6 @@ markdown: >
   - Not a commercial product or service.  
 
   - Publicly accessible GitHub document; no pricing or plans.
-updated_at: 2025-12-25 11:11
+brand_logo_url: null
+images: []
+updated_at: 2026-04-23 14:34

@@ -3,15 +3,12 @@ description: An Awesome collection of cryptocurrency-related tools, libraries,
   and algorithms, covering digital currencies and cryptographic transaction
   handling.
 source_url: https://github.com/Zheaoli/awesome-coins#readme
-featured: false
-brand: ""
-brand_logo_url: /
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - blockchain
   - cryptography
   - financial
+featured: false
 markdown: >-
   # Awesome Crypto Currency Tools & Algorithms
 
@@ -71,4 +68,6 @@ markdown: >-
   ## Pricing
 
   - Free to access and use (open-source GitHub repository).
-updated_at: 2025-12-25 11:11
+brand: ""
+brand_logo_url: /
+updated_at: 2026-04-23 14:34

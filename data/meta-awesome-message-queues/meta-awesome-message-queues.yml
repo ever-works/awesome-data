@@ -2,15 +2,12 @@ name: Meta Awesome - Message Queues
 description: A Meta Awesome Awesome-style sublist centered on message queue
   systems, brokers, and related tooling.
 source_url: https://github.com/jepemo/meta-awesome/blob/master/doc/message-queues.md
-featured: false
-brand: jepemometa-awesome
-brand_logo_url: null
-images: null
-category: meta-directories
+category: Meta Directories
 tags:
   - awesome-lists
   - queue
   - distributed
+featured: false
 markdown: >-
   # Meta Awesome - Message Queues
 
@@ -52,4 +49,6 @@ markdown: >-
   ## Pricing
 
   - Free to access and use (GitHub-hosted list)
-updated_at: 2025-12-26 11:32
+brand: jepemometa-awesome
+brand_logo_url: null
+updated_at: 2026-04-23 14:34

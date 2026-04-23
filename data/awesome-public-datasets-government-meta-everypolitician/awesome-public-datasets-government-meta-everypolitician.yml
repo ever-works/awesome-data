@@ -3,15 +3,12 @@ description: Awesome Public Datasets item for EveryPolitician, an ongoing
   project that collates and openly publishes structured data about politicians
   worldwide, organized as reusable datasets.
 source_url: http://everypolitician.org/
-featured: false
-brand: awesome-data
-brand_logo_url: /awesome-data/logo.png
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - open-data
   - politics
   - datasets
+featured: false
 markdown: >-
   # Awesome Public Datasets – Government (Meta: EveryPolitician)
 
@@ -90,4 +87,6 @@ markdown: >-
   The provided content does not specify any pricing or plans. The resource is
   presented as an open, community-oriented data project; consult the source site
   for any licensing or access details.
-updated_at: 2025-12-30 18:29
+brand: awesome-data
+brand_logo_url: /awesome-data/logo.png
+updated_at: 2026-04-23 14:34

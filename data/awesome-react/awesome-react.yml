@@ -3,16 +3,12 @@ description: A curated awesome list of resources around the React ecosystem,
   including libraries, tools, and learning material, structured as an awesome
   directory.
 source_url: https://github.com/enaqx/awesome-react
-featured: false
-brand: enaqx
-brand_logo_url: https://avatars.githubusercontent.com/u/182219?v=4
-images:
-  - https://opengraph.githubassets.com/1/enaqx/awesome-react
-category: themed-directories
+category: Themed Directories
 tags:
   - awesome-lists
   - javascript
   - web-development
+featured: false
 markdown: >-
   ---
 
@@ -90,4 +86,8 @@ markdown: >-
 
   - Not applicable – Awesome React is an open, free GitHub repository of links
   and resources.
-updated_at: 2025-12-25 11:11
+brand: enaqx
+brand_logo_url: https://avatars.githubusercontent.com/u/182219?v=4
+images:
+  - https://opengraph.githubassets.com/1/enaqx/awesome-react
+updated_at: 2026-04-23 14:34

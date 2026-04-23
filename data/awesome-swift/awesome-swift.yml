@@ -2,15 +2,12 @@ name: Awesome Swift
 description: Awesome list of Swift frameworks, libraries, and software for iOS,
   macOS, and other Apple platforms.
 source_url: https://github.com/uhub/awesome-swift
-featured: false
-brand: uhub
-brand_logo_url: /uhub.png
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - awesome-lists
   - swift
   - developer-tools
+featured: false
 markdown: >-
   ## Awesome Swift
 
@@ -74,4 +71,6 @@ markdown: >-
 
   - Awesome Swift is an open source GitHub repository and is **free to use and
   access**.
-updated_at: 2025-12-25 11:11
+brand: uhub
+brand_logo_url: /uhub.png
+updated_at: 2026-04-23 14:34

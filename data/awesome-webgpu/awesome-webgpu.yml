@@ -2,15 +2,12 @@ name: Awesome WebGPU
 description: A curated list of resources, libraries, and demos for WebGPU, the
   JavaScript API for high-performance GPU rendering and compute in browsers.
 source_url: https://github.com/mikbry/awesome-webgpu#readme
-featured: false
-brand: mikbry
-brand_logo_url: null
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - awesome-lists
   - web-development
   - curated-lists
+featured: false
 markdown: >-
   # Awesome WebGPU
 
@@ -156,4 +153,6 @@ markdown: >-
 
   - Not applicable. Awesome WebGPU is an open GitHub repository / curated list
   and is available for free use and contribution.
-updated_at: 2025-12-25 11:11
+brand: mikbry
+brand_logo_url: null
+updated_at: 2026-04-23 14:34

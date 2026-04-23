@@ -3,16 +3,12 @@ description: An awesome list of resources, starters, plugins, and guides for the
   WordPress-Gatsby technology stack, using WordPress as a headless CMS and
   Gatsby as the front end.
 source_url: https://github.com/henrikwirth/awesome-wordpress-gatsby#readme
-featured: false
-brand: gatsby
-brand_logo_url: https://www.gatsbyjs.com/Gatsby-Monogram.svg
-images:
-  - https://www.gatsbyjs.com/Gatsby-Monogram.svg
-category: themed-directories
+category: Themed Directories
 tags:
   - jamstack
   - web-development
   - cms
+featured: false
 markdown: >-
   # Awesome WordPress-Gatsby
 
@@ -72,4 +68,8 @@ markdown: >-
 
   - Not applicable. This is an open GitHub repository / curated list, not a paid
   product or service.
-updated_at: 2025-12-25 11:11
+brand: gatsby
+brand_logo_url: https://www.gatsbyjs.com/Gatsby-Monogram.svg
+images:
+  - https://www.gatsbyjs.com/Gatsby-Monogram.svg
+updated_at: 2026-04-23 14:34

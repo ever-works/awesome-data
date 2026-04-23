@@ -3,15 +3,12 @@ description: An Awesome directory of projects, demos, and resources for
   TensorFlow.js, the WebGL-accelerated JavaScript library for training and
   deploying ML models in the browser.
 source_url: https://github.com/aaronhma/awesome-tensorflow-js#readme
-featured: false
-brand: awesome-lists
-brand_logo_url: null
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - javascript
   - machine-learning
   - web
+featured: false
 markdown: >-
   # Awesome TensorFlow.js
 
@@ -76,4 +73,6 @@ markdown: >-
 
   - Not applicable. Awesome TensorFlow.js is an open, curated list of external
   resources and tools.
-updated_at: 2025-12-25 11:11
+brand: awesome-lists
+brand_logo_url: null
+updated_at: 2026-04-23 14:34

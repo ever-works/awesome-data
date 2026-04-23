@@ -3,14 +3,12 @@ description: A curated list of Bitcoin services, libraries, and tools for
   software developers, forming part of the broader Awesome ecosystem of
   topic-specific directories.
 source_url: https://github.com/igorbarinov/awesome-bitcoin#readme
-featured: false
-brand_logo_url: null
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - awesome-lists
   - bitcoin
   - blockchain
+featured: false
 markdown: >-
   # Awesome Bitcoin
 
@@ -127,4 +125,5 @@ markdown: >-
 
   - **Repository & Readme:**
   https://github.com/igorbarinov/awesome-bitcoin#readme
-updated_at: 2025-12-25 11:11
+brand_logo_url: null
+updated_at: 2026-04-23 14:34

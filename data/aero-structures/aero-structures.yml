@@ -1,0 +1,38 @@
+name: Aero Structures
+description: A curated meta-collection of awesome resources and lists focused on
+  aircraft structures analysis for aerospace engineers, aggregating GitHub
+  repositories, tools, papers, and tutorials for easy discovery. Key features
+  include categorized content and ongoing updates. Ideal for researching
+  aerospace projects and finding structural analysis alternatives; more niche
+  than sindresorhus/awesome.
+source_url: https://github.com/teresagris/aero-structures
+category: Meta Awesome Directories
+tags:
+  - meta-list
+  - list-of-lists
+  - aerospace
+featured: false
+markdown: |-
+  ## Overview
+
+  Curated collection of resources for aircraft structure analysis.
+
+  ## Features
+
+  - Tutorials, research papers, and tools
+  - Aggregates GitHub repositories
+  - Categorized and updated
+
+  ## Use Cases
+
+  - Researching aero structures projects
+  - Finding engineering alternatives
+
+  ## Comparison
+
+  More niche than sindresorhus/awesome.
+
+  ## Pricing
+
+  Free resources.
+updated_at: 2026-04-23 14:34

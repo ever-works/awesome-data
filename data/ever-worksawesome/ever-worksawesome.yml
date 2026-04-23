@@ -1,36 +1,52 @@
 name: ever-works/awesome
-description: "ever-works/awesome is a meta collection mirroring dir.works,
-  aggregating awesome directories with details on PaaS, entities, official
-  links. Features deep categorization, 2026 updates. Use cases: comprehensive
-  discovery. Vs sindresorhus: more directory-focused."
+description: Curates a meta-collection of awesome directories and lists,
+  mirroring dir.works with details on PaaS, entities, and official links. Key
+  features include deep categorization, starred repositories, and
+  community-driven updates as of 2026. Ideal for quick resource discovery and
+  learning paths in directory ecosystems; more niche and directory-focused
+  compared to general collections like sindresorhus/awesome.
 source_url: https://github.com/ever-works/awesome
-category: Meta Directories
+category: Meta Awesome Directories
 tags:
-  - meta-directory
-  - directory-of-lists
-  - meta-awesome
-  - inception-lists
   - awesome-lists
+  - meta-directory
+  - curated-lists
+  - open-source
+  - directory-of-directories
 featured: false
-markdown: |-
-  # ever-works/awesome
-
+markdown: >-
   ## Overview
-  Meta collection mirroring dir.works, aggregating awesome directories.
+
+
+  ever-works/awesome aggregates awesome directories, providing structured access
+  to curated resources.
+
 
   ## Features
-  - Deep categorization
-  - Details on PaaS, entities, official links
-  - 2026 updates
+
+
+  - Deeply categorized lists of directories
+
+  - Includes PaaS details, entities, and official links
+
+  - Community-driven with regular updates
+
 
   ## Use Cases
-  - Comprehensive discovery
 
-  ## Comparisons
-  More directory-focused than sindresorhus/awesome.
+
+  - Comprehensive discovery of directories
+
+  - Building learning paths across topics
+
 
   ## Pricing
+
+
   Free and open-source.
-brand_logo_url: null
-images: []
-updated_at: 2026-04-23 09:02
+brand: ever-works
+brand_logo_url: https://avatars.githubusercontent.com/u/117539003?v=4
+images:
+  - https://github.com/ever-works/awesome/raw/main/banner.png
+  - https://githubassets.com/images/modules/logos_page/GitHub-Mark.png
+updated_at: 2026-04-23 14:34

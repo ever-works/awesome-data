@@ -2,15 +2,12 @@ name: Awesome Refinery CMS
 description: An Awesome list of plugins, extensions, and resources for the Ruby
   on Rails–based Refinery CMS.
 source_url: https://github.com/refinerycms-contrib/awesome-refinerycms#readme
-featured: false
-brand: refinery-cms
-brand_logo_url: null
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - cms
   - ruby
   - web-development
+featured: false
 markdown: >-
   # Awesome Refinery CMS
 
@@ -58,4 +55,6 @@ markdown: >-
 
   - The Awesome Refinery CMS list is an open GitHub repository and is free to
   access and use.
-updated_at: 2025-12-25 11:11
+brand: refinery-cms
+brand_logo_url: null
+updated_at: 2026-04-23 14:34

@@ -2,14 +2,11 @@ name: meta-awesome - Notifications
 description: Meta-awesome category organizing awesome lists for notification
   systems, libraries, and services.
 source_url: https://github.com/jepemo/meta-awesome/blob/master/doc/notifications.md
-featured: false
-brand: jepemometa-awesome
-brand_logo_url: null
-images: null
-category: meta-directories
+category: Meta Directories
 tags:
   - meta-directory
   - developer-resources
+featured: false
 markdown: >-
   # meta-awesome – Notifications
 
@@ -60,4 +57,6 @@ markdown: >-
 
   - Public GitHub resource, free to browse and use under the repository’s
   license.
-updated_at: 2025-12-25 11:11
+brand: jepemometa-awesome
+brand_logo_url: null
+updated_at: 2026-04-23 14:34

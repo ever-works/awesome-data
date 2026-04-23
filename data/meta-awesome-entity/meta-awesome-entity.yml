@@ -3,14 +3,12 @@ description: A meta-awesome category file that links to awesome lists concerning
   entities (such as entity-component systems or domain entities), providing a
   higher-level index.
 source_url: https://github.com/jepemo/meta-awesome/blob/master/doc/entity.md
-featured: false
-brand_logo_url: null
-images: []
-category: meta-directories
+category: Meta Directories
 tags:
   - meta-directory
   - directory-of-directories
   - github
+featured: false
 markdown: |-
   # meta-awesome: Entity
 
@@ -50,4 +48,6 @@ markdown: |-
 
   ## Pricing
   Not applicable. This is an open GitHub document and does not list any pricing or paid plans.
-updated_at: 2025-12-25 11:11
+brand_logo_url: null
+images: []
+updated_at: 2026-04-23 14:34

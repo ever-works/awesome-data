@@ -2,14 +2,12 @@ name: Awesome Progressive Web Apps
 description: A curated list of resources, tools, and examples for building
   Progressive Web Apps (PWAs).
 source_url: https://github.com/TalAter/awesome-progressive-web-apps#readme
-featured: false
-brand_logo_url: null
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - web
   - frontend
   - awesome-lists
+featured: false
 markdown: >-
   # Awesome Progressive Web Apps
 
@@ -58,4 +56,5 @@ markdown: >-
   ## Pricing
 
   - Not applicable (GitHub-based curated list; no pricing information provided).
-updated_at: 2025-12-25 11:11
+brand_logo_url: null
+updated_at: 2026-04-23 14:34

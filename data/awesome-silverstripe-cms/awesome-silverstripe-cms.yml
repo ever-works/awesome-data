@@ -2,15 +2,12 @@ name: Awesome Silverstripe CMS
 description: Curated Awesome list of modules, themes, and resources for the
   PHP-based Silverstripe CMS and framework.
 source_url: https://github.com/wernerkrauss/awesome-silverstripe-cms#readme
-featured: false
-brand: silverstripe
-brand_logo_url: null
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - cms
   - php
   - web-development
+featured: false
 markdown: >-
   # Awesome Silverstripe CMS
 
@@ -68,4 +65,6 @@ markdown: >-
 
   - Access to the Awesome Silverstripe CMS list is **free** (open GitHub
   repository under CC0-1.0).
-updated_at: 2025-12-25 11:11
+brand: silverstripe
+brand_logo_url: null
+updated_at: 2026-04-23 14:34

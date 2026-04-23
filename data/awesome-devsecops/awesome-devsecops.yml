@@ -2,14 +2,11 @@ name: Awesome DevSecOps
 description: An awesome-curated collection of resources about integrating
   security practices into DevOps workflows (DevSecOps).
 source_url: https://github.com/TaptuIT/awesome-devsecops
-featured: false
-brand: taptuit-on-github
-brand_logo_url: https://github.githubassets.com/favicons/favicon.svg
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - security
   - devops
+featured: false
 markdown: >-
   # Awesome DevSecOps
 
@@ -128,4 +125,6 @@ markdown: >-
 
   - Not applicable. Awesome DevSecOps is a public, open-source curated list and
   directory of resources and tools, accessible freely via GitHub.
-updated_at: 2025-12-25 11:11
+brand: taptuit-on-github
+brand_logo_url: https://github.githubassets.com/favicons/favicon.svg
+updated_at: 2026-04-23 14:34

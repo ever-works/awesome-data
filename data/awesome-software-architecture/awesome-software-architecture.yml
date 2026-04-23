@@ -3,15 +3,12 @@ description: A curated list of resources on software architecture, including
   patterns, principles, books, and tools for designing and building software
   systems.
 source_url: https://github.com/simskij/awesome-software-architecture#readme
-featured: false
-brand: awesome
-brand_logo_url: /.github/logo.png
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - architecture
   - software
   - development
+featured: false
 markdown: >-
   # Awesome Software Architecture
 
@@ -72,4 +69,6 @@ markdown: >-
 
   - Includes a `license.md` file in the repository specifying licensing terms
   for the list (see repository for details).
-updated_at: 2025-12-25 11:11
+brand: awesome
+brand_logo_url: /.github/logo.png
+updated_at: 2026-04-23 14:34

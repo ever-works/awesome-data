@@ -1,15 +1,12 @@
 name: Awesome Crystal
 description: Curated Awesome directory of Crystal language libraries, frameworks, and tools.
 source_url: https://github.com/veelenga/awesome-crystal#readme
-featured: false
-brand: sindresorhusawesome
-brand_logo_url: https://raw.githubusercontent.com/sindresorhus/awesome/main/media/logo.svg
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - awesome-lists
   - crystal
   - developer-tools
+featured: false
 markdown: >
   # Awesome Crystal
 
@@ -70,4 +67,6 @@ markdown: >
 
   - Not applicable. Awesome Crystal is an open, GitHub-hosted curated list and
   is free to use and contribute to.
-updated_at: 2025-12-25 11:11
+brand: sindresorhusawesome
+brand_logo_url: https://raw.githubusercontent.com/sindresorhus/awesome/main/media/logo.svg
+updated_at: 2026-04-23 14:34

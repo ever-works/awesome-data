@@ -2,16 +2,12 @@ name: Awesome .NET Core
 description: A curated list of libraries, tools, and frameworks specifically for
   .NET Core and modern .NET development.
 source_url: https://github.com/thangchung/awesome-dotnet-core#readme
-featured: false
-brand: net
-brand_logo_url: https://dotnet.microsoft.com/static/images/redesign/social-hero.svg
-images:
-  - https://repository-images.githubusercontent.com/53325958/2a7e8d80-6f3d-11ea-8c4e-0c22151f0d97
-category: themed-directories
+category: Themed Directories
 tags:
   - dotnet
   - framework
   - developer-tools
+featured: false
 markdown: |-
   # Awesome .NET Core
 
@@ -101,4 +97,8 @@ markdown: |-
   ## Pricing
 
   - Not applicable. Awesome .NET Core is a public, community-maintained list; no pricing or plans are specified.
-updated_at: 2025-12-25 11:11
+brand: net
+brand_logo_url: https://dotnet.microsoft.com/static/images/redesign/social-hero.svg
+images:
+  - https://repository-images.githubusercontent.com/53325958/2a7e8d80-6f3d-11ea-8c4e-0c22151f0d97
+updated_at: 2026-04-23 14:34

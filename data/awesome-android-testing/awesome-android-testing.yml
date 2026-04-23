@@ -2,15 +2,12 @@ name: awesome-android-testing
 description: A curated awesome list of Android testing libraries and tools to
   support testing workflows in Android development.
 source_url: https://github.com/hotchemi/awesome-android-testing
-featured: false
-brand: hotchemi
-brand_logo_url: https://avatars.githubusercontent.com/u/1386930
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - awesome-lists
   - android
   - testing
+featured: false
 markdown: >-
   # awesome-android-testing
 
@@ -94,4 +91,6 @@ markdown: >-
   - This is a public GitHub repository (curated list).  
 
   - No pricing or paid plans are specified; access to the list itself is free.
-updated_at: 2025-12-25 11:11
+brand: hotchemi
+brand_logo_url: https://avatars.githubusercontent.com/u/1386930
+updated_at: 2026-04-23 14:34

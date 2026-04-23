@@ -2,15 +2,12 @@ name: Awesome J2ME
 description: Awesome directory of libraries and resources for J2ME, the Java
   specification for older mobile devices and PDAs.
 source_url: https://github.com/hstsethi/awesome-j2me#readme
-featured: false
-brand: sindresorhusawesome
-brand_logo_url: https://raw.githubusercontent.com/sindresorhus/awesome/main/media/logo.svg
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - awesome-lists
   - mobile
   - java
+featured: false
 markdown: >
   # Awesome J2ME
 
@@ -76,4 +73,6 @@ markdown: >
   - Not a commercial product or service.  
 
   - Open-source, free-to-access curated directory hosted on GitHub.
-updated_at: 2025-12-25 11:11
+brand: sindresorhusawesome
+brand_logo_url: https://raw.githubusercontent.com/sindresorhus/awesome/main/media/logo.svg
+updated_at: 2026-04-23 14:34

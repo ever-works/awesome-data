@@ -3,15 +3,12 @@ description: The Getty vocabularies (AAT, TGN, ULAN, etc.) accessible via an
   online service, providing authoritative art and cultural heritage controlled
   vocabularies, listed in the Museums section of Awesome Public Datasets.
 source_url: http://vocab.getty.edu
-featured: false
-brand: the-j-paul-getty-trust
-brand_logo_url: null
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - culture
   - datasets
   - research
+featured: false
 markdown: >-
   # Getty Vocabularies
 
@@ -182,4 +179,6 @@ markdown: >-
   vocabularies and datasets are presented as Linked Open Data with public
   endpoints and downloadable files; licensing or usage terms, if any, are not
   specified here.
-updated_at: 2025-12-30 18:29
+brand: the-j-paul-getty-trust
+brand_logo_url: null
+updated_at: 2026-04-23 14:34

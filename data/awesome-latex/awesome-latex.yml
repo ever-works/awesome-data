@@ -2,15 +2,12 @@ name: Awesome LaTeX
 description: An Awesome collection of LaTeX packages, templates, editors, and
   learning materials.
 source_url: https://github.com/egeerardyn/awesome-LaTeX#readme
-featured: false
-brand: sindresorhusawesome
-brand_logo_url: /sindresorhus/awesome/raw/main/media/logo.png
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - awesome-lists
   - documentation
   - math
+featured: false
 markdown: >
   ---
 
@@ -211,4 +208,6 @@ markdown: >
 
   Not applicable. Awesome LaTeX is a curated, open directory of tools and
   resources; it does not provide commercial pricing or subscription plans.
-updated_at: 2025-12-25 11:11
+brand: sindresorhusawesome
+brand_logo_url: /sindresorhus/awesome/raw/main/media/logo.png
+updated_at: 2026-04-23 14:34

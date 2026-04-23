@@ -2,15 +2,12 @@ name: Meta Awesome - OTP
 description: Meta-awesome section listing awesome collections for OTP (One-Time
   Password) and possibly Erlang/Elixir OTP-related resources.
 source_url: https://github.com/jepemo/meta-awesome/blob/master/doc/otp.md
-featured: false
-brand: jepemometa-awesome
-brand_logo_url: null
-images: null
-category: meta-directories
+category: Meta Directories
 tags:
   - awesome-lists
   - meta-directory
   - security
+featured: false
 markdown: >-
   # Meta Awesome - OTP
 
@@ -65,4 +62,6 @@ markdown: >-
   - Not a commercial product or service.  
 
   - Access is free and open via GitHub.
-updated_at: 2025-12-25 11:11
+brand: jepemometa-awesome
+brand_logo_url: null
+updated_at: 2026-04-23 14:34

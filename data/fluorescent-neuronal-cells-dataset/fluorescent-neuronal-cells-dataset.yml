@@ -3,15 +3,12 @@ description: An image dataset of fluorescent neuronal cells intended as a
   testbed for developing and benchmarking machine learning and image analysis
   methods in neuroscience. Included in an awesome ML datasets list.
 source_url: http://amsacta.unibo.it/id/eprint/6706
-featured: false
-brand: alma-mater-studiorum-universita-di-bologna
-brand_logo_url: null
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - datasets
   - neuroscience
   - computer-vision
+featured: false
 markdown: >-
   # Fluorescent Neuronal Cells Dataset
 
@@ -170,4 +167,6 @@ markdown: >-
 
   - Users are encouraged to cite the associated Scientific Reports paper when
   using the dataset in academic work.
-updated_at: 2025-12-30 18:29
+brand: alma-mater-studiorum-universita-di-bologna
+brand_logo_url: null
+updated_at: 2026-04-23 14:34

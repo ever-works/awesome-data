@@ -3,14 +3,12 @@ description: Curated list of awesome fonts and font resources, including
   programming, text, and display fonts. Part of the broader Awesome ecosystem of
   topic-focused directories.
 source_url: https://github.com/brabadu/awesome-fonts#readme
-featured: false
-brand_logo_url: null
-images: []
-category: themed-directories
+category: Themed Directories
 tags:
   - awesome-lists
   - design
   - css
+featured: false
 markdown: >
   # Awesome Fonts
 
@@ -92,4 +90,6 @@ markdown: >
 
 
   - Not applicable. This is a free, open GitHub repository and resource list.
-updated_at: 2025-12-25 11:11
+brand_logo_url: null
+images: []
+updated_at: 2026-04-23 14:34

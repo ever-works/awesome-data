@@ -4,17 +4,12 @@ description: The SNAP Stanford Large Network Dataset Collection is a widely used
   communication, citation networks, etc.), frequently linked from awesome-style
   lists of complex network and graph resources.
 source_url: http://snap.stanford.edu/data/
-featured: false
-brand: stanford-university
-brand_logo_url: https://snap.stanford.edu/snap.png
-images:
-  - http://snap.stanford.edu/images/snaplogo.png
-  - http://snap.stanford.edu/images/snap-screenshot.png
-category: themed-directories
+category: Themed Directories
 tags:
   - graph
   - datasets
   - research
+featured: false
 markdown: >-
   # SNAP Stanford Large Network Dataset Collection
 
@@ -271,4 +266,9 @@ markdown: >-
   No pricing information is provided in the given content. The collection is
   widely used in research; licensing or usage terms should be checked on the
   official website for each dataset if needed.
-updated_at: 2025-12-30 18:29
+brand: stanford-university
+brand_logo_url: https://snap.stanford.edu/snap.png
+images:
+  - http://snap.stanford.edu/images/snaplogo.png
+  - http://snap.stanford.edu/images/snap-screenshot.png
+updated_at: 2026-04-23 14:34

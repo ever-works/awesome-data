@@ -3,15 +3,12 @@ description: An awesome-style curated list of dashboard and data visualization
   tools and resources, serving as a thematic directory in the awesome
   meta-collection.
 source_url: https://github.com/obazoud/awesome-dashboard
-featured: false
-brand: obazoud-on-github
-brand_logo_url: /obazoud on GitHub
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - data-visualization
   - analytics
   - awesome-lists
+featured: false
 markdown: |-
   # awesome-dashboard
 
@@ -63,4 +60,6 @@ markdown: |-
   - This is an open-source, Markdown-based list on GitHub.
   - No pricing or paid plans are associated with the directory itself.
   - Individual tools listed may have their own licensing or pricing, which must be checked per project.
-updated_at: 2025-12-25 11:11
+brand: obazoud-on-github
+brand_logo_url: /obazoud on GitHub
+updated_at: 2026-04-23 14:34

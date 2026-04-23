@@ -3,15 +3,12 @@ description: A Meta Awesome page that aggregates Awesome-style curated lists of
   podcasts across different domains, acting as a higher-level directory of
   podcast-related Awesome lists.
 source_url: https://github.com/jepemo/meta-awesome/blob/master/doc/podcasts.md
-featured: false
-brand: github
-brand_logo_url: https://github.githubassets.com/images/modules/logos_page/GitHub-Logo.png
-images: null
-category: meta-directories
+category: Meta Directories
 tags:
   - awesome-lists
   - meta-directory
   - podcasts
+featured: false
 markdown: >-
   # Meta Awesome - Podcasts
 
@@ -58,4 +55,6 @@ markdown: >-
 
   - Not applicable. This is a free, open GitHub directory page (no pricing or
   plans indicated).
-updated_at: 2025-12-26 11:32
+brand: github
+brand_logo_url: https://github.githubassets.com/images/modules/logos_page/GitHub-Logo.png
+updated_at: 2026-04-23 14:34

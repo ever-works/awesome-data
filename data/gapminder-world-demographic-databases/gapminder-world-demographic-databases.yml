@@ -3,17 +3,12 @@ description: Healthcare-relevant demographic and public health datasets curated
   by Gapminder, referenced from the Awesome Public Datasets healthcare
   directory.
 source_url: http://www.gapminder.org/data/
-featured: false
-brand: gapminder
-brand_logo_url: https://www.gapminder.org/wp-content/themes/gapminder3/dist/images/gapminder-logo.svg
-images:
-  - https://www.gapminder.org/wp-content/uploads/2018/07/bubbles-800x450.png
-  - https://www.gapminder.org/wp-content/uploads/2015/12/Screen-Shot-2015-12-09-at-13.32.04.png
-category: themed-directories
+category: Themed Directories
 tags:
   - datasets
   - health
   - demographics
+featured: false
 markdown: |-
   # Gapminder World Demographic Databases
 
@@ -85,4 +80,9 @@ markdown: |-
   - World Development Indicators repo: https://github.com/open-numbers/ddf--open_numbers--world_development_indicators
   - DDF data model: https://open-numbers.github.io/ddf.html
   - License & free material info: https://www.gapminder.org/free-material/
-updated_at: 2025-12-30 18:29
+brand: gapminder
+brand_logo_url: https://www.gapminder.org/wp-content/themes/gapminder3/dist/images/gapminder-logo.svg
+images:
+  - https://www.gapminder.org/wp-content/uploads/2018/07/bubbles-800x450.png
+  - https://www.gapminder.org/wp-content/uploads/2015/12/Screen-Shot-2015-12-09-at-13.32.04.png
+updated_at: 2026-04-23 14:34

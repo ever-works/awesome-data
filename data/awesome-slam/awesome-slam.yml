@@ -3,15 +3,12 @@ description: A specialized awesome directory of SLAM tutorials, projects, and
   communities, extending the awesome ecosystem into robotics and computer
   vision.
 source_url: https://github.com/kanster/awesome-slam
-featured: false
-brand: kanster-on-github
-brand_logo_url: /kanster on GitHub
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - awesome-lists
   - robotics
   - computer-vision
+featured: false
 markdown: >-
   # awesome-slam
 
@@ -76,4 +73,6 @@ markdown: >-
   - **Maintainer/Brand:** kanster-on-github
 
   - **Platform:** GitHub repository (`kanster/awesome-slam`)
-updated_at: 2025-12-25 11:11
+brand: kanster-on-github
+brand_logo_url: /kanster on GitHub
+updated_at: 2026-04-23 14:34

@@ -3,15 +3,12 @@ description: Entry in the Awesome Public Datasets collection listing Japan’s
   official government statistics and open data portal, providing access to a
   wide range of public datasets for research and analysis.
 source_url: http://www.e-stat.go.jp/SG1/estat/eStatTopPortalE.do
-featured: false
-brand: awesome-public-datasets
-brand_logo_url: null
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - government
   - datasets
   - open-data
+featured: false
 markdown: >-
   # Awesome Public Datasets – Government: Japan
 
@@ -172,4 +169,6 @@ markdown: >-
 
   - No pricing or paid plans are indicated in the provided content (datasets are
   typically freely accessible as public statistics).
-updated_at: 2025-12-30 18:29
+brand: awesome-public-datasets
+brand_logo_url: null
+updated_at: 2026-04-23 14:34

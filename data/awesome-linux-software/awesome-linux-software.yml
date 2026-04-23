@@ -2,15 +2,12 @@ name: Awesome-Linux-Software
 description: A curated awesome list of Linux applications, software, tools, and
   other useful materials for various Linux distributions.
 source_url: https://github.com/VoLuong/Awesome-Linux-Software
-featured: false
-brand: voluong
-brand_logo_url: https://avatars.githubusercontent.com/u/1311594
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - linux
   - software
   - awesome-lists
+featured: false
 markdown: >
   # Awesome-Linux-Software
 
@@ -65,4 +62,6 @@ markdown: >
   ## Pricing
 
   - Not applicable. This is a free, open GitHub repository / list.
-updated_at: 2025-12-25 11:11
+brand: voluong
+brand_logo_url: https://avatars.githubusercontent.com/u/1311594
+updated_at: 2026-04-23 14:34

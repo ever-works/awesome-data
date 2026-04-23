@@ -2,15 +2,12 @@ name: Awesome nginx Resources
 description: A curated collection of resources, modules, tools, and
   documentation for the nginx web server.
 source_url: https://github.com/fcambus/nginx-resources#readme
-featured: false
-brand: rawesome
-brand_logo_url: null
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - server
   - web
   - devops
+featured: false
 markdown: >
   # Awesome nginx Resources
 
@@ -50,4 +47,6 @@ markdown: >
   ## Pricing
 
   - Not applicable. This is a free, open, GitHub-hosted resource list.
-updated_at: 2025-12-25 11:11
+brand: rawesome
+brand_logo_url: null
+updated_at: 2026-04-23 14:34

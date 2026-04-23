@@ -3,15 +3,12 @@ description: APD entry for India’s national open government data portal
   data.gov.in, providing datasets from various Indian government ministries and
   departments.
 source_url: https://data.gov.in/
-featured: false
-brand: government-of-india
-brand_logo_url: https://data.gov.in/sites/all/themes/data_gov_in/images/emblem-dark.png
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - datasets
   - government
   - open-data
+featured: false
 markdown: >-
   ## Awesome Public Datasets – Government Data: Indian Government Data
 
@@ -76,4 +73,6 @@ markdown: >-
   No pricing information is indicated. The Indian open government data portal is
   typically free to access and use within the terms of its open data policy and
   license, but no specific plans or fees are shown in the provided content.
-updated_at: 2025-12-30 18:29
+brand: government-of-india
+brand_logo_url: https://data.gov.in/sites/all/themes/data_gov_in/images/emblem-dark.png
+updated_at: 2026-04-23 14:34

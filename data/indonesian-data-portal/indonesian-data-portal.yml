@@ -3,15 +3,12 @@ description: An APD meta-collection item that links to Indonesia’s official op
   data portal, offering public sector datasets from Indonesian government
   agencies.
 source_url: http://data.go.id/
-featured: false
-brand: government-of-indonesia
-brand_logo_url: https://data.go.id/favicon.ico
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - datasets
   - open-data
   - government
+featured: false
 markdown: >-
   # Indonesian Data Portal
 
@@ -114,4 +111,6 @@ markdown: >-
   Access to the Indonesian Data Portal and its public datasets is not described
   as paid; it is presented as an official public open data service (no pricing
   plans are indicated in the provided content).
-updated_at: 2025-12-30 18:29
+brand: government-of-indonesia
+brand_logo_url: https://data.go.id/favicon.ico
+updated_at: 2026-04-23 14:34

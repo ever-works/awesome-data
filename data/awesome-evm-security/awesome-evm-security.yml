@@ -2,15 +2,12 @@ name: Awesome EVM Security
 description: An awesome list dedicated to Ethereum Virtual Machine (EVM)
   security, including tools, audits, research, and learning materials.
 source_url: https://github.com/kareniel/awesome-evm-security
-featured: false
-brand: kareniel-on-github
-brand_logo_url: https://github.githubassets.com/favicons/favicon.svg
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - security
   - blockchain
   - awesome-lists
+featured: false
 markdown: >-
   # Awesome EVM Security
 
@@ -53,4 +50,6 @@ markdown: >-
 
   - Not applicable – this is an open GitHub “awesome list” directory of external
   resources; no pricing or plans are indicated.
-updated_at: 2025-12-25 11:11
+brand: kareniel-on-github
+brand_logo_url: https://github.githubassets.com/favicons/favicon.svg
+updated_at: 2026-04-23 14:34

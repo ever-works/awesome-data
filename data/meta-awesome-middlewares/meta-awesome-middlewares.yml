@@ -2,15 +2,12 @@ name: Meta Awesome - Middlewares
 description: A meta-awesome document that organizes awesome lists and resources
   about middleware components and patterns.
 source_url: https://github.com/jepemo/meta-awesome/blob/master/doc/middlewares.md
-featured: false
-brand: jepemometa-awesome
-brand_logo_url: null
-images: null
-category: meta-directories
+category: Meta Directories
 tags:
   - meta-directory
   - backend
   - integration
+featured: false
 markdown: >-
   # Meta Awesome - Middlewares
 
@@ -71,4 +68,6 @@ markdown: >-
   ## Pricing
 
   - **Cost:** Free (public GitHub document; no pricing or paid plans indicated).
-updated_at: 2025-12-25 11:11
+brand: jepemometa-awesome
+brand_logo_url: null
+updated_at: 2026-04-23 14:34

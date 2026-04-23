@@ -3,15 +3,12 @@ description: An awesome-style meta-collection focusing on software design
   patterns, referencing multiple awesome lists and resources covering pattern
   catalogs and best practices.
 source_url: https://github.com/jepemo/meta-awesome/blob/master/doc/design-patterns.md
-featured: false
-brand: meta-awesome
-brand_logo_url: null
-images: null
-category: meta-directories
+category: Meta Directories
 tags:
   - meta-directory
   - design
   - architecture
+featured: false
 markdown: >-
   ## Meta Awesome – Design Patterns
 
@@ -61,4 +58,6 @@ markdown: >-
 
   - Not applicable – this is an open, GitHub-hosted resource with no listed
   pricing or plans.
-updated_at: 2025-12-25 11:11
+brand: meta-awesome
+brand_logo_url: null
+updated_at: 2026-04-23 14:34

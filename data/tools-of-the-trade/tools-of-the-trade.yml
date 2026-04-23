@@ -3,14 +3,12 @@ description: An awesome-style list of tools and services used by companies
   frequently discussed on Hacker News, serving as a meta-directory of popular
   developer and business tools.
 source_url: https://github.com/cjbarber/ToolsOfTheTrade#readme
-featured: false
-brand_logo_url: null
-images: null
-category: themed-directories
+category: Themed Directories
 tags:
   - business-tools
   - developer-tools
   - curated-lists
+featured: false
 markdown: >-
   **Tools of the Trade**
 
@@ -107,4 +105,5 @@ markdown: >-
 
 
   - **Repository / Readme:** https://github.com/cjbarber/ToolsOfTheTrade#readme
-updated_at: 2025-12-25 11:11
+brand_logo_url: null
+updated_at: 2026-04-23 14:34
