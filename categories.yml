@@ -198,3 +198,11 @@
   name: Awesome Indexes & Hubs
 - id: inception-meta-lists
   name: Inception Meta Lists
+- id: directory-search
+  name: Directory Search
+- id: ftp-search
+  name: FTP Search
+- id: music-directories
+  name: Music Directories
+- id: download-tools
+  name: Download Tools
