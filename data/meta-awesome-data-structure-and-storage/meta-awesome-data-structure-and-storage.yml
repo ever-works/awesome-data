@@ -1,24 +1,22 @@
 name: Meta Awesome - Data Structure and Storage
-description: A curated meta-collection within the Meta Awesome project that
-  indexes and links to multiple awesome-style lists related to data structures,
-  storage, and adjacent topics such as databases, data visualization, debugging,
-  deployment, and more. It serves as a high-level directory of specialized
-  awesome lists for data and systems engineering domains.
+description: Meta Awesome - Data Structure and Storage aggregates multiple
+  awesome lists on data structures, storage, databases, data visualization,
+  debugging, and deployment topics. Key features include curated links and
+  high-level navigation to specialized collections for streamlined discovery.
+  Use cases include finding themed awesome lists for data engineering, providing
+  a structured overview vs scattered GitHub topics.
 source_url: https://github.com/jepemo/meta-awesome/blob/master/doc/data-structure-and-storage.md
-featured: false
-brand: meta-awesome
-brand_logo_url: null
-images: null
-category: meta-directories
+category: Awesome Meta Directories
 tags:
-  - meta-directory
-  - database
-  - awesome-lists
+  - meta-awesome
+  - list-aggregator
+  - data-engineering
+featured: false
 markdown: |-
   # Meta Awesome – Data Structure and Storage
 
-  **Category:** Meta Directories  
-  **Brand:** meta-awesome  
+  **Category:** Awesome Meta Directories  
+  **Brand:** jepemo  
   **Website:** <https://github.com/jepemo/meta-awesome/blob/master/doc/data-structure-and-storage.md>
 
   ## Overview
@@ -56,4 +54,6 @@ markdown: |-
 
   ## Pricing
   - Not applicable (GitHub-based, open directory of links; no pricing information provided).
-updated_at: 2025-12-25 11:11
+brand: jepemo
+brand_logo_url: https://github.com/jepemo.png
+updated_at: 2026-04-23 05:34

@@ -1,28 +1,35 @@
-name: Benthos
-description: Official Awesome list for Benthos, aggregating the best libraries,
-  tools, and tutorials in the Benthos ecosystem. Topic-focused and maintained by
-  the core team. Ideal for onboarding developers to the Benthos ecosystem,
-  unlike general awesome lists which cover broader topics.
+name: Awesome Benthos
+description: Curated list covering Benthos plugins, configs, tutorials for
+  high-performance stream processing and data pipelines. About 40 GitHub stars.
+  Suited for event-driven architectures; alternative to broader stream
+  processing lists like Awesome Kafka.
 source_url: https://github.com/redpanda-data/awesome-benthos
-category: Project Awesome Lists
+category: Featured Awesome Lists
 tags:
-  - official-awesome
-  - project-ecosystem
-  - curated-resources
-featured: false
-markdown: >-
-  ## Overview
+  - project-awesome
+  - curated-topic
+  - stream-processing
+featured: true
+markdown: |-
+  ## Topics Covered
 
-  Awesome resources for Benthos, a high-performance stream processor.
+  - Processors and components
+  - Configuration examples
+  - Deployment and observability
+  - Community contributions
 
+  ## Use Cases
 
-  ## Characteristics
+  - High-throughput data transformation
+  - Real-time event processing
 
-  - Follows standard awesome list format: Markdown on GitHub with curated links
-  and descriptions.
+  ## Comparisons
 
-  - Part of the broader ecosystem of independently-managed awesome directories
-  aggregated in meta lists.
+  Benthos-focused, unlike general data pipeline awesome lists.
+
+  ## Pricing
+
+  Free and open-source.
 images:
   - https://raw.githubusercontent.com/redpanda-data/awesome-benthos/main/banner.png
-updated_at: 2026-04-22 20:47
+updated_at: 2026-04-23 05:34

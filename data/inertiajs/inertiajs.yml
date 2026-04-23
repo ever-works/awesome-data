@@ -1,28 +1,33 @@
-name: Inertia.js
-description: Official Awesome list for Inertia.js, aggregating the best
-  libraries, tools, and tutorials in the Inertia.js ecosystem. Topic-focused and
-  maintained by the core team. Ideal for onboarding developers to the Inertia.js
-  ecosystem, unlike general awesome lists which cover broader topics.
+name: Awesome Inertia.js
+description: "Curated Inertia.js resources: adapters, servers, components for
+  SPA-like apps without JS SPA complexity. Low stars. Laravel/Laravel Nova
+  users; distinct from full SPA frameworks like Nuxt."
 source_url: https://github.com/innocenzi/awesome-inertiajs
-category: Project Awesome Lists
+category: Featured Awesome Lists
 tags:
-  - official-awesome
-  - project-ecosystem
-  - curated-resources
-featured: false
-markdown: >-
-  ## Overview
+  - project-awesome
+  - curated-topic
+  - spa
+featured: true
+markdown: |-
+  ## Topics Covered
 
-  Awesome resources for Inertia.js, a framework for building SPAs.
+  - Adapters and servers
+  - Components and packages
+  - Deployment guides
 
+  ## Use Cases
 
-  ## Characteristics
+  - Server-driven SPAs
+  - Laravel integrations
 
-  - Follows standard awesome list format: Markdown on GitHub with curated links
-  and descriptions.
+  ## Comparisons
 
-  - Part of the broader ecosystem of independently-managed awesome directories
-  aggregated in meta lists.
+  Inertia vs. traditional JS SPAs.
+
+  ## Pricing
+
+  Free and open-source.
 images:
   - https://raw.githubusercontent.com/innocenzi/awesome-inertiajs/main/banner.png
-updated_at: 2026-04-22 20:47
+updated_at: 2026-04-23 05:34

@@ -1,13 +1,15 @@
-name: Awesome 3D Base Models
-description: Curated collection of 3D foundation models that serve as bridges
-  between text/images and 3D data, similar to how Stable Diffusion connects text
-  to images.
+name: "Project Awesome: 3D Base Models"
+description: Curated GitHub awesome list for 3D foundation models, with 800
+  stars. Covers text-to-3D, image-to-3D, understanding, segmentation, and
+  multi-modal representations. Ideal for developers seeking generative models
+  bridging text/images to 3D data. Alternative to general directories.
 source_url: https://github.com/wendashi/awesome-3D-base-models
 category: Machine Learning & AI
 tags:
   - 3d
   - foundation-models
   - ai
+  - awesome-lists
 featured: false
 markdown: >-
   ## Overview
@@ -96,4 +98,6 @@ markdown: >-
 
 
   Mostly open-source research models.
-updated_at: 2026-03-20 13:04
+images:
+  - https://opengraph.githubassets.com/1/wendashi/awesome-3D-base-models
+updated_at: 2026-04-23 05:34

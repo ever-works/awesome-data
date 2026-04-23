@@ -1,28 +1,33 @@
-name: OXC
-description: Official Awesome list for OXC, aggregating the best libraries,
-  tools, and tutorials in the OXC ecosystem. Topic-focused and maintained by the
-  core team. Ideal for onboarding developers to the OXC ecosystem, unlike
-  general awesome lists which cover broader topics.
+name: Awesome OXC
+description: "Curated OXC resources: plugins, integrations for JavaScript/OXlint
+  toolchain. Emerging stars. JS tooling users; alternative to ESLint/Prettier
+  ecosystems."
 source_url: https://github.com/oxc-project/awesome-oxc
-category: Project Awesome Lists
+category: Featured Awesome Lists
 tags:
-  - official-awesome
-  - project-ecosystem
-  - curated-resources
-featured: false
-markdown: >-
-  ## Overview
+  - project-awesome
+  - curated-topic
+  - javascript-tooling
+featured: true
+markdown: |-
+  ## Topics Covered
 
-  Awesome resources for OXC, a JavaScript toolchain.
+  - Plugins and integrations
+  - Benchmarks
+  - Resources
 
+  ## Use Cases
 
-  ## Characteristics
+  - Fast JS linting/parsing
+  - Toolchain replacement
 
-  - Follows standard awesome list format: Markdown on GitHub with curated links
-  and descriptions.
+  ## Comparisons
 
-  - Part of the broader ecosystem of independently-managed awesome directories
-  aggregated in meta lists.
+  OXC vs. traditional JS toolchains.
+
+  ## Pricing
+
+  Free and open-source.
 images:
   - https://raw.githubusercontent.com/oxc-project/awesome-oxc/main/banner.png
-updated_at: 2026-04-22 20:47
+updated_at: 2026-04-23 05:34

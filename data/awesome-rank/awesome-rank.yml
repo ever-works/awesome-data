@@ -1,45 +1,43 @@
 name: Awesome Rank
-description: "Awesome Rank ranks GitHub Awesome lists by metrics like stars,
-  forks, activity, and freshness. It helps discover top-quality, actively
-  maintained awesome lists across topics. Key features: sortable tables, trend
-  graphs, daily updates; great for finding hidden gems. Unlike Track Awesome
-  List's notifications, it emphasizes ranking and comparison."
+description: Aggregator ranking GitHub Awesome lists by stars, forks, activity,
+  freshness with sortable tables and trend graphs. Combines multiple lists for
+  comparison. Facilitates quick discovery of top/maintained lists; excels over
+  GitHub search with dedicated metrics and visualizations.
 source_url: https://awesomerank.github.io/
-category: Awesome Aggregators
+category: Awesome List Aggregators
 tags:
   - ranking
   - metrics
   - trends
   - sortable
+  - aggregator
+  - searchable-lists
+  - meta-index
 markdown: |-
   ## Overview
 
-  Tracks GitHub awesome lists with comprehensive rankings and analytics.
+  Ranks awesome lists with analytics.
+
+  ## Aggregation
+  Aggregates GitHub awesome lists.
 
   ## Features
-
-  - Daily star/fork/update tracking
-  - Multi-metric rankings (stars, freshness, forks)
-  - Trend graphs and historical data
-  - Category-based browsing
-  - Comparison tools
+  - Multi-metric rankings
+  - Trend graphs
+  - Category browsing
 
   ## Use Cases
-
-  - Identify top/trending awesome lists
-  - Monitor resource popularity over time
-  - Research adoption of tools/categories
+  - Find top-quality lists
+  - Track trends
 
   ## Comparisons
 
-  | Metric | Awesome Rank | Static Lists |
-  |--------|--------------|--------------|
-  | Stars  | Live tracking| Snapshot |
+  | Feature | Awesome Rank | GitHub Search |
+  |---------|--------------|---------------|
+  | Rankings | Comprehensive | Stars only |
   | Trends | Graphs | None |
-  | Ranks  | Computed | None |
 
   ## Pricing
-
-  Free platform.
+  Free.
 brand_logo_url: https://raw.githubusercontent.com/sindresorhus/awesome/master/media/logo.svg
-updated_at: 2026-04-22 20:47
+updated_at: 2026-04-23 05:34

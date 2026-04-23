@@ -1,13 +1,15 @@
-name: Awesome 3D Generation
-description: A curated list of awesome 3D generation papers covering point
-  clouds, voxels, meshes, and neural representations for creating 3D content
-  from various inputs.
+name: "Project Awesome: 3D Generation"
+description: Curated GitHub awesome list for 3D generation, with 900 stars,
+  covering point clouds, voxels, meshes, neural representations from
+  text/image/sketch; ideal for developers seeking shape synthesis papers;
+  alternative to general directories.
 source_url: https://github.com/justimyhxu/awesome-3D-generation
 category: Computer Vision
 tags:
   - 3d-generation
   - neural-rendering
   - shape-synthesis
+  - awesome-lists
 featured: false
 markdown: >-
   ## Overview
@@ -86,4 +88,6 @@ markdown: >-
 
 
   Free research resources.
-updated_at: 2026-03-20 13:04
+images:
+  - https://opengraph.githubassets.com/1/justimyhxu/awesome-3D-generation
+updated_at: 2026-04-23 05:34

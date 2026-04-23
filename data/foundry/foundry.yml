@@ -1,29 +1,33 @@
-name: Foundry
-description: Official Awesome list for Foundry, aggregating the best libraries,
-  tools, and tutorials in the Foundry ecosystem. Topic-focused and maintained by
-  the core team. Ideal for onboarding developers to the Foundry ecosystem,
-  unlike general awesome lists which cover broader topics.
+name: Awesome Foundry
+description: "Curated Foundry tools: plugins, scripts for Ethereum smart
+  contract dev. Modest stars. Foundry users; alternative to Hardhat/Truffle
+  ecosystems."
 source_url: https://github.com/crisgarner/awesome-foundry
-category: Project Awesome Lists
+category: Featured Awesome Lists
 tags:
-  - official-awesome
-  - project-ecosystem
-  - curated-resources
-featured: false
-markdown: >-
-  ## Overview
+  - project-awesome
+  - curated-topic
+  - ethereum
+featured: true
+markdown: |-
+  ## Topics Covered
 
-  Awesome resources for Foundry, an Ethereum smart contract development
-  toolchain.
+  - Plugins and extensions
+  - Testing tools
+  - Deployment scripts
 
+  ## Use Cases
 
-  ## Characteristics
+  - Smart contract testing/deploy
+  - Forge scripting
 
-  - Follows standard awesome list format: Markdown on GitHub with curated links
-  and descriptions.
+  ## Comparisons
 
-  - Part of the broader ecosystem of independently-managed awesome directories
-  aggregated in meta lists.
+  Foundry vs. Hardhat awesome lists.
+
+  ## Pricing
+
+  Free and open-source.
 images:
   - https://raw.githubusercontent.com/crisgarner/awesome-foundry/main/banner.png
-updated_at: 2026-04-22 20:47
+updated_at: 2026-04-23 05:34

@@ -1,16 +1,15 @@
 name: Awesome Directories
-description: Awesome Directories is a comprehensive meta-directory aggregating
-  over 300 curated SaaS launch directories for indie hackers and bootstrappers.
-  Key features include real-time search, filtering by domain rating, category,
-  pricing, dofollow status, community voting, favorites, submission tracking,
-  and weekly automated updates. Ideal for discovering and exporting submission
-  platforms for product promotion, it provides specialized metrics beyond
-  general collections like sindresorhus/awesome or TrackAwesomeList.
+description: Awesome Directories aggregates over 300 curated SaaS launch
+  directories for indie hackers, featuring real-time search, filters by domain
+  rating/category/pricing, community voting, favorites, and weekly updates. Key
+  use cases include discovering submission platforms for product promotion and
+  exporting lists. Outperforms static GitHub topics with specialized metrics and
+  automation.
 source_url: https://github.com/awesome-directories/awesome-directories
-category: Meta Directories
+category: Awesome Meta Directories
 tags:
   - meta-awesome
-  - list-discovery
+  - list-aggregator
   - directory-submission
 featured: false
 markdown: |-
@@ -58,5 +57,6 @@ markdown: |-
   ## Pricing
 
   Free and open-source under Apache 2.0 license.
-brand: Meysam
-updated_at: 2026-04-23 00:00
+brand: awesome-directories
+brand_logo_url: https://github.com/awesome-directories.png
+updated_at: 2026-04-23 05:34

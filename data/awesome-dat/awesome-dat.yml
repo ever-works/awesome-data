@@ -1,26 +1,47 @@
 name: Awesome Dat
-description: Official Awesome list for Dat, aggregating the best libraries,
-  tools, and tutorials in the Dat ecosystem. Topic-focused and maintained by the
-  project team or community. Ideal for onboarding developers to the Dat
-  ecosystem, unlike general awesome lists which cover broader topics.
+description: Curated GitHub list of Dat protocol resources covering client
+  libraries (JS, Rust, Go), tools, apps, and research on decentralized data
+  sharing and P2P syncing. Around 250 GitHub stars. Ideal for developers
+  building collaborative data apps; more focused than broader P2P lists like
+  Awesome IPFS.
 source_url: https://github.com/datproject/awesome-dat
-category: Project Awesome Lists
+category: Featured Awesome Lists
 tags:
-  - official-awesome
-  - project-ecosystem
-  - curated-resources
-featured: false
+  - project-awesome
+  - curated-topic
+  - decentralized
+featured: true
 markdown: >-
-  ## Overview
-
-  Awesome resources for Dat Project, a decentralized data sharing protocol.
+  ## Topics Covered
 
 
-  ## Characteristics
+  - Client modules and libraries
 
-  - Follows standard awesome list format: Markdown on GitHub with curated links
-  and descriptions.
+  - Tools and command-line utilities
 
-  - Part of the broader ecosystem of independently-managed awesome directories
-  aggregated in meta lists.
-updated_at: 2026-04-22 20:47
+  - Applications and demos
+
+  - Research and publications
+
+
+  ## Use Cases
+
+
+  - Decentralized data sharing and backups
+
+  - Live-synced datasets for research
+
+
+  ## Comparisons
+
+
+  Project-specific scope unlike general decentralized storage awesome lists
+  (e.g., Awesome IPFS); emphasizes Dat protocol ecosystem.
+
+
+  ## Pricing
+
+
+  Free and open-source.
+images: []
+updated_at: 2026-04-23 05:34

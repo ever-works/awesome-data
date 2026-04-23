@@ -1,16 +1,16 @@
 name: awesome-cn
-description: awesome-cn is a comprehensive index of GitHub awesome lists focused
-  on Chinese-language resources for programming, frameworks, and tools,
-  featuring categorization, search indexing, and star rankings as of 2026. Ideal
-  for developers seeking topic-specific resources, especially Chinese-speaking
-  ones. More meta/focused than sindresorhus/awesome, this aggregates localized
-  directories.
+description: awesome-cn aggregates Chinese-language awesome lists for
+  programming languages, frameworks, tools, and developer resources with
+  categorization, search, and star rankings. Key features include a centralized
+  index for quick discovery and Python-based search tooling. Perfect for
+  discovering localized themed awesome lists, more focused than general
+  collections like sindresorhus/awesome or GitHub topics.
 source_url: https://github.com/icopy-site/awesome-cn
-category: Meta Awesome Directories
+category: Awesome Meta Directories
 tags:
-  - meta-index
-  - list-of-lists
-  - discovery-tool
+  - meta-awesome
+  - list-aggregator
+  - chinese
 featured: false
 markdown: >-
   # awesome-cn
@@ -18,7 +18,7 @@ markdown: >-
 
   **URL:** https://github.com/icopy-site/awesome-cn  
 
-  **Category:** Meta Directories  
+  **Category:** Awesome Meta Directories  
 
   **Tags:** awesome-lists, directory-of-directories, developer-resources
 
@@ -67,7 +67,7 @@ markdown: >-
   - Not applicable. awesome-cn is an open-source GitHub repository and directory
   of resources; no pricing information is provided.
 brand: icopy-site
-brand_logo_url: null
+brand_logo_url: https://github.com/icopy-site.png
 images:
   - https://raw.githubusercontent.com/icopy-site/awesome-cn/main/media/logo.png
-updated_at: 2026-04-23 02:45
+updated_at: 2026-04-23 05:34

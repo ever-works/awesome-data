@@ -1,28 +1,33 @@
-name: Filament
-description: Official Awesome list for Filament, aggregating the best libraries,
-  tools, and tutorials in the Filament ecosystem. Topic-focused and maintained
-  by the core team. Ideal for onboarding developers to the Filament ecosystem,
-  unlike general awesome lists which cover broader topics.
+name: Awesome Filament
+description: "Curated Filament resources: plugins, themes, packages for TALL
+  stack admin panels. Growing GitHub stars. Laravel devs extending UIs; distinct
+  from general PHP admin lists."
 source_url: https://github.com/filamentphp/awesome-filament
-category: Project Awesome Lists
+category: Featured Awesome Lists
 tags:
-  - official-awesome
-  - project-ecosystem
-  - curated-resources
-featured: false
-markdown: >-
-  ## Overview
+  - project-awesome
+  - curated-topic
+  - admin-panel
+featured: true
+markdown: |-
+  ## Topics Covered
 
-  Awesome resources for Filament, a TALL stack admin panel.
+  - Plugins and packages
+  - Themes and designs
+  - Forms and tables
 
+  ## Use Cases
 
-  ## Characteristics
+  - Rapid admin dashboard building
+  - TALL stack apps
 
-  - Follows standard awesome list format: Markdown on GitHub with curated links
-  and descriptions.
+  ## Comparisons
 
-  - Part of the broader ecosystem of independently-managed awesome directories
-  aggregated in meta lists.
+  Filament-focused vs. Awesome Laravel.
+
+  ## Pricing
+
+  Free and open-source.
 images:
   - https://raw.githubusercontent.com/filamentphp/awesome-filament/main/banner.png
-updated_at: 2026-04-22 20:47
+updated_at: 2026-04-23 05:34

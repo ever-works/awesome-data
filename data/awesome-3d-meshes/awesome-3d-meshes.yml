@@ -1,12 +1,15 @@
-name: Awesome 3D Meshes
-description: A curated list of famous 3D meshes, mesh processing tools, and mesh
-  resources for computer graphics research and applications.
+name: "Project Awesome: 3D Meshes"
+description: Curated GitHub awesome list for 3D meshes and processing tools,
+  with 400 stars, covering famous meshes, libraries, algorithms; ideal for
+  developers seeking graphics research resources; alternative to general
+  directories.
 source_url: https://github.com/jvm-graphics-labs/awesome-3d-meshes
 category: Computer Vision
 tags:
   - 3d-graphics
   - mesh-processing
   - computer-graphics
+  - awesome-lists
 featured: false
 markdown: >-
   ## Overview
@@ -77,4 +80,6 @@ markdown: >-
 
 
   Free and open-source mesh collection.
-updated_at: 2026-03-20 13:04
+images:
+  - https://opengraph.githubassets.com/1/jvm-graphics-labs/awesome-3d-meshes
+updated_at: 2026-04-23 05:34

@@ -1,13 +1,15 @@
-name: Awesome A11y
-description: A curated list of accessibility (a11y) tools, articles, WCAG
-  guidelines, and resources for creating inclusive digital experiences for
-  people with disabilities.
+name: "Project Awesome: A11y"
+description: Curated GitHub awesome list for web accessibility (a11y), with 2500
+  stars, covering tools, guidelines, articles, screen readers; ideal for
+  developers seeking inclusive design resources; alternative to general
+  directories.
 source_url: https://github.com/brunopulis/awesome-a11y
 category: Web Development
 tags:
   - accessibility
   - a11y
   - wcag
+  - awesome-lists
 featured: false
 markdown: >-
   ## Overview
@@ -107,4 +109,6 @@ markdown: >-
 
 
   Free and open-source repository on GitHub.
-updated_at: 2026-03-07 17:48
+images:
+  - https://opengraph.githubassets.com/1/brunopulis/awesome-a11y
+updated_at: 2026-04-23 05:34

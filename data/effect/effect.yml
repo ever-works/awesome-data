@@ -1,28 +1,33 @@
 name: Awesome Effect
-description: Official Awesome list for Effect, aggregating the best libraries,
-  tools, and tutorials in the Effect ecosystem. Topic-focused and maintained by
-  the core team. Ideal for onboarding developers to the Effect ecosystem, unlike
-  general awesome lists which cover broader topics.
+description: "Curated Effect-TS ecosystem: libraries, examples, integrations for
+  functional TypeScript effects. Low GitHub stars. For FP devs; focused unlike
+  general Awesome TypeScript."
 source_url: https://github.com/Effect-TS/awesome-effect
-category: Project Awesome Lists
+category: Featured Awesome Lists
 tags:
-  - official-awesome
-  - project-ecosystem
-  - curated-resources
-featured: false
-markdown: >-
-  ## Overview
+  - project-awesome
+  - curated-topic
+  - functional-programming
+featured: true
+markdown: |-
+  ## Topics Covered
 
-  Awesome resources for Effect, a TypeScript library.
+  - Core libraries
+  - Examples and patterns
+  - Integrations
 
+  ## Use Cases
 
-  ## Characteristics
+  - Scalable TypeScript apps
+  - Error handling in FP style
 
-  - Follows standard awesome list format: Markdown on GitHub with curated links
-  and descriptions.
+  ## Comparisons
 
-  - Part of the broader ecosystem of independently-managed awesome directories
-  aggregated in meta lists.
+  Effect-specific vs. broad FP lists.
+
+  ## Pricing
+
+  Free and open-source.
 images:
   - https://raw.githubusercontent.com/Effect-TS/awesome-effect/main/banner.png
-updated_at: 2026-04-22 20:47
+updated_at: 2026-04-23 05:34

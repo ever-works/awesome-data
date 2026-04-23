@@ -1,29 +1,33 @@
-name: Meilisearch
-description: Official Awesome list for Meilisearch, aggregating the best
-  libraries, tools, and tutorials in the Meilisearch ecosystem. Topic-focused
-  and maintained by the core team. Ideal for onboarding developers to the
-  Meilisearch ecosystem, unlike general awesome lists which cover broader
-  topics.
+name: Awesome Meilisearch
+description: Curated Meilisearch integrations, clients, UIs, guides for
+  open-source search engine. Strong GitHub stars. Search engine users;
+  alternative to Elasticsearch/TypeSense awesome lists.
 source_url: https://github.com/meilisearch/awesome-meilisearch
-category: Project Awesome Lists
+category: Featured Awesome Lists
 tags:
-  - official-awesome
-  - project-ecosystem
-  - curated-resources
-featured: false
-markdown: >-
-  ## Overview
+  - project-awesome
+  - curated-topic
+  - search
+featured: true
+markdown: |-
+  ## Topics Covered
 
-  Awesome resources for Meilisearch, an open-source search engine.
+  - Client libraries
+  - Integrations and UIs
+  - Tutorials and deploy
 
+  ## Use Cases
 
-  ## Characteristics
+  - Typo-tolerant search
+  - E-commerce/product search
 
-  - Follows standard awesome list format: Markdown on GitHub with curated links
-  and descriptions.
+  ## Comparisons
 
-  - Part of the broader ecosystem of independently-managed awesome directories
-  aggregated in meta lists.
+  Meilisearch-focused vs. general search engine lists.
+
+  ## Pricing
+
+  Free and open-source.
 images:
   - https://raw.githubusercontent.com/meilisearch/awesome-meilisearch/main/banner.png
-updated_at: 2026-04-22 20:47
+updated_at: 2026-04-23 05:34

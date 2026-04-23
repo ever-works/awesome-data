@@ -1,28 +1,33 @@
-name: Inngest
-description: Official Awesome list for Inngest, aggregating the best libraries,
-  tools, and tutorials in the Inngest ecosystem. Topic-focused and maintained by
-  the core team. Ideal for onboarding developers to the Inngest ecosystem,
-  unlike general awesome lists which cover broader topics.
+name: Awesome Inngest
+description: Curated Inngest functions, examples, integrations for durable
+  workflows. Emerging stars. Serverless workflow devs; alternative to
+  Temporal/awesome-temporal.
 source_url: https://github.com/inngest/awesome-inngest
-category: Project Awesome Lists
+category: Featured Awesome Lists
 tags:
-  - official-awesome
-  - project-ecosystem
-  - curated-resources
-featured: false
-markdown: >-
-  ## Overview
+  - project-awesome
+  - curated-topic
+  - workflows
+featured: true
+markdown: |-
+  ## Topics Covered
 
-  Awesome resources for Inngest, a serverless workflow platform.
+  - Functions and examples
+  - Integrations
+  - Deployment
 
+  ## Use Cases
 
-  ## Characteristics
+  - Event-driven workflows
+  - Background jobs
 
-  - Follows standard awesome list format: Markdown on GitHub with curated links
-  and descriptions.
+  ## Comparisons
 
-  - Part of the broader ecosystem of independently-managed awesome directories
-  aggregated in meta lists.
+  Inngest vs. Temporal workflows.
+
+  ## Pricing
+
+  Free tier; usage-based.
 images:
   - https://raw.githubusercontent.com/inngest/awesome-inngest/main/banner.png
-updated_at: 2026-04-22 20:47
+updated_at: 2026-04-23 05:34

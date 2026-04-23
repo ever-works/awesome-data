@@ -1,28 +1,32 @@
-name: Pkl
-description: Official Awesome list for Pkl, aggregating the best libraries,
-  tools, and tutorials in the Pkl ecosystem. Topic-focused and maintained by the
-  core team. Ideal for onboarding developers to the Pkl ecosystem, unlike
-  general awesome lists which cover broader topics.
+name: Awesome Pkl
+description: Curated Pkl libraries, tools, examples for programmable config
+  language. Low stars. Config management; distinct from JSON/YAML tooling lists.
 source_url: https://github.com/pkl-community/awesome-pkl
-category: Project Awesome Lists
+category: Featured Awesome Lists
 tags:
-  - official-awesome
-  - project-ecosystem
-  - curated-resources
-featured: false
-markdown: >-
-  ## Overview
+  - project-awesome
+  - curated-topic
+  - configuration
+featured: true
+markdown: |-
+  ## Topics Covered
 
-  Awesome resources for Pkl, a configuration language.
+  - Libraries and tools
+  - Examples
+  - Integrations
 
+  ## Use Cases
 
-  ## Characteristics
+  - Complex config generation
+  - Templating
 
-  - Follows standard awesome list format: Markdown on GitHub with curated links
-  and descriptions.
+  ## Comparisons
 
-  - Part of the broader ecosystem of independently-managed awesome directories
-  aggregated in meta lists.
+  Pkl vs. HCL/JSON configs.
+
+  ## Pricing
+
+  Free and open-source.
 images:
   - https://raw.githubusercontent.com/pkl-community/awesome-pkl/main/banner.png
-updated_at: 2026-04-22 20:47
+updated_at: 2026-04-23 05:34

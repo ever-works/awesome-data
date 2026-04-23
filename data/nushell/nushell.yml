@@ -1,28 +1,32 @@
-name: Nushell
-description: Official Awesome list for Nushell, aggregating the best libraries,
-  tools, and tutorials in the Nushell ecosystem. Topic-focused and maintained by
-  the core team. Ideal for onboarding developers to the Nushell ecosystem,
-  unlike general awesome lists which cover broader topics.
+name: Awesome Nushell
+description: Curated Nushell plugins, themes, modules for modern structured
+  shell. Good stars. Shell scripting; alternative to Awesome Zsh/Fish.
 source_url: https://github.com/nushell/awesome-nu
-category: Project Awesome Lists
+category: Featured Awesome Lists
 tags:
-  - official-awesome
-  - project-ecosystem
-  - curated-resources
-featured: false
-markdown: >-
-  ## Overview
+  - project-awesome
+  - curated-topic
+  - shell
+featured: true
+markdown: |-
+  ## Topics Covered
 
-  Awesome resources for Nushell, a modern shell.
+  - Plugins and commands
+  - Themes
+  - Modules
 
+  ## Use Cases
 
-  ## Characteristics
+  - Data-friendly shelling
+  - Pipeline processing
 
-  - Follows standard awesome list format: Markdown on GitHub with curated links
-  and descriptions.
+  ## Comparisons
 
-  - Part of the broader ecosystem of independently-managed awesome directories
-  aggregated in meta lists.
+  Nushell vs. traditional shells awesome.
+
+  ## Pricing
+
+  Free and open-source.
 images:
   - https://raw.githubusercontent.com/nushell/awesome-nu/main/banner.png
-updated_at: 2026-04-22 20:47
+updated_at: 2026-04-23 05:34

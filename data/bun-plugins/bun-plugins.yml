@@ -1,26 +1,31 @@
-name: Bun Plugins
-description: Official Awesome list for Bun, aggregating the best libraries,
-  tools, and tutorials in the Bun ecosystem. Topic-focused and maintained by the
-  core team. Ideal for onboarding developers to the Bun ecosystem, unlike
-  general awesome lists which cover broader topics.
+name: Awesome Bun
+description: Curated list of Bun plugins, loaders, benchmarks covering the fast
+  JS runtime ecosystem. Modest GitHub stars. Useful for Bun users seeking
+  extensions; focused vs. general Awesome Node.js (60k+ stars).
 source_url: https://github.com/apvarun/awesome-bun
-category: Project Awesome Lists
+category: Featured Awesome Lists
 tags:
-  - official-awesome
-  - project-ecosystem
-  - curated-resources
-featured: false
-markdown: >-
-  ## Overview
+  - project-awesome
+  - curated-topic
+  - javascript
+featured: true
+markdown: |-
+  ## Topics Covered
 
-  Awesome resources for Bun JavaScript runtime.
+  - Plugins and loaders
+  - Benchmarks and comparisons
+  - Tools and integrations
 
+  ## Use Cases
 
-  ## Characteristics
+  - Performance tuning in Bun
+  - Plugin discovery
 
-  - Follows standard awesome list format: Markdown on GitHub with curated links
-  and descriptions.
+  ## Comparisons
 
-  - Part of the broader ecosystem of independently-managed awesome directories
-  aggregated in meta lists.
-updated_at: 2026-04-22 20:47
+  Bun-centric alternative to Awesome Node.js.
+
+  ## Pricing
+
+  Free and open-source.
+updated_at: 2026-04-23 05:34

@@ -1,28 +1,32 @@
-name: Livewire
-description: Official Awesome list for Livewire, aggregating the best libraries,
-  tools, and tutorials in the Livewire ecosystem. Topic-focused and maintained
-  by the core team. Ideal for onboarding developers to the Livewire ecosystem,
-  unlike general awesome lists which cover broader topics.
+name: Awesome Livewire
+description: Curated Livewire packages, components for reactive Laravel apps
+  without JS. Solid stars. Laravel full-stack; compares to Hotwire/Stimulus.
 source_url: https://github.com/livewire/awesome-livewire
-category: Project Awesome Lists
+category: Featured Awesome Lists
 tags:
-  - official-awesome
-  - project-ecosystem
-  - curated-resources
-featured: false
-markdown: >-
-  ## Overview
+  - project-awesome
+  - curated-topic
+  - laravel
+featured: true
+markdown: |-
+  ## Topics Covered
 
-  Awesome resources for Livewire, a Laravel full-stack framework.
+  - Packages and components
+  - Forms and tables
+  - Utilities
 
+  ## Use Cases
 
-  ## Characteristics
+  - Real-time UIs in Laravel
+  - No-JS interactivity
 
-  - Follows standard awesome list format: Markdown on GitHub with curated links
-  and descriptions.
+  ## Comparisons
 
-  - Part of the broader ecosystem of independently-managed awesome directories
-  aggregated in meta lists.
+  Livewire vs. Inertia/Hotwire.
+
+  ## Pricing
+
+  Free and open-source.
 images:
   - https://raw.githubusercontent.com/livewire/awesome-livewire/main/banner.png
-updated_at: 2026-04-22 20:47
+updated_at: 2026-04-23 05:34

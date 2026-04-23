@@ -1,28 +1,33 @@
-name: Mitosis
-description: Official Awesome list for Mitosis, aggregating the best libraries,
-  tools, and tutorials in the Mitosis ecosystem. Topic-focused and maintained by
-  the core team. Ideal for onboarding developers to the Mitosis ecosystem,
-  unlike general awesome lists which cover broader topics.
+name: Awesome Mitosis
+description: Curated Mitosis components, targets, plugins for multi-framework UI
+  portability. Low stars. Cross-framework devs; distinct from component
+  libraries like Awesome React.
 source_url: https://github.com/BuilderIO/awesome-mitosis
-category: Project Awesome Lists
+category: Featured Awesome Lists
 tags:
-  - official-awesome
-  - project-ecosystem
-  - curated-resources
-featured: false
-markdown: >-
-  ## Overview
+  - project-awesome
+  - curated-topic
+  - components
+featured: true
+markdown: |-
+  ## Topics Covered
 
-  Awesome resources for Mitosis, a component framework.
+  - Components and examples
+  - Targets and plugins
+  - Guides
 
+  ## Use Cases
 
-  ## Characteristics
+  - Framework-agnostic UIs
+  - Code sharing
 
-  - Follows standard awesome list format: Markdown on GitHub with curated links
-  and descriptions.
+  ## Comparisons
 
-  - Part of the broader ecosystem of independently-managed awesome directories
-  aggregated in meta lists.
+  Mitosis-specific vs. framework awesome lists.
+
+  ## Pricing
+
+  Free and open-source.
 images:
   - https://raw.githubusercontent.com/BuilderIO/awesome-mitosis/main/banner.png
-updated_at: 2026-04-22 20:47
+updated_at: 2026-04-23 05:34

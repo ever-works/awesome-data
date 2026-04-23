@@ -1,28 +1,33 @@
 name: Awesome ClickHouse
-description: Official Awesome list for ClickHouse, aggregating the best
-  libraries, tools, and tutorials in the ClickHouse ecosystem. Topic-focused and
-  maintained by the core team. Ideal for onboarding developers to the ClickHouse
-  ecosystem, unlike general awesome lists which cover broader topics.
+description: "Curated resources for ClickHouse: integrations, UIs, exporters,
+  operators. ~100 GitHub stars. For OLAP database users; more targeted than
+  general Awesome Databases."
 source_url: https://github.com/korchasa/awesome-clickhouse
-category: Project Awesome Lists
+category: Featured Awesome Lists
 tags:
-  - official-awesome
-  - project-ecosystem
-  - curated-resources
-featured: false
-markdown: >-
-  ## Overview
+  - project-awesome
+  - curated-topic
+  - database
+featured: true
+markdown: |-
+  ## Topics Covered
 
-  Awesome resources for ClickHouse, a columnar database.
+  - Integrations and clients
+  - UIs and tools
+  - Exporters and operators
 
+  ## Use Cases
 
-  ## Characteristics
+  - Analytics pipelines
+  - Real-time querying
 
-  - Follows standard awesome list format: Markdown on GitHub with curated links
-  and descriptions.
+  ## Comparisons
 
-  - Part of the broader ecosystem of independently-managed awesome directories
-  aggregated in meta lists.
+  ClickHouse-focused vs. broad databases lists.
+
+  ## Pricing
+
+  Free and open-source.
 images:
   - https://raw.githubusercontent.com/korchasa/awesome-clickhouse/main/awesome.svg
-updated_at: 2026-04-22 20:47
+updated_at: 2026-04-23 05:34

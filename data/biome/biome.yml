@@ -1,28 +1,34 @@
-name: Biome
-description: Official Awesome list for Biome, aggregating the best libraries,
-  tools, and tutorials in the Biome ecosystem. Topic-focused and maintained by
-  the core team. Ideal for onboarding developers to the Biome ecosystem, unlike
-  general awesome lists which cover broader topics.
+name: Awesome Biome
+description: Curated GitHub list of Biome resources including plugins,
+  integrations, guides for the web toolchain (linter, formatter). Around 50
+  GitHub stars. For Rust/JS developers optimizing tooling; narrower than general
+  Awesome Rust or JS tooling lists.
 source_url: https://github.com/biomejs/awesome-biome
-category: Project Awesome Lists
+category: Featured Awesome Lists
 tags:
-  - official-awesome
-  - project-ecosystem
-  - curated-resources
-featured: false
-markdown: >-
-  ## Overview
+  - project-awesome
+  - curated-topic
+  - linter
+featured: true
+markdown: |-
+  ## Topics Covered
 
-  Awesome resources for Biome, a toolchain for web projects.
+  - Plugins and extensions
+  - Integrations with editors/IDEs
+  - Guides and tutorials
 
+  ## Use Cases
 
-  ## Characteristics
+  - Web project linting/formatting
+  - Toolchain optimization
 
-  - Follows standard awesome list format: Markdown on GitHub with curated links
-  and descriptions.
+  ## Comparisons
 
-  - Part of the broader ecosystem of independently-managed awesome directories
-  aggregated in meta lists.
+  Biome-specific, unlike broad Awesome JavaScript.
+
+  ## Pricing
+
+  Free and open-source.
 images:
   - https://raw.githubusercontent.com/biomejs/awesome-biome/main/banner.png
-updated_at: 2026-04-22 20:47
+updated_at: 2026-04-23 05:34

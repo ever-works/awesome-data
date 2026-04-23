@@ -1,28 +1,33 @@
-name: Moonbit
-description: Official Awesome list for Moonbit, aggregating the best libraries,
-  tools, and tutorials in the Moonbit ecosystem. Topic-focused and maintained by
-  the core team. Ideal for onboarding developers to the Moonbit ecosystem,
-  unlike general awesome lists which cover broader topics.
+name: Awesome Moonbit
+description: Curated Moonbit libraries, tools for Rust-like language targeting
+  WASM/JS/native. Emerging stars. Moonbit adopters; narrower than Awesome
+  Rust/WASM.
 source_url: https://github.com/moonbitlang/awesome-moonbit
-category: Project Awesome Lists
+category: Featured Awesome Lists
 tags:
-  - official-awesome
-  - project-ecosystem
-  - curated-resources
-featured: false
-markdown: >-
-  ## Overview
+  - project-awesome
+  - curated-topic
+  - rust
+featured: true
+markdown: |-
+  ## Topics Covered
 
-  Awesome resources for Moonbit, a programming language.
+  - Libraries and packages
+  - Tools
+  - Examples
 
+  ## Use Cases
 
-  ## Characteristics
+  - WebAssembly apps
+  - Full-stack Rust-like
 
-  - Follows standard awesome list format: Markdown on GitHub with curated links
-  and descriptions.
+  ## Comparisons
 
-  - Part of the broader ecosystem of independently-managed awesome directories
-  aggregated in meta lists.
+  Moonbit vs. general WASM lists.
+
+  ## Pricing
+
+  Free and open-source.
 images:
   - https://raw.githubusercontent.com/moonbitlang/awesome-moonbit/main/banner.png
-updated_at: 2026-04-22 20:47
+updated_at: 2026-04-23 05:34

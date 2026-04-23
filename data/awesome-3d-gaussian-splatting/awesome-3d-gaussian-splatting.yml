@@ -1,13 +1,15 @@
-name: Awesome 3D Gaussian Splatting
-description: A curated list of papers, resources, and implementations for 3D
-  Gaussian Splatting, a breakthrough technique for real-time neural rendering
-  and 3D reconstruction from multi-view images.
+name: "Project Awesome: 3D Gaussian Splatting"
+description: Curated GitHub awesome list for 3D Gaussian Splatting, with 4500
+  stars, covering papers, resources, implementations for real-time neural
+  rendering and 3D reconstruction; ideal for developers seeking novel view
+  synthesis tools; alternative to general directories.
 source_url: https://github.com/MrNeRF/awesome-3D-gaussian-splatting
 category: Computer Vision
 tags:
   - 3d-reconstruction
   - neural-rendering
   - graphics
+  - awesome-lists
 featured: false
 markdown: >-
   ## Overview
@@ -71,4 +73,6 @@ markdown: >-
 
   Free and open-source. Most implementations and papers are freely available for
   research and development purposes.
-updated_at: 2026-03-25 13:51
+images:
+  - https://opengraph.githubassets.com/1/MrNeRF/awesome-3D-gaussian-splatting
+updated_at: 2026-04-23 05:34

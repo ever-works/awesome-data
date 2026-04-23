@@ -1,54 +1,43 @@
 name: Directory of Directories
-description: "Curated directory of directories, focusing on web directories, AI
-  tools lists, SaaS aggregators, and submission sites. Lists 300+ directories
-  with URLs for promotion/SEO. Key features: categorized by type (AI, SaaS),
-  update frequency. Use cases: directory submission for visibility; compare to
-  awesome lists for open-source focus."
+description: Aggregator compiling 300+ directories including awesome lists, AI
+  tools, SaaS across categories. Features type-based grouping (AI/SaaS), update
+  status. Enables quick discovery and submission; broader than GitHub search for
+  promotional directories.
 source_url: https://github.com/dariubs/directory-of-directories
-category: Directory Aggregators
+category: Awesome List Aggregators
 tags:
   - directories-list
   - submission
   - seo-directories
-  - open-source-discovery
-  - 2026-curated
-markdown: >-
+  - aggregator
+  - searchable-lists
+  - meta-index
+markdown: |-
   ## Overview
 
+  Curated meta-directory of directories and lists.
 
-  Directory of Directories is a curated GitHub repository that collects and
-  lists meta-directories across various niches such as web directories, AI tools
-  lists, SaaS aggregators, and submission sites. It lists over 300 directories
-  with URLs ideal for promotion and SEO.
-
+  ## Aggregation
+  Combines 300+ directories including awesome lists.
 
   ## Features
-
-
-  - Curated collection of 300+ directories
-
-  - Categorized by type including AI, SaaS, and more
-
-  - Update frequency for each listed directory
-
-  - Focus on submission sites for visibility
-
+  - Categorized (AI, SaaS)
+  - Update frequency
+  - Submission focus
 
   ## Use Cases
+  - SEO/promotion discovery
+  - Cross-topic directories
 
+  ## Comparisons
 
-  - Directory submission for SEO and promotion
-
-  - Discovering aggregators and lists for product visibility
-
-  - Alternative to awesome lists, emphasizing promotional directories over
-  open-source
-
+  | Feature | Directory of Directories | GitHub Search |
+  |---------|---------------------------|---------------|
+  | Scope | Directories/lists | Repos |
+  | Categories | Yes | No |
 
   ## Pricing
-
-
-  Free and open-source (hosted on GitHub).
+  Free.
 images:
   - https://raw.githubusercontent.com/dariubs/directory-of-directories/main/banner.gif
-updated_at: 2026-04-22 20:47
+updated_at: 2026-04-23 05:34

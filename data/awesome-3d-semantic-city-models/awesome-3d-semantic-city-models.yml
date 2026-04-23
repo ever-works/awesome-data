@@ -1,18 +1,15 @@
-name: Awesome 3D Semantic City Models
-description: A curated awesome-style list of open 3D semantic city and region
-  models (e.g., CityGML datasets), providing a centralized directory of
-  high-quality 3D urban data sources.
+name: "Project Awesome: 3D Semantic City Models"
+description: Curated GitHub awesome list for open 3D semantic city models, with
+  150 stars, covering CityGML datasets from institutions; ideal for developers
+  seeking urban GIS data; alternative to general directories.
 source_url: https://github.com/OloOcki/awesome-citygml
-featured: true
-brand: github
-brand_logo_url: https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png
-images:
-  - https://opengraph.githubassets.com/1/OloOcki/awesome-citygml
 category: themed-directories
 tags:
   - gis
   - datasets
   - 3d
+  - awesome-lists
+featured: true
 markdown: >-
   # Awesome 3D Semantic City Models
 
@@ -97,4 +94,8 @@ markdown: >-
 
   - ISPRS paper (referenced):
   https://isprs-archives.copernicus.org/articles/XLVIII-4-2024/493/2024/
-updated_at: 2025-12-30 18:29
+brand: github
+brand_logo_url: https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png
+images:
+  - https://opengraph.githubassets.com/1/OloOcki/awesome-citygml
+updated_at: 2026-04-23 05:34
