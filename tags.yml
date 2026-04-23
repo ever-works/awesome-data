@@ -173,7 +173,7 @@
 - id: json
   name: json
 - id: dart
-  name: dart
+  name: Dart
 - id: perl
   name: perl
 - id: ebpf
@@ -285,7 +285,7 @@
 - id: haskell
   name: haskell
 - id: functional-programming
-  name: functional-programming
+  name: Functional Programming
 - id: clojure
   name: clojure
 - id: fortran
@@ -353,7 +353,7 @@
 - id: ada
   name: ada
 - id: programming-languages
-  name: programming-languages
+  name: Programming Languages
 - id: jamstack
   name: Jamstack
 - id: infrastructure
@@ -471,7 +471,7 @@
 - id: native
   name: native
 - id: data-engineering
-  name: data-engineering
+  name: Data Engineering
 - id: cryptography
   name: Cryptography
 - id: raspberry-pi
@@ -2508,3 +2508,11 @@
   name: List Tracker
 - id: dynamic-monitoring
   name: Dynamic Monitoring
+- id: directory-hub
+  name: Directory Hub
+- id: list-aggregator
+  name: List Aggregator
+- id: chinese
+  name: Chinese
+- id: mobile-development
+  name: Mobile Development

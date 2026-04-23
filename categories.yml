@@ -33,7 +33,7 @@
 - id: data-engineering
   name: Data Engineering
 - id: machine-learning-ai
-  name: Machine Learning Ai
+  name: Machine Learning & AI
 - id: open-source
   name: Open Source
 - id: game-development
@@ -172,3 +172,7 @@
   name: Awesome List Management Tools
 - id: voice
   name: Voice
+- id: awesome-meta-directories
+  name: Awesome Meta Directories
+- id: featured-awesome-lists
+  name: Featured Awesome Lists
