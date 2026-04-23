@@ -703,7 +703,7 @@
 - id: shell
   name: Shell
 - id: fonts
-  name: fonts
+  name: Fonts
 - id: indie
   name: Indie
 - id: students
@@ -2554,3 +2554,51 @@
   name: Dynamic Tracker
 - id: rss-feeds
   name: Rss Feeds
+- id: agile
+  name: Agile
+- id: methodologies
+  name: Methodologies
+- id: canonical-meta
+  name: Canonical Meta
+- id: github-stars-300k
+  name: Github Stars 300k
+- id: developer-gateway
+  name: Developer Gateway
+- id: resource-hub
+  name: Resource Hub
+- id: poetry
+  name: Poetry
+- id: inception-meta
+  name: Inception Meta
+- id: cross-repo-index
+  name: Cross Repo Index
+- id: net-neutrality
+  name: Net Neutrality
+- id: facebook
+  name: Facebook
+- id: non-financial
+  name: Non Financial
+- id: queues
+  name: Queues
+- id: message-queues
+  name: Message Queues
+- id: job-queues
+  name: Job Queues
+- id: covid-19
+  name: Covid 19
+- id: web-games
+  name: Web Games
+- id: tiny-tools
+  name: Tiny Tools
+- id: dynamic-monitor
+  name: Dynamic Monitor
+- id: github-metrics
+  name: Github Metrics
+- id: 2fa
+  name: 2fa
+- id: styleguides
+  name: Styleguides
+- id: remote-jobs
+  name: Remote Jobs
+- id: work-from-anywhere
+  name: Work From Anywhere
