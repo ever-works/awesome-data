@@ -5,13 +5,13 @@
 - id: mcp
   name: Mcp
 - id: server
-  name: server
+  name: Server
 - id: app
   name: App
 - id: desktop
   name: Desktop
 - id: web
-  name: web
+  name: Web
 - id: mobile
   name: Mobile
 - id: vector
@@ -49,13 +49,13 @@
 - id: static-websites
   name: Static Websites
 - id: hosting
-  name: hosting
+  name: Hosting
 - id: web-development
   name: Web Development
 - id: apis
   name: Apis
 - id: public-apis
-  name: public-apis
+  name: Public Apis
 - id: developer-resources
   name: Developer Resources
 - id: directory-of-directories
@@ -63,7 +63,7 @@
 - id: categorized
   name: Categorized
 - id: websites
-  name: websites
+  name: Websites
 - id: ai-tools
   name: Ai Tools
 - id: ai-directory
@@ -93,27 +93,27 @@
 - id: directory
   name: Directory
 - id: software-alternatives
-  name: software-alternatives
+  name: Software Alternatives
 - id: startups
   name: Startups
 - id: developer-tools
   name: Developer Tools
 - id: early-access
-  name: early-access
+  name: Early Access
 - id: trending
   name: Trending
 - id: business-tools
-  name: business-tools
+  name: Business Tools
 - id: productivity
   name: Productivity
 - id: open-companies
-  name: open-companies
+  name: Open Companies
 - id: transparency
   name: Transparency
 - id: community
   name: Community
 - id: free-tier
-  name: free-tier
+  name: Free Tier
 - id: gis
   name: Gis
 - id: geospatial
@@ -129,7 +129,7 @@
 - id: testing
   name: Testing
 - id: big-data
-  name: big-data
+  name: Big Data
 - id: hardware
   name: Hardware
 - id: games
@@ -157,25 +157,25 @@
 - id: performance
   name: Performance
 - id: speech-recognition
-  name: speech-recognition
+  name: Speech Recognition
 - id: documentation
   name: Documentation
 - id: wikis
-  name: wikis
+  name: Wikis
 - id: swift
-  name: swift
+  name: Swift
 - id: rust
   name: Rust
 - id: math
-  name: math
+  name: Math
 - id: css
   name: Css
 - id: json
-  name: json
+  name: Json
 - id: dart
   name: Dart
 - id: perl
-  name: perl
+  name: Perl
 - id: ebpf
   name: Ebpf
 - id: ruby
@@ -191,25 +191,25 @@
 - id: iot
   name: Iot
 - id: social
-  name: social
+  name: Social
 - id: golang
   name: Golang
 - id: linux
   name: Linux
 - id: scala
-  name: scala
+  name: Scala
 - id: julia
-  name: julia
+  name: Julia
 - id: ocaml
-  name: ocaml
+  name: Ocaml
 - id: jvm
-  name: jvm
+  name: Jvm
 - id: build-tools
   name: Build Tools
 - id: idris
-  name: idris
+  name: Idris
 - id: graph
-  name: graph
+  name: Graph
 - id: design
   name: Design
 - id: audio
@@ -219,15 +219,15 @@
 - id: education
   name: Education
 - id: regex
-  name: regex
+  name: Regex
 - id: streaming
   name: Streaming
 - id: mods
-  name: mods
+  name: Mods
 - id: cpp
-  name: cpp
+  name: Cpp
 - id: assembly
-  name: assembly
+  name: Assembly
 - id: elixir
   name: Elixir
 - id: erlang
@@ -237,9 +237,9 @@
 - id: dotnet
   name: Dotnet
 - id: pascal
-  name: pascal
+  name: Pascal
 - id: windows
-  name: windows
+  name: Windows
 - id: editor
   name: Editor
 - id: video
@@ -255,21 +255,21 @@
 - id: observability
   name: Observability
 - id: prototyping
-  name: prototyping
+  name: Prototyping
 - id: stack
-  name: stack
+  name: Stack
 - id: machine-learning
   name: Machine Learning
 - id: drones
   name: Drones
 - id: outdoors
-  name: outdoors
+  name: Outdoors
 - id: gps
-  name: gps
+  name: Gps
 - id: framework
   name: Framework
 - id: code
-  name: code
+  name: Code
 - id: workflow
   name: Workflow
 - id: robotics
@@ -281,45 +281,45 @@
 - id: integration
   name: Integration
 - id: async
-  name: async
+  name: Async
 - id: haskell
-  name: haskell
+  name: Haskell
 - id: functional-programming
   name: Functional Programming
 - id: clojure
-  name: clojure
+  name: Clojure
 - id: fortran
-  name: fortran
+  name: Fortran
 - id: scientific-computing
   name: Scientific Computing
 - id: crystal
-  name: crystal
+  name: Crystal
 - id: web-components
-  name: web-components
+  name: Web Components
 - id: react
   name: React
 - id: webassembly
   name: Webassembly
 - id: virtualization
-  name: virtualization
+  name: Virtualization
 - id: linguistics
   name: Linguistics
 - id: mongodb
-  name: mongodb
+  name: Mongodb
 - id: couchdb
-  name: couchdb
+  name: Couchdb
 - id: decentralized
   name: Decentralized
 - id: transportation
-  name: transportation
+  name: Transportation
 - id: unicode
-  name: unicode
+  name: Unicode
 - id: architecture
   name: Architecture
 - id: fun
-  name: fun
+  name: Fun
 - id: ecommerce
-  name: ecommerce
+  name: Ecommerce
 - id: data-science
   name: Data Science
 - id: marketing
@@ -327,31 +327,31 @@
 - id: automation
   name: Automation
 - id: qr-code
-  name: qr-code
+  name: Qr Code
 - id: chatgpt
   name: Chatgpt
 - id: gui
-  name: gui
+  name: Gui
 - id: git
   name: Git
 - id: search
   name: Search
 - id: offline
-  name: offline
+  name: Offline
 - id: reverse-engineering
   name: Reverse Engineering
 - id: packaging
-  name: packaging
+  name: Packaging
 - id: tv
-  name: tv
+  name: Tv
 - id: apps
   name: Apps
 - id: firebase
-  name: firebase
+  name: Firebase
 - id: package-manager
   name: Package Manager
 - id: ada
-  name: ada
+  name: Ada
 - id: programming-languages
   name: Programming Languages
 - id: jamstack
@@ -377,11 +377,11 @@
 - id: llm
   name: Llm
 - id: minimalist
-  name: minimalist
+  name: Minimalist
 - id: ibm-cloud
-  name: ibm-cloud
+  name: Ibm Cloud
 - id: polyfills
-  name: polyfills
+  name: Polyfills
 - id: storybook
   name: Storybook
 - id: ui
@@ -393,37 +393,37 @@
 - id: configuration
   name: Configuration
 - id: engine
-  name: engine
+  name: Engine
 - id: 3d
   name: 3d
 - id: it
-  name: it
+  name: It
 - id: programming
   name: Programming
 - id: hackathon
-  name: hackathon
+  name: Hackathon
 - id: honeypots
-  name: honeypots
+  name: Honeypots
 - id: analysis
-  name: analysis
+  name: Analysis
 - id: diversity
   name: Diversity
 - id: home-automation
   name: Home Automation
 - id: culture
-  name: culture
+  name: Culture
 - id: rss
   name: Rss
 - id: xml
-  name: xml
+  name: Xml
 - id: writing
   name: Writing
 - id: sustainability
   name: Sustainability
 - id: computing
-  name: computing
+  name: Computing
 - id: crm
-  name: crm
+  name: Crm
 - id: remote-work
   name: Remote Work
 - id: scripting
@@ -431,15 +431,15 @@
 - id: webgl
   name: Webgl
 - id: orm
-  name: orm
+  name: Orm
 - id: postgresql
-  name: postgresql
+  name: Postgresql
 - id: backend
   name: Backend
 - id: go
   name: Go
 - id: jobs
-  name: jobs
+  name: Jobs
 - id: monitoring
   name: Monitoring
 - id: ios
@@ -455,13 +455,13 @@
 - id: creative-coding
   name: Creative Coding
 - id: lisp
-  name: lisp
+  name: Lisp
 - id: nlp
   name: Nlp
 - id: electronics
   name: Electronics
 - id: public-domain
-  name: public-domain
+  name: Public Domain
 - id: agriculture
   name: Agriculture
 - id: ethics
@@ -469,7 +469,7 @@
 - id: debugging
   name: Debugging
 - id: native
-  name: native
+  name: Native
 - id: data-engineering
   name: Data Engineering
 - id: cryptography
@@ -477,15 +477,15 @@
 - id: raspberry-pi
   name: Raspberry Pi
 - id: voice
-  name: voice
+  name: Voice
 - id: google-cloud
-  name: google-cloud
+  name: Google Cloud
 - id: actionscript
-  name: actionscript
+  name: Actionscript
 - id: neuroscience
   name: Neuroscience
 - id: localization
-  name: localization
+  name: Localization
 - id: accessibility
   name: Accessibility
 - id: quantum-computing
@@ -497,11 +497,11 @@
 - id: free-software
   name: Free Software
 - id: maps
-  name: maps
+  name: Maps
 - id: official
-  name: official
+  name: Official
 - id: gpu
-  name: gpu
+  name: Gpu
 - id: deep-learning
   name: Deep Learning
 - id: serverless
@@ -515,21 +515,21 @@
 - id: authentication
   name: Authentication
 - id: datetime
-  name: datetime
+  name: Datetime
 - id: beginners
-  name: beginners
+  name: Beginners
 - id: storage
-  name: storage
+  name: Storage
 - id: documents
-  name: documents
+  name: Documents
 - id: r
   name: R
 - id: books
   name: Books
 - id: devtools
-  name: devtools
+  name: Devtools
 - id: complex-systems
-  name: complex-systems
+  name: Complex Systems
 - id: science
   name: Science
 - id: production
@@ -541,17 +541,17 @@
 - id: history
   name: History
 - id: quantified-self
-  name: quantified-self
+  name: Quantified Self
 - id: devices
-  name: devices
+  name: Devices
 - id: navigation
-  name: navigation
+  name: Navigation
 - id: dependency-injection
-  name: dependency-injection
+  name: Dependency Injection
 - id: information-retrieval
   name: Information Retrieval
 - id: oop
-  name: oop
+  name: Oop
 - id: malware
   name: Malware
 - id: components
@@ -561,25 +561,25 @@
 - id: development
   name: Development
 - id: photography
-  name: photography
+  name: Photography
 - id: deployment
   name: Deployment
 - id: operating-systems
   name: Operating Systems
 - id: system
-  name: system
+  name: System
 - id: conversational-ai
   name: Conversational Ai
 - id: symfony
-  name: symfony
+  name: Symfony
 - id: laravel
   name: Laravel
 - id: bluetooth
-  name: bluetooth
+  name: Bluetooth
 - id: funding
   name: Funding
 - id: compression
-  name: compression
+  name: Compression
 - id: validation
   name: Validation
 - id: algorithms
@@ -589,15 +589,15 @@
 - id: hacking
   name: Hacking
 - id: arch
-  name: arch
+  name: Arch
 - id: packages
-  name: packages
+  name: Packages
 - id: videos
-  name: videos
+  name: Videos
 - id: digital-humanities
-  name: digital-humanities
+  name: Digital Humanities
 - id: distribution
-  name: distribution
+  name: Distribution
 - id: typography
   name: Typography
 - id: embedded
@@ -605,25 +605,25 @@
 - id: cross-platform
   name: Cross Platform
 - id: project-starters
-  name: project-starters
+  name: Project Starters
 - id: sdn
   name: Sdn
 - id: payments
   name: Payments
 - id: vehicles
-  name: vehicles
+  name: Vehicles
 - id: haxe
-  name: haxe
+  name: Haxe
 - id: engineering
   name: Engineering
 - id: data-structures
   name: Data Structures
 - id: data-validation
-  name: data-validation
+  name: Data Validation
 - id: dependency-management
-  name: dependency-management
+  name: Dependency Management
 - id: errors
-  name: errors
+  name: Errors
 - id: optimization
   name: Optimization
 - id: sre
@@ -635,19 +635,19 @@
 - id: projects
   name: Projects
 - id: geometry
-  name: geometry
+  name: Geometry
 - id: drivers
-  name: drivers
+  name: Drivers
 - id: inspiration
   name: Inspiration
 - id: telecom
-  name: telecom
+  name: Telecom
 - id: defense
-  name: defense
+  name: Defense
 - id: reports
-  name: reports
+  name: Reports
 - id: npm
-  name: npm
+  name: Npm
 - id: activism
   name: Activism
 - id: tools
@@ -657,9 +657,9 @@
 - id: environment
   name: Environment
 - id: jquery
-  name: jquery
+  name: Jquery
 - id: apache
-  name: apache
+  name: Apache
 - id: low-level
   name: Low Level
 - id: code-quality
@@ -669,33 +669,33 @@
 - id: software-engineering
   name: Software Engineering
 - id: management
-  name: management
+  name: Management
 - id: strategy
   name: Strategy
 - id: leadership
-  name: leadership
+  name: Leadership
 - id: blogs
   name: Blogs
 - id: services
-  name: services
+  name: Services
 - id: certifications
   name: Certifications
 - id: domains
-  name: domains
+  name: Domains
 - id: tips
-  name: tips
+  name: Tips
 - id: opportunities
-  name: opportunities
+  name: Opportunities
 - id: libraries
   name: Libraries
 - id: courses
   name: Courses
 - id: snippets
-  name: snippets
+  name: Snippets
 - id: patterns
-  name: patterns
+  name: Patterns
 - id: interview
-  name: interview
+  name: Interview
 - id: papers
   name: Papers
 - id: visualization
@@ -707,47 +707,47 @@
 - id: indie
   name: Indie
 - id: students
-  name: students
+  name: Students
 - id: best-practices
   name: Best Practices
 - id: planning
   name: Planning
 - id: discoverability
-  name: discoverability
+  name: Discoverability
 - id: osint
-  name: osint
+  name: Osint
 - id: telegram
   name: Telegram
 - id: models
-  name: models
+  name: Models
 - id: ide
   name: Ide
 - id: html
   name: Html
 - id: http
-  name: http
+  name: Http
 - id: paas
-  name: paas
+  name: Paas
 - id: rest
   name: Rest
 - id: input
-  name: input
+  name: Input
 - id: queue
-  name: queue
+  name: Queue
 - id: images
-  name: images
+  name: Images
 - id: macros
-  name: macros
+  name: Macros
 - id: markup
-  name: markup
+  name: Markup
 - id: people
-  name: people
+  name: People
 - id: logging
   name: Logging
 - id: physics
-  name: physics
+  name: Physics
 - id: extensions
-  name: extensions
+  name: Extensions
 - id: reading
   name: Reading
 - id: compilers
@@ -755,21 +755,21 @@
 - id: markdown
   name: Markdown
 - id: platform
-  name: platform
+  name: Platform
 - id: podcasts
   name: Podcasts
 - id: messaging
   name: Messaging
 - id: passwords
-  name: passwords
+  name: Passwords
 - id: protocols
   name: Protocols
 - id: concurrency
-  name: concurrency
+  name: Concurrency
 - id: publishing
   name: Publishing
 - id: hex-editors
-  name: hex-editors
+  name: Hex Editors
 - id: systems
   name: Systems
 - id: refactoring
@@ -779,79 +779,79 @@
 - id: cicd
   name: Cicd
 - id: presentation
-  name: presentation
+  name: Presentation
 - id: high-performance
-  name: high-performance
+  name: High Performance
 - id: hypermedia
   name: Hypermedia
 - id: compiler
   name: Compiler
 - id: parsing
-  name: parsing
+  name: Parsing
 - id: reactive-programming
-  name: reactive-programming
+  name: Reactive Programming
 - id: microsoft
-  name: microsoft
+  name: Microsoft
 - id: mysql
-  name: mysql
+  name: Mysql
 - id: time-series
   name: Time Series
 - id: economics
-  name: economics
+  name: Economics
 - id: government
   name: Government
 - id: regulation
-  name: regulation
+  name: Regulation
 - id: energy
-  name: energy
+  name: Energy
 - id: finance
   name: Finance
 - id: trade
-  name: trade
+  name: Trade
 - id: demographics
-  name: demographics
+  name: Demographics
 - id: housing
-  name: housing
+  name: Housing
 - id: statistics
   name: Statistics
 - id: sports
-  name: sports
+  name: Sports
 - id: politics
-  name: politics
+  name: Politics
 - id: city
-  name: city
+  name: City
 - id: censorship
-  name: censorship
+  name: Censorship
 - id: medical-imaging
-  name: medical-imaging
+  name: Medical Imaging
 - id: genomics
   name: Genomics
 - id: challenges
-  name: challenges
+  name: Challenges
 - id: space
   name: Space
 - id: cognitive-science
   name: Cognitive Science
 - id: internet
-  name: internet
+  name: Internet
 - id: identifiers
-  name: identifiers
+  name: Identifiers
 - id: recommendation
-  name: recommendation
+  name: Recommendation
 - id: art
   name: Art
 - id: metadata
   name: Metadata
 - id: wireless
-  name: wireless
+  name: Wireless
 - id: autonomous-driving
   name: Autonomous Driving
 - id: infrared
-  name: infrared
+  name: Infrared
 - id: chemistry
-  name: chemistry
+  name: Chemistry
 - id: advertising
-  name: advertising
+  name: Advertising
 - id: traffic-analysis
   name: traffic-analysis
 - id: dns
@@ -885,9 +885,9 @@
 - id: homelab
   name: Homelab
 - id: time-tracking
-  name: time-tracking
+  name: Time Tracking
 - id: locations
-  name: locations
+  name: Locations
 - id: a11y
   name: A11y
 - id: wcag
@@ -2602,3 +2602,17 @@
   name: Remote Jobs
 - id: work-from-anywhere
   name: Work From Anywhere
+- id: curated-index
+  name: Curated Index
+- id: github-lists
+  name: Github Lists
+- id: asyncio
+  name: Asyncio
+- id: community-driven
+  name: Community Driven
+- id: electron
+  name: Electron
+- id: list-index
+  name: List Index
+- id: auto-generated
+  name: Auto Generated

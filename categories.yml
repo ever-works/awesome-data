@@ -186,3 +186,15 @@
   name: Launch Directories
 - id: product-directories
   name: Product Directories
+- id: awesome-list-tools-trackers
+  name: Awesome List Tools & Trackers
+- id: list-of-lists-indexes
+  name: List Of Lists Indexes
+- id: inception-level-metas
+  name: Inception Level Metas
+- id: canonical-awesome-hubs
+  name: Canonical Awesome Hubs
+- id: awesome-indexes-hubs
+  name: Awesome Indexes & Hubs
+- id: inception-meta-lists
+  name: Inception Meta Lists
