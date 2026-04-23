@@ -7,7 +7,7 @@ description: awesome-go-repo-stats is a tool for tracking, building, and
   it automates monitoring and offers aggregated insights for efficient list
   maintenance.
 source_url: https://github.com/emanuelef/awesome-go-repo-stats
-category: Awesome List Management Tools
+category: Awesome List Tools
 tags:
   - list-tools
   - maintenance
@@ -77,4 +77,4 @@ markdown: >-
   (no pricing plans listed).
 brand: emanuelef
 brand_logo_url: /emanuelef.png
-updated_at: 2026-04-23 00:00
+updated_at: 2026-04-23 02:45

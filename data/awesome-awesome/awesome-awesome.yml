@@ -5,7 +5,7 @@ description: Awesome Awesome is a comprehensive index of GitHub awesome lists
   More meta/focused than sindresorhus/awesome, this specializes in aggregating
   themed directories.
 source_url: https://github.com/emijrp/awesome-awesome
-category: Meta Awesome Collections
+category: Meta Awesome Directories
 tags:
   - meta-index
   - list-of-lists
@@ -44,4 +44,4 @@ markdown: |-
 
   ## License
   - [License information available in repository](https://github.com/emijrp/awesome-awesome/blob/master/LICENSE)
-updated_at: 2026-04-22 20:47
+updated_at: 2026-04-23 02:45

@@ -8,7 +8,7 @@ description: Automatically generated meta-list aggregating thousands of GitHub
   unlike hand-curated sindresorhus/awesome, it prioritizes automation, scale,
   and popularity sorting over strict manual selection.
 source_url: https://github.com/andrew/ultimate-awesome
-category: Meta Awesome Collections
+category: Meta Awesome Directories
 tags:
   - meta-list
   - inception-level
@@ -104,4 +104,4 @@ brand: andrew
 brand_logo_url: https://avatars.githubusercontent.com/u/378417
 images:
   - https://raw.githubusercontent.com/andrew/ultimate-awesome/master/media/banner.png
-updated_at: 2026-04-22 20:47
+updated_at: 2026-04-23 02:45

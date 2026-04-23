@@ -1,0 +1,13 @@
+name: curalist
+description: "CLI tool for managing curated collections: list entries across
+  collections, filter by collection, download free PDFs, generate per-collection
+  READMEs, and unified MkDocs sites. Used to generate the queelius/curations
+  multi-collection awesome-lists."
+source_url: https://github.com/queelius/curations
+category: awesome-list-generators
+tags:
+  - cli
+  - open-source
+  - markdown
+featured: false
+updated_at: 2026-04-23 02:45

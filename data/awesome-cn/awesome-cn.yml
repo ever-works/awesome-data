@@ -6,7 +6,7 @@ description: awesome-cn is a comprehensive index of GitHub awesome lists focused
   ones. More meta/focused than sindresorhus/awesome, this aggregates localized
   directories.
 source_url: https://github.com/icopy-site/awesome-cn
-category: Meta Awesome Collections
+category: Meta Awesome Directories
 tags:
   - meta-index
   - list-of-lists
@@ -70,4 +70,4 @@ brand: icopy-site
 brand_logo_url: null
 images:
   - https://raw.githubusercontent.com/icopy-site/awesome-cn/main/media/logo.png
-updated_at: 2026-04-22 20:47
+updated_at: 2026-04-23 02:45

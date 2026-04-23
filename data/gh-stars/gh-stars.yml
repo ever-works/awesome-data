@@ -4,7 +4,7 @@ description: An auto-updated list of sokai’s starred GitHub repositories,
   collection derived from GitHub stars, useful for discovering curated
   repositories.
 source_url: https://github.com/sokai/gh-stars
-category: Awesome Maintenance Tools
+category: Awesome List Tools
 tags:
   - github
   - awesome-lists
@@ -65,4 +65,4 @@ markdown: >-
   - Not applicable (open GitHub repository / directory).
 brand: sokai
 brand_logo_url: null
-updated_at: 2026-04-22 20:47
+updated_at: 2026-04-23 02:45
