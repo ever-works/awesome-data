@@ -1,0 +1,23 @@
+name: awesome-ejabberd by shantanudeshmukh
+description: All awesome stuff of the ejabberd ecosystem. Curated resources for
+  ejabberd XMPP server.
+source_url: https://ejabberd.shantanudeshmukh.com
+category: themed-directories
+tags:
+  - xmpp
+  - chat
+  - ejabberd
+featured: false
+markdown: |-
+  ## Overview
+
+  Resources for the ejabberd ecosystem.
+
+  ## Features
+
+  - Awesome ejabberd tools and projects.
+
+  ## Pricing
+
+  Free.
+updated_at: 2026-04-23 00:00

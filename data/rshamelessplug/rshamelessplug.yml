@@ -1,14 +1,16 @@
 name: r/shamelessplug
-description: Reddit community with 52,000 members explicitly welcoming
-  promotional content. One of the few subreddits where self-promotion is
-  encouraged. Perfect for founders who want to share their products without
-  strict moderation. Less targeted than startup-specific subreddits.
+description: Permissive Reddit community dedicated to self-promotion of
+  products, projects, and content, featuring 52k members, unrestricted posting,
+  and searchable archives with minimal moderation for high-volume sharing. Ideal
+  for quick launches and broad exposure without feedback depth. Contrasts
+  curated forums by prioritizing promotional freedom over quality discussions.
 source_url: https://reddit.com/r/shamelessplug
 category: Themed Directories
 tags:
-  - community
-  - promotion
-  - reddit
+  - curated-topic
+  - self-promotion
+  - launches
+featured: false
 markdown: >-
   ## Overview
 
@@ -93,4 +95,4 @@ markdown: >-
 
 
   Free to join and post.
-updated_at: 2026-03-14 12:28
+updated_at: 2026-04-23 00:00

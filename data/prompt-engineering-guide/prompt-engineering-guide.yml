@@ -1,10 +1,15 @@
 name: Prompt Engineering Guide
-description: Guides, papers, lessons, notebooks and resources for prompt engineering
+description: Prompt Engineering Guide curates general resources including
+  guides, papers, tools, notebooks, and lessons for prompt engineering in AI.
+  Features categorized sections for structured exploration and search. Perfect
+  for broad discovery by AI practitioners, as a hand-curated directory unlike
+  product launch sites like Product Hunt.
 source_url: https://github.com/dair-ai/Prompt-Engineering-Guide
 category: General Directories
 tags:
-  - curated-list
-  - resources
+  - general-directory
+  - software-discovery
+  - prompt-engineering
 markdown: |-
   ## Overview
 
@@ -13,4 +18,6 @@ markdown: |-
   ## Pricing
 
   Free and open-source resource.
-updated_at: 2026-03-22 13:19
+images:
+  - https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
+updated_at: 2026-04-23 00:00

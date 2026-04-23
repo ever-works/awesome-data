@@ -1,13 +1,18 @@
 name: Awesome Quant
-description: A curated list of libraries, packages and resources for
-  Quantitative Finance (Quants).
+description: Specialized awesome list curating libraries, packages, books,
+  papers, and resources for quantitative finance and algorithmic trading,
+  maintained with strict quality standards, frequent updates, and categorized
+  structure for easy searchability. Ideal for quants, traders, and researchers
+  discovering tools across languages like Python, R, C++, and Julia for
+  backtesting, risk management, and strategy development. Provides deeper,
+  finance-specific focus compared to general awesome lists like
+  sindresorhus/awesome.
 source_url: https://github.com/wilsonfreitas/awesome-quant
 category: Themed Directories
 tags:
-  - awesome-lists
-  - finance
-  - quantitative-finance
-  - trading
+  - themed-awesome
+  - quant-finance
+  - algorithmic-trading
 featured: true
 markdown: |-
   ## Overview
@@ -21,4 +26,4 @@ markdown: |-
   ## Pricing
 
   Free and open-source.
-updated_at: 2026-04-22 09:33
+updated_at: 2026-04-23 00:00

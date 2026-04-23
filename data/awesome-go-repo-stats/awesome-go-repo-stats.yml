@@ -1,11 +1,18 @@
 name: awesome-go-repo-stats
-description: A GitHub project that tracks and exposes daily updated statistics
-  for repositories listed in the "awesome-go" awesome list, acting as a
-  meta-resource around an existing awesome directory.
+description: awesome-go-repo-stats is a tool for tracking, building, and
+  maintaining statistics for repositories in the 'awesome-go' awesome list. It
+  provides daily updated star history, commit activity, dependency data, and
+  exports in CSV/JSON for visualizations, helping curators stay informed on
+  trends and health without manual GitHub searches. Compared to manual checks,
+  it automates monitoring and offers aggregated insights for efficient list
+  maintenance.
 source_url: https://github.com/emanuelef/awesome-go-repo-stats
-category: Awesome List Trackers
+category: Awesome List Management Tools
 tags:
-  - awesome-lists
+  - list-tools
+  - maintenance
+  - star-tracker
+  - dynamic-updater
   - analytics
   - go
 featured: false
@@ -70,4 +77,4 @@ markdown: >-
   (no pricing plans listed).
 brand: emanuelef
 brand_logo_url: /emanuelef.png
-updated_at: 2026-04-22 14:53
+updated_at: 2026-04-23 00:00

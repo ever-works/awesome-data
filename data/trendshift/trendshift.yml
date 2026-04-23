@@ -1,14 +1,16 @@
 name: Trendshift
-description: This is a dynamic meta index aggregating trending GitHub
-  repositories with analytics, functioning as a real-time awesome lists
-  discoverer. Key features include momentum tracking, language filtering, growth
-  metrics, and topic search. Ideal for spotting emerging open-source gems before
-  they hit traditional lists like sindresorhus/awesome.
+description: Trendshift is a real-time meta-directory monitoring trending GitHub
+  repositories with advanced analytics like momentum scores, star growth
+  tracking, language and topic filtering, and developer rankings. It enables
+  discovery of emerging projects through historical trends, comparisons, and
+  alerts before they gain traction in awesome lists. Superior for proactive
+  project hunting compared to static directories like sindresorhus/awesome or
+  TrackAwesomeList.
 source_url: https://trendshift.io/
 category: Meta Directories
 tags:
-  - meta-index
-  - awesome-aggregator
+  - meta-awesome
+  - list-discovery
   - trending
 featured: false
 markdown: >-
@@ -48,4 +50,4 @@ markdown: >-
 
 
   Free with optional premium features.
-updated_at: 2026-04-22 20:47
+updated_at: 2026-04-23 00:00

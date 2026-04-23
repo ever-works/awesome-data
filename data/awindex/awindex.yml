@@ -1,11 +1,17 @@
 name: awindex
-description: Generates static searchable 'Awesome Indexes' from awesome lists,
-  Zotero, Zenodo, and JSONL sources, with Pagefind faceted search, SQLite
-  databases for updates tracking, and exports for ongoing analysis and
-  visualization.
+description: awindex is a generator for building and maintaining static
+  searchable indexes from awesome lists, Zotero, Zenodo, and JSONL sources to
+  track and update curated collections. Key features include Pagefind faceted
+  search, SQLite databases for monitoring updates, and static site generation
+  for easy deployment. Curators use it to create dynamic, searchable directories
+  that keep lists current, outperforming manual GitHub searches or static
+  markdown views with automated ingestion and search capabilities.
 source_url: https://github.com/digipres/awesome-indexer
-category: Awesome List Trackers
+category: Awesome List Management Tools
 tags:
+  - list-tools
+  - maintenance
+  - dynamic-updater
   - open-source
   - awesome-lists
   - search
@@ -138,4 +144,4 @@ markdown: >-
 
 
   Free and open-source (MIT license implied by GitHub repo).
-updated_at: 2026-04-22 20:47
+updated_at: 2026-04-23 00:00

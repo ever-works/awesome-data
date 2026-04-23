@@ -1,13 +1,18 @@
 name: Awesome Kimchi
-description: Community-driven collection archiving all types of kimchi and
-  Korean fermented foods, documenting varieties from traditional white kimchi to
-  modern variations.
+description: Community-curated themed collection documenting global varieties of
+  kimchi and Korean fermented foods, featuring recipes, cultural notes, and
+  health benefits with ongoing updates and contribution standards for
+  authenticity. Organized by type (e.g., white kimchi, kkakdugi) for searchable
+  access to traditional and modern preparations. Serves food enthusiasts and
+  researchers focused on fermentation, unlike general food lists by its niche
+  depth in Korean cuisine preservation.
 source_url: https://github.com/jeyraof/awesome-kimchi
 category: Themed Directories
 tags:
-  - kimchi
-  - fermented-foods
-  - korean-cuisine
+  - themed-awesome
+  - fermentation
+  - korean-food
+featured: false
 markdown: >-
   ## Overview
 
@@ -48,4 +53,4 @@ markdown: >-
 
 
   Free and open-source resource list.
-updated_at: 2026-03-17 12:37
+updated_at: 2026-04-23 00:00

@@ -1,15 +1,15 @@
 name: Accessibility Resources
-description: Curated list of accessibility resources including WCAG guidelines,
-  tools, and best practices for making web content more accessible. This
-  directory indexes open-source projects and references for developers,
-  featuring categorized sections for easy navigation and discovery. It serves as
-  a specialized hub for a11y project discovery, more curated than GitHub's
-  general accessibility topics.
+description: Accessibility Resources curates general software tools, guidelines
+  like WCAG, and open-source projects focused on web accessibility and a11y best
+  practices. It features categorized sections for easy browsing and leverages
+  GitHub search for discovery. Ideal for developers seeking broad discovery of
+  accessibility resources, providing a hand-curated directory versus dynamic,
+  launch-focused platforms like Product Hunt.
 source_url: https://github.com/ediblecode/accessibility-resources
 category: General Directories
 tags:
   - general-directory
-  - open-source-hub
+  - software-discovery
   - accessibility
 markdown: |-
   ## Overview
@@ -19,4 +19,4 @@ markdown: |-
   ## Pricing
 
   Free and open-source resource.
-updated_at: 2026-04-22 09:33
+updated_at: 2026-04-23 00:00

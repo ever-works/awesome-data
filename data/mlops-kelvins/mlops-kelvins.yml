@@ -1,10 +1,15 @@
 name: Mlops Kelvins
-description: Curated list of MLOps tools
+description: Mlops Kelvins curates a broad collection of general MLOps tools,
+  platforms, and resources for production machine learning. It provides
+  categories for organized browsing and GitHub integration for search. Great for
+  developers seeking broad MLOps discovery, as a hand-picked directory compared
+  to trend-based platforms like Product Hunt.
 source_url: https://github.com/kelvins/awesome-mlops
 category: General Directories
 tags:
-  - curated-list
-  - resources
+  - general-directory
+  - software-discovery
+  - mlops
 markdown: |-
   ## Overview
 
@@ -13,4 +18,6 @@ markdown: |-
   ## Pricing
 
   Free and open-source resource.
-updated_at: 2026-03-22 13:19
+images:
+  - https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
+updated_at: 2026-04-23 00:00

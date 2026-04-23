@@ -1,0 +1,52 @@
+name: Awesome Lists Website
+description: Website for creating and sharing awesome lists, which are curated
+  collections of links to resources on specific topics. Built using Phoenix
+  framework in Elixir with Bootstrap 4.0 for the frontend. Developed by Ravern
+  Koh as a pet project to learn photo uploads, email sending, and other
+  features.
+source_url: https://github.com/ravern/awesome
+category: directory-building-tools
+tags:
+  - open-source
+  - awesome-lists
+  - elixir
+featured: false
+markdown: >-
+  ## Overview
+
+
+  A web application enabling users to make and share awesome lists—collections
+  of links to interesting resources on a given topic, similar to popular GitHub
+  awesome lists.
+
+
+  ## Technology
+
+
+  - Backend: Phoenix framework written in Elixir
+
+  - Frontend: Bootstrap 4.0
+
+
+  ## Features
+
+
+  - Create and manage awesome lists
+
+  - Photo upload functionality
+
+  - Email sending capabilities
+
+
+  ## Status
+
+
+  No longer actively maintained by the author.
+
+
+  ## Pricing
+
+
+  Open-source project available on GitHub.
+brand: Ravern Koh
+updated_at: 2026-04-23 00:00

@@ -1,0 +1,38 @@
+name: Awesome R Shiny
+description: A curated list of resources for the R Shiny package, including
+  tutorials, books, training materials, extensions, and examples for building
+  interactive web applications with R.
+source_url: https://github.com/grabear/awesome-rshiny
+category: Data Visualization
+tags:
+  - open-source
+  - r
+  - shiny
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Awesome R Shiny is a curated list of resources for the R Shiny package, used
+  for creating interactive web apps directly from R.
+
+
+  ## Features
+
+
+  - Tutorials and guides
+
+  - Books and courses
+
+  - Extensions and add-ons
+
+  - Deployment options
+
+  - Community resources
+
+
+  ## Pricing
+
+
+  Free and open-source.
+updated_at: 2026-04-23 00:00

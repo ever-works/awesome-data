@@ -1,14 +1,16 @@
 name: r/Entrepreneur
-description: The largest entrepreneurship community on Reddit with 4.9 million
-  members, featuring a mix of aspiring entrepreneurs, side-hustlers, and
-  experienced founders sharing advice. Strict anti-spam rules with designated
-  promotion threads during weekly "Thank You Thursday" events.
+description: Largest Reddit entrepreneurship community with nearly 5 million
+  members, featuring advice threads, weekly promotion events like Thank You
+  Thursday, and searchable archives with strict anti-spam moderation for quality
+  discussions. Supports aspiring founders in business strategy, funding, and
+  growth via peer experiences. Provides broader entrepreneurship scope compared
+  to niche startup subreddits, emphasizing value over promotion.
 source_url: https://reddit.com/r/Entrepreneur
 category: Themed Directories
 tags:
-  - community
-  - business
+  - curated-topic
   - entrepreneurship
+  - business-advice
 featured: true
 markdown: >-
   ## Overview
@@ -112,4 +114,4 @@ markdown: >-
 
 
   Free to join and participate.
-updated_at: 2026-03-14 12:28
+updated_at: 2026-04-23 00:00

@@ -1,12 +1,15 @@
 name: Indie Hackers
-description: A community platform where founders build profitable online
-  businesses independently without external funding. Features forums, stories,
-  podcasts, and resources for bootstrapped SaaS entrepreneurs. Home to thousands
-  of makers sharing revenue, strategies, and lessons learned.
+description: Community platform dedicated to bootstrapped founders building
+  profitable online businesses, featuring forums, revenue-shared stories,
+  podcasts, and searchable resources with active moderation and frequent
+  updates. Enables makers to discover strategies, tools, and peers for indie
+  hacking via transparent MRR discussions and case studies. Focuses on
+  sustainability over VC hype, differing from broad startup forums by its
+  profitability-centric curation.
 source_url: https://www.indiehackers.com
 category: Themed Directories
 tags:
-  - community
+  - curated-topic
   - indie-hacking
   - bootstrapping
 featured: true
@@ -230,4 +233,4 @@ markdown: >-
 
 
   Free to join and participate.
-updated_at: 2026-03-14 12:28
+updated_at: 2026-04-23 00:00

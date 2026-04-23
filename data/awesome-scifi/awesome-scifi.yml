@@ -1,12 +1,17 @@
 name: Awesome Scifi
-description: Sci-Fi worth consuming.
+description: Curated collection of science fiction books, movies, TV shows,
+  games, and other media recommendations, organized by subgenre with
+  community-vetted selections and periodic updates for comprehensive coverage.
+  Features searchable lists enabling fans to discover hidden gems and classics
+  tailored to preferences like space opera or cyberpunk. Unlike broad
+  meta-directories, it offers niche depth for sci-fi enthusiasts seeking quality
+  entertainment.
 source_url: https://github.com/sindresorhus/awesome-scifi
 category: Themed Directories
 tags:
-  - awesome-lists
-  - scifi
-  - literature
-  - entertainment
+  - themed-awesome
+  - science-fiction
+  - media
 featured: false
 markdown: |-
   ## Overview
@@ -20,4 +25,4 @@ markdown: |-
   ## Pricing
 
   Free.
-updated_at: 2026-04-22 09:33
+updated_at: 2026-04-23 00:00

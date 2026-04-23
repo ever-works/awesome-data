@@ -1,10 +1,15 @@
 name: Gdpr Compliance
-description: Framework, libraries and resources about GDPR
+description: Gdpr Compliance curates general software frameworks, libraries, and
+  resources for GDPR compliance and cybersecurity. It provides categorized
+  collections for browsing and discovery. Suited for broad use cases in
+  compliance discovery, as a comprehensive directory versus specialized product
+  launch sites like Product Hunt.
 source_url: https://github.com/paulveillard/cybersecurity-gdpr-compliance
 category: General Directories
 tags:
-  - curated-list
-  - resources
+  - general-directory
+  - software-discovery
+  - gdpr
 markdown: |-
   ## Overview
 
@@ -13,4 +18,6 @@ markdown: |-
   ## Pricing
 
   Free and open-source resource.
-updated_at: 2026-03-22 13:19
+images:
+  - https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
+updated_at: 2026-04-23 00:00

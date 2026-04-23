@@ -1,14 +1,17 @@
 name: r/RoastMyStartup
-description: Get brutally honest feedback on your startup idea, product, or
-  website from a community that doesn't hold back. Perfect for testing
-  assumptions and finding blind spots in your business. Not for the faint of
-  heart, but feedback here can save months of building the wrong thing.
+description: Reddit forum for brutal, honest feedback on startup ideas,
+  websites, and products, with community-driven critiques, searchable post
+  history, and guidelines encouraging thick-skinned founders. Perfect for
+  identifying blind spots and validating assumptions early via unfiltered
+  opinions. Specializes in critical reviews unlike supportive general
+  directories or meta-lists.
 source_url: https://reddit.com/r/RoastMyStartup
 category: Themed Directories
 tags:
-  - community
-  - feedback
-  - startup
+  - curated-topic
+  - startup-feedback
+  - roasts
+featured: false
 markdown: >-
   ## Overview
 
@@ -128,4 +131,4 @@ markdown: >-
 
 
   Free to join and post.
-updated_at: 2026-03-14 12:28
+updated_at: 2026-04-23 00:00

@@ -1,13 +1,17 @@
 name: Made with WebAssembly
-description: A showcase of awesome production applications, side projects, and
-  use cases made with WebAssembly, demonstrating real-world Wasm implementations
-  across various industries.
+description: Showcase directory highlighting production applications, tools, and
+  projects built with WebAssembly across industries like design, gaming, and
+  data processing, curated for real-world examples with regular updates and
+  categorized by use case for searchable inspiration. Enables developers to
+  discover practical Wasm implementations and performance benefits in browsers.
+  Contrasts general tech lists by focusing exclusively on WebAssembly adoption
+  in live products versus theoretical resources.
 source_url: https://github.com/torch2424/made-with-webassembly
 category: Themed Directories
 tags:
+  - themed-awesome
   - webassembly
   - showcase
-  - applications
 featured: false
 markdown: >-
   ## Overview
@@ -435,4 +439,4 @@ markdown: >-
   - Cross-platform tools
 
   - Performance-critical features
-updated_at: 2026-03-18 12:46
+updated_at: 2026-04-23 00:00

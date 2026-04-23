@@ -1,14 +1,17 @@
 name: r/AlphaandBetaUsers
-description: A Reddit community explicitly designed for finding beta testers and
-  early users for new products. Allows free promotional posts for startups
-  seeking user feedback. Connected to related subreddits like r/betatests,
-  r/imadethis, and r/indiebiz.
+description: Reddit community themed around beta testing and early user
+  acquisition for products, featuring free promotional posts, connected
+  subreddits, and searchable archives with community guidelines for relevant
+  feedback. Ideal for startups seeking initial testers and validation through
+  real-user engagement. Differs from general startup forums by its specific
+  focus on pre-launch user recruitment versus broad discussions.
 source_url: https://reddit.com/r/AlphaandBetaUsers
 category: Themed Directories
 tags:
-  - community
+  - curated-topic
   - beta-testing
-  - product-discovery
+  - early-users
+featured: false
 markdown: >-
   ## Overview
 
@@ -209,4 +212,4 @@ markdown: >-
 
 
   Free to post and participate.
-updated_at: 2026-03-14 12:28
+updated_at: 2026-04-23 00:00

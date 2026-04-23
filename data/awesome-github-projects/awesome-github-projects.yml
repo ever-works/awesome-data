@@ -1,14 +1,15 @@
 name: Awesome GitHub Projects
-description: Personal curated directory indexing hundreds of starred open-source
-  GitHub projects across domains like dev tools, frameworks, libraries, and
-  resources. Features domain-based categories and lists for browsing, updated
-  over years with new stars. Great for developers discovering notable projects,
-  as a hand-picked collection versus GitHub's algorithmic topics.
+description: Awesome GitHub Projects curates a broad collection of starred
+  open-source software projects across domains like dev tools, frameworks, and
+  libraries. It features domain-based categories for organized browsing and
+  GitHub search capabilities. Perfect for developers' broad discovery of notable
+  projects, as a personal hand-picked directory unlike trend-based sites like
+  Product Hunt.
 source_url: https://github.com/viktorbezdek/awesome-github-projects
 category: General Directories
 tags:
   - general-directory
-  - open-source-hub
+  - software-discovery
   - github
 featured: false
 markdown: |-
@@ -24,4 +25,6 @@ markdown: |-
 
   ## Pricing
   Free.
-updated_at: 2026-04-22 09:33
+images:
+  - https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
+updated_at: 2026-04-23 00:00

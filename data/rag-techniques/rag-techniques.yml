@@ -1,10 +1,15 @@
 name: Rag Techniques
-description: Advanced techniques for RAG systems
+description: Rag Techniques curates general directories of advanced techniques,
+  tools, and resources for RAG systems in AI. It provides organized categories
+  and implementation guides for exploration. Suited for broad use cases in AI
+  research discovery, differing from specialized sites like Product Hunt by
+  focusing on curated techniques.
 source_url: https://github.com/NirDiamant/RAG_Techniques
 category: General Directories
 tags:
-  - curated-list
-  - resources
+  - general-directory
+  - software-discovery
+  - rag
 markdown: |-
   ## Overview
 
@@ -13,4 +18,6 @@ markdown: |-
   ## Pricing
 
   Free and open-source resource.
-updated_at: 2026-03-22 13:19
+images:
+  - https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
+updated_at: 2026-04-23 00:00

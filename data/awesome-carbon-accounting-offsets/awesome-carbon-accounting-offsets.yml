@@ -1,13 +1,17 @@
 name: Awesome Carbon Accounting & Offsets
-description: A curated list of resources related to carbon accounting, emissions
-  tracking, sustainability tools, and climate initiatives.
+description: Themed awesome list specializing in carbon accounting, emissions
+  tracking, sustainability tools, and climate action resources, maintained with
+  community contributions, regular updates, and high curation standards for
+  quality and relevance. Provides searchable, categorized collections ideal for
+  environmental professionals seeking specialized tools and methodologies.
+  Stands out from general meta-lists like sindresorhus/awesome by offering deep,
+  actionable focus on sustainability metrics and offset strategies.
 source_url: https://github.com/awesomelistsio/awesome-carbon-accounting-offsets
 category: Themed Directories
 tags:
-  - awesome-lists
+  - themed-awesome
   - sustainability
-  - climate
-  - open-source
+  - carbon-accounting
 featured: false
 markdown: |-
   ## Overview
@@ -24,4 +28,4 @@ markdown: |-
 
   Free and open-source.
 brand: awesomelistsio
-updated_at: 2026-04-22 09:33
+updated_at: 2026-04-23 00:00

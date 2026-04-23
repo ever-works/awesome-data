@@ -1,0 +1,29 @@
+name: awesome-ecs
+description: AWS Elastic Container Service and Fargate. A curated list of
+  awesome AWS ECS resources.
+source_url: https://github.com/awesome-ecs/awesome-ecs
+category: themed-directories
+tags:
+  - awesome-lists
+  - aws
+  - cloud-native
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Curated list of resources related to AWS Elastic Container Service (ECS) and
+  Fargate.
+
+
+  ## Features
+
+
+  - Resources for AWS ECS and Fargate users.
+
+
+  ## Pricing
+
+
+  Free and open-source.
+updated_at: 2026-04-23 00:00

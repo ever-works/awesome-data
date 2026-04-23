@@ -1,14 +1,17 @@
 name: Hacker News
-description: Premier tech community for startup and technology discussions.
-  "Show HN" posts allow product launches. Highly influential with tech audience.
-  Free but requires building karma and following community guidelines. Can drive
-  significant traffic for compelling products.
+description: Influential tech community and discussion forum focused on
+  startups, technology, and innovation, featuring daily curated top stories,
+  Show HN product launches, and high-engagement threads with algorithmic ranking
+  and comment searchability. Serves developers, founders, and tech professionals
+  for news discovery, feedback on launches, and networking via influential
+  YC-backed audience. Contrasts general directories by its real-time,
+  merit-based conversation model over static lists.
 source_url: https://news.ycombinator.com
 category: Themed Directories
 tags:
-  - community
-  - startup
+  - curated-topic
   - tech-news
+  - startups
 featured: true
 markdown: >-
   ## Overview
@@ -97,4 +100,4 @@ markdown: >-
 
 
   Free community.
-updated_at: 2026-03-14 12:28
+updated_at: 2026-04-23 00:00

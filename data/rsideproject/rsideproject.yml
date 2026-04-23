@@ -1,14 +1,15 @@
 name: r/SideProject
-description: One of Reddit's most active startup communities with 503,000
-  members and explosive growth (+145-298% yearly). Explicitly designed for
-  people building projects, with self-promotion allowed when seeking feedback.
-  Dozens of new posts appear daily.
+description: Vibrant Reddit community for side projects and indie makers with
+  503k members, supporting self-promo posts for feedback, high daily activity,
+  and searchable by project type with supportive curation standards. Key for
+  builders sharing progress, gaining users, and collaborating on MVPs. Offers
+  project-centric discovery vs general business advice in broader subs.
 source_url: https://reddit.com/r/SideProject
 category: Themed Directories
 tags:
-  - community
-  - startup
-  - project-discovery
+  - curated-topic
+  - side-projects
+  - maker-community
 featured: true
 markdown: >-
   ## Overview
@@ -96,4 +97,4 @@ markdown: >-
 
 
   Free to join and participate.
-updated_at: 2026-03-14 12:28
+updated_at: 2026-04-23 00:00

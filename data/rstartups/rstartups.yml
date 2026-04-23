@@ -1,14 +1,16 @@
 name: r/startups
-description: A highly engaged Reddit community with 1.8 million members and zero
-  tolerance for BS, where founders discuss early-stage challenges to scaling
-  strategies. Features discussions on fundraising, product development, hiring,
-  and more. Strict moderation with monthly 'Share Your Startup' threads.
+description: High-quality Reddit forum for startup founders with 1.8M members,
+  featuring strict moderation, monthly promo threads, and searchable discussions
+  on funding, growth, and tech challenges with expert community input.
+  Facilitates deep resource discovery for scaling businesses via real founder
+  experiences. Prioritizes substantive content over promotion, unlike permissive
+  plug communities.
 source_url: https://reddit.com/r/startups
 category: Themed Directories
 tags:
-  - community
+  - curated-topic
   - startups
-  - entrepreneurship
+  - founder-advice
 featured: true
 markdown: >-
   ## Overview
@@ -183,4 +185,4 @@ markdown: >-
 
 
   Free to join and participate.
-updated_at: 2026-03-14 12:28
+updated_at: 2026-04-23 00:00

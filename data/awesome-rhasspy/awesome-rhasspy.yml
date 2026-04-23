@@ -1,0 +1,24 @@
+name: Awesome Rhasspy
+description: Resources for Rhasspy, an open source voice assistant.
+source_url: https://github.com/rhasspy/awesome-rhasspy
+category: Voice
+tags:
+  - voice-assistant
+  - open-source
+  - self-hosted
+featured: false
+markdown: |-
+  ## Overview
+
+  Curated resources for Rhasspy voice assistant toolkit.
+
+  ## Features
+
+  - Tools and libraries
+  - Projects and integrations
+  - Documentation
+
+  ## Pricing
+
+  Free and open-source.
+updated_at: 2026-04-23 00:00

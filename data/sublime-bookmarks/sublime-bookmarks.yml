@@ -1,12 +1,15 @@
 name: Sublime Bookmarks
-description: Sublime Text essential plugins and resources. Curated collection
-  for Sublime Text editor.
+description: Curated collection of essential plugins, themes, and resources for
+  Sublime Text editor, maintained on GitHub with community updates,
+  categorization by functionality, and quality standards for developer
+  productivity. Enables quick discovery of extensions for coding workflows.
+  Provides editor-specific depth unlike general dev tool lists.
 source_url: https://github.com/dreikanter/sublime-bookmarks
 category: Themed Directories
 tags:
-  - awesome-lists
+  - themed-awesome
   - sublime-text
-  - editors
+  - editor-plugins
 featured: false
 markdown: |-
   ## Overview
@@ -20,4 +23,4 @@ markdown: |-
   ## Pricing
 
   Free.
-updated_at: 2026-04-22 09:33
+updated_at: 2026-04-23 00:00

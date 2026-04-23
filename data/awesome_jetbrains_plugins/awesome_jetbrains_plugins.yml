@@ -1,14 +1,17 @@
-name: awesome_jetbrains_plugins
-description: A list of top and best plugins for Jetbrains IDEs including
-  IntelliJ IDEA, PyCharm, WebStorm, PhpStorm, Rider, CLion, RubyMine, GoLand,
-  RustRover, Aqua, Android Studio.
+name: Awesome JetBrains Plugins
+description: Themed directory of top plugins for JetBrains IDEs including
+  IntelliJ IDEA, PyCharm, WebStorm, and others, curated for quality,
+  productivity impact, and regular updates with community contributions and
+  categorization by function. Facilitates developers in enhancing their workflow
+  through searchable recommendations for languages, frameworks, and tools.
+  Delivers IDE-specific depth beyond general plugin lists or meta awesome
+  collections.
 source_url: https://github.com/karminski3/awesome-jetbrains-plugins
 category: Themed Directories
 tags:
-  - awesome-lists
+  - themed-awesome
   - jetbrains
-  - plugins
-  - ides
+  - ide-plugins
 featured: false
 markdown: |-
   ## Overview
@@ -22,4 +25,4 @@ markdown: |-
   ## Pricing
 
   Free and open-source.
-updated_at: 2026-04-22 09:33
+updated_at: 2026-04-23 00:00

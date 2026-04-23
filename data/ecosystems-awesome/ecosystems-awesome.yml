@@ -1,14 +1,17 @@
 name: Ecosyste.ms Awesome
-description: Platform for exploring awesome lists with ecosystem metrics,
-  dependencies, and analytics. Shows awesome lists by topic (web3, ethereum,
-  solidity), language (JavaScript), and provides rich metadata about each
-  collection.
+description: Ecosyste.ms Awesome is an analytics-driven meta-directory for
+  exploring GitHub awesome lists, offering filtering by topic (e.g., web3,
+  solidity), language, ecosystem metrics, dependencies, star tracking, and
+  contributor statistics. It provides advanced features like topic clustering,
+  trend analysis, and cross-list search for in-depth insights. Use cases include
+  discovering and analyzing awesome lists by theme or language, far surpassing
+  static alternatives like sindresorhus/awesome with data-rich visualizations.
 source_url: https://awesome.ecosyste.ms
 category: Meta Directories
 tags:
-  - awesome-lists
+  - meta-awesome
+  - list-discovery
   - analytics
-  - ecosystem
 featured: true
 markdown: >-
   ## Overview
@@ -87,4 +90,4 @@ markdown: >-
 
 
   Free platform.
-updated_at: 2026-03-14 12:28
+updated_at: 2026-04-23 00:00

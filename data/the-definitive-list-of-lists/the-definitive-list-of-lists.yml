@@ -1,13 +1,17 @@
 name: The Definitive List of Lists
-description: The definitive list of lists (of lists) curated on GitHub and
-  elsewhere, featuring useful, silly and awesome lists across all topics and
-  domains.
+description: The Definitive List of Lists is an extensive meta-directory
+  cataloging curated lists from GitHub and beyond, encompassing awesome lists,
+  reading lists, and more across all topics with quality and maintenance
+  criteria. It organizes content by categories like programming, design, and
+  business for topic-based discovery. It provides a broader, more diverse
+  collection than focused awesome hubs like sindresorhus/awesome or
+  TrackAwesomeList.
 source_url: https://github.com/jnv/lists
 category: Meta Directories
 tags:
-  - meta
+  - meta-awesome
+  - list-discovery
   - curated-lists
-  - directory
 featured: true
 markdown: >-
   ## Overview
@@ -103,4 +107,4 @@ markdown: >-
 
 
   Free and open-source directory.
-updated_at: 2026-03-20 13:04
+updated_at: 2026-04-23 00:00

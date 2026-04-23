@@ -1,0 +1,14 @@
+name: Linux eBPF
+description: Virtual machine that allows you to write more efficient and
+  powerful tracing and monitoring for Linux systems. A collection of awesome
+  eBPF projects, tools, and resources. Widely used for observability and
+  networking in Linux environments.
+source_url: https://github.com/zoidbergwill/awesome-ebpf
+category: Development Tools
+tags:
+  - linux
+  - ebpf
+  - awesome-lists
+  - open-source
+featured: false
+updated_at: 2026-04-23 00:00
