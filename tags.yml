@@ -649,7 +649,7 @@
 - id: npm
   name: npm
 - id: activism
-  name: activism
+  name: Activism
 - id: tools
   name: Tools
 - id: multimedia
@@ -2516,3 +2516,41 @@
   name: Chinese
 - id: mobile-development
   name: Mobile Development
+- id: workweek
+  name: Workweek
+- id: daily-updated
+  name: Daily Updated
+- id: insights
+  name: Insights
+- id: rated
+  name: Rated
+- id: inception-lists
+  name: Inception Lists
+- id: launch
+  name: Launch
+- id: daily-updates
+  name: Daily Updates
+- id: board-games
+  name: Board Games
+- id: social-justice
+  name: Social Justice
+- id: ai-coding
+  name: Ai Coding
+- id: anthropic
+  name: Anthropic
+- id: guitar
+  name: Guitar
+- id: specifications
+  name: Specifications
+- id: language-models
+  name: Language Models
+- id: scaling-laws
+  name: Scaling Laws
+- id: open-access
+  name: Open Access
+- id: auto-updated
+  name: Auto Updated
+- id: dynamic-tracker
+  name: Dynamic Tracker
+- id: rss-feeds
+  name: Rss Feeds

@@ -176,3 +176,13 @@
   name: Awesome Meta Directories
 - id: featured-awesome-lists
   name: Featured Awesome Lists
+- id: ai-directories
+  name: AI Directories
+- id: ai-awesome-directories
+  name: AI Awesome Directories
+- id: dynamic-list-trackers
+  name: Dynamic List Trackers
+- id: launch-directories
+  name: Launch Directories
+- id: product-directories
+  name: Product Directories
