@@ -5,7 +5,7 @@ description: Meta directory aggregating lists of GitHub lists, enabling
   awesome lists, distinguishing itself as a list-of-lists index rather than a
   general directory.
 source_url: https://github.com/yaph/lologl
-category: Inception Meta Lists
+category: Meta Awesome Collections
 tags:
   - list-index
   - inception-meta
@@ -50,4 +50,4 @@ markdown: >-
 
 
   Free and open-source under CC0-1.0 license.
-updated_at: 2026-04-23 14:34
+updated_at: 2026-04-23 20:49

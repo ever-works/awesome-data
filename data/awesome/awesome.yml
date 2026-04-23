@@ -1,10 +1,8 @@
 name: Awesome
-description: "The canonical Awesome lists about all kinds of interesting topics,
-  serving as the original inspiration for thousands of GitHub awesome lists.
-  Features: Curated, community-maintained, categorized links with stars and
-  descriptions. Use cases: Discovering resources across tech domains.
-  Comparisons: Broader than niche awesomes like awesome-python, more manual
-  curation than dynamic trackers."
+description: A central hub aggregating thousands of curated Awesome lists across
+  topics like programming, design, and security; features searchable interface,
+  star rankings, and daily updates; ideal for developers seeking topic-specific
+  resources; compared to single Awesome lists, it's a meta-index.
 source_url: https://github.com/sindresorhus/awesome
 category: Canonical Awesome Hubs
 tags:
@@ -39,4 +37,5 @@ brand_logo_url: https://raw.githubusercontent.com/sindresorhus/awesome/master/me
 images:
   - https://raw.githubusercontent.com/sindresorhus/awesome/master/media/logo.png
   - https://github.com/sindresorhus/awesome/raw/master/media/logo.png
-updated_at: 2026-04-23 14:34
+  - https://github.com/sindresorhus/awesome.png
+updated_at: 2026-04-23 20:49

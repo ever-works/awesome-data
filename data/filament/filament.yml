@@ -3,7 +3,7 @@ description: "Curated Filament resources: plugins, themes, packages for TALL
   stack admin panels. Growing GitHub stars. Laravel devs extending UIs; distinct
   from general PHP admin lists."
 source_url: https://github.com/filamentphp/awesome-filament
-category: Featured Awesome Lists
+category: Canonical Awesome Hubs
 tags:
   - project-awesome
   - curated-topic
@@ -30,4 +30,4 @@ markdown: |-
   Free and open-source.
 images:
   - https://raw.githubusercontent.com/filamentphp/awesome-filament/main/banner.png
-updated_at: 2026-04-23 05:34
+updated_at: 2026-04-23 20:49

@@ -3,7 +3,7 @@ description: "Curated Convex ecosystem: components, integrations, guides for
   reactive backend platform. Low GitHub stars. Backend devs onboarding; distinct
   from general serverless awesome lists."
 source_url: https://github.com/get-convex/awesome-convex
-category: Featured Awesome Lists
+category: Canonical Awesome Hubs
 tags:
   - project-awesome
   - curated-topic
@@ -30,4 +30,4 @@ markdown: |-
   Free tier available; paid plans for scale.
 images:
   - https://raw.githubusercontent.com/get-convex/awesome-convex/main/og-image.png
-updated_at: 2026-04-23 05:34
+updated_at: 2026-04-23 20:49

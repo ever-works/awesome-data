@@ -1,7 +1,11 @@
 name: Lists - The Definitive List of Lists
-description: The definitive list of lists curated on GitHub and elsewhere.
-  Meta-collection aggregating awesome lists, curated lists, and other resource
-  collections across all topics and platforms.
+description: Comprehensive index serving as the ultimate aggregator of curated
+  lists from GitHub and other platforms, encompassing awesome lists across
+  programming, data science, design, and more. Key features include
+  categorization by topic and list type, with emphasis on star-ranked and
+  community-maintained collections for quality assurance. Use cases range from
+  discovering specialized topic curations to assembling broad resource
+  libraries; offers superior breadth compared to single-topic awesome lists.
 source_url: https://github.com/jnv/lists
 category: Meta Awesome Directories
 tags:
@@ -107,4 +111,6 @@ markdown: >-
 
 
   Free and open-source meta-list.
-updated_at: 2026-04-23 02:45
+brand: jnv
+brand_logo_url: https://github.com/jnv.png
+updated_at: 2026-04-23 20:49

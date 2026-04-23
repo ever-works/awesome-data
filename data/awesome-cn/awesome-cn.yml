@@ -6,7 +6,7 @@ description: awesome-cn aggregates Chinese-language awesome lists for
   discovering localized themed awesome lists, more focused than general
   collections like sindresorhus/awesome or GitHub topics.
 source_url: https://github.com/icopy-site/awesome-cn
-category: Awesome Meta Directories
+category: Meta Awesome Directories
 tags:
   - meta-awesome
   - list-aggregator
@@ -70,4 +70,4 @@ brand: icopy-site
 brand_logo_url: https://github.com/icopy-site.png
 images:
   - https://raw.githubusercontent.com/icopy-site/awesome-cn/main/media/logo.png
-updated_at: 2026-04-23 05:34
+updated_at: 2026-04-23 20:49

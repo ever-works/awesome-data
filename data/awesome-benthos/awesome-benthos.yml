@@ -4,7 +4,7 @@ description: Curated list covering Benthos plugins, configs, tutorials for
   Suited for event-driven architectures; alternative to broader stream
   processing lists like Awesome Kafka.
 source_url: https://github.com/redpanda-data/awesome-benthos
-category: Project Awesome Lists
+category: Canonical Awesome Hubs
 tags:
   - project-awesome
   - meta-awesome
@@ -34,4 +34,4 @@ markdown: |-
   Free and open-source.
 images:
   - https://raw.githubusercontent.com/redpanda-data/awesome-benthos/main/banner.png
-updated_at: 2026-04-23 09:02
+updated_at: 2026-04-23 20:49

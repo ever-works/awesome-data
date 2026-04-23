@@ -4,7 +4,7 @@ description: A community-driven list of awesome linters for various programming
   static analysis tools that check for common mistakes, style violations, and
   potential bugs.
 source_url: https://github.com/caramelomartins/awesome-linters
-category: Development Tools
+category: Awesome Linters & Validators
 tags:
   - linters
   - code-quality
@@ -290,4 +290,4 @@ markdown: >-
 
 
   Primarily free and open-source tools.
-updated_at: 2026-03-22 13:19
+updated_at: 2026-04-23 20:49

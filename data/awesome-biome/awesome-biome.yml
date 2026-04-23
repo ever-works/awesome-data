@@ -4,7 +4,7 @@ description: Curated GitHub list of Biome resources including plugins,
   GitHub stars. For Rust/JS developers optimizing tooling; narrower than general
   Awesome Rust or JS tooling lists.
 source_url: https://github.com/biomejs/awesome-biome
-category: Project Awesome Lists
+category: Canonical Awesome Hubs
 tags:
   - project-awesome
   - meta-awesome
@@ -33,4 +33,4 @@ markdown: |-
   Free and open-source.
 images:
   - https://raw.githubusercontent.com/biomejs/awesome-biome/main/banner.png
-updated_at: 2026-04-23 09:02
+updated_at: 2026-04-23 20:49

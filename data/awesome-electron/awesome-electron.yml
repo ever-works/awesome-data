@@ -7,7 +7,7 @@ description: "Curates awesome lists of resources, libraries, tools, and
   specialized for Electron vs broader desktop frameworks in general awesome
   lists like sindresorhus/awesome."
 source_url: https://github.com/sindresorhus/awesome-electron
-category: Project Awesome Lists
+category: Canonical Awesome Hubs
 tags:
   - awesome-lists
   - electron
@@ -39,4 +39,4 @@ brand_logo_url: https://avatars.githubusercontent.com/u/170230?v=4
 images:
   - https://github.com/sindresorhus/awesome-electron/raw/main/media/banner.png
   - https://github.githubassets.com/images/modules/open_graph/github-mark.png
-updated_at: 2026-04-23 14:34
+updated_at: 2026-04-23 20:49

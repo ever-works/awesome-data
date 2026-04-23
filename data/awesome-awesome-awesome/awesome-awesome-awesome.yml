@@ -4,7 +4,7 @@ description: Awesome Awesome Awesome is a comprehensive index of GitHub awesome
   Ideal for developers seeking topic-specific resources. More meta/focused than
   sindresorhus/awesome, this aggregates directories of awesome resources.
 source_url: https://github.com/t3chnoboy/awesome-awesome-awesome
-category: Awesome Meta Collections
+category: Meta Awesome Collections
 tags:
   - meta-index
   - list-of-lists
@@ -46,4 +46,4 @@ markdown: >-
   ## Pricing
 
   - Free to use (open-source repository on GitHub).
-updated_at: 2026-04-23 14:34
+updated_at: 2026-04-23 20:49

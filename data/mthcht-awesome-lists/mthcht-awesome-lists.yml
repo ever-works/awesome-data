@@ -1,34 +1,31 @@
 name: mthcht/awesome-lists
-description: "Curates a meta-collection of various 'awesome' lists across
-  topics, serving as a directory of awesome resources. Key features: aggregation
-  of themed awesome lists, categorized by topic, community-driven curation. Use
-  cases: quick cross-topic resource discovery, building learning paths; more
-  specialized meta-index than comprehensive general lists like
-  sindresorhus/awesome."
+description: Security-focused Awesome lists for SOC/DFIR, featuring specialized
+  content on detections and event IDs. Curated for cybersecurity professionals
+  in Security Operations Center and Digital Forensics & Incident Response.
 source_url: https://github.com/mthcht/awesome-lists
 category: Meta Awesome Directories
 tags:
   - awesome-lists
-  - meta-directory
-  - curated-lists
-  - open-source
-  - aggregator
+  - security
+  - soc
+  - dfir
+  - detections
 featured: false
 markdown: |-
   ## Overview
 
-  Meta-collection curating awesome lists.
+  Security-focused collection of awesome lists for SOC/DFIR.
 
   ## Features
 
-  - Aggregates themed awesome repos
-  - Categorized by topic
-  - Community-driven
+  - Specialized detections
+  - Event IDs
+  - Cybersecurity resources
 
   ## Use Cases
 
-  - Resource discovery across topics
-  - Curated learning paths
+  - SOC operations
+  - Incident response
 
   ## Pricing
 
@@ -37,4 +34,5 @@ brand: mthcht
 brand_logo_url: https://avatars.githubusercontent.com/u/479383?v=4
 images:
   - https://github.githubassets.com/images/modules/open_graph/github-mark.png
-updated_at: 2026-04-23 14:34
+  - https://raw.githubusercontent.com/mthcht/awesome-lists/master/.github/og-image.png
+updated_at: 2026-04-23 20:49

@@ -5,7 +5,7 @@ description: "Get Awesome Lists is a searchable directory of GitHub Awesome
   categorization, submission form; outperforms basic GitHub search. Compared to
   Awesome Rank, it focuses on searchability."
 source_url: https://getawesomelists.com/
-category: Awesome Meta Collections
+category: Meta Awesome Collections
 tags:
   - searchable
   - indexed
@@ -47,4 +47,4 @@ markdown: >-
   Free.
 images:
   - https://getawesomelists.com/favicon.ico
-updated_at: 2026-04-23 14:34
+updated_at: 2026-04-23 20:49

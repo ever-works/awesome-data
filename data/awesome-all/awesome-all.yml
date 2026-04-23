@@ -1,9 +1,12 @@
 name: Awesome All
-description: Lists of awesome frameworks, libraries, and software. This project
-  acts as a centralized directory for various awesome lists, making it highly
-  relevant as a directory of directories.
+description: Centralized meta-directory compiling awesome lists of frameworks,
+  libraries, software, and tools across numerous domains, functioning as a
+  comprehensive index of awesome resources. Features organized categorization
+  and direct access to star-ranked GitHub repositories for quick evaluation.
+  Suited for developers seeking diverse curations in one place; provides
+  aggregated multi-topic access unlike focused single-subject awesome lists.
 source_url: https://github.com/bradoyler/awesome-all
-category: Meta Directories
+category: Meta Awesome Directories
 tags:
   - meta-directory
   - curated-lists
@@ -33,4 +36,8 @@ markdown: |-
 
   **Pricing:**
   - Free (Open Source)
-updated_at: 2026-04-23 12:06
+brand: bradoyler
+brand_logo_url: https://github.com/bradoyler.png
+images:
+  - https://github.githubassets.com/images/modules/open_graph/github-mark.png
+updated_at: 2026-04-23 20:49

@@ -5,7 +5,7 @@ description: Awesome (awesomelistsio) is a comprehensive index of GitHub awesome
   meta/focused than sindresorhus/awesome, this emphasizes comprehensive indexing
   of specialized lists.
 source_url: https://github.com/awesomelistsio/awesome
-category: Awesome Meta Collections
+category: Meta Awesome Collections
 tags:
   - meta-index
   - list-of-lists
@@ -37,4 +37,4 @@ brand: awesomelistsio
 brand_logo_url: https://github.githubassets.com/images/modules/logos_page/Octocat-mark.png
 images:
   - https://raw.githubusercontent.com/awesomelistsio/awesome/main/media/logo.png
-updated_at: 2026-04-23 14:34
+updated_at: 2026-04-23 20:49
