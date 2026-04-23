@@ -1,0 +1,33 @@
+name: shebang.nvim
+description: A Neovim plugin designed to add or modify the shebang line at the
+  top of the current file, enhancing editing support particularly for scripts.
+  Recently added to Awesome Neovim under Editing Support and Scrollbar. Provides
+  utility for developers working with executable scripts in Neovim.
+source_url: https://github.com/DrKJeff16/shebang.nvim
+category: Development Tools
+tags:
+  - neovim
+  - plugin
+  - open-source
+featured: false
+markdown: >-
+  ## Overview
+
+
+  shebang.nvim is a lightweight Neovim plugin for managing shebang lines in
+  files.
+
+
+  ## Features
+
+
+  - Add shebang to current file
+
+  - Modify existing shebang
+
+
+  ## Pricing
+
+
+  Free and open-source.
+updated_at: 2026-04-23 17:44

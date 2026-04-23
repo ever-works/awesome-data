@@ -1,0 +1,7 @@
+name: Open Directory Downloader
+description: Heroku app for downloading open directories.
+source_url: https://open-directory-downloader.herokuapp.com
+category: Download Tools
+tags:
+  - downloader
+updated_at: 2026-04-23 17:44

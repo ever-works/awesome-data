@@ -1,0 +1,22 @@
+name: Product Hunt
+description: The go-to platform to launch and discover new products. Product
+  Hunt is where makers launch their products and get feedback from early
+  adopters in the tech community.
+source_url: https://www.producthunt.com
+category: Launch Directories
+tags:
+  - saas
+  - product-launch
+  - startup
+featured: true
+markdown: |-
+  ## Overview
+
+  Platform for product launches and discovery.
+
+  ## Features
+
+  - Daily featured products
+  - Community upvotes and comments
+  - Maker interactions and feedback
+updated_at: 2026-04-23 17:44

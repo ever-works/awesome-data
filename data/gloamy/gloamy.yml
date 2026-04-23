@@ -1,0 +1,28 @@
+name: gloamy
+description: Rust-first autonomous agent runtime supporting CLI, channels,
+  gateway, and hardware workflows. Included in Awesome Rust under Applications
+  and Productivity. Enables building agentic systems in Rust.
+source_url: https://github.com/iBz-04/gloamy
+category: Machine Learning & AI
+tags:
+  - rust
+  - autonomous-agent
+  - cli
+  - open-source
+featured: false
+markdown: |-
+  ## Overview
+
+  gloamy is a runtime for autonomous agents built in Rust.
+
+  ## Features
+
+  - CLI workflows
+  - Channel support
+  - Gateway integration
+  - Hardware workflows
+
+  ## Pricing
+
+  Free and open-source.
+updated_at: 2026-04-23 17:44

@@ -1,0 +1,29 @@
+name: verify
+description: Go library to validate email addresses before database insertion,
+  checking syntax, MX records, disposable domains, and role-based inboxes. Added
+  to Awesome Go under Email. Enhances data quality in applications handling user
+  registrations.
+source_url: https://github.com/tickstem/verify
+category: Development Tools
+tags:
+  - go
+  - email
+  - validation
+  - open-source
+featured: false
+markdown: |-
+  ## Overview
+
+  Verify performs comprehensive email address validation in Go.
+
+  ## Features
+
+  - Syntax validation
+  - MX lookup
+  - Disposable domain detection
+  - Role-based inbox checks
+
+  ## Pricing
+
+  Free and open-source.
+updated_at: 2026-04-23 17:44

@@ -1,0 +1,21 @@
+name: Capterra
+description: Comprehensive software listing and reviews platform. Capterra helps
+  users discover and compare software with detailed reviews.
+source_url: https://www.capterra.com
+category: Product Directories
+tags:
+  - reviews
+  - saas
+  - comparison
+featured: true
+markdown: |-
+  ## Overview
+
+  Software directory with reviews.
+
+  ## Features
+
+  - Extensive listings
+  - User reviews
+  - Comparison features
+updated_at: 2026-04-23 17:44

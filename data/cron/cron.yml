@@ -1,0 +1,28 @@
+name: cron
+description: Go client for scheduling HTTP cron jobs with execution history,
+  failure alerts, and tsk-local for testing without live credentials. Featured
+  in Awesome Go under Job Scheduler. Simplifies scheduled task management in Go
+  applications.
+source_url: https://github.com/tickstem/cron
+category: Automation
+tags:
+  - go
+  - cron
+  - job-scheduler
+  - open-source
+featured: false
+markdown: |-
+  ## Overview
+
+  A Go client for HTTP-based cron job scheduling.
+
+  ## Features
+
+  - Execution history
+  - Failure alerts
+  - Local testing with tsk-local
+
+  ## Pricing
+
+  Free and open-source.
+updated_at: 2026-04-23 17:44

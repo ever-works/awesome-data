@@ -1,0 +1,23 @@
+name: programmers-proverbs
+description: Proverbs from the programmer. Collection of sayings and wisdom
+  relevant to software developers.
+source_url: https://github.com/mneumann/programmers-proverbs
+category: Themed Directories
+tags:
+  - proverbs
+  - programming
+  - awesome-lists
+featured: false
+markdown: |-
+  ## Overview
+
+  Curated collection of proverbs for programmers.
+
+  ## Features
+
+  - List of insightful sayings for developers.
+
+  ## Pricing
+
+  Free and open-source.
+updated_at: 2026-04-23 17:44

@@ -1,0 +1,9 @@
+name: OpenDirectoryDownloader
+description: Standalone program that indexes 100+ formats of open directories
+  for downloading.
+source_url: https://github.com/Devaro/OpenDirectoryDownloader
+category: Download Tools
+tags:
+  - open-source
+  - downloader
+updated_at: 2026-04-23 17:44

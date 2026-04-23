@@ -1,0 +1,39 @@
+name: os-moda
+description: A NixOS distribution featuring an AI agent with root access through
+  91 typed MCP tools. Includes 9 Rust daemons for system bridging, atomic
+  deploys with auto-rollback, audit ledger, crypto wallets, P2P mesh, local
+  STT/TTS, MCP server management, system learning, and egress proxy. Added to
+  Awesome Rust under Applications and System tools.
+source_url: https://github.com/bolivian-peru/os-moda
+category: Devops Sre
+tags:
+  - rust
+  - nixos
+  - ai-agent
+  - mcp
+  - open-source
+featured: false
+markdown: >-
+  ## Overview
+
+
+  os-moda is an innovative NixOS distribution integrating AI agents for system
+  management.
+
+
+  ## Features
+
+
+  - AI agent with root via 91 MCP tools
+
+  - 9 Rust daemons: system bridge, SafeSwitch deploys, audit ledger, crypto,
+  P2P, STT/TTS, MCP lifecycle, learning, proxy
+
+  - Unix socket communication
+
+
+  ## Pricing
+
+
+  Free and open-source.
+updated_at: 2026-04-23 17:44
