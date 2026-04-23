@@ -206,3 +206,13 @@
   name: Music Directories
 - id: download-tools
   name: Download Tools
+- id: inception-awesome
+  name: Inception Awesome
+- id: star-trackers
+  name: Star Trackers
+- id: awesome-linters-validators
+  name: Awesome Linters & Validators
+- id: generated-awesome-lists
+  name: Generated Awesome Lists
+- id: dynamic-awesome-generators
+  name: Dynamic Awesome Generators
