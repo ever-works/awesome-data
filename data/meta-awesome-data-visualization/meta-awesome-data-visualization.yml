@@ -3,7 +3,7 @@ description: An awesome meta-collection for data visualization resources,
   libraries, and tools. It indexes various awesome lists that cover charts,
   dashboards, visual analytics, and related visualization techniques.
 source_url: https://github.com/jepemo/meta-awesome/blob/master/doc/data-visualization.md
-category: Meta Directories
+category: Meta Awesome Directories
 tags:
   - meta-directory
   - data-visualization
@@ -81,4 +81,4 @@ markdown: >-
   (subject to GitHub’s general usage terms).
 brand: meta-awesome
 brand_logo_url: null
-updated_at: 2026-04-23 14:34
+updated_at: 2026-04-24 00:06

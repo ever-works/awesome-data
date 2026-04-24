@@ -5,7 +5,7 @@ description: Jepemo's meta-list of awesome lists, organized by categories like
   discovering themed awesome lists; an alternative to the more general
   sindresorhus/awesome.
 source_url: https://github.com/jepemo/meta-awesome
-category: Meta Awesome Collections
+category: Meta Awesome Directories
 tags:
   - categorized-meta
 featured: true
@@ -44,4 +44,4 @@ brand: jepemo
 brand_logo_url: null
 images:
   - https://github.com/jepemo/meta-awesome/raw/master/meta-awesome.png
-updated_at: 2026-04-23 20:49
+updated_at: 2026-04-24 00:06

@@ -2,7 +2,7 @@ name: Meta Awesome - Reading
 description: A Meta Awesome page that serves as a meta-directory for curated
   reading lists and Awesome repositories covering a broad range of topics.
 source_url: https://github.com/jepemo/meta-awesome/blob/master/doc/reading.md
-category: Meta Directories
+category: Meta Awesome Directories
 tags:
   - meta-directory
   - reading
@@ -70,4 +70,4 @@ markdown: >
   pricing or paid plans.
 brand: github
 brand_logo_url: https://github.githubassets.com/images/modules/logos_page/GitHub-Logo.png
-updated_at: 2026-04-23 14:34
+updated_at: 2026-04-24 00:06

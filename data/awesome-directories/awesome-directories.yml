@@ -6,7 +6,7 @@ description: Awesome Directories aggregates over 300 curated SaaS launch
   exporting lists. Outperforms static GitHub topics with specialized metrics and
   automation.
 source_url: https://github.com/awesome-directories/awesome-directories
-category: Meta Awesome Collections
+category: Meta Awesome Directories
 tags:
   - meta-awesome
   - list-aggregator
@@ -59,4 +59,4 @@ markdown: |-
   Free and open-source under Apache 2.0 license.
 brand: awesome-directories
 brand_logo_url: https://github.com/awesome-directories.png
-updated_at: 2026-04-23 20:49
+updated_at: 2026-04-24 00:06

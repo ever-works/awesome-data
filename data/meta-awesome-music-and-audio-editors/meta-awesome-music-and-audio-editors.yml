@@ -2,7 +2,7 @@ name: Meta Awesome - Music and Audio Editors
 description: A meta-awesome subpage listing awesome collections of music and
   audio editing tools and libraries.
 source_url: https://github.com/jepemo/meta-awesome/blob/master/doc/music-and-audio-editors.md
-category: Meta Directories
+category: Meta Awesome Directories
 tags:
   - meta-directory
   - audio
@@ -33,4 +33,4 @@ markdown: |-
   - Not applicable. This is an open GitHub markdown directory page; no pricing or plans are specified.
 brand: jepemometa-awesome
 brand_logo_url: null
-updated_at: 2026-04-23 14:34
+updated_at: 2026-04-24 00:06

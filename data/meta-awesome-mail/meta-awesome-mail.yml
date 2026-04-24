@@ -2,7 +2,7 @@ name: Meta Awesome - Mail
 description: An Awesome-style list in Meta Awesome collecting tools, libraries,
   and services related to email and messaging via mail protocols.
 source_url: https://github.com/jepemo/meta-awesome/blob/master/doc/mail.md
-category: Meta Directories
+category: Meta Awesome Directories
 tags:
   - meta-directory
   - communication
@@ -57,4 +57,4 @@ markdown: >-
   - Access to the list is free (open GitHub repository).
 brand: jepemometa-awesome
 brand_logo_url: null
-updated_at: 2026-04-23 14:34
+updated_at: 2026-04-24 00:06

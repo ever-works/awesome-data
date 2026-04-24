@@ -2,7 +2,7 @@ name: Meta Awesome - Eventhandling
 description: An additional meta-awesome entry focused on awesome lists about
   event handling patterns, libraries, and architectures.
 source_url: https://github.com/jepemo/meta-awesome/blob/master/doc/eventhandling.md
-category: Meta Directories
+category: Meta Awesome Directories
 tags:
   - awesome-lists
   - meta-directory
@@ -49,4 +49,4 @@ markdown: >-
   - Not applicable (GitHub-based curated list; no pricing information provided).
 brand_logo_url: null
 images: []
-updated_at: 2026-04-23 14:34
+updated_at: 2026-04-24 00:06

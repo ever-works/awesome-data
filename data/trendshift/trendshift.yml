@@ -7,7 +7,7 @@ description: Trendshift is a real-time meta-directory monitoring trending GitHub
   project hunting compared to static directories like sindresorhus/awesome or
   TrackAwesomeList.
 source_url: https://trendshift.io/
-category: Meta Directories
+category: Meta Awesome Directories
 tags:
   - meta-awesome
   - list-discovery
@@ -50,4 +50,4 @@ markdown: >-
 
 
   Free with optional premium features.
-updated_at: 2026-04-23 00:00
+updated_at: 2026-04-24 00:06

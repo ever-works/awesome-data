@@ -2,7 +2,7 @@ name: meta-awesome - Multimedia and File Formats
 description: A section of meta-awesome aggregating awesome lists that cover
   multimedia handling and file format tooling.
 source_url: https://github.com/jepemo/meta-awesome/blob/master/doc/multimedia-and-file-formats.md
-category: Meta Directories
+category: Meta Awesome Directories
 tags:
   - meta-directory
   - multimedia
@@ -64,4 +64,4 @@ markdown: |
   - **Free** – The directory is an open GitHub document with no paid plans mentioned.
 brand: jepemometa-awesome
 brand_logo_url: null
-updated_at: 2026-04-23 14:34
+updated_at: 2026-04-24 00:06

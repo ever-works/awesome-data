@@ -2,7 +2,7 @@ name: Meta Awesome - JSON
 description: An Awesome-format sublist within Meta Awesome that aggregates
   JSON-related tools, libraries, and references.
 source_url: https://github.com/jepemo/meta-awesome/blob/master/doc/json.md
-category: Meta Directories
+category: Meta Awesome Directories
 tags:
   - meta-directory
   - json
@@ -62,4 +62,4 @@ markdown: >-
   describe a paid product or plans.
 brand: jepemometa-awesome
 brand_logo_url: null
-updated_at: 2026-04-23 14:34
+updated_at: 2026-04-24 00:06

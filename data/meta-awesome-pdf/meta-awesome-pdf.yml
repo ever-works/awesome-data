@@ -3,7 +3,7 @@ description: An Awesome-style list within the Meta Awesome project focusing on
   curated PDF resources and collections, likely including other PDF-based
   Awesome lists or high-quality PDF compilations.
 source_url: https://github.com/jepemo/meta-awesome/blob/master/doc/pdf.md
-category: Meta Directories
+category: Meta Awesome Directories
 tags:
   - meta-directory
   - awesome-lists
@@ -37,4 +37,4 @@ markdown: |
   - Not applicable. This is an open, GitHub-hosted curated list; no pricing or plans are specified.
 brand: github
 brand_logo_url: https://github.githubassets.com/images/modules/logos_page/GitHub-Logo.png
-updated_at: 2026-04-23 14:34
+updated_at: 2026-04-24 00:06

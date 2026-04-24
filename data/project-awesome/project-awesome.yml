@@ -6,7 +6,7 @@ description: Project Awesome is a curated aggregator of awesome lists from
   quickly and compares to sindresorhus/awesome by focusing on aggregation and
   search over manual curation.
 source_url: https://project-awesome.org
-category: Meta Directories
+category: Meta Awesome Directories
 tags:
   - awesome-aggregator
   - searchable-lists
@@ -50,4 +50,4 @@ markdown: >-
   Free.
 images:
   - https://project-awesome.org/favicon-32x32.png
-updated_at: 2026-04-23 02:45
+updated_at: 2026-04-24 00:06

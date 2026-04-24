@@ -2,7 +2,7 @@ name: meta-awesome - Offline
 description: Meta-awesome subdirectory aggregating awesome lists of tools and
   resources that work offline or support offline-first workflows.
 source_url: https://github.com/jepemo/meta-awesome/blob/master/doc/offline.md
-category: Meta Directories
+category: Meta Awesome Directories
 tags:
   - meta-directory
   - offline
@@ -69,4 +69,4 @@ markdown: >-
   repository usage).
 brand: jepemometa-awesome
 brand_logo_url: null
-updated_at: 2026-04-23 14:34
+updated_at: 2026-04-24 00:06

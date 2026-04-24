@@ -2,7 +2,7 @@ name: "meta-awesome: Files and Directories"
 description: An awesome-style meta index collecting awesome lists specifically
   about file and directory manipulation tools and libraries.
 source_url: https://github.com/jepemo/meta-awesome/blob/master/doc/files-and-directories.md
-category: Meta Directories
+category: Meta Awesome Directories
 tags:
   - meta-directory
   - developer-tools
@@ -44,4 +44,4 @@ markdown: |-
   - No pricing or plans apply.
 brand_logo_url: null
 images: []
-updated_at: 2026-04-23 14:34
+updated_at: 2026-04-24 00:06

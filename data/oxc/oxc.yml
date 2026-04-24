@@ -3,7 +3,7 @@ description: "Curated OXC resources: plugins, integrations for JavaScript/OXlint
   toolchain. Emerging stars. JS tooling users; alternative to ESLint/Prettier
   ecosystems."
 source_url: https://github.com/oxc-project/awesome-oxc
-category: Featured Awesome Lists
+category: Project Awesome Lists
 tags:
   - project-awesome
   - curated-topic
@@ -30,4 +30,4 @@ markdown: |-
   Free and open-source.
 images:
   - https://raw.githubusercontent.com/oxc-project/awesome-oxc/main/banner.png
-updated_at: 2026-04-23 05:34
+updated_at: 2026-04-24 00:06

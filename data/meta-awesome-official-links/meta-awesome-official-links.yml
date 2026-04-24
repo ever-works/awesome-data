@@ -2,7 +2,7 @@ name: Meta Awesome - Official Links
 description: Meta-awesome page listing official links related to various awesome
   lists, projects, and maintainers.
 source_url: https://github.com/jepemo/meta-awesome/blob/master/doc/official-links.md
-category: Meta Directories
+category: Meta Awesome Directories
 tags:
   - official
   - directory-of-directories
@@ -65,4 +65,4 @@ markdown: >-
   - Access is free via the public GitHub repository.
 brand: jepemometa-awesome
 brand_logo_url: null
-updated_at: 2026-04-23 14:34
+updated_at: 2026-04-24 00:06

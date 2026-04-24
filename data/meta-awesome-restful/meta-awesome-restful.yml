@@ -2,7 +2,7 @@ name: Meta Awesome - RESTful
 description: A Meta Awesome sublist that collects Awesome-style lists focused on
   RESTful systems, design patterns, and best practices.
 source_url: https://github.com/jepemo/meta-awesome/blob/master/doc/restful.md
-category: Meta Directories
+category: Meta Awesome Directories
 tags:
   - meta-directory
   - rest
@@ -68,4 +68,4 @@ markdown: >-
   - Access is **free** (public GitHub repository).
 brand: github
 brand_logo_url: https://github.githubassets.com/images/modules/logos_page/GitHub-Logo.png
-updated_at: 2026-04-23 14:34
+updated_at: 2026-04-24 00:06

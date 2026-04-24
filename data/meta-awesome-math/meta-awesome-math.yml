@@ -2,7 +2,7 @@ name: Meta Awesome - Math
 description: An Awesome-style collection within Meta Awesome aggregating
   mathematical libraries, tools, and educational resources.
 source_url: https://github.com/jepemo/meta-awesome/blob/master/doc/math.md
-category: Meta Directories
+category: Meta Awesome Directories
 tags:
   - meta-directory
   - math
@@ -56,4 +56,4 @@ markdown: >-
   - No paid plans or pricing tiers are indicated in the provided content.
 brand: jepemometa-awesome
 brand_logo_url: null
-updated_at: 2026-04-23 14:34
+updated_at: 2026-04-24 00:06

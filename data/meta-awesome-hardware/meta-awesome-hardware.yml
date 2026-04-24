@@ -2,7 +2,7 @@ name: Meta Awesome - Hardware
 description: A curated Awesome directory inside Meta Awesome for
   hardware-related resources, tools, and references.
 source_url: https://github.com/jepemo/meta-awesome/blob/master/doc/hardware.md
-category: Meta Directories
+category: Meta Awesome Directories
 tags:
   - awesome-lists
   - meta-directory
@@ -69,4 +69,4 @@ markdown: >-
   - Accessible for free as an open GitHub-hosted markdown document.
 brand: jepemometa-awesome
 brand_logo_url: null
-updated_at: 2026-04-23 14:34
+updated_at: 2026-04-24 00:06

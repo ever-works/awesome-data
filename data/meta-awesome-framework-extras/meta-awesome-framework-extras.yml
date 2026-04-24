@@ -2,7 +2,7 @@ name: "meta-awesome: Framework Extras"
 description: An awesome meta-collection of lists that cover auxiliary or add-on
   tools and extras for various software frameworks.
 source_url: https://github.com/jepemo/meta-awesome/blob/master/doc/framework-extras.md
-category: Meta Directories
+category: Meta Awesome Directories
 tags:
   - meta-directory
   - framework
@@ -68,4 +68,4 @@ markdown: >-
   - developer-tools
 brand_logo_url: null
 images: []
-updated_at: 2026-04-23 14:34
+updated_at: 2026-04-24 00:06

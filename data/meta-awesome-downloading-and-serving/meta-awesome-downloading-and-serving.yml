@@ -3,7 +3,7 @@ description: A meta awesome directory for downloading and serving content,
   linking to awesome lists that cover file serving, static hosting, and related
   tooling.
 source_url: https://github.com/jepemo/meta-awesome/blob/master/doc/downloading-and-serving.md
-category: Meta Directories
+category: Meta Awesome Directories
 tags:
   - meta-directory
   - hosting
@@ -45,4 +45,4 @@ markdown: |-
   - Not applicable (open directory of links; no pricing information provided).
 brand: meta-awesome
 brand_logo_url: null
-updated_at: 2026-04-23 14:34
+updated_at: 2026-04-24 00:06

@@ -3,7 +3,7 @@ description: An Awesome directory in Meta Awesome that focuses on
   internationalisation and localisation (I18n/L10n) resources and tools (British
   spelling).
 source_url: https://github.com/jepemo/meta-awesome/blob/master/doc/internationalisation-and-localisation.md
-category: Meta Directories
+category: Meta Awesome Directories
 tags:
   - awesome-lists
   - localization
@@ -46,4 +46,4 @@ markdown: |-
   - Not applicable. This is an open GitHub-based directory (a curated list), not a commercial product or service.
 brand: jepemometa-awesome
 brand_logo_url: null
-updated_at: 2026-04-23 14:34
+updated_at: 2026-04-24 00:06

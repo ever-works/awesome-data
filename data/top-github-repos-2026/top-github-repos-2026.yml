@@ -1,17 +1,14 @@
 name: Top GitHub Repos 2026
-description: Top GitHub Repos 2026 is a curated meta-directory assembling 200+
-  high-impact GitHub repositories into thematic awesome-style lists for 2026,
-  tracking stars, contributors, and trends across Web Dev, AI, DevOps, and
-  Security. It offers structured category browsing and quality-vetted selections
-  for discovering influential projects. More focused on current top performers
-  than aggregators like TrackAwesomeList or general lists like
-  sindresorhus/awesome.
+description: Curated collection of 200+ top GitHub repositories by category for
+  2026 developers, featuring projects like Ollama and LangChain. Ranks
+  open-source projects for use cases such as project discovery and starters.
+  Offers timelessly curated selections, differing from transient trending lists.
 source_url: https://md8-habibullah.github.io/top-github-repos-list/
-category: Meta Directories
+category: Open Source
 tags:
-  - meta-awesome
-  - list-discovery
-  - trending
+  - top-repos
+  - 2026-curated
+  - open-source-guide
 featured: true
 markdown: >-
   ## Overview
@@ -50,4 +47,6 @@ markdown: >-
 
 
   Free and open-source.
-updated_at: 2026-04-23 00:00
+images:
+  - https://md8-habibullah.github.io/top-github-repos-list/og-image.png
+updated_at: 2026-04-24 00:06

@@ -2,7 +2,7 @@ name: "meta-awesome: Files"
 description: A meta-awesome entry that aggregates awesome lists related to file
   operations, file handling libraries, and file-system utilities.
 source_url: https://github.com/jepemo/meta-awesome/blob/master/doc/files.md
-category: Meta Directories
+category: Meta Awesome Directories
 tags:
   - meta-directory
   - developer-tools
@@ -63,4 +63,4 @@ markdown: >-
   awesome lists and is typically free to access.
 brand_logo_url: null
 images: []
-updated_at: 2026-04-23 14:34
+updated_at: 2026-04-24 00:06

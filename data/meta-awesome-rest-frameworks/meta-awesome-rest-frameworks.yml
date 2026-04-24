@@ -2,7 +2,7 @@ name: Meta Awesome - REST Frameworks
 description: A Meta Awesome page that indexes Awesome-style lists and curated
   directories of REST frameworks and libraries for building APIs.
 source_url: https://github.com/jepemo/meta-awesome/blob/master/doc/rest-frameworks.md
-category: Meta Directories
+category: Meta Awesome Directories
 tags:
   - awesome-lists
   - apis
@@ -70,4 +70,4 @@ markdown: |
   - **Brand Logo URL:** https://github.githubassets.com/images/modules/logos_page/GitHub-Logo.png
 brand: github
 brand_logo_url: https://github.githubassets.com/images/modules/logos_page/GitHub-Logo.png
-updated_at: 2026-04-23 14:34
+updated_at: 2026-04-24 00:06

@@ -2,7 +2,7 @@ name: Meta Awesome - Mac Decrypt
 description: An Awesome-style collection within Meta Awesome for Mac decryption
   utilities, tools, and references.
 source_url: https://github.com/jepemo/meta-awesome/blob/master/doc/mac-decrypt.md
-category: Meta Directories
+category: Meta Awesome Directories
 tags:
   - awesome-lists
   - security
@@ -49,4 +49,4 @@ markdown: >-
   information is provided.
 brand: jepemometa-awesome
 brand_logo_url: null
-updated_at: 2026-04-23 14:34
+updated_at: 2026-04-24 00:06

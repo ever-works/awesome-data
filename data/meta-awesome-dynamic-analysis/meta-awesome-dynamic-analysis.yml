@@ -3,7 +3,7 @@ description: A meta awesome collection centered on dynamic analysis tools and
   techniques, indexing awesome lists on runtime analysis, fuzzing,
   instrumentation, and similar topics.
 source_url: https://github.com/jepemo/meta-awesome/blob/master/doc/dynamic-analysis.md
-category: Meta Directories
+category: Meta Awesome Directories
 tags:
   - meta-directory
   - analysis
@@ -68,4 +68,4 @@ markdown: >-
   does not list any pricing or paid plans.
 brand: meta-awesome
 brand_logo_url: null
-updated_at: 2026-04-23 14:34
+updated_at: 2026-04-24 00:06

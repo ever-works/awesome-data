@@ -4,7 +4,7 @@ description: A curated sub-list within the meta-awesome collection that indexes
   (IDEs). It serves as a directory of specialized awesome lists for tools
   developers use to write and manage code.
 source_url: https://github.com/jepemo/meta-awesome/blob/master/doc/editors-and-ide.md
-category: Meta Directories
+category: Meta Awesome Directories
 tags:
   - editor
   - developer-tools
@@ -69,4 +69,4 @@ markdown: >-
   information provided).
 brand_logo_url: null
 images: []
-updated_at: 2026-04-23 14:34
+updated_at: 2026-04-24 00:06

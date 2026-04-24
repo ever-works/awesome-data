@@ -2,7 +2,7 @@ name: Meta Awesome - Imagery
 description: An Awesome-style sublist in Meta Awesome focused on imagery
   processing, generation, and manipulation resources.
 source_url: https://github.com/jepemo/meta-awesome/blob/master/doc/imagery.md
-category: Meta Directories
+category: Meta Awesome Directories
 tags:
   - meta-directory
   - images
@@ -63,4 +63,4 @@ markdown: >-
   no stated cost to access or use.
 brand: jepemometa-awesome
 brand_logo_url: null
-updated_at: 2026-04-23 14:34
+updated_at: 2026-04-24 00:06

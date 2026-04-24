@@ -6,7 +6,7 @@ description: A section of the Meta Awesome collection that indexes and links to
   for that topic area, making this page part of a meta-collection of Awesome
   directories.
 source_url: https://github.com/jepemo/meta-awesome/tree/master/doc
-category: Meta Directories
+category: Meta Awesome Directories
 tags:
   - directory-of-directories
   - awesome-lists
@@ -75,4 +75,4 @@ markdown: >-
   GitHub. No pricing or plans are specified.
 brand: jepemometa-awesome
 brand_logo_url: null
-updated_at: 2026-04-23 14:34
+updated_at: 2026-04-24 00:06

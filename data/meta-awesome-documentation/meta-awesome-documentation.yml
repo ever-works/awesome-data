@@ -3,7 +3,7 @@ description: A meta awesome list dedicated to documentation practices and tools,
   referencing multiple awesome lists covering technical writing, doc tooling,
   and best practices.
 source_url: https://github.com/jepemo/meta-awesome/blob/master/doc/documentation.md
-category: Meta Directories
+category: Meta Awesome Directories
 tags:
   - documentation
   - directory-of-directories
@@ -64,4 +64,4 @@ markdown: >-
   - **Cost:** Free (open GitHub resource; no pricing or paid plans indicated).
 brand: meta-awesome
 brand_logo_url: null
-updated_at: 2026-04-23 14:34
+updated_at: 2026-04-24 00:06

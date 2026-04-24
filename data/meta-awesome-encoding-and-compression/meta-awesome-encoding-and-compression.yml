@@ -3,7 +3,7 @@ description: Curated entry in the meta-awesome collection listing awesome
   directories dedicated to encoding, compression algorithms, and related
   libraries.
 source_url: https://github.com/jepemo/meta-awesome/blob/master/doc/encoding-and-compression.md
-category: Meta Directories
+category: Meta Awesome Directories
 tags:
   - awesome-lists
   - compression
@@ -32,4 +32,4 @@ markdown: |-
   - Not applicable. This is an open, GitHub-hosted curated document with no pricing information indicated.
 brand_logo_url: null
 images: []
-updated_at: 2026-04-23 14:34
+updated_at: 2026-04-24 00:06

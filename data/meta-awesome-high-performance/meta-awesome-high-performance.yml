@@ -3,7 +3,7 @@ description: An Awesome collection within Meta Awesome focused on
   high-performance computing, optimization tools, and performance tuning
   resources.
 source_url: https://github.com/jepemo/meta-awesome/blob/master/doc/high-performance.md
-category: Meta Directories
+category: Meta Awesome Directories
 tags:
   - awesome-lists
   - high-performance
@@ -66,4 +66,4 @@ markdown: >-
   repository). No paid plans are indicated.
 brand: jepemometa-awesome
 brand_logo_url: null
-updated_at: 2026-04-23 14:34
+updated_at: 2026-04-24 00:06

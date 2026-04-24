@@ -3,7 +3,7 @@ description: A focused meta awesome page for database-related awesome lists,
   covering general-purpose databases, concepts, and tools. It acts as an index
   into specialized curated lists around databases.
 source_url: https://github.com/jepemo/meta-awesome/blob/master/doc/database.md
-category: Meta Directories
+category: Meta Awesome Directories
 tags:
   - database
   - directory-of-directories
@@ -58,4 +58,4 @@ markdown: >-
   database-related awesome lists.
 brand: meta-awesome
 brand_logo_url: null
-updated_at: 2026-04-23 14:34
+updated_at: 2026-04-24 00:06

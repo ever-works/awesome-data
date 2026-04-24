@@ -3,7 +3,7 @@ description: A specialized meta awesome page indexing awesome lists about
   distributed databases, replication, sharding, and large-scale data storage
   systems.
 source_url: https://github.com/jepemo/meta-awesome/blob/master/doc/distributed-databases.md
-category: Meta Directories
+category: Meta Awesome Directories
 tags:
   - meta-directory
   - database
@@ -57,4 +57,4 @@ markdown: |
   - distributed
 brand: meta-awesome
 brand_logo_url: null
-updated_at: 2026-04-23 14:34
+updated_at: 2026-04-24 00:06

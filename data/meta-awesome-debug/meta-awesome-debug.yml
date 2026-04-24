@@ -2,7 +2,7 @@ name: Meta Awesome - Debug
 description: A meta awesome page dedicated to debugging topics, indexing awesome
   lists and resources that help with diagnosing and fixing software issues.
 source_url: https://github.com/jepemo/meta-awesome/blob/master/doc/debug.md
-category: Meta Directories
+category: Meta Awesome Directories
 tags:
   - meta-directory
   - awesome-lists
@@ -64,4 +64,4 @@ markdown: >-
   - The resource is a public GitHub page and is **free to use**.
 brand: meta-awesome
 brand_logo_url: null
-updated_at: 2026-04-23 14:34
+updated_at: 2026-04-24 00:06

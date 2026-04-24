@@ -3,7 +3,7 @@ description: A Meta Awesome sublist that aggregates Awesome-style directories
   and curated collections about processes, threads, concurrency, and related
   systems topics.
 source_url: https://github.com/jepemo/meta-awesome/blob/master/doc/processes-and-threads.md
-category: Meta Directories
+category: Meta Awesome Directories
 tags:
   - awesome-lists
   - concurrency
@@ -62,4 +62,4 @@ markdown: |-
   - Not a commercial product or service; it is a free, open, GitHub-hosted curated list.
 brand: github
 brand_logo_url: https://github.githubassets.com/images/modules/logos_page/GitHub-Logo.png
-updated_at: 2026-04-23 14:34
+updated_at: 2026-04-24 00:06

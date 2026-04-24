@@ -3,7 +3,7 @@ description: An awesome-style meta index centered on development environments,
   including editors, IDEs, terminals, and related configuration resources
   gathered from various awesome lists.
 source_url: https://github.com/jepemo/meta-awesome/blob/master/doc/development-environment.md
-category: Meta Directories
+category: Meta Awesome Directories
 tags:
   - meta-directory
   - developer-tools
@@ -45,4 +45,4 @@ markdown: |-
   - Not applicable. This is a free, GitHub-hosted meta-directory of open lists and resources.
 brand: meta-awesome
 brand_logo_url: null
-updated_at: 2026-04-23 14:34
+updated_at: 2026-04-24 00:06

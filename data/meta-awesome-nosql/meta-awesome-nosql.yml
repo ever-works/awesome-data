@@ -2,7 +2,7 @@ name: meta-awesome - NoSQL
 description: Meta-awesome subpage collecting awesome lists and resources focused
   on NoSQL databases and ecosystems.
 source_url: https://github.com/jepemo/meta-awesome/blob/master/doc/nosql.md
-category: Meta Directories
+category: Meta Awesome Directories
 tags:
   - meta-directory
   - nosql
@@ -62,4 +62,4 @@ markdown: >-
   document.
 brand: jepemometa-awesome
 brand_logo_url: null
-updated_at: 2026-04-23 14:34
+updated_at: 2026-04-24 00:06

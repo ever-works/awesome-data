@@ -6,7 +6,7 @@ description: List-of-Lists is a curated meta-directory that aggregates hundreds
   current. Ideal for discovering themed awesome lists, it offers a concise index
   compared to broader platforms like GitHub topics or sindresorhus/awesome.
 source_url: https://github.com/cyrusstoller/list-of-lists
-category: Meta Awesome Collections
+category: Meta Awesome Directories
 tags:
   - meta-awesome
   - list-aggregator
@@ -37,4 +37,4 @@ markdown: >-
   Free and open-source.
 brand: cyrusstoller
 brand_logo_url: https://github.com/cyrusstoller.png
-updated_at: 2026-04-23 20:49
+updated_at: 2026-04-24 00:06

@@ -3,7 +3,7 @@ description: An Awesome-format page in Meta Awesome dedicated to Integrated
   Development Environments, overlapping with but distinct from the IDE/IDEs
   pages.
 source_url: https://github.com/jepemo/meta-awesome/blob/master/doc/integrated-development-environment.md
-category: Meta Directories
+category: Meta Awesome Directories
 tags:
   - awesome-lists
   - ide
@@ -36,4 +36,4 @@ markdown: |-
   - Not applicable (open GitHub-based directory/resource; no pricing information provided).
 brand: jepemometa-awesome
 brand_logo_url: null
-updated_at: 2026-04-23 14:34
+updated_at: 2026-04-24 00:06

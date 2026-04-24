@@ -2,7 +2,7 @@ name: Meta Awesome - PHP Websites
 description: A meta collection of Awesome-style lists highlighting curated
   PHP-related websites, frameworks, documentation hubs, and portals.
 source_url: https://github.com/jepemo/meta-awesome/blob/master/doc/php-websites.md
-category: Meta Directories
+category: Meta Awesome Directories
 tags:
   - awesome-lists
   - meta-directory
@@ -71,4 +71,4 @@ markdown: >
   **free** (standard public GitHub repository access).
 brand: github
 brand_logo_url: https://github.githubassets.com/images/modules/logos_page/GitHub-Logo.png
-updated_at: 2026-04-23 14:34
+updated_at: 2026-04-24 00:06

@@ -3,7 +3,7 @@ description: A broad meta-awesome collection indexing awesome lists that are
   generally useful for software developers, spanning tools, practices, and
   resources.
 source_url: https://github.com/jepemo/meta-awesome/blob/master/doc/for-developers.md
-category: Meta Directories
+category: Meta Awesome Directories
 tags:
   - awesome-lists
   - developer-resources
@@ -73,4 +73,4 @@ markdown: >-
   - No pricing tiers or paid plans are indicated.
 brand_logo_url: null
 images: []
-updated_at: 2026-04-23 14:34
+updated_at: 2026-04-24 00:06

@@ -2,7 +2,7 @@ name: Meta Awesome - Modals and Popups
 description: Part of meta-awesome that aggregates awesome lists related to UI
   modals, popups, and overlay components.
 source_url: https://github.com/jepemo/meta-awesome/blob/master/doc/modals-and-popups.md
-category: Meta Directories
+category: Meta Awesome Directories
 tags:
   - meta-directory
   - ui
@@ -63,4 +63,4 @@ markdown: >-
   typically free and open-source to browse and contribute to.
 brand: jepemometa-awesome
 brand_logo_url: null
-updated_at: 2026-04-23 14:34
+updated_at: 2026-04-24 00:06

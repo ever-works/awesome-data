@@ -4,7 +4,7 @@ description: Multi-level meta-list curating lists of awesome lists by Sindre
   discovering directories of directories. Ideal for meta-research on the awesome
   ecosystem and compares to jnv/lists as more GitHub-focused.
 source_url: https://github.com/sindresorhus/awesome-awesome-awesome-awesome
-category: Meta Awesome Collections
+category: Meta Awesome Directories
 tags:
   - awesome-lists
   - multi-meta
@@ -43,4 +43,4 @@ brand: Sindre Sorhus
 brand_logo_url: https://raw.githubusercontent.com/sindresorhus/awesome-awesome-awesome-awesome/master/media/icon.png
 images:
   - https://opengraph.githubassets.com/1/sindresorhus/awesome-awesome-awesome-awesome
-updated_at: 2026-04-23 20:49
+updated_at: 2026-04-24 00:06

@@ -2,7 +2,7 @@ name: Meta Awesome - Menus
 description: An Awesome-format list under Meta Awesome for UI menus, navigation
   components, and related libraries.
 source_url: https://github.com/jepemo/meta-awesome/blob/master/doc/menus.md
-category: Meta Directories
+category: Meta Awesome Directories
 tags:
   - meta-directory
   - ui
@@ -56,4 +56,4 @@ markdown: >-
   - Not applicable (open GitHub list; no pricing information provided).
 brand: jepemometa-awesome
 brand_logo_url: null
-updated_at: 2026-04-23 14:34
+updated_at: 2026-04-24 00:06

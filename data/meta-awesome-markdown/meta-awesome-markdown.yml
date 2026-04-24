@@ -2,7 +2,7 @@ name: Meta Awesome - Markdown
 description: An Awesome directory under Meta Awesome focusing on Markdown
   parsers, editors, tools, and related resources.
 source_url: https://github.com/jepemo/meta-awesome/blob/master/doc/markdown.md
-category: Meta Directories
+category: Meta Awesome Directories
 tags:
   - awesome-lists
   - meta-directory
@@ -66,4 +66,4 @@ markdown: >-
   information provided).
 brand: jepemometa-awesome
 brand_logo_url: null
-updated_at: 2026-04-23 14:34
+updated_at: 2026-04-24 00:06

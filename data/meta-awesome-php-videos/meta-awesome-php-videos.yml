@@ -2,7 +2,7 @@ name: Meta Awesome - PHP Videos
 description: A Meta Awesome section collecting Awesome-style lists and curated
   directories of PHP-related video content, tutorials, and screencasts.
 source_url: https://github.com/jepemo/meta-awesome/blob/master/doc/php-videos.md
-category: Meta Directories
+category: Meta Awesome Directories
 tags:
   - awesome-lists
   - meta-directory
@@ -51,4 +51,4 @@ markdown: >-
   listed pricing.
 brand: github
 brand_logo_url: https://github.githubassets.com/images/modules/logos_page/GitHub-Logo.png
-updated_at: 2026-04-23 14:34
+updated_at: 2026-04-24 00:06

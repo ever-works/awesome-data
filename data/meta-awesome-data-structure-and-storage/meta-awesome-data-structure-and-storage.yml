@@ -6,7 +6,7 @@ description: Meta Awesome - Data Structure and Storage aggregates multiple
   Use cases include finding themed awesome lists for data engineering, providing
   a structured overview vs scattered GitHub topics.
 source_url: https://github.com/jepemo/meta-awesome/blob/master/doc/data-structure-and-storage.md
-category: Meta Awesome Collections
+category: Meta Awesome Directories
 tags:
   - meta-awesome
   - list-aggregator
@@ -56,4 +56,4 @@ markdown: |-
   - Not applicable (GitHub-based, open directory of links; no pricing information provided).
 brand: jepemo
 brand_logo_url: https://github.com/jepemo.png
-updated_at: 2026-04-23 20:49
+updated_at: 2026-04-24 00:06

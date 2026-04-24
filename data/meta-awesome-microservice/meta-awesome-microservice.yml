@@ -2,7 +2,7 @@ name: meta-awesome - Microservice
 description: Part of the meta-awesome directory aggregating awesome lists
   focused on microservice architectures, tools, and resources.
 source_url: https://github.com/jepemo/meta-awesome/blob/master/doc/microservice.md
-category: Meta Directories
+category: Meta Awesome Directories
 tags:
   - awesome-lists
   - microservices
@@ -46,4 +46,4 @@ markdown: |
   - Public GitHub directory available to use and browse for free.
 brand: jepemometa-awesome
 brand_logo_url: null
-updated_at: 2026-04-23 14:34
+updated_at: 2026-04-24 00:06

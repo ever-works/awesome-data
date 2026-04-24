@@ -3,7 +3,7 @@ description: A curated meta awesome list for date and time handling, linking to
   awesome lists that focus on time zones, formatting, parsing, and temporal data
   libraries.
 source_url: https://github.com/jepemo/meta-awesome/blob/master/doc/date-and-time.md
-category: Meta Directories
+category: Meta Awesome Directories
 tags:
   - datetime
   - directory-of-directories
@@ -63,4 +63,4 @@ markdown: >-
   directory and is typically free to access.
 brand: meta-awesome
 brand_logo_url: null
-updated_at: 2026-04-23 14:34
+updated_at: 2026-04-24 00:06

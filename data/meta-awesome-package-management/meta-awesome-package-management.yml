@@ -2,7 +2,7 @@ name: Meta Awesome - Package Management
 description: A meta Awesome directory focused on curated Awesome lists and
   collections around package management concepts, tools, and ecosystems.
 source_url: https://github.com/jepemo/meta-awesome/blob/master/doc/package-management.md
-category: Meta Directories
+category: Meta Awesome Directories
 tags:
   - awesome-lists
   - package-manager
@@ -57,4 +57,4 @@ markdown: >-
   - Publicly accessible GitHub document; free to use and browse.
 brand: github
 brand_logo_url: https://github.githubassets.com/images/modules/logos_page/GitHub-Logo.png
-updated_at: 2026-04-23 14:34
+updated_at: 2026-04-24 00:06

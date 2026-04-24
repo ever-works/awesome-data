@@ -3,7 +3,7 @@ description: Meta-collection aggregating various themed GitHub 'awesome' lists
   for directory navigation. Features links to specialized resources. Aids quick
   discovery; acts as entry point beyond single GitHub searches.
 source_url: https://github.com/mthcht/awesome-lists
-category: Awesome List Aggregators
+category: List Aggregators
 tags:
   - open-source
   - github
@@ -37,4 +37,4 @@ markdown: |-
 
   ## Pricing
   Free.
-updated_at: 2026-04-23 05:34
+updated_at: 2026-04-24 00:06

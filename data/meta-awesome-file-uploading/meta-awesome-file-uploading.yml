@@ -2,7 +2,7 @@ name: Meta Awesome - File Uploading
 description: A curated meta-awesome category for awesome lists surrounding file
   uploading libraries, services, and best practices.
 source_url: https://github.com/jepemo/meta-awesome/blob/master/doc/file-uploading.md
-category: Meta Directories
+category: Meta Awesome Directories
 tags:
   - meta-directory
   - web-development
@@ -56,4 +56,4 @@ markdown: >-
   - Not applicable (open GitHub resource; no pricing information provided).
 brand_logo_url: null
 images: []
-updated_at: 2026-04-23 14:34
+updated_at: 2026-04-24 00:06

@@ -5,7 +5,7 @@ description: Best-of Lists is a comprehensive index of GitHub awesome lists with
   for developers seeking topic-specific resources. More meta/focused than
   sindresorhus/awesome, this uses quantitative curation.
 source_url: https://github.com/best-of-lists/best-of
-category: Meta Awesome Collections
+category: Meta Awesome Directories
 tags:
   - meta-index
   - list-of-lists
@@ -48,4 +48,4 @@ markdown: >-
 
 
   Free and open-source.
-updated_at: 2026-04-23 20:49
+updated_at: 2026-04-24 00:06

@@ -1,0 +1,26 @@
+name: Hugging Face Transformers
+description: State-of-the-art machine learning library for PyTorch, TensorFlow,
+  and JAX. Provides pre-trained models for NLP, computer vision, and audio
+  tasks.
+source_url: https://huggingface.co/docs/transformers/index
+category: Machine Learning & AI
+tags:
+  - open-source
+  - transformers
+  - ml-library
+featured: false
+markdown: |-
+  ## Overview
+
+  Transformers library from Hugging Face for state-of-the-art ML models.
+
+  ## Features
+
+  - Pre-trained models for PyTorch, TensorFlow, JAX
+  - Support for NLP, vision, audio
+  - Easy fine-tuning and deployment
+
+  ## Pricing
+
+  Free and open-source.
+updated_at: 2026-04-24 00:06

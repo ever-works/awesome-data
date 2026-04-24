@@ -3,7 +3,7 @@ description: An awesome-style meta directory specifically for
   ECMAScript/JavaScript topics, aggregating awesome lists covering JS tools,
   libraries, and ecosystem resources.
 source_url: https://github.com/jepemo/meta-awesome/blob/master/doc/ecmascript.md
-category: Meta Directories
+category: Meta Awesome Directories
 tags:
   - meta-directory
   - javascript
@@ -51,4 +51,4 @@ markdown: >-
   - Not applicable (open GitHub directory; no pricing information provided).
 brand: meta-awesome
 brand_logo_url: null
-updated_at: 2026-04-23 14:34
+updated_at: 2026-04-24 00:06

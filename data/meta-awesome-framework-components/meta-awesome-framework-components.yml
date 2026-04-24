@@ -2,7 +2,7 @@ name: "meta-awesome: Framework Components"
 description: A meta-awesome page that aggregates awesome lists centered around
   reusable framework components and modular building blocks.
 source_url: https://github.com/jepemo/meta-awesome/blob/master/doc/framework-components.md
-category: Meta Directories
+category: Meta Awesome Directories
 tags:
   - meta-directory
   - framework
@@ -67,4 +67,4 @@ markdown: >-
   - Not applicable (open GitHub directory / list).
 brand_logo_url: null
 images: []
-updated_at: 2026-04-23 14:34
+updated_at: 2026-04-24 00:06

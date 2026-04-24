@@ -3,7 +3,7 @@ description: A meta awesome directory that indexes awesome lists and curated
   resources for web development tools, providing a central hub for related
   awesome collections.
 source_url: https://github.com/jepemo/meta-awesome/blob/master/doc/web-tools.md
-category: Meta Directories
+category: Meta Awesome Directories
 tags:
   - meta-directory
   - web-development
@@ -51,4 +51,4 @@ markdown: >-
   and lists.
 brand: meta-awesome
 brand_logo_url: ://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
-updated_at: 2026-04-23 14:34
+updated_at: 2026-04-24 00:06

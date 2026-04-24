@@ -3,7 +3,7 @@ description: An Awesome-style meta list within Meta Awesome that aggregates
   curated Awesome directories and resource lists about Platform-as-a-Service
   (PaaS) technologies.
 source_url: https://github.com/jepemo/meta-awesome/blob/master/doc/paas.md
-category: Meta Directories
+category: Meta Awesome Directories
 tags:
   - meta-directory
   - paas
@@ -54,4 +54,4 @@ markdown: >-
   - Public, freely accessible GitHub repository (no pricing or plans).
 brand: github
 brand_logo_url: https://github.githubassets.com/images/modules/logos_page/GitHub-Logo.png
-updated_at: 2026-04-23 14:34
+updated_at: 2026-04-24 00:06

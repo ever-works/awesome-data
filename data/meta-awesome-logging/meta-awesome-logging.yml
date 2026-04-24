@@ -2,7 +2,7 @@ name: Meta Awesome - Logging
 description: An Awesome-format list in Meta Awesome devoted to logging
   frameworks, tools, and best-practice resources.
 source_url: https://github.com/jepemo/meta-awesome/blob/master/doc/logging.md
-category: Meta Directories
+category: Meta Awesome Directories
 tags:
   - meta-directory
   - logging
@@ -66,4 +66,4 @@ markdown: >-
   - Not applicable (open GitHub-based curated list).
 brand: jepemometa-awesome
 brand_logo_url: null
-updated_at: 2026-04-23 14:34
+updated_at: 2026-04-24 00:06

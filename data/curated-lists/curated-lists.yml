@@ -1,0 +1,39 @@
+name: Curated Lists
+description: Aggregates high-quality curated lists on diverse topics like
+  security, machine learning, and development tools. Features hand-picked,
+  topic-grouped collections for quick access to vetted resources. Alternative to
+  broader awesome lists with tighter curation.
+source_url: https://github.com/prahladyeri/curated-lists
+category: Awesome List Curators
+tags:
+  - curated-collections
+  - topic-lists
+  - developer-resources
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Curated Lists is a GitHub repository that aggregates hand-picked curated lists
+  organized by topics such as security, ML, and development tools.
+
+
+  ## Features
+
+
+  - Hand-picked collections
+
+  - Topic-grouped for easy navigation
+
+
+  ## Use Cases
+
+
+  - Quick access to vetted developer resources
+
+
+  ## Pricing
+
+
+  Free and open-source.
+updated_at: 2026-04-24 00:06

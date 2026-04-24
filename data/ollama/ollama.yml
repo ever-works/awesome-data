@@ -1,0 +1,26 @@
+name: Ollama
+description: Tool to run large language models (Llama 3.2, Mistral) locally on
+  your machine. Provides an easy way to experiment with and deploy LLMs without
+  relying on cloud services.
+source_url: https://ollama.com
+category: Machine Learning & AI
+tags:
+  - open-source
+  - llm
+  - local
+featured: false
+markdown: |-
+  ## Overview
+
+  Ollama allows users to run open LLMs like Llama 3.2 and Mistral locally.
+
+  ## Features
+
+  - Local execution of large language models
+  - Support for multiple models including Llama 3.2 and Mistral
+  - Command-line interface for easy management
+
+  ## Pricing
+
+  Free and open-source.
+updated_at: 2026-04-24 00:06

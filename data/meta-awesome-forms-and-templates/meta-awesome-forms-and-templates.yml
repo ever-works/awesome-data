@@ -2,7 +2,7 @@ name: "meta-awesome: Forms and Templates"
 description: An awesome meta index focusing on awesome lists about forms
   combined with templating systems and view-layer tools.
 source_url: https://github.com/jepemo/meta-awesome/blob/master/doc/forms-and-templates.md
-category: Meta Directories
+category: Meta Awesome Directories
 tags:
   - awesome-lists
   - web-development
@@ -45,4 +45,4 @@ markdown: |-
   - Not applicable. This is a free, open, GitHub-hosted meta index of links to public awesome lists.
 brand_logo_url: null
 images: []
-updated_at: 2026-04-23 14:34
+updated_at: 2026-04-24 00:06

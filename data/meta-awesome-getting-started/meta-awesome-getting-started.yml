@@ -2,7 +2,7 @@ name: Meta Awesome - Getting Started
 description: An introductory meta-awesome document listing awesome collections
   aimed at beginners and onboarding resources for various technologies.
 source_url: https://github.com/jepemo/meta-awesome/blob/master/doc/getting-started.md
-category: Meta Directories
+category: Meta Awesome Directories
 tags:
   - education
   - beginners
@@ -62,4 +62,4 @@ markdown: >-
   - Publicly accessible GitHub document; free to use and browse.
 brand_logo_url: null
 images: []
-updated_at: 2026-04-23 14:34
+updated_at: 2026-04-24 00:06

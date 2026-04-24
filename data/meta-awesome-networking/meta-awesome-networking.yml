@@ -2,7 +2,7 @@ name: meta-awesome - Networking
 description: Meta-awesome category listing awesome collections that focus on
   networking protocols, libraries, and tools.
 source_url: https://github.com/jepemo/meta-awesome/blob/master/doc/networking.md
-category: Meta Directories
+category: Meta Awesome Directories
 tags:
   - meta-directory
   - networking
@@ -51,4 +51,4 @@ markdown: >-
   specified.
 brand: jepemometa-awesome
 brand_logo_url: null
-updated_at: 2026-04-23 14:34
+updated_at: 2026-04-24 00:06

@@ -2,7 +2,7 @@ name: Meta Awesome - Drawing
 description: An awesome-style meta list focusing on drawing, graphics, and
   rendering libraries and tools, aggregating related awesome lists.
 source_url: https://github.com/jepemo/meta-awesome/blob/master/doc/drawing.md
-category: Meta Directories
+category: Meta Awesome Directories
 tags:
   - meta-directory
   - design
@@ -57,4 +57,4 @@ markdown: >
   - Not applicable (open GitHub document / directory).
 brand: meta-awesome
 brand_logo_url: null
-updated_at: 2026-04-23 14:34
+updated_at: 2026-04-24 00:06

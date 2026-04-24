@@ -2,7 +2,7 @@ name: Meta Awesome - XML
 description: A specialized meta awesome directory that collects awesome lists
   and resources centered around XML technologies, tools, and libraries.
 source_url: https://github.com/jepemo/meta-awesome/blob/master/doc/xml.md
-category: Meta Directories
+category: Meta Awesome Directories
 tags:
   - meta-directory
   - xml
@@ -60,4 +60,4 @@ markdown: >-
   listed pricing or plans.
 brand: meta-awesome
 brand_logo_url: ://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
-updated_at: 2026-04-23 14:34
+updated_at: 2026-04-24 00:06

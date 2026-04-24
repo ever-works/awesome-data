@@ -3,7 +3,7 @@ description: A curated collection of resources for Azure OpenAI, LLMs including
   RAG and Agents. Highly starred list with 399 stars as of the latest update on
   02/26.
 source_url: https://github.com/sinaptik-labs/awesome-azure-openai-llm
-category: Meta Directories
+category: Meta Awesome Directories
 tags:
   - curated-lists
   - llm
@@ -20,4 +20,4 @@ markdown: |-
 
   ## Pricing
   Free and open-source.
-updated_at: 2026-04-23 12:06
+updated_at: 2026-04-24 00:06

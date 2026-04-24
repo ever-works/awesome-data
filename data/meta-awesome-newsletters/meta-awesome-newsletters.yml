@@ -2,7 +2,7 @@ name: meta-awesome - Newsletters
 description: A section of the meta-awesome project indexing awesome newsletters
   and curated email resources across technical domains.
 source_url: https://github.com/jepemo/meta-awesome/blob/master/doc/newsletters.md
-category: Meta Directories
+category: Meta Awesome Directories
 tags:
   - meta-directory
   - curated-lists
@@ -62,4 +62,4 @@ markdown: >-
   available to browse and contribute to without charge.
 brand: jepemometa-awesome
 brand_logo_url: null
-updated_at: 2026-04-23 14:34
+updated_at: 2026-04-24 00:06

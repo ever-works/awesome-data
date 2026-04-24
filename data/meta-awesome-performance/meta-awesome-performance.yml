@@ -3,7 +3,7 @@ description: An Awesome-style meta collection that indexes other curated lists
   related to software and system performance, performance tuning, and
   optimization resources.
 source_url: https://github.com/jepemo/meta-awesome/blob/master/doc/performance.md
-category: Meta Directories
+category: Meta Awesome Directories
 tags:
   - awesome-lists
   - performance
@@ -65,4 +65,4 @@ markdown: >-
   - Not applicable (open GitHub repository / index).
 brand: github
 brand_logo_url: https://github.githubassets.com/images/modules/logos_page/GitHub-Logo.png
-updated_at: 2026-04-23 14:34
+updated_at: 2026-04-24 00:06

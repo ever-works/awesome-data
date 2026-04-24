@@ -3,7 +3,7 @@ description: Yo.directory is a meta-directory that lists other directories,
   allowing users to discover new directories across various niches. It is
   directly relevant as a directory of directories.
 source_url: https://yo.directory/
-category: Meta Directories
+category: Meta Awesome Directories
 tags:
   - directory-of-directories
   - meta-directory
@@ -57,4 +57,4 @@ markdown: >
   ## Pricing
 
   No pricing information is provided; the service appears to be free to use.
-updated_at: 2026-04-23 14:34
+updated_at: 2026-04-24 00:06

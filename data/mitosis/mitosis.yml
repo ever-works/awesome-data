@@ -3,7 +3,7 @@ description: Curated Mitosis components, targets, plugins for multi-framework UI
   portability. Low stars. Cross-framework devs; distinct from component
   libraries like Awesome React.
 source_url: https://github.com/BuilderIO/awesome-mitosis
-category: Featured Awesome Lists
+category: Project Awesome Lists
 tags:
   - project-awesome
   - curated-topic
@@ -30,4 +30,4 @@ markdown: |-
   Free and open-source.
 images:
   - https://raw.githubusercontent.com/BuilderIO/awesome-mitosis/main/banner.png
-updated_at: 2026-04-23 05:34
+updated_at: 2026-04-24 00:06

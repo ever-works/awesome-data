@@ -4,7 +4,7 @@ description: An awesome-style curated collection that automatically gathers and
   awesome-list/awesome-lists and focused on building a directory of notable
   repositories and resources, with supporting RSS/feed tooling.
 source_url: https://github.com/guanguans/favorite-link
-category: Meta Directories
+category: Meta Awesome Directories
 tags:
   - awesome-lists
   - aggregator
@@ -91,4 +91,4 @@ markdown: >-
   for personal and commercial use subject to license terms.
 brand: guanguans
 brand_logo_url: https://avatars.githubusercontent.com/u/22309277
-updated_at: 2026-04-23 14:34
+updated_at: 2026-04-24 00:06
