@@ -1,0 +1,37 @@
+name: StatsForecast
+description: Lightning fast forecasting with statistical and econometric models.
+  An open-source Python library for time series forecasting using modern
+  statistical methods.
+source_url: https://github.com/Nixtla/statsforecast
+category: Data Science
+tags:
+  - python
+  - forecasting
+  - time-series
+  - open-source
+featured: false
+markdown: >-
+  ## Overview
+
+
+  StatsForecast provides a collection of robust, fast, and scalable statistical
+  models for time series forecasting.
+
+
+  ## Features
+
+
+  - AutoStats: Automatic selection of the best model and configuration.
+
+  - Supports exogenous regressors.
+
+  - Cross-validation capabilities.
+
+  - Plotting and prediction intervals.
+
+
+  ## Pricing
+
+
+  Free and open-source.
+updated_at: 2026-04-24 08:51

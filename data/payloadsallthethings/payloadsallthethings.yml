@@ -1,0 +1,12 @@
+name: PayloadsAllTheThings
+description: Useful payloads and bypasses for Web Application Security and
+  Pentest/CTF tasks. A comprehensive collection of payloads organized by
+  category for security testing.
+source_url: https://github.com/swisskyrepo/PayloadsAllTheThings
+category: Security
+tags:
+  - pentest
+  - payloads
+  - web-security
+featured: false
+updated_at: 2026-04-24 08:51

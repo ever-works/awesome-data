@@ -1,14 +1,15 @@
 name: Awesome-Lists.net
-description: Searchable index and aggregator of GitHub Awesome lists with live
-  stats on stars, forks, and updates. Features category filters, sortable
-  dashboards, and trend monitoring. Supports maintaining awesome lists by
-  enabling quick discovery and comparison versus manual GitHub searches.
+description: "Awesome-Lists.net monitors GitHub awesome lists with live stats on
+  stars, forks, updates, rankings, and trend data. Key features: sortable
+  dashboards, category filters, star history views. Use cases: discover active
+  lists, track popularity shifts; dynamic and searchable vs static directories."
 source_url: https://awesome-lists.net
-category: Awesome List Maintenance Tools
+category: Awesome Aggregators & Trackers
 tags:
-  - list-tool
-  - aggregator
-  - tracker
+  - dynamic
+  - star-history
+  - notifications
+  - meta-aggregator
 markdown: |-
   ## Overview
 
@@ -33,4 +34,6 @@ markdown: |-
   ## Pricing
   Free.
 brand_logo_url: https://awesome-lists.net/favicon.ico
-updated_at: 2026-04-24 03:01
+images:
+  - https://awesome-lists.net/dashboard-screenshot.png
+updated_at: 2026-04-24 08:51

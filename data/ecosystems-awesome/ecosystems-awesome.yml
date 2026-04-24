@@ -7,7 +7,7 @@ description: Ecosyste.ms Awesome is an analytics-driven meta-directory for
   discovering and analyzing awesome lists by theme or language, far surpassing
   static alternatives like sindresorhus/awesome with data-rich visualizations.
 source_url: https://awesome.ecosyste.ms
-category: Meta Directories
+category: Meta Awesome Directories
 tags:
   - meta-awesome
   - list-discovery
@@ -90,4 +90,4 @@ markdown: >-
 
 
   Free platform.
-updated_at: 2026-04-23 00:00
+updated_at: 2026-04-24 08:51

@@ -1,11 +1,17 @@
 name: Open Drone List
-description: Curated directory of open-source drone projects, hardware,
-  software, and resources for drone enthusiasts and developers.
-source_url: https://dronetag.github.io/opendronelist/
-category: Themed Directories
+description: "OpenDroneList is the canonical directory of open source drone
+  projects, aggregating curated GitHub repositories for hardware, software, and
+  resources by topic. Features: categorized lists, community-maintained; use
+  cases: discover drone ecosystem resources quickly; compared to single drone
+  repos, it's a meta-hub for all open drones."
+source_url: https://github.com/dronetag/opendronelist
+category: meta-directories
 tags:
-  - open-source
+  - canonical-meta
+  - aggregated-lists
   - drones
-  - awesome-lists
 featured: false
-updated_at: 2026-04-23 14:34
+brand_logo_url: https://raw.githubusercontent.com/dronetag/opendronelist/master/media/logo.png
+images:
+  - https://github.com/dronetag/opendronelist/blob/main/screenshot.png
+updated_at: 2026-04-24 08:51

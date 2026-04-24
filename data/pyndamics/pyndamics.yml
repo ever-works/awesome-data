@@ -1,0 +1,26 @@
+name: Pyndamics
+description: Python Numerical Dynamics Simulator. A tool for simulating
+  dynamical systems in Python.
+source_url: https://github.com/tisimst/pyndamics
+category: Scientific Computing
+tags:
+  - python
+  - simulation
+  - dynamics
+  - open-source
+featured: false
+markdown: |-
+  ## Overview
+
+  Pyndamics is a Python library for numerical simulation of dynamical systems.
+
+  ## Features
+
+  - Equation-based modeling.
+  - Visualization tools.
+  - Interactive simulations.
+
+  ## Pricing
+
+  Free and open-source.
+updated_at: 2026-04-24 08:51

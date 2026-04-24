@@ -1,0 +1,11 @@
+name: Two Factor Auth
+description: List of sites with two-factor authentication support, including
+  SMS, email, phone calls, hardware, and software options.
+source_url: https://github.com/2ndQuadrant/2-factor-auth-list
+category: Security
+tags:
+  - 2fa
+  - security
+  - authentication
+featured: false
+updated_at: 2026-04-24 08:51

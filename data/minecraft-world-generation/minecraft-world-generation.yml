@@ -1,0 +1,26 @@
+name: Minecraft World Generation
+description: Replicating Minecraft World Generation in Python. A project to
+  recreate Minecraft's terrain generation algorithms using Python.
+source_url: https://github.com/mm-mcb/minecraft-world-generation
+category: Game Development
+tags:
+  - python
+  - minecraft
+  - procedural-generation
+  - open-source
+featured: false
+markdown: |-
+  ## Overview
+
+  A Python implementation replicating Minecraft's world generation techniques.
+
+  ## Features
+
+  - Terrain generation.
+  - Biome distribution.
+  - Structure placement.
+
+  ## Pricing
+
+  Free and open-source.
+updated_at: 2026-04-24 08:51

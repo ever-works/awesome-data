@@ -1,0 +1,12 @@
+name: SecLists
+description: Lists used during security assessments including usernames,
+  passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and
+  more.
+source_url: https://github.com/danielmiessler/SecLists
+category: Security
+tags:
+  - security
+  - pentest
+  - wordlists
+featured: false
+updated_at: 2026-04-24 08:51

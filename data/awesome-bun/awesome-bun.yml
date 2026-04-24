@@ -1,19 +1,20 @@
 name: Awesome Bun
-description: Awesome Bun is a comprehensive index of GitHub awesome lists and
-  resources for Bun, featuring categorization, star rankings as of 2026. Ideal
-  for developers seeking Bun-specific resources. More meta/focused than
-  sindresorhus/awesome, this curates project-specific directories.
+description: "Bun Awesome List curates tools, libraries, tutorials for Bun. Key
+  features: actively maintained, star-ranked sections; use cases: developer
+  onboarding, plugin discovery; vs general directories, hyper-focused on one
+  tech stack."
 source_url: https://github.com/oven-sh/awesome-bun
-category: Meta Awesome Directories
+category: Project Awesome Lists
 tags:
-  - project-awesome
-  - meta-awesome
-  - directory-of-lists
-  - inception-lists
+  - project-focused
+  - curated-resources
+featured: true
 markdown: >-
   ## Overview
 
 
   Awesome Bun is the official curated list of resources for Bun, an incredibly
-  fast JavaScript runtime... [preserve full markdown]
-updated_at: 2026-04-24 03:01
+  fast JavaScript runtime...
+images:
+  - https://opengraph.githubassets.com/1/oven-sh/awesome-bun
+updated_at: 2026-04-24 08:51

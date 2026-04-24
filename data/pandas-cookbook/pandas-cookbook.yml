@@ -1,0 +1,26 @@
+name: Pandas Cookbook
+description: Recipes for using Python's pandas library. A collection of
+  practical examples and recipes for pandas data manipulation.
+source_url: https://github.com/devin12133/pandas-cookbook
+category: Data Science
+tags:
+  - python
+  - pandas
+  - data-analysis
+  - open-source
+featured: false
+markdown: |-
+  ## Overview
+
+  A cookbook with recipes for common pandas tasks.
+
+  ## Features
+
+  - Data loading and cleaning.
+  - Grouping and aggregation.
+  - Visualization.
+
+  ## Pricing
+
+  Free and open-source.
+updated_at: 2026-04-24 08:51

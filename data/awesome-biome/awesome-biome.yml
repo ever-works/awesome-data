@@ -1,15 +1,13 @@
 name: Awesome Biome
-description: Awesome Biome is the official, actively maintained project-specific
-  awesome list for Biome, a fast JS/TS linter and formatter in Rust. It features
-  plugins, integrations, guides, and resources for the Biome toolchain. Perfect
-  for onboarding to the Biome ecosystem, narrower than general Awesome
-  JavaScript or Rust tooling lists.
+description: "Biome Awesome List curates tools, libraries, tutorials for Biome.
+  Key features: actively maintained, star-ranked sections; use cases: developer
+  onboarding, plugin discovery; vs general directories, hyper-focused on one
+  tech stack."
 source_url: https://github.com/biomejs/awesome-biome
 category: Project Awesome Lists
 tags:
-  - project-awesome
-  - official-list
-  - ecosystem
+  - project-focused
+  - curated-resources
 featured: true
 markdown: |-
   ## Topics Covered
@@ -32,4 +30,4 @@ markdown: |-
   Free and open-source.
 images:
   - https://raw.githubusercontent.com/biomejs/awesome-biome/main/banner.png
-updated_at: 2026-04-24 03:01
+updated_at: 2026-04-24 08:51
