@@ -2748,3 +2748,23 @@
   name: Text2sql
 - id: ai-awesome
   name: Ai Awesome
+- id: aggregated-lists
+  name: Aggregated Lists
+- id: pentest
+  name: Pentest
+- id: payloads
+  name: Payloads
+- id: web-security
+  name: Web Security
+- id: wordlists
+  name: Wordlists
+- id: project-focused
+  name: Project Focused
+- id: meta-aggregator
+  name: Meta Aggregator
+- id: minecraft
+  name: Minecraft
+- id: procedural-generation
+  name: Procedural Generation
+- id: dynamics
+  name: Dynamics

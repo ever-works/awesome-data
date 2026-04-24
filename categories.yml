@@ -224,3 +224,7 @@
   name: AI Awesome Hubs
 - id: llm-awesome-meta-lists
   name: LLM Awesome Meta Lists
+- id: awesome-aggregators-trackers
+  name: Awesome Aggregators & Trackers
+- id: scientific-computing
+  name: Scientific Computing
