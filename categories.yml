@@ -216,3 +216,5 @@
   name: Generated Awesome Lists
 - id: dynamic-awesome-generators
   name: Dynamic Awesome Generators
+- id: list-aggregators
+  name: List Aggregators

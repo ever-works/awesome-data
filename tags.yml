@@ -2684,3 +2684,21 @@
   name: Dfir
 - id: detections
   name: Detections
+- id: inertiajs
+  name: Inertiajs
+- id: ml-library
+  name: Ml Library
+- id: github-hub
+  name: Github Hub
+- id: recursive-lists
+  name: Recursive Lists
+- id: local
+  name: Local
+- id: curated-collections
+  name: Curated Collections
+- id: topic-lists
+  name: Topic Lists
+- id: top-repos
+  name: Top Repos
+- id: open-source-guide
+  name: Open Source Guide
