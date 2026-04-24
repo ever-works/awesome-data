@@ -33,7 +33,7 @@
 - id: data-engineering
   name: Data Engineering
 - id: machine-learning-ai
-  name: Machine Learning & AI
+  name: Machine Learning Ai
 - id: open-source
   name: Open Source
 - id: game-development
@@ -177,7 +177,7 @@
 - id: featured-awesome-lists
   name: Featured Awesome Lists
 - id: ai-directories
-  name: AI Directories
+  name: Ai Directories
 - id: ai-awesome-directories
   name: AI Awesome Directories
 - id: dynamic-list-trackers
