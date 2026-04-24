@@ -2702,3 +2702,49 @@
   name: Top Repos
 - id: open-source-guide
   name: Open Source Guide
+- id: list-tool
+  name: List Tool
+- id: 2026-updated
+  name: 2026 Updated
+- id: system-prompts
+  name: System Prompts
+- id: arxiv
+  name: Arxiv
+- id: awesome-index
+  name: Awesome Index
+- id: chart-understanding
+  name: Chart Understanding
+- id: document-understanding
+  name: Document Understanding
+- id: image
+  name: Image
+- id: hallucination-detection
+  name: Hallucination Detection
+- id: japanese
+  name: Japanese
+- id: korean
+  name: Korean
+- id: langgraph
+  name: Langgraph
+- id: llm-meta
+  name: Llm Meta
+- id: research-hub
+  name: Research Hub
+- id: gui-agents
+  name: Gui Agents
+- id: reinforcement-learning
+  name: Reinforcement Learning
+- id: ai4science
+  name: Ai4science
+- id: survey
+  name: Survey
+- id: tabular-data
+  name: Tabular Data
+- id: model-merging
+  name: Model Merging
+- id: ollama
+  name: Ollama
+- id: text2sql
+  name: Text2sql
+- id: ai-awesome
+  name: Ai Awesome

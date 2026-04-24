@@ -218,3 +218,9 @@
   name: Dynamic Awesome Generators
 - id: list-aggregators
   name: List Aggregators
+- id: awesome-list-maintenance-tools
+  name: Awesome List Maintenance Tools
+- id: ai-awesome-hubs
+  name: AI Awesome Hubs
+- id: llm-awesome-meta-lists
+  name: LLM Awesome Meta Lists
