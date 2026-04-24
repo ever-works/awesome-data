@@ -1,12 +1,18 @@
 name: Awesome LLM Prompt Optimization
-description: A curated list of advanced prompt optimization and tuning methods
-  in Large Language Models.
+description: Curated list of advanced techniques and papers on automatic prompt
+  optimization for LLMs, including evolutionary methods and gradient-based
+  tuning. Specializes in prompt tuning subtopics beyond basic engineering,
+  providing AI researchers with cutting-edge methods to enhance LLM performance
+  without full retraining.
 source_url: https://github.com/jxzhangjhu/Awesome-LLM-Prompt-Optimization
-category: Machine Learning & AI
+category: llm-awesome-meta-lists
 tags:
+  - llm-meta
+  - ai-directory
+  - research-hub
   - prompt-engineering
   - llm
-  - optimization
+featured: false
 markdown: >-
   ## Overview
 
@@ -19,4 +25,6 @@ markdown: >-
 
 
   Free and open-source resource.
-updated_at: 2026-03-22 13:19
+images:
+  - https://opengraph.githubassets.com/1/jxzhangjhu/Awesome-LLM-Prompt-Optimization
+updated_at: 2026-04-24 03:01

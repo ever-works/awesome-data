@@ -3,13 +3,14 @@ description: A curated list of Model Context Protocol (MCP) servers enabling AI
   models to connect with external data sources and tools, including hundreds of
   servers for databases, APIs, filesystems, and various integrations.
 source_url: https://github.com/wong2/awesome-mcp-servers
-category: Machine Learning & AI
+category: Themed Directories
 tags:
   - mcp
   - ai
   - llm
   - model-context-protocol
   - integrations
+  - themed-awesome
 markdown: >-
   ## Overview
 
@@ -309,4 +310,4 @@ markdown: >-
   - Enterprise support options
 
   - Cloud platform fees
-updated_at: 2026-03-15 12:32
+updated_at: 2026-04-24 03:01

@@ -1,16 +1,13 @@
 name: BurntFen's Awesome Lists
-description: Personal website by burntfen showcasing and maintaining several
-  awesome-* lists on GitHub. Tracks GitHub stars as a metric for user engagement
-  with collaborative, curated lists of awesome resources. Mentions additional
-  lists like git-flight-rules and endangered-languages that fit awesome
-  criteria.
+description: Personal showcase and maintainer page for multiple GitHub awesome
+  lists with star tracking and curation insights. Features list overviews and
+  engagement metrics. Useful for awesome list maintainers to monitor and promote
+  their collections versus static repo views.
 source_url: https://www.burntfen.com/projects/awesome/
-category: Awesome List Trackers
+category: Awesome List Maintenance Tools
 tags:
-  - awesome-lists
-  - curated-lists
-  - github
-  - open-source
+  - list-tool
+  - tracker
 featured: false
 brand: burntfen
-updated_at: 2026-04-24 00:06
+updated_at: 2026-04-24 03:01

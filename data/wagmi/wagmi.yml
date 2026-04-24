@@ -1,11 +1,38 @@
-name: wagmi
-description: A curated collection of resources for wagmi, the collection of
-  React Hooks for Ethereum.
-source_url: https
+name: Awesome Wagmi
+description: Awesome Wagmi is the official, actively maintained project-specific
+  awesome list for wagmi, a collection of React Hooks for Ethereum. It curates
+  resources, examples, and integrations for Ethereum dApp development. Ideal for
+  onboarding developers to the wagmi ecosystem, unlike general React or Ethereum
+  awesome lists.
+source_url: https://github.com/wagmi-dev/awesome-wagmi
 category: Project Awesome Lists
 tags:
-  - Blockchain & Crypto:wagmi
-  - react
-  - ethereum
-featured: false
-updated_at: 2026-04-22 17:39
+  - project-awesome
+  - official-list
+  - ecosystem
+featured: true
+markdown: |-
+  ## Overview
+  Curated collection of resources for wagmi, React Hooks for Ethereum.
+
+  ## Topics Covered
+
+  - Hooks and examples
+  - Integrations
+  - Guides
+
+  ## Use Cases
+
+  - Ethereum dApp development
+  - Wallet connections
+
+  ## Comparisons
+
+  wagmi-focused vs. general web3 lists.
+
+  ## Pricing
+
+  Free and open-source.
+images:
+  - https://raw.githubusercontent.com/wagmi-dev/awesome-wagmi/main/banner.png
+updated_at: 2026-04-24 03:01

@@ -1,0 +1,30 @@
+name: Awesome LangGraph
+description: Resources, code, and tutorials for LangGraph agent framework.
+source_url: https://github.com/von-development/awesome-LangGraph
+category: Machine Learning & AI
+tags:
+  - llm
+  - langgraph
+  - agents
+featured: false
+markdown: |-
+  ## Overview
+
+  LangGraph agent framework resources.
+
+  ## Content Type
+
+  💻 Code + 📚 Tutorials
+
+  ## Difficulty
+
+  ⭐⭐ Intermediate
+
+  ## Update Status
+
+  🟢 Active
+
+  ## Recommendation Score
+
+  ★★★★★
+updated_at: 2026-04-24 03:01

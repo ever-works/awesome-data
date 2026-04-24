@@ -1,13 +1,19 @@
 name: Awesome LLM Apps
-description: Collection of awesome LLM apps with AI Agents and RAG using OpenAI,
-  Anthropic, Gemini and opensource models, featuring multi-agent teams, voice
-  agents, and MCP integration.
+description: Curated collection of LLM-powered applications featuring RAG,
+  multi-agent teams, voice agents, and MCP integrations using models from
+  OpenAI, Anthropic, and open-source alternatives. Focuses specifically on
+  practical LLM app implementations unlike general AI directories, providing AI
+  researchers with deployable examples, architectural patterns, and multimodal
+  integrations for advancing applied LLM research.
 source_url: https://github.com/Shubhamsaboo/awesome-llm-apps
-category: Machine Learning & AI
+category: llm-awesome-meta-lists
 tags:
-  - llm
+  - llm-meta
+  - ai-directory
+  - research-hub
   - rag
   - ai-agents
+  - llm
 featured: false
 markdown: >-
   ## Overview
@@ -106,4 +112,6 @@ markdown: >-
 
 
   Free and open-source applications and frameworks.
-updated_at: 2026-03-20 13:04
+images:
+  - https://opengraph.githubassets.com/1/Shubhamsaboo/awesome-llm-apps
+updated_at: 2026-04-24 03:01

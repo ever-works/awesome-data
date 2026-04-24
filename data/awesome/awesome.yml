@@ -4,7 +4,7 @@ description: A central hub aggregating thousands of curated Awesome lists across
   star rankings, and daily updates; ideal for developers seeking topic-specific
   resources; compared to single Awesome lists, it's a meta-index.
 source_url: https://github.com/sindresorhus/awesome
-category: Canonical Awesome Hubs
+category: Meta Awesome Directories
 tags:
   - meta-awesome
   - list-aggregator
@@ -38,4 +38,4 @@ images:
   - https://raw.githubusercontent.com/sindresorhus/awesome/master/media/logo.png
   - https://github.com/sindresorhus/awesome/raw/master/media/logo.png
   - https://github.com/sindresorhus/awesome.png
-updated_at: 2026-04-23 20:49
+updated_at: 2026-04-24 03:01

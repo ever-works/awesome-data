@@ -1,0 +1,30 @@
+name: Awesome Ollama Server
+description: Ollama service monitoring and visualization tools for LLM engineering.
+source_url: https://github.com/forrany/Awesome-Ollama-Server
+category: Machine Learning & AI
+tags:
+  - ollama
+  - monitoring
+  - tools
+featured: false
+markdown: |-
+  ## Overview
+
+  Ollama service monitoring and visualization.
+
+  ## Content Type
+
+  🛠️ Tools
+
+  ## Difficulty
+
+  ⭐⭐ Intermediate
+
+  ## Update Status
+
+  🟢 Active
+
+  ## Recommendation Score
+
+  ★★★★★
+updated_at: 2026-04-24 03:01

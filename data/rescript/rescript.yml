@@ -1,15 +1,16 @@
-name: ReScript
-description: Official Awesome list for ReScript, aggregating the best libraries,
-  tools, and tutorials in the ReScript ecosystem. Topic-focused and maintained
-  by the core team. Ideal for onboarding developers to the ReScript ecosystem,
-  unlike general awesome lists which cover broader topics.
+name: Awesome ReScript
+description: Awesome ReScript is the official, actively maintained
+  project-specific awesome list for ReScript, a typed alternative to JavaScript.
+  It aggregates libraries, tools, and tutorials in the ReScript ecosystem. Ideal
+  for onboarding developers to ReScript, unlike general JavaScript or OCaml
+  awesome lists.
 source_url: https://github.com/rescript-association/awesome-rescript
 category: Project Awesome Lists
 tags:
-  - official-awesome
-  - project-ecosystem
-  - curated-resources
-featured: false
+  - project-awesome
+  - official-list
+  - ecosystem
+featured: true
 markdown: >-
   ## Overview
 
@@ -25,4 +26,4 @@ markdown: >-
   aggregated in meta lists.
 images:
   - https://raw.githubusercontent.com/rescript-association/awesome-rescript/main/banner.png
-updated_at: 2026-04-22 20:47
+updated_at: 2026-04-24 03:01

@@ -1,15 +1,16 @@
 name: Awesome LLM RL
-description: Awesome-LLM-RL is an awesome-style curated list focused on
-  reinforcement learning with large language models. It catalogs open-source
-  frameworks, libraries, and learning resources, including projects built on
-  Ray, vLLM, ZeRO-3, and HuggingFace Transformers, serving as a specialized
-  awesome directory within the broader AI and LLM ecosystem.
+description: Curated list on reinforcement learning with LLMs, featuring
+  frameworks like Ray/vLLM integrations and agent docs. Specializes in RL-LLM
+  intersection unlike general RL awesomes, essential for AI researchers
+  advancing aligned, reasoning-enhanced LLMs through RL techniques.
 source_url: https://github.com/0xWelt/Awesome-LLM-RL
-category: Themed Directories
+category: llm-awesome-meta-lists
 tags:
-  - awesome-lists
-  - ai
-  - machine-learning
+  - llm-meta
+  - ai-directory
+  - research-hub
+  - llm
+  - reinforcement-learning
 featured: false
 markdown: >-
   # Awesome LLM RL
@@ -68,4 +69,4 @@ brand: 0xwelt
 brand_logo_url: https://avatars.githubusercontent.com/u/171593609
 images:
   - https://opengraph.githubassets.com/1/0xWelt/Awesome-LLM-RL
-updated_at: 2026-04-23 14:34
+updated_at: 2026-04-24 03:01

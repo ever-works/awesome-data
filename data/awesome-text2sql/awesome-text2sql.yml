@@ -1,0 +1,31 @@
+name: Awesome Text2SQL
+description: Resources for text-to-SQL generation using large language models,
+  including papers and code.
+source_url: https://github.com/eosphoros-ai/Awesome-Text2SQL
+category: Machine Learning & AI
+tags:
+  - llm
+  - text2sql
+  - papers
+featured: false
+markdown: |-
+  ## Overview
+
+  Resources for text-to-SQL generation.
+
+  ## Content Type
+
+  📄 Papers + 💻 Code
+
+  ## Difficulty
+
+  ⭐⭐⭐ Advanced
+
+  ## Update Status
+
+  🟢 Active
+
+  ## Recommendation Score
+
+  ★★★★★
+updated_at: 2026-04-24 03:01

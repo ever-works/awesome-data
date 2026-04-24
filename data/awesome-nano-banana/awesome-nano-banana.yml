@@ -1,0 +1,31 @@
+name: Awesome Nano Banana
+description: 97 cases comparing Gemini-2.5-Flash-Image vs GPT-4o with prompts
+  for image prompt engineering.
+source_url: https://github.com/JimmyLv/awesome-nano-banana
+category: Machine Learning & AI
+tags:
+  - llm
+  - prompts
+  - image
+featured: false
+markdown: |-
+  ## Overview
+
+  97 cases: Gemini-2.5-Flash-Image vs GPT-4o with prompts.
+
+  ## Content Type
+
+  📚 Examples
+
+  ## Difficulty
+
+  ⭐⭐ Intermediate
+
+  ## Update Status
+
+  🟢 Active
+
+  ## Recommendation Score
+
+  ★★★★★
+updated_at: 2026-04-24 03:01

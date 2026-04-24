@@ -4,7 +4,7 @@ description: Hand-curated aggregator of top 'lists of lists' from the web,
   up-to-date discovery. Quick cross-topic access; more selective than broad
   GitHub searches.
 source_url: https://listknow.com/
-category: List Aggregators
+category: Awesome List Aggregators
 tags:
   - meta-directory
   - curated-lists
@@ -38,4 +38,4 @@ markdown: |-
 
   ## Pricing
   Free.
-updated_at: 2026-04-24 00:06
+updated_at: 2026-04-24 03:01

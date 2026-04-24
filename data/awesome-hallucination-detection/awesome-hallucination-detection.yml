@@ -1,0 +1,31 @@
+name: Awesome Hallucination Detection
+description: Resources for detecting and mitigating hallucinations in large
+  language models. Focuses on techniques and papers to improve LLM reliability.
+source_url: https://github.com/EdinburghNLP/awesome-hallucination-detection
+category: Machine Learning & AI
+tags:
+  - llm
+  - hallucination-detection
+  - papers
+featured: false
+markdown: |-
+  ## Overview
+
+  Resources for detecting and mitigating LLM hallucinations.
+
+  ## Content Type
+
+  📄 Papers
+
+  ## Difficulty
+
+  ⭐⭐⭐ Advanced
+
+  ## Update Status
+
+  🟢 Active
+
+  ## Recommendation Score
+
+  ★★★★★
+updated_at: 2026-04-24 03:01

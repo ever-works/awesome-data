@@ -1,15 +1,16 @@
-name: Temporal
-description: Official Awesome list for Temporal, aggregating the best libraries,
-  tools, and tutorials in the Temporal ecosystem. Topic-focused and maintained
-  by the core team. Ideal for onboarding developers to the Temporal ecosystem,
-  unlike general awesome lists which cover broader topics.
+name: Awesome Temporal
+description: Awesome Temporal is the official, actively maintained
+  project-specific awesome list for Temporal, a durable workflow platform. It
+  aggregates libraries, tools, and tutorials in the Temporal ecosystem. Ideal
+  for onboarding developers to Temporal, unlike general workflow or
+  orchestration awesome lists.
 source_url: https://github.com/temporalio/awesome-temporal
 category: Project Awesome Lists
 tags:
-  - official-awesome
-  - project-ecosystem
-  - curated-resources
-featured: false
+  - project-awesome
+  - official-list
+  - ecosystem
+featured: true
 markdown: >-
   ## Overview
 
@@ -25,4 +26,4 @@ markdown: >-
   aggregated in meta lists.
 images:
   - https://raw.githubusercontent.com/temporalio/awesome-temporal/main/banner.png
-updated_at: 2026-04-22 20:47
+updated_at: 2026-04-24 03:01

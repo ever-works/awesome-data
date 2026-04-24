@@ -1,0 +1,38 @@
+name: Awesome LLM Tabular
+description: Resources and papers on LLMs applied to tabular data and Text2SQL
+  tasks, including benchmarks and methodologies. Targets the niche intersection
+  of LLMs with structured data unlike general tabular ML lists, providing AI
+  researchers specialized tools for table understanding, querying, and analysis
+  in LLM pipelines.
+source_url: https://github.com/johnnyhwu/Awesome-LLM-Tabular
+category: llm-awesome-meta-lists
+tags:
+  - llm-meta
+  - ai-directory
+  - research-hub
+  - llm
+  - tabular-data
+featured: false
+markdown: |-
+  ## Overview
+
+  Resources for LLMs working with tabular data.
+
+  ## Content Type
+
+  📄 Papers
+
+  ## Difficulty
+
+  ⭐⭐⭐ Advanced
+
+  ## Update Status
+
+  🟢 Active
+
+  ## Recommendation Score
+
+  ★★★★★
+images:
+  - https://opengraph.githubassets.com/1/johnnyhwu/Awesome-LLM-Tabular
+updated_at: 2026-04-24 03:01

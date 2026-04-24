@@ -1,0 +1,38 @@
+name: Awesome LLM-Powered Phone GUI Agents
+description: Curated resources on LLM-powered GUI agents for mobile phone
+  automation, including papers and frameworks for vision-language interactions
+  on devices. Targets niche LLM subtopic of phone GUI navigation and automation,
+  distinct from general mobile AI lists, aiding AI researchers in developing
+  embodied agents and device interaction paradigms.
+source_url: https://github.com/PhoneLLM/Awesome-LLM-Powered-Phone-GUI-Agents
+category: llm-awesome-meta-lists
+tags:
+  - llm-meta
+  - ai-directory
+  - research-hub
+  - llm
+  - gui-agents
+featured: false
+markdown: |-
+  ## Overview
+
+  LLM-powered GUI agents for mobile automation.
+
+  ## Content Type
+
+  📄 Papers
+
+  ## Difficulty
+
+  ⭐⭐⭐ Advanced
+
+  ## Update Status
+
+  🟢 Active
+
+  ## Recommendation Score
+
+  ★★★★★
+images:
+  - https://opengraph.githubassets.com/1/PhoneLLM/Awesome-LLM-Powered-Phone-GUI-Agents
+updated_at: 2026-04-24 03:01

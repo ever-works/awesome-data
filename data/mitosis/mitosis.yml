@@ -1,13 +1,15 @@
 name: Awesome Mitosis
-description: Curated Mitosis components, targets, plugins for multi-framework UI
-  portability. Low stars. Cross-framework devs; distinct from component
-  libraries like Awesome React.
+description: Awesome Mitosis is the actively maintained project-specific awesome
+  list for Mitosis, a component library for writing once and deploying across
+  frameworks. It lists components, targets, plugins, and guides for
+  multi-framework UI portability. Suited for onboarding cross-framework
+  developers, distinct from general React or component awesome lists.
 source_url: https://github.com/BuilderIO/awesome-mitosis
 category: Project Awesome Lists
 tags:
   - project-awesome
-  - curated-topic
-  - components
+  - official-list
+  - ecosystem
 featured: true
 markdown: |-
   ## Topics Covered
@@ -30,4 +32,4 @@ markdown: |-
   Free and open-source.
 images:
   - https://raw.githubusercontent.com/BuilderIO/awesome-mitosis/main/banner.png
-updated_at: 2026-04-24 00:06
+updated_at: 2026-04-24 03:01

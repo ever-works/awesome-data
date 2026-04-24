@@ -1,0 +1,31 @@
+name: Awesome GPT-4o Images
+description: 100 cases comparing GPT-4o vs gpt-image-1 with prompts for image
+  prompt engineering.
+source_url: https://github.com/jamez-bondos/awesome-gpt4o-images
+category: Machine Learning & AI
+tags:
+  - llm
+  - prompts
+  - image
+featured: false
+markdown: |-
+  ## Overview
+
+  100 cases: GPT-4o vs gpt-image-1 with prompts.
+
+  ## Content Type
+
+  📚 Examples
+
+  ## Difficulty
+
+  ⭐⭐ Intermediate
+
+  ## Update Status
+
+  🟢 Active
+
+  ## Recommendation Score
+
+  ★★★★★
+updated_at: 2026-04-24 03:01

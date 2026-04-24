@@ -3,11 +3,11 @@ description: A curated list of awesome frameworks, libraries, tools, and
   resources for Artificial Intelligence covering everything from foundational ML
   to specialized areas like NLP, computer vision, and AI ethics.
 source_url: https://github.com/brandonhimpfen/awesome-ai
-category: Machine Learning & AI
+category: AI Awesome Hubs
 tags:
-  - ai
-  - artificial-intelligence
-  - frameworks
+  - curated-meta
+  - github-stars
+  - 2026-updated
 featured: false
 markdown: >-
   ## Overview
@@ -98,4 +98,4 @@ markdown: >-
 
   A community-driven resource that welcomes contributions and stays current with
   the rapidly evolving AI landscape.
-updated_at: 2026-03-26 13:57
+updated_at: 2026-04-24 03:01

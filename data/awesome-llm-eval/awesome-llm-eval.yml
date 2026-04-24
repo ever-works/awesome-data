@@ -1,0 +1,38 @@
+name: Awesome LLM Eval
+description: Comprehensive resources on LLM evaluation including benchmarks,
+  metrics, papers, and tools for assessing model performance. Specializes in
+  LLM-specific evaluation challenges like hallucination detection and reasoning,
+  contrasting with general ML benchmarks, equipping AI researchers with rigorous
+  methods for comparing and advancing LLM capabilities.
+source_url: https://github.com/onejune2018/Awesome-LLM-Eval
+category: llm-awesome-meta-lists
+tags:
+  - llm-meta
+  - ai-directory
+  - research-hub
+  - llm
+  - evaluation
+featured: false
+markdown: |-
+  ## Overview
+
+  Comprehensive resources for LLM evaluation.
+
+  ## Content Type
+
+  📄 Papers + 🛠️ Tools
+
+  ## Difficulty
+
+  ⭐⭐⭐ Advanced
+
+  ## Update Status
+
+  🟢 Active
+
+  ## Recommendation Score
+
+  ★★★★★
+images:
+  - https://opengraph.githubassets.com/1/onejune2018/Awesome-LLM-Eval
+updated_at: 2026-04-24 03:01

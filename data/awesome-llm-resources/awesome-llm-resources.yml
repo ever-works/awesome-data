@@ -1,14 +1,19 @@
 name: Awesome LLM Resources
-description: A comprehensive collection of the world's best LLM resources
-  covering multimodal generation, AI agents, programming assistance, AI paper
-  review, data processing, model training, model inference, o1 models, MCP,
-  small language models, and vision-language models.
+description: Extensive meta-collection of LLM resources spanning multimodal
+  generation, AI agents, model training/inference, o1 models, MCP, SLMs, and
+  vision-language models. Unlike general AI resource lists, it deeply covers
+  LLM-specific ecosystems and tools, making it a vital research hub for AI
+  researchers exploring cutting-edge developments in LLM applications and
+  infrastructure.
 source_url: https://github.com/WangRongsheng/awesome-LLM-resources
-category: Machine Learning & AI
+category: llm-awesome-meta-lists
 tags:
+  - llm-meta
+  - ai-directory
+  - research-hub
   - llm
   - resources
-  - multimodal
+featured: false
 markdown: >-
   ## Overview
 
@@ -48,4 +53,6 @@ markdown: >-
 
 
   Free and open-source resource.
-updated_at: 2026-03-22 13:19
+images:
+  - https://opengraph.githubassets.com/1/WangRongsheng/awesome-LLM-resources
+updated_at: 2026-04-24 03:01

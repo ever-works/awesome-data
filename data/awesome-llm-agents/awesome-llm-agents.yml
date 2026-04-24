@@ -1,14 +1,17 @@
 name: Awesome LLM Agents
-description: A curated list of awesome LLM agent frameworks, tools, and
-  resources for building autonomous AI agents with large language models.
-  Includes multi-agent systems, memory architectures, and evaluation frameworks
-  updated for 2026.
+description: Specialized meta-list on LLM-powered agents, featuring frameworks
+  for multi-agent systems, memory architectures, benchmarks like SWE-bench, and
+  security considerations. Provides deeper focus on agentic AI subtopics
+  compared to general AI awesomes, offering AI researchers a targeted resource
+  for autonomous systems, orchestration, and evaluation in LLM contexts.
 source_url: https://github.com/kaushikb11/awesome-llm-agents
-category: Machine Learning & AI
+category: llm-awesome-meta-lists
 tags:
-  - llm
+  - llm-meta
+  - ai-directory
+  - research-hub
   - ai-agents
-  - automation
+  - llm
 featured: false
 markdown: >-
   ## Overview
@@ -98,4 +101,6 @@ markdown: >-
   - Deployment platforms
 
   - Integration libraries
-updated_at: 2026-03-19 12:57
+images:
+  - https://opengraph.githubassets.com/1/kaushikb11/awesome-llm-agents
+updated_at: 2026-04-24 03:01

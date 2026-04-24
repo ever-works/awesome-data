@@ -1,14 +1,22 @@
 name: Awesome-LLM-Prompt-Libraries
-description: Awesome list of LLM prompt libraries.
+description: Directory of prompt libraries optimized for LLMs, focusing on
+  reusable prompt templates for tasks like reasoning and generation. Unlike
+  general prompt engineering resources, this curates LLM-specific libraries,
+  useful for AI researchers standardizing prompting across models and
+  experiments.
 source_url: https://github.com/danielrosehill/Awesome-LLM-Prompt-Libraries
-category: Themed Directories
+category: llm-awesome-meta-lists
 tags:
+  - llm-meta
+  - ai-directory
+  - research-hub
   - llm
   - prompts
-  - awesome-lists
 featured: false
 markdown: |-
   ## Overview
 
   Awesome list of LLM prompt libraries.
-updated_at: 2026-04-23 14:34
+images:
+  - https://opengraph.githubassets.com/1/danielrosehill/Awesome-LLM-Prompt-Libraries
+updated_at: 2026-04-24 03:01

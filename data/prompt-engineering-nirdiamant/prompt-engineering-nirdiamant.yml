@@ -1,0 +1,30 @@
+name: Prompt Engineering (NirDiamant)
+description: Resources and tutorials for prompt engineering techniques with LLMs.
+source_url: https://github.com/NirDiamant/Prompt_Engineering
+category: Machine Learning & AI
+tags:
+  - llm
+  - prompt-engineering
+  - tutorials
+featured: false
+markdown: |-
+  ## Overview
+
+  Resources for prompt engineering techniques.
+
+  ## Content Type
+
+  📚 Tutorials
+
+  ## Difficulty
+
+  ⭐⭐ Intermediate
+
+  ## Update Status
+
+  🟢 Active
+
+  ## Recommendation Score
+
+  ★★★★★
+updated_at: 2026-04-24 03:01

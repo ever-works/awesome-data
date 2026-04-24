@@ -1,0 +1,31 @@
+name: Awesome arXiv
+description: Collection of arXiv tools and resources for staying updated with
+  latest research papers.
+source_url: https://github.com/artnitolog/awesome-arxiv
+category: Machine Learning & AI
+tags:
+  - arxiv
+  - papers
+  - tools
+featured: false
+markdown: |-
+  ## Overview
+
+  Collection of arXiv tools and resources.
+
+  ## Content Type
+
+  🛠️ Tools
+
+  ## Difficulty
+
+  ⭐⭐ Intermediate
+
+  ## Update Status
+
+  🟢 Active
+
+  ## Recommendation Score
+
+  ★★★★★
+updated_at: 2026-04-24 03:01

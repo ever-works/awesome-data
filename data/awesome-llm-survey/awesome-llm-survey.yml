@@ -1,0 +1,37 @@
+name: Awesome LLM Survey
+description: Comprehensive collection of survey papers on LLM research topics
+  like architecture, training, and applications. Specializes in LLM surveys
+  versus broad ML overviews, offering AI researchers synthesized insights and
+  references for rapidly evolving LLM literature.
+source_url: https://github.com/HqWu-HITCS/Awesome-LLM-Survey
+category: llm-awesome-meta-lists
+tags:
+  - llm-meta
+  - ai-directory
+  - research-hub
+  - llm
+  - survey
+featured: false
+markdown: |-
+  ## Overview
+
+  Comprehensive survey papers on LLM research.
+
+  ## Content Type
+
+  📄 Papers
+
+  ## Difficulty
+
+  ⭐⭐⭐ Advanced
+
+  ## Update Status
+
+  🟢 Active
+
+  ## Recommendation Score
+
+  ★★★★★
+images:
+  - https://opengraph.githubassets.com/1/HqWu-HITCS/Awesome-LLM-Survey
+updated_at: 2026-04-24 03:01

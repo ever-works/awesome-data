@@ -3,7 +3,7 @@ description: "Curated resources for ClickHouse: integrations, UIs, exporters,
   operators. ~100 GitHub stars. For OLAP database users; more targeted than
   general Awesome Databases."
 source_url: https://github.com/korchasa/awesome-clickhouse
-category: Canonical Awesome Hubs
+category: Meta Awesome Directories
 tags:
   - project-awesome
   - curated-topic
@@ -30,4 +30,4 @@ markdown: |-
   Free and open-source.
 images:
   - https://raw.githubusercontent.com/korchasa/awesome-clickhouse/main/awesome.svg
-updated_at: 2026-04-23 20:49
+updated_at: 2026-04-24 03:01

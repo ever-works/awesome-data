@@ -1,0 +1,31 @@
+name: TEN Agent
+description: Framework for building and deploying AI agents, part of agent
+  frameworks for LLMs.
+source_url: https://github.com/TEN-framework/TEN-Agent
+category: Machine Learning & AI
+tags:
+  - llm
+  - agents
+  - framework
+featured: false
+markdown: |-
+  ## Overview
+
+  Framework for building and deploying AI agents.
+
+  ## Content Type
+
+  💻 Code + 🛠️ Tools
+
+  ## Difficulty
+
+  ⭐⭐ Intermediate
+
+  ## Update Status
+
+  🟢 Active
+
+  ## Recommendation Score
+
+  ★★★★★
+updated_at: 2026-04-24 03:01

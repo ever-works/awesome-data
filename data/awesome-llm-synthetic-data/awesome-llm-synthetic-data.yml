@@ -1,14 +1,18 @@
 name: Awesome LLM Synthetic Data
-description: A comprehensive reading list on LLM-based synthetic data
-  generation, covering the latest research papers, techniques, and methodologies
-  for using large language models to create high-quality training data for
-  various NLP tasks and model fine-tuning.
+description: In-depth reading list on LLM-based synthetic data generation for
+  NLP tasks, fine-tuning, and augmentation, including self-instruct methods and
+  quality filtering. Focuses on data synthesis subtopic absent in general
+  datasets awesomes, crucial for AI researchers addressing data scarcity in LLM
+  training.
 source_url: https://github.com/wasiahmad/Awesome-LLM-Synthetic-Data
-category: Machine Learning & AI
+category: llm-awesome-meta-lists
 tags:
+  - llm-meta
+  - ai-directory
+  - research-hub
   - llm
   - synthetic-data
-  - nlp
+featured: false
 markdown: >-
   ## Overview
 
@@ -180,4 +184,6 @@ markdown: >-
 
 
   Free and open-source reading list and research resource.
-updated_at: 2026-03-22 13:19
+images:
+  - https://opengraph.githubassets.com/1/wasiahmad/Awesome-LLM-Synthetic-Data
+updated_at: 2026-04-24 03:01

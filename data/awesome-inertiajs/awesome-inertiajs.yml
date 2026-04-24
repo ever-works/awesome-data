@@ -1,14 +1,15 @@
 name: Awesome Inertia.js
-description: Curated list of resources for Inertia.js, a framework for building
-  SPAs without a separate API. Features plugins, starters, adapters, and
-  examples for frameworks like Laravel and Vue. Suited for server-driven
-  monoliths, alternative to API-based SPAs like Next.js.
-source_url: https://github.com/innocenzi/awesome-inertiajs#readme
+description: Awesome Inertia.js is the curated, actively maintained
+  project-specific awesome list for Inertia.js, a framework for SPAs without
+  building an API. It lists plugins, starters, adapters, and examples for
+  Laravel, Vue, etc. Ideal for onboarding to the Inertia.js ecosystem, distinct
+  from general frontend framework awesome lists.
+source_url: https://github.com/innocenzi/awesome-inertiajs
 category: Project Awesome Lists
 tags:
   - project-awesome
-  - inertiajs
-  - laravel
+  - official-list
+  - ecosystem
 featured: true
 markdown: >-
   ## Overview
@@ -36,8 +37,6 @@ markdown: >-
 
 
   Free and open-source.
-brand: innocenzi
-brand_logo_url: null
 images:
   - https://raw.githubusercontent.com/innocenzi/awesome-inertiajs/main/banner.png
-updated_at: 2026-04-24 00:06
+updated_at: 2026-04-24 03:01

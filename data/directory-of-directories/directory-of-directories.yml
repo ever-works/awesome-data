@@ -3,7 +3,7 @@ description: Curated directory of directories beyond Awesome lists, including
   web directories and SEO sites. Serves as a discovery resource for non-GitHub
   curated resources and promotional listings.
 source_url: https://github.com/dariubs/directory-of-directories
-category: List Aggregators
+category: Awesome List Aggregators
 tags:
   - meta-awesome
   - list-aggregator
@@ -38,4 +38,4 @@ markdown: |-
 images:
   - https://raw.githubusercontent.com/dariubs/directory-of-directories/main/banner.gif
   - https://github.com/dariubs/directory-of-directories.png
-updated_at: 2026-04-24 00:06
+updated_at: 2026-04-24 03:01

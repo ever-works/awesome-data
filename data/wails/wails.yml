@@ -1,11 +1,38 @@
-name: Wails
-description: A curated list of resources for Wails, the framework for building
-  desktop applications using Go and web technologies.
-source_url: https
+name: Awesome Wails
+description: Awesome Wails is the official, actively maintained project-specific
+  awesome list for Wails, a framework for building desktop apps with Go and web
+  tech. It curates resources, templates, and integrations for cross-platform
+  development. Ideal for onboarding developers to Wails, unlike general Go or
+  desktop app awesome lists.
+source_url: https://github.com/wailsapp/awesome-wails
 category: Project Awesome Lists
 tags:
-  - Development Tools:wails
-  - desktop
-  - golang
-featured: false
-updated_at: 2026-04-22 20:47
+  - project-awesome
+  - official-list
+  - ecosystem
+featured: true
+markdown: |-
+  ## Overview
+  Curated list of resources for Wails, framework for Go + web desktop apps.
+
+  ## Topics Covered
+
+  - Templates and starters
+  - Plugins
+  - Examples
+
+  ## Use Cases
+
+  - Cross-platform desktop apps
+  - Go frontend integration
+
+  ## Comparisons
+
+  Wails vs. Electron/Tauri lists.
+
+  ## Pricing
+
+  Free and open-source.
+images:
+  - https://raw.githubusercontent.com/wailsapp/awesome-wails/main/banner.png
+updated_at: 2026-04-24 03:01

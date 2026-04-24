@@ -5,7 +5,7 @@ description: Curated GitHub list of Dat protocol resources covering client
   building collaborative data apps; more focused than broader P2P lists like
   Awesome IPFS.
 source_url: https://github.com/datproject/awesome-dat
-category: Canonical Awesome Hubs
+category: Meta Awesome Directories
 tags:
   - project-awesome
   - curated-topic
@@ -44,4 +44,4 @@ markdown: >-
 
   Free and open-source.
 images: []
-updated_at: 2026-04-23 20:49
+updated_at: 2026-04-24 03:01

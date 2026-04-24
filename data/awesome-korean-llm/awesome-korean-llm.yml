@@ -1,0 +1,31 @@
+name: Awesome Korean LLM
+description: Resources for Korean language models, including code and models for
+  small language models in resource-constrained environments.
+source_url: https://github.com/NomaDamas/awesome-korean-llm
+category: Machine Learning & AI
+tags:
+  - llm
+  - korean
+  - models
+featured: false
+markdown: |-
+  ## Overview
+
+  Resources for Korean language models.
+
+  ## Content Type
+
+  💻 Code + Models
+
+  ## Difficulty
+
+  ⭐⭐ Intermediate
+
+  ## Update Status
+
+  🟢 Active
+
+  ## Recommendation Score
+
+  ★★★★☆
+updated_at: 2026-04-24 03:01

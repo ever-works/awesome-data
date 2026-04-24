@@ -6,7 +6,7 @@ description: "Curates awesome lists of tools, prompts, extensions, and resources
   paths for AI prompting and integrations; niche ChatGPT focus versus general
   awesome lists like sindresorhus/awesome."
 source_url: https://github.com/sindresorhus/awesome-chatgpt
-category: Canonical Awesome Hubs
+category: Meta Awesome Directories
 tags:
   - awesome-lists
   - chatgpt
@@ -38,4 +38,4 @@ brand_logo_url: https://avatars.githubusercontent.com/u/170230?v=4
 images:
   - https://github.com/sindresorhus/awesome-chatgpt/raw/main/media/banner.png
   - https://github.githubassets.com/images/modules/open_graph/github-mark.png
-updated_at: 2026-04-23 20:49
+updated_at: 2026-04-24 03:01

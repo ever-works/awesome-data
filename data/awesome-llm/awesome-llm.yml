@@ -1,13 +1,23 @@
 name: Awesome LLM
-description: A curated list of resources dedicated to Large Language Models
-  (LLMs), featuring frameworks, tools, evaluation methods, and research papers
-  for building and deploying LLM applications in production.
+description: Curated meta-list focused on Large Language Models (LLMs),
+  detailing frameworks, evaluation tools, production deployment methods, and
+  seminal research papers. Unlike broad AI awesome lists covering computer
+  vision, reinforcement learning, and classical ML, this specializes in LLM
+  subtopics like fine-tuning, prompting, and inference optimization, serving as
+  an essential research hub for AI researchers tracking LLM advancements and
+  building production systems.
 source_url: https://github.com/Hannibal046/Awesome-LLM
-category: Machine Learning & AI
+category: AI Awesome Hubs
 tags:
+  - llm-meta
+  - ai-directory
+  - research-hub
   - large-language-models
   - transformers
   - ai
+  - curated-meta
+  - github-stars
+  - 2026-updated
 featured: false
 markdown: >-
   ## Overview
@@ -60,5 +70,7 @@ markdown: >-
   ## Pricing
 
 
-  Free and open-source repository on GitHub.
-updated_at: 2026-03-07 17:48
+  Free and open-source under the Apache 2.0 license.
+images:
+  - https://opengraph.githubassets.com/1/Hannibal046/Awesome-LLM
+updated_at: 2026-04-24 03:01

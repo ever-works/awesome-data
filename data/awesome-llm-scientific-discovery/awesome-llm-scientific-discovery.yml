@@ -1,0 +1,38 @@
+name: Awesome LLM Scientific Discovery
+description: Curated papers, tools, and resources on LLMs accelerating
+  scientific research (AI4Science), covering hypothesis generation, experiment
+  design, and data analysis. Unlike general AI-for-science lists, it focuses on
+  LLM-specific applications in discovery pipelines, vital for AI researchers
+  bridging language models with empirical sciences.
+source_url: https://github.com/HKUST-KnowComp/Awesome-LLM-Scientific-Discovery
+category: llm-awesome-meta-lists
+tags:
+  - llm-meta
+  - ai-directory
+  - research-hub
+  - llm
+  - ai4science
+featured: false
+markdown: |-
+  ## Overview
+
+  LLMs in scientific research: papers, tools, resources.
+
+  ## Content Type
+
+  📄 Papers + 🛠️ Tools
+
+  ## Difficulty
+
+  ⭐⭐⭐ Advanced
+
+  ## Update Status
+
+  🟢 Active
+
+  ## Recommendation Score
+
+  ★★★★★
+images:
+  - https://opengraph.githubassets.com/1/HKUST-KnowComp/Awesome-LLM-Scientific-Discovery
+updated_at: 2026-04-24 03:01

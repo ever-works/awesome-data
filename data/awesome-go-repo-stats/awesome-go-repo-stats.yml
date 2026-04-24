@@ -1,80 +1,42 @@
 name: awesome-go-repo-stats
-description: awesome-go-repo-stats is a tool for tracking, building, and
-  maintaining statistics for repositories in the 'awesome-go' awesome list. It
-  provides daily updated star history, commit activity, dependency data, and
-  exports in CSV/JSON for visualizations, helping curators stay informed on
-  trends and health without manual GitHub searches. Compared to manual checks,
-  it automates monitoring and offers aggregated insights for efficient list
-  maintenance.
+description: Tool for tracking statistics of repositories in the 'awesome-go'
+  list, including star history, commits, and dependencies. Features daily
+  updates, CSV/JSON exports for analysis and visualizations. Aids in maintaining
+  awesome lists by monitoring repo health and trends automatically versus manual
+  checks.
 source_url: https://github.com/emanuelef/awesome-go-repo-stats
-category: Awesome List Trackers
+category: Awesome List Maintenance Tools
 tags:
-  - list-tools
-  - maintenance
+  - list-tool
+  - tracker
   - star-tracker
-  - dynamic-updater
-  - analytics
-  - go
 featured: false
-markdown: >-
-  # awesome-go-repo-stats
-
-
-  **Category:** Meta-directories  
-
-  **Brand:** emanuelef  
-
-  **Source:** https://github.com/emanuelef/awesome-go-repo-stats
-
-
+markdown: |-
   ## Overview
 
-  `awesome-go-repo-stats` is an open-source GitHub project that collects,
-  analyzes, and exposes daily updated statistics for repositories listed in the
-  `awesome-go` list. It acts as a meta-resource on top of the existing Awesome
-  Go directory, providing data and analytics about listed Go repositories.
-
+  automated stats tracker for awesome-go repos.
 
   ## Features
 
-  - **Daily updated statistics** for repositories included in the `awesome-go`
-  list.
-
-  - **Data export files** in the repository root, including:
-    - `analysis-latest.csv` – latest aggregated analysis of Awesome Go repositories.
-    - `dep-repo-latest.csv` – dependency-related data for repositories.
-    - `commits-history-30d.json` – commit activity history for the last 30 days.
-    - `stars-history-30d.json` – stars history for the last 30 days.
-    - `last-update.txt` – timestamp or marker of the last data update.
-  - **Go-based tooling** (`main.go`, `go.mod`, `go.sum`) to fetch and process
-  GitHub repository data.
-
-  - **Website frontend** under the `website` directory to present and browse
-  collected statistics.
-
-  - **OpenTelemetry instrumentation** (under `otel_instrumentation`) for
-  observability of the data collection and processing pipeline.
-
-  - **GitHub workflow configuration** in `.github` for automated data updates
-  and project CI/CD tasks.
-
+  - Daily star/commit history
+  - Dependency analysis
+  - CSV/JSON exports
 
   ## Use Cases
 
-  - Analyzing trends (stars, commits) across Awesome Go repositories.
+  - Monitor list repo health
+  - Trend analysis for maintenance
 
-  - Identifying active or inactive projects within the Awesome Go list.
+  ## Comparisons
 
-  - Building additional tools, dashboards, or visualizations on top of the
-  exported CSV/JSON data.
-
-  - Researching ecosystem health and activity in the Go open-source community.
-
+  | Aspect | Tool | Manual |
+  |--------|------|--------|
+  | Updates | Daily | None |
+  | Exports | Yes | No |
 
   ## Pricing
 
-  - Not applicable – `awesome-go-repo-stats` is an open-source GitHub project
-  (no pricing plans listed).
+  Free open-source.
 brand: emanuelef
 brand_logo_url: /emanuelef.png
-updated_at: 2026-04-24 00:06
+updated_at: 2026-04-24 03:01
