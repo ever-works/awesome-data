@@ -1,14 +1,17 @@
 name: BestDirectories
-description: A meta-directory that serves as a directory of directories,
-  curating and listing the best directory websites across various categories.
-  Directly relevant as a resource for discovering awesome directories.
+description: BestDirectories is a curated meta-directory serving as a
+  directory-of-directories, indexing top directory websites across niches for
+  business visibility. Features expert-curated lists, industry categorization,
+  update recommendations, and practical tips with case studies. Use cases
+  include discovering directories for SEO and reach; provides inception-level
+  meta focus on directories vs general awesome lists like sindresorhus/awesome.
 source_url: https://www.jasminedirectory.com/blog/best-2025-directories-for-new-businesses/
-category: Meta Awesome Directories
+category: Meta Directories
 tags:
+  - inception-meta
+  - list-index
   - directory-of-directories
-  - curated-lists
-  - web-directory
-  - meta-directory
+featured: false
 markdown: |
   # BestDirectories
 
@@ -34,4 +37,4 @@ markdown: |
 
   ## Pricing
   No specific pricing information was provided in the content for BestDirectories as a meta-directory resource.
-updated_at: 2026-04-24 00:06
+updated_at: 2026-04-24 11:34

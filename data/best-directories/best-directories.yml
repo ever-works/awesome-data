@@ -1,15 +1,18 @@
 name: Best Directories
-description: BestDirectories.org is a comprehensive platform that aggregates and
-  rates the best online directories, making it easy to explore and compare
-  top-rated directories for different niches. It serves as a directory of
-  directories.
+description: BestDirectories.org is a comprehensive, curated index aggregating
+  and rating top online directories across niches, functioning as a
+  directory-of-directories. Key features encompass ratings, category-based
+  exploration, filtering/sorting, trending highlights, and submission for
+  owners. Perfect for users comparing directories to discover relevant ones;
+  offers more meta inception-level aggregation than broad lists like
+  sindresorhus/awesome.
 source_url: https://bestdirectories.org/
-category: Directory of Directories
+category: Meta Directories
 tags:
-  - directory-of-directories
+  - inception-meta
+  - list-index
   - ratings
-  - aggregator
-  - web-directory
+featured: false
 markdown: >-
   # Best Directories
 
@@ -42,23 +45,7 @@ markdown: >-
   - Offers a newsletter for updates and news
 
 
-  ## Category
-
-  - Meta-directories
-
-
-  ## Tags
-
-  - Directory of directories
-
-  - Ratings
-
-  - Aggregator
-
-  - Web-directory
-
-
   ## Pricing
 
   No pricing information provided.
-updated_at: 2026-04-22 14:53
+updated_at: 2026-04-24 11:34

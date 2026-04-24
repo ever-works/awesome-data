@@ -1,15 +1,18 @@
 name: jnv/lists
-description: jnv/lists is a definitive meta-directory compiling lists of lists
-  from GitHub and beyond, including awesome lists, open-source apps, APIs, and
-  more. It provides categorized indexes like open-source Mac apps and static
-  site generators. Ideal for discovering curated resources across topics, it
-  compares to sindresorhus/awesome by being a list-of-lists hub.
+description: "Comprehensive curated mega-list aggregating lists-of-lists from
+  GitHub and web across myriad topics like apps, APIs, directories. Key
+  features: hierarchical categorization, community-driven expansions, high
+  engagement stars. Facilitates quick discovery of resources in diverse domains;
+  vs other metas, broadest inclusive scope including non-awesome lists,
+  canonical reference hub."
 source_url: https://github.com/jnv/lists
 category: Meta Awesome Directories
 tags:
+  - canonical-meta
+  - highly-starred
+  - topic-aggregated
   - list-of-lists
   - meta-index
-  - github-hub
 featured: true
 markdown: >-
   # jnv/lists
@@ -45,4 +48,4 @@ markdown: >-
 brand_logo_url: https://raw.githubusercontent.com/jnv/lists/master/icon.png
 images:
   - https://github.com/jnv/lists/raw/master/icon.png
-updated_at: 2026-04-24 00:06
+updated_at: 2026-04-24 11:34

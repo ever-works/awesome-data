@@ -1,0 +1,28 @@
+name: GetAwesomeness
+description: Explorer designed for curated awesome lists hosted on GitHub.
+  Allows searching and discovering awesome lists.
+source_url: https://getawesomeness.herokuapp.com/
+category: awesome-list-tools
+tags:
+  - searchable
+  - awesome-lists
+  - directory
+featured: false
+markdown: >-
+  ## Overview
+
+  GetAwesomeness is a tool for exploring and searching curated awesome lists on
+  GitHub.
+
+
+  ## Features
+
+  - Search across awesome lists
+
+  - GitHub-hosted list discovery
+
+
+  ## Pricing
+
+  Free.
+updated_at: 2026-04-24 11:34

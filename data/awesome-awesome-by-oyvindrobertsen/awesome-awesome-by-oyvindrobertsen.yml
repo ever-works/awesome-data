@@ -1,0 +1,20 @@
+name: Awesome Awesome by oyvindrobertsen
+description: Curated list of curated lists of libraries, resources and shiny
+  things for various languages.
+source_url: https://github.com/oyvindrobertsen/awesome-awesome
+category: meta-directories
+tags:
+  - awesome-lists
+  - programming-languages
+  - meta
+featured: false
+markdown: |-
+  ## Overview
+  Curated lists for various programming languages and resources.
+
+  ## Features
+  - Language-specific awesome lists
+
+  ## Pricing
+  Free.
+updated_at: 2026-04-24 11:34

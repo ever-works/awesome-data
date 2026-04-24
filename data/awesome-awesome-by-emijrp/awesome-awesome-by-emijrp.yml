@@ -1,0 +1,19 @@
+name: Awesome Awesome by emijrp
+description: Curated list of awesome curated lists of many topics.
+source_url: https://github.com/emijrp/awesome-awesome
+category: meta-directories
+tags:
+  - awesome-lists
+  - curated-lists
+  - meta
+featured: false
+markdown: |-
+  ## Overview
+  A curated list of awesome curated lists covering various topics.
+
+  ## Features
+  - Meta list of awesome resources
+
+  ## Pricing
+  Free.
+updated_at: 2026-04-24 11:34

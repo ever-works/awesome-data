@@ -1,15 +1,18 @@
 name: Awesome
-description: A central hub aggregating thousands of curated Awesome lists across
-  topics like programming, design, and security; features searchable interface,
-  star rankings, and daily updates; ideal for developers seeking topic-specific
-  resources; compared to single Awesome lists, it's a meta-index.
+description: "Canonical curated mega-list aggregating awesome lists across
+  diverse topics including programming, design, security, and beyond. Key
+  features: extensive categorization, community-driven maintenance, and
+  record-high GitHub stars signaling widespread adoption. Enables quick
+  discovery of resources in any domain; surpasses other meta-directories with
+  broadest scope and reference status."
 source_url: https://github.com/sindresorhus/awesome
 category: Meta Awesome Directories
 tags:
+  - canonical-meta
+  - highly-starred
+  - topic-aggregated
   - meta-awesome
   - list-aggregator
-  - github-stars
-  - curated-index
 featured: true
 markdown: |-
   # Awesome
@@ -38,4 +41,4 @@ images:
   - https://raw.githubusercontent.com/sindresorhus/awesome/master/media/logo.png
   - https://github.com/sindresorhus/awesome/raw/master/media/logo.png
   - https://github.com/sindresorhus/awesome.png
-updated_at: 2026-04-24 03:01
+updated_at: 2026-04-24 11:34
