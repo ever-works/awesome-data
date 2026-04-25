@@ -2770,3 +2770,33 @@
   name: Dynamics
 - id: topic-aggregated
   name: Topic Aggregated
+- id: efficient-training
+  name: Efficient Training
+- id: data-centric
+  name: Data Centric
+- id: searchable-directory
+  name: Searchable Directory
+- id: star-sorted
+  name: Star Sorted
+- id: post-training
+  name: Post Training
+- id: pre-training
+  name: Pre Training
+- id: understanding
+  name: Understanding
+- id: mixed
+  name: Mixed
+- id: pretrained
+  name: Pretrained
+- id: rl
+  name: Rl
+- id: mllm
+  name: Mllm
+- id: speech
+  name: Speech
+- id: vision
+  name: Vision
+- id: vla
+  name: Vla
+- id: vision-language-action
+  name: Vision Language Action
