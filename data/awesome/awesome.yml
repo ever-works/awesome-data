@@ -1,10 +1,10 @@
 name: Awesome
-description: "Canonical curated mega-list aggregating awesome lists across
-  diverse topics including programming, design, security, and beyond. Key
-  features: extensive categorization, community-driven maintenance, and
-  record-high GitHub stars signaling widespread adoption. Enables quick
-  discovery of resources in any domain; surpasses other meta-directories with
-  broadest scope and reference status."
+description: sindresorhus/awesome is the canonical meta-list of awesome lists,
+  curating high-quality GitHub repositories across topics like Node.js, HTTP,
+  and more. Key features include community-maintained updates, strict criteria
+  for inclusion, and links to thousands of specialized lists. Ideal for
+  developers discovering resources; compares to project-specific awesomes by
+  being topic-agnostic and highly starred (200k+ stars).
 source_url: https://github.com/sindresorhus/awesome
 category: Meta Awesome Directories
 tags:
@@ -38,7 +38,8 @@ markdown: |-
 brand: sindresorhus
 brand_logo_url: https://raw.githubusercontent.com/sindresorhus/awesome/master/media/logo.png
 images:
+  - https://raw.githubusercontent.com/sindresorhus/awesome/master/media/logo.svg
   - https://raw.githubusercontent.com/sindresorhus/awesome/master/media/logo.png
   - https://github.com/sindresorhus/awesome/raw/master/media/logo.png
   - https://github.com/sindresorhus/awesome.png
-updated_at: 2026-04-24 11:34
+updated_at: 2026-04-25 11:52

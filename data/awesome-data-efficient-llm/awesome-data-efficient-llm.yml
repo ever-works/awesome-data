@@ -1,0 +1,26 @@
+name: Awesome Data-Efficient LLM
+description: Survey and resources on efficient LLM training from data-centric
+  perspectives (arXiv:2510.25817).
+source_url: https://github.com/luo-junyu/Awesome-Data-Efficient-LLM
+category: llm-awesome-meta-lists
+tags:
+  - llm
+  - efficient-training
+  - data-centric
+  - papers
+markdown: |-
+  ## Overview
+
+  Focuses on data-efficient approaches for LLM training.
+
+  ## Content Type
+
+  Papers (📄)
+
+  ## Details
+
+  - Paper Link: arxiv:2510.25817
+  - Difficulty: Advanced (⭐⭐⭐)
+  - Update Status: Active (🟢)
+  - Recommendation Score: ★★★★★
+updated_at: 2026-04-25 11:52

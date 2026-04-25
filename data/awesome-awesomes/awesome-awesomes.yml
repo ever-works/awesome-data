@@ -1,48 +1,37 @@
 name: Awesome Awesomes
-description: "Inception-level curated list of awesome lists, automatically
-  generated. Aggregates hundreds of awesome repos by topic. Features: Topic
-  categorization, star rankings, daily tracking, broken link detection. Use
-  cases: Rapid discovery of relevant awesome lists. Comparisons: Deeper
-  automated aggregation than sindresorhus/awesome, more metrics-focused than
-  manual curations."
+description: 'A dynamically generated list of all "awesome" awesome lists using
+  Ruby script, categorized by inception level. Key features: auto-updates, star
+  counts, inception depth tracking. Ideal for meta-exploration; unique vs manual
+  curations like sindresorhus by being exhaustive/auto-generated.'
 source_url: https://github.com/athityakumar/awesome-awesomes
-category: Inception-Level Metas
+category: Awesome List Aggregators
 tags:
-  - meta-awesome
-  - list-aggregator
-  - github-stars
-  - curated-index
+  - auto-generated
+  - inception-level
+  - dynamic
 featured: true
 markdown: >-
   ## Overview
 
 
-  Awesome Awesomes is an automatically generated and maintained list of awesome
-  lists, using Ruby scripts to discover and catalog awesome lists across GitHub.
+  Dynamically generated list of all "awesome" awesome lists, using a Ruby script
+  for categorization by inception level.
 
 
   ## Features
 
 
-  - Automated discovery of new awesome lists
+  - Auto-updates via script
 
-  - Categorization by topic and domain
+  - Star counts
 
-  - Regular updates via automation
+  - Inception depth tracking
 
-  - Statistics on list popularity and activity
 
-  - GitHub stars and contributor counts
+  ## Use Cases
 
-  - Last update timestamps
 
-  - Broken link detection
-
-  - Duplicate list identification
-
-  - Search functionality
-
-  - Export to various formats
+  - Meta-exploration of awesome lists
 
 
   ## Pricing
@@ -52,4 +41,4 @@ markdown: >-
 brand_logo_url: https://raw.githubusercontent.com/athityakumar/awesome-awesomes/master/media/logo.png
 images:
   - https://raw.githubusercontent.com/athityakumar/awesome-awesomes/master/media/logo.png
-updated_at: 2026-04-23 14:34
+updated_at: 2026-04-25 11:52

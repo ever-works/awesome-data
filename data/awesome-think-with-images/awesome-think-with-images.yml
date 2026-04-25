@@ -1,0 +1,25 @@
+name: Awesome Think With Images
+description: Multimodal reasoning with images (arXiv:2506.23918).
+source_url: https://github.com/zhaochen0110/Awesome_Think_With_Images
+category: llm-awesome-meta-lists
+tags:
+  - multimodal
+  - reasoning
+  - images
+  - papers
+markdown: |-
+  ## Overview
+
+  Papers on image-based multimodal reasoning.
+
+  ## Content Type
+
+  Papers (📄)
+
+  ## Details
+
+  - Paper Link: arxiv:2506.23918
+  - Difficulty: Advanced (⭐⭐⭐)
+  - Update Status: Active (🟢)
+  - Recommendation Score: ★★★★★
+updated_at: 2026-04-25 11:52

@@ -7,7 +7,7 @@ description: BestDirectories.org is a comprehensive, curated index aggregating
   offers more meta inception-level aggregation than broad lists like
   sindresorhus/awesome.
 source_url: https://bestdirectories.org/
-category: Meta Directories
+category: Meta Awesome Directories
 tags:
   - inception-meta
   - list-index
@@ -48,4 +48,4 @@ markdown: >-
   ## Pricing
 
   No pricing information provided.
-updated_at: 2026-04-24 11:34
+updated_at: 2026-04-25 11:52

@@ -1,0 +1,24 @@
+name: Awesome Pretrained Chinese NLP Models
+description: Curated list of awesome pre-trained Chinese NLP models and related resources.
+source_url: https://github.com/lonePatient/awesome-pretrained-chinese-nlp-models
+category: llm-awesome-meta-lists
+tags:
+  - chinese
+  - nlp
+  - models
+  - pretrained
+markdown: |-
+  ## Overview
+
+  Resources for Chinese NLP models.
+
+  ## Content Type
+
+  Code + Models (💻Code+Models)
+
+  ## Details
+
+  - Difficulty: Intermediate (⭐⭐)
+  - Update Status: Stable (🟡)
+  - Recommendation Score: ★★★★☆
+updated_at: 2026-04-25 11:52

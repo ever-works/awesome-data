@@ -1,0 +1,24 @@
+name: Awesome SpeechLM Survey
+description: Survey of speech language models, datasets, and benchmarks.
+source_url: https://github.com/dreamtheater123/Awesome-SpeechLM-Survey
+category: llm-awesome-meta-lists
+tags:
+  - speech
+  - llm
+  - survey
+  - datasets
+markdown: |-
+  ## Overview
+
+  Comprehensive survey on speech LMs.
+
+  ## Content Type
+
+  Papers + Datasets (📄Papers+📊Datasets)
+
+  ## Details
+
+  - Difficulty: Advanced (⭐⭐⭐)
+  - Update Status: Active (🟢)
+  - Recommendation Score: ★★★★★
+updated_at: 2026-04-25 11:52

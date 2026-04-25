@@ -1,0 +1,23 @@
+name: Awesome Multimodal Reasoning
+description: Collection of papers and resources on multimodal reasoning capabilities.
+source_url: https://github.com/The-Martyr/Awesome-Multimodal-Reasoning
+category: llm-awesome-meta-lists
+tags:
+  - multimodal
+  - reasoning
+  - papers
+markdown: |-
+  ## Overview
+
+  Papers on multimodal reasoning.
+
+  ## Content Type
+
+  Papers (📄)
+
+  ## Details
+
+  - Difficulty: Advanced (⭐⭐⭐)
+  - Update Status: Active (🟢)
+  - Recommendation Score: ★★★★☆
+updated_at: 2026-04-25 11:52

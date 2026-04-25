@@ -1,0 +1,25 @@
+name: Awesome LLM Pretraining
+description: Curated list of awesome papers and resources focused on LLM
+  pre-training techniques and methodologies.
+source_url: https://github.com/RUCAIBox/awesome-llm-pretraining
+category: llm-awesome-meta-lists
+tags:
+  - llm
+  - pre-training
+  - papers
+  - research
+markdown: |-
+  ## Overview
+
+  Collection of key papers and resources for LLM pre-training.
+
+  ## Content Type
+
+  Papers (📄)
+
+  ## Details
+
+  - Difficulty: Advanced (⭐⭐⭐)
+  - Update Status: Active (🟢)
+  - Recommendation Score: ★★★★★
+updated_at: 2026-04-25 11:52

@@ -1,39 +1,45 @@
 name: Awesome-Lists.net
-description: "Awesome-Lists.net monitors GitHub awesome lists with live stats on
-  stars, forks, updates, rankings, and trend data. Key features: sortable
-  dashboards, category filters, star history views. Use cases: discover active
-  lists, track popularity shifts; dynamic and searchable vs static directories."
+description: Awesome-Lists.net is a searchable directory aggregating thousands
+  of GitHub awesome lists by topic, stars, and activity. Features include
+  filtering, sorting by stars/forks, and daily updates. Use for quick discovery
+  of curated resources; compares to TrackAwesomeList by being a static
+  searchable index vs dynamic tracker.
 source_url: https://awesome-lists.net
-category: Awesome Aggregators & Trackers
+category: Awesome List Aggregators
 tags:
+  - Searchable Directory
+  - Star Sorted
   - dynamic
-  - star-history
-  - notifications
-  - meta-aggregator
-markdown: |-
+markdown: >-
   ## Overview
 
-  Searchable aggregator of awesome lists with stats.
+
+  Awesome-Lists.net is a searchable directory aggregating thousands of GitHub
+  awesome lists by topic, stars, and activity.
+
 
   ## Features
-  - Category filters
-  - Stars/updates dashboard
-  - Browsable/searchable
+
+
+  - Filtering by topic and other criteria
+
+  - Sorting by stars, forks, activity
+
+  - Daily updates
+
 
   ## Use Cases
-  - Navigate awesome ecosystem for maintenance
-  - Quick topic discovery
 
-  ## Comparisons
 
-  | Feature | Awesome-Lists.net | Manual Search |
-  |---------|--------------------|---------------|
-  | Category | Yes | No |
-  | Stats | Live | None |
+  - Quick discovery of curated resources on specific topics
+
 
   ## Pricing
+
+
   Free.
 brand_logo_url: https://awesome-lists.net/favicon.ico
 images:
+  - https://awesome-lists.net/favicon.ico
   - https://awesome-lists.net/dashboard-screenshot.png
-updated_at: 2026-04-24 08:51
+updated_at: 2026-04-25 11:52

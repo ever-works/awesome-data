@@ -1,0 +1,24 @@
+name: Awesome VLA Post-Training
+description: Post-training methods for Vision-Language-Action (VLA) models.
+source_url: https://github.com/AoqunJin/Awesome-VLA-Post-Training
+category: llm-awesome-meta-lists
+tags:
+  - vla
+  - post-training
+  - vision-language-action
+  - papers
+markdown: |-
+  ## Overview
+
+  Focus on VLA post-training.
+
+  ## Content Type
+
+  Papers (📄)
+
+  ## Details
+
+  - Difficulty: Advanced (⭐⭐⭐)
+  - Update Status: Active (🟢)
+  - Recommendation Score: ★★★★☆
+updated_at: 2026-04-25 11:52

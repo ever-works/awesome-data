@@ -1,0 +1,25 @@
+name: Awesome LLM Post-training
+description: Curated list of awesome papers dedicated to LLM post-training
+  methods and advancements.
+source_url: https://github.com/mbzuai-oryx/Awesome-LLM-Post-training
+category: llm-awesome-meta-lists
+tags:
+  - llm
+  - post-training
+  - papers
+  - research
+markdown: |-
+  ## Overview
+
+  Collection of papers on LLM post-training.
+
+  ## Content Type
+
+  Papers (📄)
+
+  ## Details
+
+  - Difficulty: Advanced (⭐⭐⭐)
+  - Update Status: Active (🟢)
+  - Recommendation Score: ★★★★★
+updated_at: 2026-04-25 11:52

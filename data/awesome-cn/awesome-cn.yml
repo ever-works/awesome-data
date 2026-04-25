@@ -26,8 +26,8 @@ markdown: >-
   ## Overview
 
   awesome-cn is a Chinese-language meta collection that aggregates curated
-  "awesome" lists across programming languages, frameworks, tools, and learning
-  resources. It provides a centralized entry point for Chinese-speaking
+  \"awesome\" lists across programming languages, frameworks, tools, and
+  learning resources. It provides a centralized entry point for Chinese-speaking
   developers to discover topic-specific awesome lists (such as awesome-go,
   awesome-python, awesome-vue, awesome-javascript) and related resources.
 
@@ -70,4 +70,4 @@ brand: icopy-site
 brand_logo_url: https://github.com/icopy-site.png
 images:
   - https://raw.githubusercontent.com/icopy-site/awesome-cn/main/media/logo.png
-updated_at: 2026-04-23 20:49
+updated_at: 2026-04-25 11:52

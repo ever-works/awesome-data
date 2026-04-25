@@ -1,0 +1,23 @@
+name: Awesome Large Audio Models
+description: Resources on large audio models and related advancements.
+source_url: https://github.com/EmulationAl/awesome-large-audio-models
+category: llm-awesome-meta-lists
+tags:
+  - audio
+  - models
+  - papers
+markdown: |-
+  ## Overview
+
+  Papers on large audio models.
+
+  ## Content Type
+
+  Papers (📄)
+
+  ## Details
+
+  - Difficulty: Advanced (⭐⭐⭐)
+  - Update Status: Active (🟢)
+  - Recommendation Score: ★★★★☆
+updated_at: 2026-04-25 11:52

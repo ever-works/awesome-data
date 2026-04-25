@@ -1,0 +1,26 @@
+name: Awesome Visual Reinforcement Learning
+description: Over 200 works on RL in vision including multimodal LLMs, visual
+  generation, and VLA models (arXiv:2508.08189).
+source_url: https://github.com/weijiawu/Awesome-Visual-Reinforcement-Learning
+category: llm-awesome-meta-lists
+tags:
+  - rl
+  - vision
+  - multimodal
+  - papers
+markdown: |-
+  ## Overview
+
+  Comprehensive papers on visual RL.
+
+  ## Content Type
+
+  Papers (📄)
+
+  ## Details
+
+  - Paper Link: arxiv:2508.08189
+  - Difficulty: Advanced (⭐⭐⭐)
+  - Update Status: Active (🟢)
+  - Recommendation Score: ★★★★★
+updated_at: 2026-04-25 11:52
