@@ -1,13 +1,13 @@
 name: Awesome Filament
-description: "Curated Filament resources: plugins, themes, packages for TALL
-  stack admin panels. Growing GitHub stars. Laravel devs extending UIs; distinct
-  from general PHP admin lists."
+description: "Awesome Filament: Community-curated list of resources, tools, and
+  libraries for Filament. Features include categorized sections, star-sorted
+  entries, and regular updates. Ideal for developers onboarding to Filament,
+  offering more focused alternatives to general language directories."
 source_url: https://github.com/filamentphp/awesome-filament
-category: Meta Awesome Directories
+category: Project Awesome Lists
 tags:
-  - project-awesome
-  - curated-topic
-  - admin-panel
+  - project-specific
+  - filament
 featured: true
 markdown: |-
   ## Topics Covered
@@ -30,4 +30,4 @@ markdown: |-
   Free and open-source.
 images:
   - https://raw.githubusercontent.com/filamentphp/awesome-filament/main/banner.png
-updated_at: 2026-04-24 03:01
+updated_at: 2026-04-26 12:14

@@ -1,15 +1,14 @@
 name: Awesome Meilisearch
-description: Awesome Meilisearch is the official, actively maintained
-  project-specific awesome list for Meilisearch, an open-source search engine.
-  It curates integrations, clients, UIs, guides, and resources for fast,
-  typo-tolerant search. Ideal for onboarding to the Meilisearch ecosystem,
-  unlike general search engine or Elasticsearch awesome lists.
+description: "Awesome Meilisearch: Community-curated list of resources, tools,
+  and libraries for Meilisearch. Features include categorized sections,
+  star-sorted entries, and regular updates. Ideal for developers onboarding to
+  Meilisearch, offering more focused alternatives to general language
+  directories."
 source_url: https://github.com/meilisearch/awesome-meilisearch
 category: Project Awesome Lists
 tags:
-  - project-awesome
-  - official-list
-  - ecosystem
+  - project-specific
+  - meilisearch
 featured: true
 markdown: |-
   ## Topics Covered
@@ -32,4 +31,4 @@ markdown: |-
   Free and open-source.
 images:
   - https://raw.githubusercontent.com/meilisearch/awesome-meilisearch/main/banner.png
-updated_at: 2026-04-24 03:01
+updated_at: 2026-04-26 12:14

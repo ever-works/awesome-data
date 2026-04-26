@@ -1,15 +1,13 @@
 name: Awesome Inngest
-description: Awesome Inngest is the official, actively maintained
-  project-specific awesome list for Inngest, a serverless workflow platform for
-  durable execution. It features workflows, functions, examples, integrations,
-  and deployment resources. Perfect for onboarding to the Inngest ecosystem,
-  alternative to general workflow or Temporal awesome lists.
+description: "Awesome Inngest: Community-curated list of resources, tools, and
+  libraries for Inngest. Features include categorized sections, star-sorted
+  entries, and regular updates. Ideal for developers onboarding to Inngest,
+  offering more focused alternatives to general language directories."
 source_url: https://github.com/inngest/awesome-inngest
 category: Project Awesome Lists
 tags:
-  - project-awesome
-  - official-list
-  - ecosystem
+  - project-specific
+  - inngest
 featured: true
 markdown: |-
   ## Overview
@@ -36,4 +34,4 @@ markdown: |-
   Free tier available; usage-based pricing.
 images:
   - https://raw.githubusercontent.com/inngest/awesome-inngest/main/banner.png
-updated_at: 2026-04-24 03:01
+updated_at: 2026-04-26 12:14

@@ -5,11 +5,12 @@ description: LaunchDirectories is a meta-index of startup directories and launch
   quick discovery of niche launch platforms; more comprehensive than single
   awesome lists.
 source_url: https://launchdirectories.com
-category: Launch Directories
+category: Launch & Product Directories
 tags:
   - directory-of-lists
   - curated-meta
   - star-ranking
+  - product-launch
 featured: true
 markdown: >-
   ## Overview
@@ -94,4 +95,4 @@ markdown: >-
 
 
   Free resource.
-updated_at: 2026-04-23 09:02
+updated_at: 2026-04-26 12:14

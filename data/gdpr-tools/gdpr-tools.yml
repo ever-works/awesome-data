@@ -1,14 +1,14 @@
 name: Gdpr Tools
-description: Gdpr Tools curates general software tools that are GDPR-compliant
-  for website creators and developers. Features lists with categories and search
-  options for easy access. Perfect for broad discovery of privacy tools,
-  differing from trend-driven sites like Product Hunt by focusing on curated
-  compliance resources.
+description: Hand-curated directory of GDPR-compliant tools and services for
+  website creators, organized into categories like analytics and hosting.
+  Supports GitHub search and filters for discovery, with community updates via
+  pull requests. Ideal for developers ensuring compliance, as a specialized list
+  versus broad GitHub awesome privacy collections.
 source_url: https://github.com/erichard/awesome-gdpr
 category: General Directories
 tags:
-  - general-directory
-  - software-discovery
+  - curated
+  - searchable
   - gdpr
 markdown: |-
   ## Overview
@@ -20,4 +20,4 @@ markdown: |-
   Free and open-source resource.
 images:
   - https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
-updated_at: 2026-04-23 00:00
+updated_at: 2026-04-26 12:14

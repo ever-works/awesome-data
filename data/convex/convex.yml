@@ -1,13 +1,13 @@
 name: Awesome Convex
-description: "Convex Awesome List curates tools, libraries, tutorials for
-  Convex. Key features: actively maintained, star-ranked sections; use cases:
-  developer onboarding, plugin discovery; vs general directories, hyper-focused
-  on one tech stack."
+description: "Awesome Convex: Community-curated list of resources, tools, and
+  libraries for Convex. Features include categorized sections, star-sorted
+  entries, and regular updates. Ideal for developers onboarding to Convex,
+  offering more focused alternatives to general language directories."
 source_url: https://github.com/get-convex/awesome-convex
 category: Project Awesome Lists
 tags:
-  - project-focused
-  - curated-resources
+  - project-specific
+  - convex
 featured: true
 markdown: |-
   ## Topics Covered
@@ -30,4 +30,4 @@ markdown: |-
   Free tier available; paid plans for scale.
 images:
   - https://raw.githubusercontent.com/get-convex/awesome-convex/main/og-image.png
-updated_at: 2026-04-24 08:51
+updated_at: 2026-04-26 12:14

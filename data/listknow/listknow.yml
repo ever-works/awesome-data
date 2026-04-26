@@ -1,10 +1,10 @@
 name: ListKnow
-description: Hand-curated aggregator of top 'lists of lists' from the web,
-  including awesome lists on AI, design, Tailwind. Verified and categorized for
-  up-to-date discovery. Quick cross-topic access; more selective than broad
-  GitHub searches.
+description: Hand-curated aggregator indexing top lists-of-lists including
+  awesome lists on AI, design, and more, categorized and verified for relevance.
+  Features topic filters for streamlined access. Enhances meta-discovery with
+  selective curation over exhaustive GitHub searches.
 source_url: https://listknow.com/
-category: Awesome List Aggregators
+category: Awesome List Aggregators & Indexes
 tags:
   - meta-directory
   - curated-lists
@@ -12,6 +12,7 @@ tags:
   - aggregator
   - searchable-lists
   - meta-index
+  - list-search
 featured: false
 markdown: |-
   ## Overview
@@ -19,13 +20,16 @@ markdown: |-
   Curated directory of useful lists of lists.
 
   ## Aggregation
-  Hand-picks verified collections.
+
+  Hand-picks and verifies top collections across topics like AI, design.
 
   ## Features
+
   - Categories (AI, design)
   - Verified/up-to-date
 
   ## Use Cases
+
   - Specialized resource discovery
   - Across web topics
 
@@ -37,5 +41,6 @@ markdown: |-
   | Verification | Yes | No |
 
   ## Pricing
+
   Free.
-updated_at: 2026-04-24 03:01
+updated_at: 2026-04-26 12:14

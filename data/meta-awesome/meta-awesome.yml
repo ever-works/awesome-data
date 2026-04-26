@@ -1,13 +1,15 @@
 name: Meta Awesome
-description: Jepemo's meta-list of awesome lists, organized by categories like
-  security and programming. It tracks hundreds of awesome repositories with
-  direct links, offering categorized and searchable access. Ideal for quickly
-  discovering themed awesome lists; an alternative to the more general
-  sindresorhus/awesome.
+description: Jepemo's Meta Awesome directory categorizes hundreds of awesome
+  lists by topics like security, programming, and AI for easy navigation.
+  Features hierarchical organization and direct repository links with searchable
+  structure. Use for targeted discovery of themed lists; more categorized than
+  the flat sindresorhus/awesome.
 source_url: https://github.com/jepemo/meta-awesome
 category: Meta Awesome Directories
 tags:
-  - categorized-meta
+  - meta-list
+  - categorized-index
+  - curated
 featured: true
 markdown: >-
   ## Overview
@@ -41,7 +43,8 @@ markdown: >-
 
   Free and open-source GitHub repository.
 brand: jepemo
-brand_logo_url: null
+brand_logo_url: https://github.com/jepemo.png
 images:
   - https://github.com/jepemo/meta-awesome/raw/master/meta-awesome.png
-updated_at: 2026-04-24 00:06
+  - https://raw.githubusercontent.com/jepemo/meta-awesome/master/meta-awesome.png
+updated_at: 2026-04-26 12:14

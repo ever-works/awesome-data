@@ -1,0 +1,26 @@
+name: Awesome Agent Skills
+description: Curated collection of 1000+ agent skills from official dev teams
+  and the community, compatible with Claude Code, Codex, Gemini CLI, Cursor, and
+  more.
+source_url: https://github.com/OpenAI/awesome-agent-skills
+category: Themed Directories
+tags:
+  - awesome-lists
+  - ai
+  - agents
+  - skills
+featured: false
+markdown: |-
+  ## Overview
+
+  Agent skills collection.
+
+  ## Features
+
+  - 1000+ skills
+  - Compatible with multiple tools
+
+  ## Pricing
+
+  Free.
+updated_at: 2026-04-26 12:14

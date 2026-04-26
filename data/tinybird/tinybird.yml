@@ -1,15 +1,13 @@
 name: Awesome Tinybird
-description: Awesome Tinybird is the official, actively maintained
-  project-specific awesome list for Tinybird, a real-time data platform. It
-  aggregates libraries, tools, and tutorials in the Tinybird ecosystem. Ideal
-  for onboarding developers to Tinybird, unlike general data or analytics
-  awesome lists.
+description: "Awesome Tinybird: Community-curated list of resources, tools, and
+  libraries for Tinybird. Features include categorized sections, star-sorted
+  entries, and regular updates. Ideal for developers onboarding to Tinybird,
+  offering more focused alternatives to general language directories."
 source_url: https://github.com/tinybirdco/awesome-tinybird
 category: Project Awesome Lists
 tags:
-  - project-awesome
-  - official-list
-  - ecosystem
+  - project-specific
+  - tinybird
 featured: true
 markdown: >-
   ## Overview
@@ -26,4 +24,4 @@ markdown: >-
   aggregated in meta lists.
 images:
   - https://raw.githubusercontent.com/tinybirdco/awesome-tinybird/main/banner.png
-updated_at: 2026-04-24 03:01
+updated_at: 2026-04-26 12:14

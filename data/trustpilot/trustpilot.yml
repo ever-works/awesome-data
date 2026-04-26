@@ -2,11 +2,12 @@ name: Trustpilot
 description: Platform to collect customer reviews and establish trust.
   Trustpilot allows businesses to gather and display customer feedback.
 source_url: https://www.trustpilot.com
-category: Product Directories
+category: Launch & Product Directories
 tags:
   - reviews
   - trust
   - customer-feedback
+  - product-launch
 markdown: |-
   ## Overview
 
@@ -17,4 +18,4 @@ markdown: |-
   - Customer reviews
   - Rating system
   - Trust scores
-updated_at: 2026-04-23 17:44
+updated_at: 2026-04-26 12:14

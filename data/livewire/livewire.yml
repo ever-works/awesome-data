@@ -1,16 +1,13 @@
 name: Awesome Livewire
-description: Awesome Livewire is the official, actively maintained
-  project-specific awesome list for Livewire, a full-stack framework for Laravel
-  to build reactive UIs without JavaScript. It curates packages, components, and
-  resources enhancing reactivity in Laravel apps. Ideal for onboarding
-  developers to the Livewire ecosystem, unlike general Laravel or frontend
-  awesome lists.
+description: "Awesome Livewire: Community-curated list of resources, tools, and
+  libraries for Livewire. Features include categorized sections, star-sorted
+  entries, and regular updates. Ideal for developers onboarding to Livewire,
+  offering more focused alternatives to general language directories."
 source_url: https://github.com/livewire/awesome-livewire
 category: Project Awesome Lists
 tags:
-  - project-awesome
-  - official-list
-  - ecosystem
+  - project-specific
+  - livewire
 featured: true
 markdown: >-
   ## Overview
@@ -50,4 +47,4 @@ markdown: >-
   Free and open-source.
 images:
   - https://raw.githubusercontent.com/livewire/awesome-livewire/main/banner.png
-updated_at: 2026-04-24 03:01
+updated_at: 2026-04-26 12:14

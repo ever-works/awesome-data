@@ -5,7 +5,7 @@ description: A GitHub-hosted awesome list that curates frameworks, tools, and
   "awesome-list" repository, making it directly relevant as part of the broader
   meta collection of awesome directories.
 source_url: https://github.com/NipunaRanasinghe/awesome-ai-agents
-category: AI Awesome Hubs
+category: AI & ML Awesome Hubs
 tags:
   - awesome-lists
   - ai
@@ -13,6 +13,7 @@ tags:
   - curated-meta
   - github-stars
   - 2026-updated
+  - ai-hub
 featured: false
 markdown: >-
   # awesome-ai-agents
@@ -59,4 +60,4 @@ markdown: >-
 
   - Free, open-source GitHub repository (no paid plans).
 brand_logo_url: null
-updated_at: 2026-04-24 03:01
+updated_at: 2026-04-26 12:14

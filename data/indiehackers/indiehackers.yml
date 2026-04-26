@@ -1,14 +1,13 @@
 name: Indiehackers
-description: Indiehackers curates general resources, tools, and guides for indie
-  hackers building products independently. It offers categorized sections for
-  browsing and community discovery. Suited for broad use cases in solo
-  entrepreneurship discovery, as a comprehensive directory unlike specialized
-  product launch platforms like Product Hunt.
+description: Hand-curated resources, tools, interviews, and guides for indie
+  hackers, structured in categories with search via GitHub. Updated via
+  community pull requests for freshness. Perfect for solo founders discovering
+  strategies, as a niche directory vs broad startup awesome lists.
 source_url: https://github.com/johackim/awesome-indiehackers
 category: General Directories
 tags:
-  - general-directory
-  - software-discovery
+  - curated
+  - searchable
   - indiehackers
 markdown: |-
   ## Overview
@@ -20,4 +19,4 @@ markdown: |-
   Free and open-source resource.
 images:
   - https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
-updated_at: 2026-04-23 00:00
+updated_at: 2026-04-26 12:14

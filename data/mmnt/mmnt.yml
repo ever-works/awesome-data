@@ -1,7 +1,22 @@
 name: MMNT
-description: General open directory resource.
+description: Curated open directory of internet resources across categories like
+  web design and development tools, with search and filter features. Regularly
+  updated by maintainers for current relevance. Ideal for broad web discovery,
+  as a classic web directory vs GitHub-based awesome lists.
 source_url: https://www.mmnt.net
 category: General Directories
 tags:
-  - directories
-updated_at: 2026-04-23 17:44
+  - curated
+  - searchable
+  - web-directory
+markdown: |-
+  ## Overview
+
+  Open directory of web resources.
+
+  ## Pricing
+
+  Free.
+images:
+  - https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
+updated_at: 2026-04-26 12:14

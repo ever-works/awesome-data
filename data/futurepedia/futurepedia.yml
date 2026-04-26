@@ -2,11 +2,12 @@ name: FUTUREPEDIA
 description: THE LARGEST AI TOOLS DIRECTORY, UPDATED DAILY. Extensive AI tools
   directory with daily updates.
 source_url: https://futurepedia.io
-category: AI Awesome Directories
+category: AI & ML Awesome Hubs
 tags:
   - ai-tools
   - daily-updated
   - directory
+  - ai-hub
 featured: true
 markdown: |-
   ## Overview
@@ -21,4 +22,4 @@ markdown: |-
   ## Pricing
 
   Free access.
-updated_at: 2026-04-23 09:02
+updated_at: 2026-04-26 12:14

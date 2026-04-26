@@ -1,15 +1,13 @@
 name: Awesome Rector
-description: Awesome Rector is the official, actively maintained
-  project-specific awesome list for Rector, a PHP upgrade and refactoring tool.
-  It aggregates libraries, tools, and tutorials in the Rector ecosystem. Ideal
-  for onboarding developers to Rector, unlike general PHP or refactoring awesome
-  lists.
+description: "Awesome Rector: Community-curated list of resources, tools, and
+  libraries for Rector. Features include categorized sections, star-sorted
+  entries, and regular updates. Ideal for developers onboarding to Rector,
+  offering more focused alternatives to general language directories."
 source_url: https://github.com/rectorphp/awesome-rector
 category: Project Awesome Lists
 tags:
-  - project-awesome
-  - official-list
-  - ecosystem
+  - project-specific
+  - rector
 featured: true
 markdown: >-
   ## Overview
@@ -26,4 +24,4 @@ markdown: >-
   aggregated in meta lists.
 images:
   - https://raw.githubusercontent.com/rectorphp/awesome-rector/main/banner.png
-updated_at: 2026-04-24 03:01
+updated_at: 2026-04-26 12:14

@@ -1,14 +1,15 @@
 name: Bigdata Ai Drug Discovery
-description: Bigdata Ai Drug Discovery curates general software resources,
-  tools, datasets, and papers for big data and AI in drug discovery. It offers
-  categorized collections for exploration and GitHub search. Suited for biotech
-  researchers' broad discovery of relevant projects, more comprehensive than
-  specialized launch sites like Product Hunt.
+description: Hand-curated GitHub repository compiling resources, tools,
+  datasets, and papers on big data and AI applications in drug discovery,
+  organized into categories. Features GitHub search and browser filters for
+  navigation, with updates via community contributions and pull requests. Ideal
+  for biotech researchers discovering specialized resources, offering deeper
+  focus than broad GitHub Awesome lists.
 source_url: https://github.com/Bin-Chen-Lab/Awesome_BigData_AI_DrugDiscovery
 category: General Directories
 tags:
-  - general-directory
-  - software-discovery
+  - curated
+  - searchable
   - drug-discovery
 markdown: |-
   ## Overview
@@ -20,4 +21,4 @@ markdown: |-
   Free and open-source resource.
 images:
   - https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
-updated_at: 2026-04-23 00:00
+updated_at: 2026-04-26 12:14

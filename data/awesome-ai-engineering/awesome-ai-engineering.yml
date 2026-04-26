@@ -4,7 +4,7 @@ description: The Full-Stack LLM Engineering Playbook featuring architectural
   recipes including SFT, DPO, and QLoRA for domain adaptation, covering data
   pipelines, evaluation frameworks, and system design.
 source_url: https://github.com/Eric-LLMs/Awesome-AI-Engineering
-category: AI Awesome Hubs
+category: AI & ML Awesome Hubs
 tags:
   - ai-engineering
   - llm
@@ -12,6 +12,7 @@ tags:
   - curated-meta
   - github-stars
   - 2026-updated
+  - ai-hub
 featured: false
 markdown: >-
   ## Overview
@@ -394,4 +395,4 @@ markdown: >-
 
 
   Free and open-source resource.
-updated_at: 2026-04-24 03:01
+updated_at: 2026-04-26 12:14

@@ -7,7 +7,7 @@ description: Curated meta-list focused on Large Language Models (LLMs),
   an essential research hub for AI researchers tracking LLM advancements and
   building production systems.
 source_url: https://github.com/Hannibal046/Awesome-LLM
-category: AI Awesome Hubs
+category: AI & ML Awesome Hubs
 tags:
   - llm-meta
   - ai-directory
@@ -18,6 +18,7 @@ tags:
   - curated-meta
   - github-stars
   - 2026-updated
+  - ai-hub
 featured: false
 markdown: >-
   ## Overview
@@ -73,4 +74,4 @@ markdown: >-
   Free and open-source under the Apache 2.0 license.
 images:
   - https://opengraph.githubassets.com/1/Hannibal046/Awesome-LLM
-updated_at: 2026-04-24 03:01
+updated_at: 2026-04-26 12:14

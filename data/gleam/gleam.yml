@@ -1,12 +1,14 @@
 name: Awesome Gleam
-description: Curated Gleam packages, tools, learning resources for Erlang VM
-  language. Low stars. Gleam devs; narrower than Awesome Elixir/Erlang.
+description: "Awesome Gleam: Curated resources for Gleam language, including
+  packages, tools, and learning materials. Features community-maintained
+  updates. Useful for Gleam developers seeking ecosystem overviews, compared to
+  general Elixir or Erlang lists."
 source_url: https://github.com/gleam-lang/awesome-gleam
-category: Meta Awesome Directories
+category: Project Awesome Lists
 tags:
   - project-awesome
-  - curated-topic
   - programming-languages
+  - beam
 featured: true
 markdown: |-
   ## Topics Covered
@@ -29,4 +31,4 @@ markdown: |-
   Free and open-source.
 images:
   - https://raw.githubusercontent.com/gleam-lang/awesome-gleam/main/banner.png
-updated_at: 2026-04-24 03:01
+updated_at: 2026-04-26 12:14

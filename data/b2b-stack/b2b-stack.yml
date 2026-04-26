@@ -2,11 +2,12 @@ name: B2B Stack
 description: SaaS tools directory for B2B use. Curates tools for
   business-to-business applications.
 source_url: https://www.b2bstack.co
-category: Product Directories
+category: Launch & Product Directories
 tags:
   - b2b
   - saas
   - tools
+  - product-launch
 markdown: |-
   ## Overview
 
@@ -17,4 +18,4 @@ markdown: |-
   - Categorized tools
   - Rankings
   - Reviews
-updated_at: 2026-04-23 17:44
+updated_at: 2026-04-26 12:14

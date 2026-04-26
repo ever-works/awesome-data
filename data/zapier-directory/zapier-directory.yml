@@ -2,11 +2,12 @@ name: Zapier Directory
 description: Directory of tools integrated with Zapier. Lists apps that can be
   connected via Zapier for automation.
 source_url: https://zapier.com/apps
-category: Product Directories
+category: Launch & Product Directories
 tags:
   - automation
   - integration
   - saas
+  - product-launch
 markdown: |-
   ## Overview
 
@@ -17,4 +18,4 @@ markdown: |-
   - App integrations
   - Workflow examples
   - Automation tools
-updated_at: 2026-04-23 17:44
+updated_at: 2026-04-26 12:14

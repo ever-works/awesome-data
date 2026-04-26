@@ -1,15 +1,13 @@
 name: Awesome Foundry
-description: Awesome Foundry is the curated project-specific awesome list for
-  Foundry, a fast Ethereum smart contract development toolkit. It is actively
-  maintained, covering tools, plugins, scripts, and resources for Foundry.
-  Suited for onboarding Ethereum developers to Foundry, alternative to general
-  Ethereum or Hardhat awesome lists.
+description: "Awesome Foundry: Community-curated list of resources, tools, and
+  libraries for Foundry. Features include categorized sections, star-sorted
+  entries, and regular updates. Ideal for developers onboarding to Foundry,
+  offering more focused alternatives to general language directories."
 source_url: https://github.com/crisgarner/awesome-foundry
 category: Project Awesome Lists
 tags:
-  - project-awesome
-  - official-list
-  - ecosystem
+  - project-specific
+  - foundry
 featured: true
 markdown: |-
   ## Topics Covered
@@ -32,4 +30,4 @@ markdown: |-
   Free and open-source.
 images:
   - https://raw.githubusercontent.com/crisgarner/awesome-foundry/main/banner.png
-updated_at: 2026-04-24 03:01
+updated_at: 2026-04-26 12:14

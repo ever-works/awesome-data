@@ -2,11 +2,12 @@ name: TapRefer
 description: Biggest directory of affiliate programs. Lists affiliate
   opportunities for SaaS and digital products.
 source_url: https://taprefer.com
-category: Product Directories
+category: Launch & Product Directories
 tags:
   - affiliate
   - saas
   - marketing
+  - product-launch
 markdown: |-
   ## Overview
 
@@ -17,4 +18,4 @@ markdown: |-
   - Affiliate listings
   - Program details
   - Commission rates
-updated_at: 2026-04-23 17:44
+updated_at: 2026-04-26 12:14

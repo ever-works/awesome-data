@@ -1,14 +1,14 @@
 name: Data Privacy Resources
-description: Data Privacy Resources curates general software tools, guides, and
-  resources focused on data privacy and security practices. It features
-  categorized lists for easy navigation and search functionality. Ideal for
-  broad discovery by developers and professionals, offering a curated directory
-  unlike launch-focused platforms like Product Hunt.
+description: Curated collection of tools, guides, laws, and resources on data
+  privacy and security, categorized for easy browsing with GitHub search
+  support. Maintained through community pull requests for regular updates.
+  Suited for developers and professionals discovering privacy practices, as a
+  comprehensive directory vs dynamic sites like Product Hunt.
 source_url: https://github.com/yilmaztolga/awesome-data-privacy
 category: General Directories
 tags:
-  - general-directory
-  - software-discovery
+  - curated
+  - searchable
   - privacy
 markdown: |-
   ## Overview
@@ -20,4 +20,4 @@ markdown: |-
   Free and open-source resource.
 images:
   - https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
-updated_at: 2026-04-23 00:00
+updated_at: 2026-04-26 12:14

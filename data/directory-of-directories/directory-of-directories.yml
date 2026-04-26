@@ -1,41 +1,65 @@
 name: Directory of Directories
-description: Curated directory of directories beyond Awesome lists, including
-  web directories and SEO sites. Serves as a discovery resource for non-GitHub
-  curated resources and promotional listings.
+description: Directory of Directories curates over 300 directories and awesome
+  lists across GitHub and web sources, categorized by niches like AI and SaaS.
+  Features star rankings, update tracking, and submission options. Use for broad
+  directory discovery and promotion; broader scope including non-GitHub sites
+  compared to awesome-only lists.
 source_url: https://github.com/dariubs/directory-of-directories
-category: Awesome List Aggregators
+category: Meta Awesome Directories
 tags:
-  - meta-awesome
-  - list-aggregator
-  - github-stars
+  - meta-list
   - curated-index
-markdown: |-
+  - directory-submission
+featured: true
+markdown: >-
   ## Overview
 
-  Curated meta-directory of directories and lists.
 
-  ## Aggregation
-  Combines 300+ directories including awesome lists.
+  Curated meta-directory aggregating directories and lists from GitHub and web
+  sources.
+
 
   ## Features
-  - Categorized (AI, SaaS)
-  - Update frequency
-  - Submission focus
+
+
+  - Categorized by niche (AI, SaaS, etc.)
+
+  - Regular updates
+
+  - Submission for new directories
+
+  - Star tracking for GitHub items
+
 
   ## Use Cases
-  - SEO/promotion discovery
-  - Cross-topic directories
+
+
+  - SEO and promotion discovery
+
+  - Cross-topic directory exploration
+
+  - Researching awesome lists
+
 
   ## Comparisons
 
+
   | Feature | Directory of Directories | GitHub Search |
+
   |---------|---------------------------|---------------|
-  | Scope | Directories/lists | Repos |
-  | Categories | Yes | No |
+
+  | Scope | Directories/lists/web | Repos |
+
+  | Categories | Yes | Limited |
+
+  | Curated | Yes | No |
+
 
   ## Pricing
+
+
   Free.
 images:
   - https://raw.githubusercontent.com/dariubs/directory-of-directories/main/banner.gif
   - https://github.com/dariubs/directory-of-directories.png
-updated_at: 2026-04-24 03:01
+updated_at: 2026-04-26 12:14

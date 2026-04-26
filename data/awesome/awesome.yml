@@ -1,26 +1,23 @@
 name: Awesome
-description: sindresorhus/awesome is the canonical meta-list of awesome lists,
-  curating high-quality GitHub repositories across topics like Node.js, HTTP,
-  and more. Key features include community-maintained updates, strict criteria
-  for inclusion, and links to thousands of specialized lists. Ideal for
-  developers discovering resources; compares to project-specific awesomes by
-  being topic-agnostic and highly starred (200k+ stars).
+description: The canonical Awesome lists directory by Sindre Sorhus, aggregating
+  thousands of topic-specific awesome lists on GitHub. Features markdown
+  rendering, search, and community contributions with strict inclusion criteria.
+  Use for broad discovery of open-source resources; more comprehensive and
+  highly starred than single-topic lists.
 source_url: https://github.com/sindresorhus/awesome
 category: Meta Awesome Directories
 tags:
-  - canonical-meta
-  - highly-starred
-  - topic-aggregated
-  - meta-awesome
-  - list-aggregator
+  - meta-list
+  - curated-index
+  - open-source
 featured: true
 markdown: |-
   # Awesome
 
-  [Awesome](https://github.com/sindresorhus/awesome) is a meta-directory that curates and organizes numerous \"awesome lists\" related to libraries, tools, frameworks, and software across a wide range of topics. It serves as a central hub for discovering high-quality, community-curated resources on GitHub.
+  [Awesome](https://github.com/sindresorhus/awesome) is a meta-directory that curates and organizes numerous "awesome lists" related to libraries, tools, frameworks, and software across a wide range of topics. It serves as a central hub for discovering high-quality, community-curated resources on GitHub.
 
   ## Features
-  - **Curated Meta-Directory**: Collects and organizes links to hundreds of curated \"awesome lists\" covering various domains such as programming languages, platforms, tools, frameworks, and more.
+  - **Curated Meta-Directory**: Collects and organizes links to hundreds of curated "awesome lists" covering various domains such as programming languages, platforms, tools, frameworks, and more.
   - **Extensive Categorization**: Lists are grouped into categories like Platforms, Programming Languages, Front-End Development, Back-End Development, Computer Science, Big Data, Security, Databases, and more.
   - **Community-Driven Contributions**: Open for contributions from the community, with clear guidelines for adding new lists or updating existing ones.
   - **Open Source**: Hosted on GitHub under the CC0-1.0 license, making it open and free for anyone to use, share, or contribute.
@@ -40,6 +37,4 @@ brand_logo_url: https://raw.githubusercontent.com/sindresorhus/awesome/master/me
 images:
   - https://raw.githubusercontent.com/sindresorhus/awesome/master/media/logo.svg
   - https://raw.githubusercontent.com/sindresorhus/awesome/master/media/logo.png
-  - https://github.com/sindresorhus/awesome/raw/master/media/logo.png
-  - https://github.com/sindresorhus/awesome.png
-updated_at: 2026-04-25 11:52
+updated_at: 2026-04-26 12:14

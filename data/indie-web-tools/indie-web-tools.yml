@@ -1,14 +1,14 @@
 name: Indie Web Tools
-description: Indie Web Tools curates general software tools and resources for
-  indie makers and solopreneurs to build and launch web products. It features
-  categorized collections for easy navigation and search. Perfect for broad
-  discovery in indie development, providing a hand-curated list versus dynamic
-  launch sites like Product Hunt.
+description: Curated collection of tools and resources for indie makers building
+  web products, categorized for navigation with GitHub search.
+  Community-maintained through contributions for regular updates. Suited for
+  solopreneurs discovering indie tools, more focused than general GitHub awesome
+  dev lists.
 source_url: https://github.com/MrMikeAde/Indie-Web-Tools
 category: General Directories
 tags:
-  - general-directory
-  - software-discovery
+  - curated
+  - searchable
   - indie
 markdown: |-
   ## Overview
@@ -20,4 +20,4 @@ markdown: |-
   Free and open-source resource.
 images:
   - https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
-updated_at: 2026-04-23 00:00
+updated_at: 2026-04-26 12:14

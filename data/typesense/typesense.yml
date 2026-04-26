@@ -1,15 +1,13 @@
 name: Awesome Typesense
-description: Awesome Typesense is the official, actively maintained
-  project-specific awesome list for Typesense, a fast open-source search engine.
-  It aggregates libraries, tools, and tutorials in the Typesense ecosystem.
-  Ideal for onboarding developers to Typesense, unlike general search or
-  Elasticsearch awesome lists.
+description: "Awesome Typesense: Community-curated list of resources, tools, and
+  libraries for Typesense. Features include categorized sections, star-sorted
+  entries, and regular updates. Ideal for developers onboarding to Typesense,
+  offering more focused alternatives to general language directories."
 source_url: https://github.com/typesense/awesome-typesense
 category: Project Awesome Lists
 tags:
-  - project-awesome
-  - official-list
-  - ecosystem
+  - project-specific
+  - typesense
 featured: true
 markdown: >-
   ## Overview
@@ -26,4 +24,4 @@ markdown: >-
   aggregated in meta lists.
 images:
   - https://raw.githubusercontent.com/typesense/awesome-typesense/main/banner.png
-updated_at: 2026-04-24 03:01
+updated_at: 2026-04-26 12:14

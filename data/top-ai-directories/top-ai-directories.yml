@@ -1,67 +1,44 @@
 name: Top AI Directories
-description: A curated meta-list of the best AI tool directories, designed to
-  help users discover and submit AI products. This resource serves as an awesome
-  directory of directories, making it directly relevant for anyone seeking
-  comprehensive listings of AI-related directory websites.
+description: Top AI Directories is a curated meta-list of leading AI tool
+  directories, enabling discovery and submission of AI products as a
+  directory-of-directories. Features community contributions, organized
+  listings, and GitHub hosting for updates. Ideal for AI developers promoting
+  tools or researching directories; contrasts static GitHub lists by
+  specifically aggregating AI directory sites.
 source_url: https://github.com/best-of-ai/ai-directories
 category: Meta Awesome Directories
 tags:
+  - meta-index
+  - list-aggregator
   - ai-tools
-  - meta-directory
-  - curated-lists
   - github
-markdown: >-
-  # Top AI Directories
+markdown: |-
+  ## Overview
 
-
-  A curated meta-list of the best AI tool directories, designed to help users
-  discover and submit AI products. This resource serves as a directory of
-  directories, making it valuable for those seeking comprehensive listings of
-  AI-related directory websites.
-
+  Curated list of top AI tool directories for discovery and submissions.
 
   ## Features
 
-  - Curated compilation of AI tool directories.
+  - Community-driven additions
+  - Organized by directory name
+  - GitHub-hosted updates
+  - Submission-friendly
 
-  - Allows users to discover platforms to submit and promote AI products.
+  ## Use Cases
 
-  - Organizes directories to make finding relevant AI platforms easier.
+  - AI product promotion
+  - Directory research
+  - AI resource discovery
 
-  - Suitable for AI developers, product teams, and anyone looking to increase
-  visibility of AI tools.
+  ## Comparisons
 
-  - Community-driven: users can contribute by adding new AI directories.
-
-  - Hosted as an open-source project on GitHub.
-
-  - Fosters collaboration and recognition within the AI community.
-
-  - Includes a Table of Contents for easy navigation by directory name.
-
-
-  ## Category
-
-  - Meta-directories
-
-
-  ## Tags
-
-  - ai-tools
-
-  - meta-directory
-
-  - curated-lists
-
-  - github
-
-
-  ## Source
-
-  [Top AI Directories on GitHub](https://github.com/best-of-ai/ai-directories)
-
+  | Feature | Top AI Directories | General Awesome Lists |
+  |---------|--------------------|-----------------------|
+  | Scope | AI directories | Mixed projects |
+  | Submission | Yes | Varies |
+  | Focus | Meta AI | Broad |
 
   ## Pricing
 
-  - Free and open-source (hosted on GitHub)
-updated_at: 2026-04-24 00:06
+  Free and open-source.
+updated_at: 2026-04-26 12:14

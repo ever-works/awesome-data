@@ -1,0 +1,48 @@
+name: awesome-directories (directorieswiki)
+description: "DirectoriesWiki's awesome-directories curates specialized
+  directories on AI tools, productivity, open-source, and more, serving as a
+  meta-index with categorized lists and descriptions for quick discovery. Key
+  features include extensive AI directory aggregation, niche sections, and
+  contributor submissions. Use cases: finding themed directories for AI or
+  productivity research; more directory-focused than static GitHub awesome
+  lists."
+source_url: https://github.com/directorieswiki/awesome-directories
+category: Meta Awesome Directories
+tags:
+  - meta-index
+  - list-aggregator
+  - ai-directory
+  - curated
+featured: false
+markdown: |-
+  ## Overview
+
+  Curated list of awesome directories across fields like AI and productivity.
+
+  ## Features
+
+  - Categorized sections (e.g., AI Directories)
+  - Descriptions for quick scanning
+  - Contributor additions
+  - Focus on AI tools directories
+
+  ## Use Cases
+
+  - Discovering AI and productivity directories
+  - Themed list research
+  - Resource aggregation
+
+  ## Comparisons
+
+  | Feature | awesome-directories | Static GitHub Lists |
+  |---------|---------------------|---------------------|
+  | Focus | Directories | Projects |
+  | Categories | Niche-specific | Broad |
+  | Updates | Community | Maintainer |
+
+  ## Pricing
+
+  Free and open-source.
+brand: directorieswiki
+brand_logo_url: https://github.com/directorieswiki.png
+updated_at: 2026-04-26 12:14

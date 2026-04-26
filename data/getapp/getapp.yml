@@ -2,11 +2,12 @@ name: GetApp
 description: Platform to discover and compare software tools. GetApp offers
   reviews and comparisons for business software.
 source_url: https://www.getapp.com
-category: Product Directories
+category: Launch & Product Directories
 tags:
   - reviews
   - saas
   - business
+  - product-launch
 markdown: |-
   ## Overview
 
@@ -17,4 +18,4 @@ markdown: |-
   - Tool comparisons
   - User ratings
   - Category searches
-updated_at: 2026-04-23 17:44
+updated_at: 2026-04-26 12:14

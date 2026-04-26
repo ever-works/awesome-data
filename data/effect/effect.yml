@@ -1,13 +1,13 @@
 name: Awesome Effect
-description: "Effect Awesome List curates tools, libraries, tutorials for
-  Effect. Key features: actively maintained, star-ranked sections; use cases:
-  developer onboarding, plugin discovery; vs general directories, hyper-focused
-  on one tech stack."
+description: "Awesome Effect: Community-curated list of resources, tools, and
+  libraries for Effect. Features include categorized sections, star-sorted
+  entries, and regular updates. Ideal for developers onboarding to Effect,
+  offering more focused alternatives to general language directories."
 source_url: https://github.com/Effect-TS/awesome-effect
 category: Project Awesome Lists
 tags:
-  - project-focused
-  - curated-resources
+  - project-specific
+  - effect
 featured: true
 markdown: |-
   ## Topics Covered
@@ -30,4 +30,4 @@ markdown: |-
   Free and open-source.
 images:
   - https://raw.githubusercontent.com/Effect-TS/awesome-effect/main/banner.png
-updated_at: 2026-04-24 08:51
+updated_at: 2026-04-26 12:14

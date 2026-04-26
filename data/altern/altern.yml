@@ -2,11 +2,12 @@ name: Altern
 description: Launch platform for AI tools. Altern helps AI tool makers launch
   and promote their products.
 source_url: https://altern.cc
-category: Launch Directories
+category: Launch & Product Directories
 tags:
   - ai
   - launch
   - tools
+  - product-launch
 markdown: |-
   ## Overview
 
@@ -17,4 +18,4 @@ markdown: |-
   - AI tool listings
   - Launch announcements
   - Discovery
-updated_at: 2026-04-23 17:44
+updated_at: 2026-04-26 12:14

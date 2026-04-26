@@ -1,14 +1,13 @@
 name: Mlops Feature Stores
-description: Mlops Feature Stores curates general software tools including
-  open-source and commercial feature stores for MLOps pipelines. Features
-  categorized lists with descriptions for easy exploration and search. Ideal for
-  broad discovery by ML engineers, offering a curated overview versus
-  launch-focused sites like Product Hunt.
+description: Curated list of open-source and commercial feature stores for
+  MLOps, categorized with descriptions and GitHub search. Maintained by
+  community contributions for up-to-date info. For ML engineers discovering
+  feature stores, more specialized than general MLOps awesome lists.
 source_url: https://github.com/awesome-mlops/awesome-feature-store
 category: General Directories
 tags:
-  - general-directory
-  - software-discovery
+  - curated
+  - searchable
   - mlops
 markdown: |-
   ## Overview
@@ -20,4 +19,4 @@ markdown: |-
   Free and open-source resource.
 images:
   - https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
-updated_at: 2026-04-23 00:00
+updated_at: 2026-04-26 12:14

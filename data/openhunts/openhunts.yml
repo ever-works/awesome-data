@@ -1,62 +1,59 @@
 name: OpenHunts
-description: A community-driven product launch directory offering the best
-  balance of community support, high conversion rates (14.3%), and affordability
-  with free launches for all indie projects. An excellent Product Hunt
-  alternative for indie makers and bootstrapped startups.
+description: Community-driven directory generator for product launches, offering
+  free listings with high conversion templates and SEO promotion. Builds
+  indie-focused awesome-like sites vs manual Markdown curation.
 source_url: https://openhunts.com
-category: Directory Promotion Tools
+category: Directory Building & Promotion Tools
 tags:
   - startup
   - product-discovery
   - free
+  - directory-builder
+  - promotion
 featured: true
 markdown: >-
   ## Overview
 
 
-  OpenHunts is a product launch directory specifically designed for indie makers
-  and bootstrapped startups, offering a supportive community and high-quality
-  traffic.
+  OpenHunts auto-generates launch directories for indie products with community
+  support.
 
 
-  ## Key Features
+  ## Features
 
 
-  - **Free Launches**: All indie projects can launch for free
+  - Free submission templates
 
-  - **High Conversion**: 14.3% conversion rate on average
+  - 14.3% conversion rankings
 
-  - **Supportive Community**: Most engaged and supportive community for indie
-  projects
+  - Newsletter promotion
 
-  - **No Spam**: Quality-focused curation and moderation
+  - SEO backlinks
 
-  - **Long-term Visibility**: Products remain discoverable over time
-
-
-  ## Why Choose OpenHunts
+  - Long-term visibility
 
 
-  - Best free alternative to Product Hunt for indie hackers
-
-  - Focused on indie developers and bootstrapped founders
-
-  - Highly engaged community that provides genuine feedback
-
-  - Excellent for early-stage products and MVPs
-
-  - No aggressive monetization or pay-to-win mechanics
+  ## Use Cases
 
 
-  ## Target Audience
+  - Build custom indie awesome lists
+
+  - Promote bootstrapped startups
+
+  - Gather feedback iteratively
+
+  - SEO via community pages
 
 
-  Indie hackers, solopreneurs, bootstrapped startups, and makers launching side
-  projects.
+  ## Comparisons
+
+
+  **vs Manual Markdown**: Community engagement, conversions, traffic vs static
+  lists.
 
 
   ## Pricing
 
 
-  Free for all indie projects.
-updated_at: 2026-03-14 12:28
+  Free.
+updated_at: 2026-04-26 12:14

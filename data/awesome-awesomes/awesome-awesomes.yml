@@ -1,14 +1,17 @@
-name: Awesome Awesomes
-description: 'A dynamically generated list of all "awesome" awesome lists using
-  Ruby script, categorized by inception level. Key features: auto-updates, star
-  counts, inception depth tracking. Ideal for meta-exploration; unique vs manual
-  curations like sindresorhus by being exhaustive/auto-generated.'
+name: Awesome Awesomeness
+description: Dynamically generated aggregator indexing thousands of awesome
+  lists categorized by inception level, topic, and stars using a Ruby script.
+  Features auto-updates, star counts, and depth tracking for RSS-like
+  monitoring. Facilitates comprehensive meta-discovery; excels over GitHub
+  searches with exhaustive automation and multi-dimensional filtering.
 source_url: https://github.com/athityakumar/awesome-awesomes
-category: Awesome List Aggregators
+category: Awesome List Aggregators & Indexes
 tags:
   - auto-generated
   - inception-level
   - dynamic
+  - meta-index
+  - list-search
 featured: true
 markdown: >-
   ## Overview
@@ -16,6 +19,13 @@ markdown: >-
 
   Dynamically generated list of all "awesome" awesome lists, using a Ruby script
   for categorization by inception level.
+
+
+  ## Aggregation
+
+
+  Automatically indexes thousands of awesome lists by topic, stars, and
+  inception depth.
 
 
   ## Features
@@ -34,11 +44,23 @@ markdown: >-
   - Meta-exploration of awesome lists
 
 
+  ## Comparisons
+
+
+  | Feature | Awesome Awesomes | GitHub Search |
+
+  |---------|------------------|---------------|
+
+  | Exhaustiveness | All awesome lists | Partial |
+
+  | Automation | Full | Manual |
+
+
   ## Pricing
 
 
-  Free and open-source.
+  Free and open-source under the Apache 2.0 license.
 brand_logo_url: https://raw.githubusercontent.com/athityakumar/awesome-awesomes/master/media/logo.png
 images:
   - https://raw.githubusercontent.com/athityakumar/awesome-awesomes/master/media/logo.png
-updated_at: 2026-04-25 11:52
+updated_at: 2026-04-26 12:14

@@ -1,14 +1,15 @@
 name: ListOfGithubLists
-description: Meta directory aggregating lists of GitHub lists, enabling
-  inception-level discovery of awesome resources. Early GitHub-focused
-  meta-collection from late 2013. Suited for exploring interconnected awesome
-  lists, positioned as a list-of-lists rather than a broad directory.
+description: ListOfGithubLists is an early meta-directory aggregating lists of
+  GitHub lists for inception-level resource discovery. Features simple
+  aggregation of interconnected awesome-style collections from 2013. Use for
+  exploring nested list structures; more focused on list-of-lists than
+  comprehensive directories like sindresorhus/awesome.
 source_url: https://github.com/asciimoo/ListOfGithubLists
-category: List of Lists Indexes
+category: Meta Awesome Directories
 tags:
-  - inception-meta
-  - github-lists
   - meta-list
+  - inception-index
+  - github-lists
 featured: false
 markdown: >-
   ## Overview
@@ -44,4 +45,6 @@ markdown: >-
 
 
   Free and open-source.
-updated_at: 2026-04-23 14:34
+images:
+  - https://github.com/asciimoo/ListOfGithubLists.png
+updated_at: 2026-04-26 12:14

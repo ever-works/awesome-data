@@ -3,11 +3,12 @@ description: Software reviews platform to build credibility and reach
   businesses. G2 provides authentic user reviews to help buyers evaluate
   software solutions.
 source_url: https://www.g2.com
-category: Product Directories
+category: Launch & Product Directories
 tags:
   - reviews
   - b2b
   - saas
+  - product-launch
 featured: true
 markdown: |-
   ## Overview
@@ -19,4 +20,4 @@ markdown: |-
   - User reviews and ratings
   - Comparison tools
   - Category listings
-updated_at: 2026-04-23 17:44
+updated_at: 2026-04-26 12:14

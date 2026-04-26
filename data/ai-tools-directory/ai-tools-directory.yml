@@ -1,11 +1,12 @@
 name: AI Tools Directory
 description: Curated list of AI tools.
 source_url: https://aitoolsdirectory.com
-category: AI Awesome Directories
+category: AI & ML Awesome Hubs
 tags:
   - curated
   - ai-tools
   - directory
+  - ai-hub
 featured: false
 markdown: |-
   ## Overview
@@ -19,4 +20,4 @@ markdown: |-
   ## Pricing
 
   Free.
-updated_at: 2026-04-23 09:02
+updated_at: 2026-04-26 12:14

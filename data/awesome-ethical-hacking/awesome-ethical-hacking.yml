@@ -1,0 +1,27 @@
+name: Awesome Ethical Hacking
+description: Repository maintained by Omar Santos with thousands of resources on
+  ethical hacking, bug bounties, DFIR, AI security, vulnerability research,
+  exploit development, reverse engineering, and more.
+source_url: https://github.com/OMarsantos/awesome-ethical-hacking
+category: Themed Directories
+tags:
+  - awesome-lists
+  - ethical-hacking
+  - security
+featured: false
+markdown: |-
+  ## Overview
+
+  Comprehensive resources for security professionals.
+
+  ## Features
+
+  - Ethical hacking
+  - Bug bounties
+  - DFIR
+  - AI security
+
+  ## Pricing
+
+  Free.
+updated_at: 2026-04-26 12:14

@@ -4,7 +4,7 @@ description: A curated list of modern generative AI projects, tools, and
   creation, and multimodal AI applications powered by large language models and
   diffusion models.
 source_url: https://github.com/filipecalegario/awesome-generative-ai
-category: AI Awesome Hubs
+category: AI & ML Awesome Hubs
 tags:
   - generative-ai
   - llm
@@ -13,6 +13,7 @@ tags:
   - curated-meta
   - github-stars
   - 2026-updated
+  - ai-hub
 markdown: >-
   ## Overview
 
@@ -160,4 +161,4 @@ markdown: >-
   - Pay-per-use: OpenAI API, Anthropic API
 
   - Open source: Stable Diffusion, Llama models
-updated_at: 2026-04-24 03:01
+updated_at: 2026-04-26 12:14

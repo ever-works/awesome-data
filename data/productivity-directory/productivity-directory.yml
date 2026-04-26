@@ -2,11 +2,12 @@ name: Productivity Directory
 description: List of top Productivity tools, books, podcasts and products.
   Curated directory of productivity resources.
 source_url: https://productivity.directory
-category: Product Directories
+category: Launch & Product Directories
 tags:
   - productivity
   - tools
   - directory
+  - product-launch
 featured: false
 markdown: |-
   ## Overview
@@ -20,4 +21,4 @@ markdown: |-
   ## Pricing
 
   Free.
-updated_at: 2026-04-23 09:02
+updated_at: 2026-04-26 12:14
