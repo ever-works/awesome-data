@@ -85,7 +85,7 @@
 - id: business
   name: Business
 - id: directory-builder
-  name: directory-builder
+  name: Directory Builder
 - id: templates
   name: Templates
 - id: themes
@@ -2800,3 +2800,55 @@
   name: Vla
 - id: vision-language-action
   name: Vision Language Action
+- id: ai-hub
+  name: Ai Hub
+- id: official-index
+  name: Official Index
+- id: github-native
+  name: Github Native
+- id: skills
+  name: Skills
+- id: list-search
+  name: List Search
+- id: quality-vetted
+  name: Quality Vetted
+- id: searchable-index
+  name: Searchable Index
+- id: openclaw
+  name: Openclaw
+- id: beam
+  name: Beam
+- id: inngest
+  name: Inngest
+- id: inception-index
+  name: Inception Index
+- id: livewire
+  name: Livewire
+- id: meilisearch
+  name: Meilisearch
+- id: categorized-index
+  name: Categorized Index
+- id: mitosis
+  name: Mitosis
+- id: moonbit
+  name: Moonbit
+- id: nushell
+  name: Nushell
+- id: oxc
+  name: Oxc
+- id: pkl
+  name: Pkl
+- id: rector
+  name: Rector
+- id: rescript
+  name: Rescript
+- id: tinybird
+  name: Tinybird
+- id: typesense
+  name: Typesense
+- id: viem
+  name: Viem
+- id: wagmi
+  name: Wagmi
+- id: wails
+  name: Wails
