@@ -3,7 +3,7 @@ description: Curated list of awesome Temporal resources, SDKs, and examples.
   Open-source platform for orchestrating durable, reliable workflows in
   microservices architectures.
 source_url: https://github.com/temporalio/awesome-temporal
-category: DevOps & SRE
+category: Project Awesome Lists
 tags:
   - temporal
   - workflows
@@ -87,4 +87,4 @@ markdown: >-
 
   Free and open-source. Temporal Cloud has usage-based pricing.
 brand: Temporal
-updated_at: 2026-03-24 13:42
+updated_at: 2026-04-27 11:31

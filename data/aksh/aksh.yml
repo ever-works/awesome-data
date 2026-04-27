@@ -1,0 +1,25 @@
+name: aksh
+description: Bibliography of STEM (Science, Technology, Engineering &
+  Mathematics) resources and grey literature. Curated collection of STEM
+  resources.
+source_url: https://github.com/aksh/aksh
+category: Meta Awesome Directories
+tags:
+  - awesome-lists
+  - stem
+  - bibliography
+featured: false
+markdown: |-
+  ## Overview
+
+  Bibliography of STEM resources and grey literature.
+
+  ## Features
+
+  - STEM resources
+  - Grey literature
+
+  ## Pricing
+
+  Free and open-source.
+updated_at: 2026-04-27 11:31

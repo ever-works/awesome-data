@@ -1,0 +1,12 @@
+name: Awesome SQL Playground
+description: A curated list of the best SQL playgrounds and online SQL compilers
+  for practicing and testing SQL queries directly in your browser.
+source_url: https://github.com/marcsauter/awesome-sql-playground
+category: Data Engineering
+tags:
+  - awesome-lists
+  - sql
+  - playground
+  - databases
+featured: false
+updated_at: 2026-04-27 11:31

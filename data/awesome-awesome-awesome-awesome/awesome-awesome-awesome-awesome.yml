@@ -1,46 +1,51 @@
 name: awesome-awesome-awesome-awesome
-description: Multi-level meta-list curating lists of awesome lists by Sindre
-  Sorhus. Focuses on awesome lists about awesome topics; highly meta, useful for
-  discovering directories of directories. Ideal for meta-research on the awesome
-  ecosystem and compares to jnv/lists as more GitHub-focused.
+description: "Multi-level inception meta-list curating awesome lists that curate
+  other awesome lists, by Sindre Sorhus. Purpose: explores directories of
+  directories within the awesome ecosystem. Key features: nested high-quality
+  links; use cases: meta-research, discovering meta-hubs; more focused
+  GitHub-centric than broader list-of-lists."
 source_url: https://github.com/sindresorhus/awesome-awesome-awesome-awesome
-category: Meta Awesome Directories
+category: Canonical Awesome Hubs
 tags:
-  - awesome-lists
+  - meta-index
+  - inception-level
   - multi-meta
   - sindresorhus
+  - curated
+  - open-source
 featured: true
-markdown: >-
+markdown: |-
   ## Overview
 
+  Curated multi-level meta-list of awesome lists about awesome lists.
 
-  awesome-awesome-awesome-awesome is a curated, multi-level meta-list
-  aggregating awesome lists that themselves curate other awesome lists, created
-  by Sindre Sorhus.
+  ## Purpose/Function
 
+  Highly meta aggregation for inception exploration.
 
-  ## Features
+  ## Key Features
 
-
-  - Nested curation of high-quality meta-lists
-
-  - Direct links to README files for easy navigation
-
+  - Nested curation
+  - Direct README links
+  - Focus on quality metas
 
   ## Use Cases
 
+  - Discovering meta-directories
+  - Awesome ecosystem research
 
-  - Discovering directories of directories
+  ## Comparisons
 
-  - Meta-research on the GitHub awesome ecosystem
-
+  | Feature | AAAA | jnv/lists |
+  |---------|------|-----------|
+  | Focus | Awesome-only | All lists |
+  | Depth | Multi-level | Broad |
 
   ## Pricing
 
-
-  Free and open-source.
+  Free, open-source.
 brand: Sindre Sorhus
 brand_logo_url: https://raw.githubusercontent.com/sindresorhus/awesome-awesome-awesome-awesome/master/media/icon.png
 images:
-  - https://opengraph.githubassets.com/1/sindresorhus/awesome-awesome-awesome-awesome
-updated_at: 2026-04-24 00:06
+  - https://raw.githubusercontent.com/sindresorhus/awesome-awesome-awesome-awesome/master/media/icon.png
+updated_at: 2026-04-27 11:31

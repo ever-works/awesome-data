@@ -1,116 +1,70 @@
 name: Lists - The Definitive List of Lists
-description: Comprehensive index serving as the ultimate aggregator of curated
-  lists from GitHub and other platforms, encompassing awesome lists across
-  programming, data science, design, and more. Key features include
-  categorization by topic and list type, with emphasis on star-ranked and
-  community-maintained collections for quality assurance. Use cases range from
-  discovering specialized topic curations to assembling broad resource
-  libraries; offers superior breadth compared to single-topic awesome lists.
+description: "Definitive meta-index aggregating curated lists from GitHub and
+  other platforms, including awesome lists across programming, data science,
+  design, and more. Purpose: serves as ultimate directory of directories with
+  categorization by topic and type for quality-assured discovery. Key features:
+  star-ranked collections, community-maintained; use cases: specialized
+  curations, broad libraries; broader and more structured than single-topic
+  awesome lists."
 source_url: https://github.com/jnv/lists
-category: Meta Awesome Directories
+category: Canonical Awesome Hubs
 tags:
-  - meta
-  - lists
-  - curation
-featured: false
+  - meta-index
+  - list-of-lists
+  - curated-lists
+  - open-source
+  - categorized
+featured: true
 markdown: >-
   ## Overview
 
 
-  Lists by jnv is the definitive meta-collection of lists curated on GitHub and
-  other platforms, serving as a directory of directories.
+  Definitive meta-collection of lists curated on GitHub and other platforms.
 
 
-  ## What's Included
+  ## Purpose/Function
 
 
-  - **Awesome Lists** - The awesome-* ecosystem on GitHub
-
-  - **Curated Lists** - Hand-picked resource collections
-
-  - **Learning Lists** - Educational resource compilations
-
-  - **Tool Lists** - Software and service directories
-
-  - **Community Lists** - Community-maintained collections
-
-
-  ## Categories Covered
-
-
-  - Programming and development
-
-  - Data science and machine learning
-
-  - DevOps and infrastructure
-
-  - Design and creativity
-
-  - Business and productivity
-
-  - Science and education
-
-  - Entertainment and media
-
-
-  ## List Types
-
-
-  - **GitHub-based** - Markdown lists in repositories
-
-  - **Web-based** - Dedicated websites and platforms
-
-  - **Wiki-style** - Collaborative knowledge bases
-
-  - **Aggregators** - Tools that collect multiple lists
-
-
-  ## Meta Organization
-
-
-  - Lists of awesome lists
-
-  - Lists of curated lists
-
-  - Lists of learning resources
-
-  - Lists of tools and services
-
-  - Lists of communities
-
-
-  ## Use Cases
-
-
-  - Finding specific resource lists
-
-  - Discovering new curated collections
-
-  - Research and knowledge gathering
-
-  - Building comprehensive resource libraries
-
-  - Meta-curation and organization
+  Ultimate aggregator of awesome lists, learning resources, tools, and
+  communities.
 
 
   ## Key Features
 
 
-  - Comprehensive coverage
+  - Categorization by topic and list type
 
-  - Regular updates
+  - Star-ranked and community-maintained
 
-  - Community contributions
+  - Covers programming, data science, DevOps, design, etc.
 
-  - Multi-platform aggregation
 
-  - Quality focus
+  ## Use Cases
+
+
+  - Discovering specialized topic lists
+
+  - Research and knowledge gathering
+
+  - Building resource libraries
+
+
+  ## Comparisons
+
+
+  | Feature | jnv/lists | Single Awesome List |
+
+  |---------|-----------|---------------------|
+
+  | Scope | All lists | One topic |
+
+  | Structure | Categorized | Linear |
 
 
   ## Pricing
 
 
-  Free and open-source meta-list.
+  Free and open-source.
 brand: jnv
 brand_logo_url: https://github.com/jnv.png
-updated_at: 2026-04-23 20:49
+updated_at: 2026-04-27 11:31

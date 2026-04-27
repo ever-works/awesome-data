@@ -4,7 +4,7 @@ description: Dynamic aggregator of hundreds of GitHub Awesome lists with
   notifications for monitoring changes. Perfect for maintaining lists through
   trend discovery and automated updates versus manual curation.
 source_url: https://awesome.ecosyste.ms/
-category: Awesome List Maintenance Tools
+category: Dynamic Awesome Trackers
 tags:
   - list-tool
   - aggregator
@@ -36,4 +36,4 @@ markdown: |-
 brand_logo_url: https://raw.githubusercontent.com/ecosyste.ms/awesome/main/media/logo.png
 images:
   - https://raw.githubusercontent.com/ecosyste.ms/awesome/main/media/logo.png
-updated_at: 2026-04-24 03:01
+updated_at: 2026-04-27 11:31

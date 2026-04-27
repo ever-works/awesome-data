@@ -5,7 +5,7 @@ description: Awesome Lists IO indexes high-quality GitHub awesome lists with
   reliable discovery of professional directories; more vetted than uncurated
   GitHub topics.
 source_url: https://github.com/awesomelistsio
-category: Meta Awesome Directories
+category: Awesome List Aggregators
 tags:
   - meta-list
   - curated-index
@@ -51,4 +51,4 @@ markdown: >-
 images:
   - https://raw.githubusercontent.com/awesomelistsio/awesome/main/media/logo.png
   - https://github.com/awesomelistsio/awesome/raw/main/media/logo.png
-updated_at: 2026-04-26 12:14
+updated_at: 2026-04-27 11:31

@@ -4,7 +4,7 @@ description: Track Awesome List monitors daily updates to GitHub awesome lists,
   history charts, and search. Use for staying current on curated resources;
   alternative to manual checks unlike static directories.
 source_url: https://www.trackawesomelist.com/
-category: Awesome Aggregators & Trackers
+category: Dynamic Awesome Trackers
 tags:
   - canonical-meta
   - highly-starred
@@ -50,4 +50,4 @@ images:
   - https://www.trackawesomelist.com/assets/images/og.png
   - https://github.com/trackawesomelist/trackawesomelist/raw/master/media/banner.png
   - https://www.trackawesomelist.com/assets/dashboard-screenshot.png
-updated_at: 2026-04-25 11:52
+updated_at: 2026-04-27 11:31
