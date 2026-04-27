@@ -236,3 +236,7 @@
   name: Directory Building & Promotion Tools
 - id: awesome-list-aggregators-indexes
   name: Awesome List Aggregators & Indexes
+- id: inception-meta-collections
+  name: Inception Meta Collections
+- id: dynamic-awesome-trackers
+  name: Dynamic Awesome Trackers

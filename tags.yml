@@ -2852,3 +2852,17 @@
   name: Wagmi
 - id: wails
   name: Wails
+- id: stem
+  name: Stem
+- id: bibliography
+  name: Bibliography
+- id: reading-list
+  name: Reading List
+- id: animal-care
+  name: Animal Care
+- id: parser
+  name: Parser
+- id: playground
+  name: Playground
+- id: band-names
+  name: Band Names
