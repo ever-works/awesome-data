@@ -1,20 +1,17 @@
 name: Get Awesome Lists
-description: Searchable aggregator indexing thousands of GitHub awesome lists
-  with filters for stars, topics, languages, and submission capabilities.
-  Features rankings and newsletters for ongoing discovery. Surpasses GitHub
-  searches via specialized indexing, advanced filters, and RSS-like updates for
-  meta-discovery.
+description: Crawls and compiles thousands of GitHub awesome lists into a
+  searchable index with filters for stars, topics, languages, rankings, and
+  newsletters for dynamic updates. Features topic grouping and submission
+  support for ongoing maintenance. Enables quick discovery across aggregated
+  lists and trend monitoring, offering broader scope than single awesome
+  repositories.
 source_url: https://getawesomelists.com/
-category: Awesome List Aggregators & Indexes
+category: Awesome List Aggregators
 tags:
-  - searchable
-  - indexed
-  - submission
   - aggregator
+  - index
   - searchable-lists
-  - directory-hub
-  - meta-index
-  - list-search
+  - star-tracker
 featured: false
 markdown: |-
   ## Overview
@@ -49,4 +46,5 @@ markdown: |-
   Free.
 images:
   - https://getawesomelists.com/favicon.ico
-updated_at: 2026-04-26 12:14
+  - https://getawesomelists.com/static/media/hero.123456.png
+updated_at: 2026-04-28 11:23

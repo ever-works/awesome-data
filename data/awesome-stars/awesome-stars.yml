@@ -1,16 +1,15 @@
 name: awesome-stars
-description: "awesome-stars dynamically tracks and generates a curated list of
-  starred GitHub repositories organized by programming languages. Key features:
-  auto-updates from stars, language-based categorization, star history tracking.
-  Use cases: maintain personal dynamic collections, discover popular repos;
-  real-time vs manual static lists."
+description: Aggregates starred GitHub repositories into dynamically generated
+  awesome-style lists grouped by programming languages, with auto-updates and
+  star history. Features language-based categorization and real-time tracking
+  for searchable indexes. Useful for quick discovery of popular repos across
+  personal stars, unlike static single-topic awesome lists.
 source_url: https://github.com/luphord/awesome-stars
-category: Awesome Aggregators & Trackers
+category: Awesome List Aggregators
 tags:
-  - dynamic
-  - star-history
-  - notifications
-  - meta-aggregator
+  - aggregator
+  - index
+  - searchable-lists
 markdown: >-
   ## Overview
 
@@ -43,4 +42,4 @@ markdown: >-
 
 
   Free and open-source.
-updated_at: 2026-04-24 08:51
+updated_at: 2026-04-28 11:23

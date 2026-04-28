@@ -1,18 +1,16 @@
 name: mthcht/awesome-lists
-description: Meta aggregator collecting themed GitHub awesome lists for easy
-  navigation by topic. Features direct links to specialized collections.
-  Supports meta-discovery as a gateway to resources, better than scattered
-  GitHub searches with its grouped indexing.
+description: Aggregates and groups multiple themed GitHub awesome lists into a
+  meta-index for topic-based navigation and discovery. Features direct links and
+  dynamic grouping for searchable access. Serves as a gateway for exploring
+  resources across lists, providing organized aggregation beyond single awesome
+  repositories.
 source_url: https://github.com/mthcht/awesome-lists
-category: Awesome List Aggregators & Indexes
+category: Awesome List Aggregators
 tags:
-  - open-source
-  - github
-  - awesome-lists
-  - curated-lists
   - aggregator
-  - meta-index
-  - list-search
+  - index
+  - searchable-lists
+  - open-source
 featured: false
 markdown: |-
   ## Overview
@@ -43,4 +41,4 @@ markdown: |-
   ## Pricing
 
   Free.
-updated_at: 2026-04-26 12:14
+updated_at: 2026-04-28 11:23

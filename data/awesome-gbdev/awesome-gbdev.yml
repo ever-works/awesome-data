@@ -1,0 +1,23 @@
+name: Awesome Gbdev
+description: Curated list of Game Boy development resources such as tools, docs,
+  emulators, related projects and open-source ROMs. (⭐ 4.4K, 📝 02/08)
+source_url: https://github.com/gbdev/awesome-gbdev
+category: Game Development
+tags:
+  - gameboy
+  - emulators
+  - retro
+featured: false
+markdown: |-
+  ## Overview
+
+  Curated list of Game Boy development resources. (⭐ 4.4K, 📝 02/08)
+
+  ## Features
+
+  - Tools, docs, emulators, projects, ROMs
+
+  ## Pricing
+
+  Free and open-source.
+updated_at: 2026-04-28 11:23

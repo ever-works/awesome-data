@@ -1,12 +1,44 @@
 name: Awesome Game Development
-description: A comprehensive list of game development resources including
-  engines, tools, tutorials, assets, and learning materials for making magic
-  happen in game creation.
+description: "Curated collection of game development themed awesome lists,
+  tools, engines, and tutorials. Features topic-specific curation for game
+  engines, assets, and techniques. Use cases: deep dive into game dev niches
+  like shaders and multiplayer; more focused than broad development
+  directories."
 source_url: https://github.com/skywind3000/awesome-gamedev
-category: Game Development
+category: Themed Awesome Directories
 tags:
   - gamedev
   - game-engines
   - gaming
+  - themed
+  - niche-curation
 featured: false
-updated_at: 2026-03-10 12:01
+markdown: |-
+  ## Overview
+
+  Comprehensive list of game development resources.
+
+  ## Theme Focus
+
+  Game engines, tools, tutorials, assets.
+
+  ## Features
+
+  - Curated links to engines and libraries
+  - Tutorials and learning materials
+
+  ## Use Cases
+
+  - Game creation from scratch
+  - Resource discovery for specific engines
+
+  ## Comparisons
+
+  Vs broad dev lists: game-specific depth.
+
+  ## Pricing
+
+  Free.
+images:
+  - https://raw.githubusercontent.com/skywind3000/awesome-gamedev/master/media/screenshot.png
+updated_at: 2026-04-28 11:23

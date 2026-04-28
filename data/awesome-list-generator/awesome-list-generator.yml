@@ -1,0 +1,34 @@
+name: Awesome List Generator
+description: Python-based tool leveraging GPT models to generate foundational
+  structures for awesome lists on various topics. Human curation refines these
+  into high-quality resources for projects, learning, and creativity.
+source_url: https://github.com/Curated-Awesome-Lists
+category: Directory Building Tools
+tags:
+  - open-source
+  - python
+  - gpt
+  - awesome-lists
+featured: true
+markdown: >-
+  ## Overview
+
+
+  A Python tool that uses GPT models to create initial awesome list structures.
+  Human experts then curate them for quality.
+
+
+  ## Features
+
+
+  - GPT-powered generation of awesome list foundations
+
+  - Steps for initialization in the main repository
+
+
+  ## Pricing
+
+
+  Free and open-source.
+brand: Curated Awesome List Organization
+updated_at: 2026-04-28 11:23

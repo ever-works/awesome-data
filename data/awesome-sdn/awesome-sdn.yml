@@ -1,0 +1,18 @@
+name: Awesome Sdn
+description: A curated list of resources about Software Defined Network (SDN).
+source_url: https://github.com/sdnds-tw/awesome-sdn
+category: Meta Awesome Directories
+tags:
+  - open-source
+  - curated-lists
+  - networking
+featured: false
+markdown: |-
+  ## Overview
+
+  A awesome list about Software Defined Network (SDN).
+
+  ## Features
+
+  - Curated collection of SDN libraries, tools, and resources.
+updated_at: 2026-04-28 11:23

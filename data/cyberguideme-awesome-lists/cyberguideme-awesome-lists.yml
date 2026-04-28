@@ -5,7 +5,7 @@ description: Curated meta-collection of awesome lists focused on cybersecurity,
   malware analysis, OSINT, honeypots, YARA rules, blue team resources, and
   serverless security.
 source_url: https://github.com/cyberguideme/Awesome-Lists
-category: meta-directories
+category: Meta Awesome Directories
 tags:
   - security
   - pentesting
@@ -93,4 +93,4 @@ markdown: >-
 
 
   Free (open-source, GPL-3.0 license).
-updated_at: 2026-04-25 11:52
+updated_at: 2026-04-28 11:23

@@ -1,12 +1,11 @@
 name: Awesome
-description: "Canonical hub aggregating thousands of topic-specific awesome
-  lists on GitHub, maintained by Sindre Sorhus. Purpose: central gateway for
-  discovering high-quality open-source resources via curated meta-directory. Key
-  features: markdown rendering, search, strict inclusion; use cases: broad
-  exploration, starting point for devs; most starred and comprehensive
-  meta-hub."
+description: Canonical hub aggregating themed awesome directories focused on
+  diverse software topics like programming, DevOps, and design. Features strict,
+  topic-specific curation of high-quality lists for reliable discovery. Use
+  cases include deep dives into niches versus broad meta lists; serves as
+  starting point for specialized resource exploration.
 source_url: https://github.com/sindresorhus/awesome
-category: Canonical Awesome Hubs
+category: Themed Awesome Directories
 tags:
   - meta-index
   - curated
@@ -14,6 +13,8 @@ tags:
   - github
   - awesome-lists
   - sindresorhus
+  - themed
+  - niche-curation
 featured: true
 markdown: |-
   ## Overview
@@ -51,4 +52,4 @@ brand: sindresorhus
 brand_logo_url: https://raw.githubusercontent.com/sindresorhus/awesome/master/media/logo.png
 images:
   - https://raw.githubusercontent.com/sindresorhus/awesome/master/media/logo.svg
-updated_at: 2026-04-27 11:31
+updated_at: 2026-04-28 11:23

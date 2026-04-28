@@ -5,7 +5,7 @@ description: "OpenDroneList is the canonical directory of open source drone
   cases: discover drone ecosystem resources quickly; compared to single drone
   repos, it's a meta-hub for all open drones."
 source_url: https://github.com/dronetag/opendronelist
-category: meta-directories
+category: Meta Awesome Directories
 tags:
   - canonical-meta
   - aggregated-lists
@@ -14,4 +14,4 @@ featured: false
 brand_logo_url: https://raw.githubusercontent.com/dronetag/opendronelist/master/media/logo.png
 images:
   - https://github.com/dronetag/opendronelist/blob/main/screenshot.png
-updated_at: 2026-04-24 08:51
+updated_at: 2026-04-28 11:23

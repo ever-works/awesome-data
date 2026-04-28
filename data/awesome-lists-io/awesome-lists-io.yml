@@ -1,15 +1,15 @@
 name: Awesome Lists IO
-description: Awesome Lists IO indexes high-quality GitHub awesome lists with
-  topic categorization, search, star rankings updated to 2026, and strict
-  quality control. Features consistent formatting and dead link checks. Use for
-  reliable discovery of professional directories; more vetted than uncurated
-  GitHub topics.
+description: Compiles multiple high-quality GitHub awesome lists into a
+  searchable index with topic grouping and dynamic star rankings updated to
+  2026. Features consistent formatting, dead link detection, and active
+  maintenance for reliable access. Facilitates quick discovery across aggregated
+  lists versus the limited scope of single awesome repositories.
 source_url: https://github.com/awesomelistsio
 category: Awesome List Aggregators
 tags:
-  - meta-list
-  - curated-index
-  - quality-vetted
+  - aggregator
+  - index
+  - searchable-lists
 featured: true
 markdown: >-
   ## Overview
@@ -51,4 +51,4 @@ markdown: >-
 images:
   - https://raw.githubusercontent.com/awesomelistsio/awesome/main/media/logo.png
   - https://github.com/awesomelistsio/awesome/raw/main/media/logo.png
-updated_at: 2026-04-27 11:31
+updated_at: 2026-04-28 11:23

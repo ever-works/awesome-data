@@ -1,13 +1,17 @@
 name: List Of Awesome Lists
-description: List Of Awesome Lists is a meta collection that scans and indexes a
-  large number of awesome list repositories (130 under scanner), serving as an
-  aggregated directory of awesome lists.
+description: In the awesome ecosystem, List Of Awesome Lists serves as an
+  inception-level index scanning and aggregating over 130 awesome lists into a
+  unified meta-directory. Features automated scanning for updates, centralized
+  discovery, and repository-based navigation. Use cases include
+  directory-of-directories for discovering diverse awesome collections;
+  contrasts with sindresorhus/awesome by providing multi-list aggregation rather
+  than a single topic-based curation.
 source_url: https://github.com
 category: Meta Awesome Directories
 tags:
-  - meta-directory
-  - awesome-lists
-  - project-discovery
+  - inception-meta
+  - directory-of-directories
+  - meta-index
 featured: false
 markdown: >-
   ## List Of Awesome Lists
@@ -21,7 +25,7 @@ markdown: >-
   ### Overview
 
   List Of Awesome Lists is a meta-collection that scans and indexes a large
-  number of "awesome" list repositories (around 130 under active scanning). It
+  number of \"awesome\" list repositories (around 130 under active scanning). It
   serves as an aggregated directory to help users discover and navigate across
   many different awesome lists from a single place.
 
@@ -51,4 +55,6 @@ markdown: >-
 
   - **Code & project page:** https://github.com
 brand_logo_url: null
-updated_at: 2026-04-24 00:06
+images:
+  - https://github.com/topics/awesome.png
+updated_at: 2026-04-28 11:23

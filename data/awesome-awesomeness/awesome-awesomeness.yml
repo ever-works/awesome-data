@@ -1,14 +1,17 @@
 name: Awesome Awesomeness
-description: "Curated list of awesome awesomeness, linking to top awesome lists
-  across categories. Focuses on highest-quality, starred repos; includes
-  submission guidelines. Use cases: starter hub for new topics; differentiates
-  by quality curation over quantity."
+description: Curates and compiles multiple GitHub awesome lists across various
+  categories, aggregating high-starred and quality repositories into
+  topic-grouped indexes. Features searchable navigation via categories,
+  submission guidelines, and ongoing maintenance. Enables quick discovery of
+  curated resources across lists, unlike single awesome repositories which offer
+  narrower scope.
 source_url: https://github.com/bayandin/awesome-awesomeness
 category: Awesome List Aggregators
 tags:
-  - curated-lists
-  - meta-directory
-  - awesome-lists
+  - aggregator
+  - index
+  - searchable-lists
+  - star-tracker
 markdown: >-
   ## Overview
 
@@ -40,4 +43,4 @@ markdown: >-
 brand_logo_url: https://avatars.githubusercontent.com/u/5722810?s=48&v=4
 images:
   - https://github.com/bayandin/awesome-awesomeness/raw/master/media/banner.jpg
-updated_at: 2026-04-25 11:52
+updated_at: 2026-04-28 11:23

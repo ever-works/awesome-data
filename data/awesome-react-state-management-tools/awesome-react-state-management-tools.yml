@@ -1,0 +1,22 @@
+name: awesome-react-state-management-tools
+description: Curated resources for React state management tools.
+source_url: https://github.com/enaqx/awesome-react-state-management-tools
+category: Themed Directories
+tags:
+  - awesome-lists
+  - react
+  - tools
+featured: false
+markdown: |-
+  ## Overview
+
+  List of tools for managing state in React applications.
+
+  ## Features
+
+  - Tools and libraries for React state handling.
+
+  ## Pricing
+
+  Open-source.
+updated_at: 2026-04-28 11:23

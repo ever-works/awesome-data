@@ -2,14 +2,12 @@ name: Meta Awesome - Formulars
 description: A meta-awesome category (variant naming of Forms) that indexes
   awesome lists on form handling and related utilities.
 source_url: https://github.com/ever-works/awesome
-featured: false
-brand_logo_url: null
-images: []
-category: meta-directories
+category: Meta Awesome Directories
 tags:
   - meta-directory
   - web-development
   - awesome-lists
+featured: false
 markdown: >-
   # Meta Awesome – Formulars
 
@@ -60,4 +58,6 @@ markdown: >-
 
   - Not applicable. This is a free, open GitHub meta-directory of links to
   awesome lists.
-updated_at: 2025-12-25 11:11
+brand_logo_url: null
+images: []
+updated_at: 2026-04-28 11:23

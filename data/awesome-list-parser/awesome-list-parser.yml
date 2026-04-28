@@ -1,15 +1,16 @@
 name: Awesome List Parser
-description: Apify actor that parses any GitHub awesome list into structured
-  JSON. It extracts categories, entries with names, URLs, and descriptions from
-  README markdown. Optionally enriches GitHub-hosted entries with live metadata
-  like stars, forks, last push, language, license, and archived status for
-  ranking and auditing.
+description: Parses GitHub awesome lists from README markdown into structured
+  JSON, extracting categories, entries with names, URLs, and descriptions. Key
+  features include optional live GitHub metadata enrichment (stars, forks,
+  language, archived status) for dynamic tracking and auditing. Use cases
+  include automating list maintenance, stale repo detection, and feeding
+  meta-aggregators; far more efficient than manual curation.
 source_url: https://apify.com/heliotrope_partridge/awesome-list-parser
 category: awesome-list-tools
 tags:
-  - awesome-lists
   - parser
-  - github
+  - star-tracker
+  - list-maintenance
 featured: false
 markdown: >-
   ## Overview
@@ -99,4 +100,4 @@ markdown: >-
 
   Apache-2.0
 brand: Apify
-updated_at: 2026-04-27 11:31
+updated_at: 2026-04-28 11:23

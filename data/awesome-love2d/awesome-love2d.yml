@@ -1,0 +1,23 @@
+name: Awesome Love2d
+description: Curated list of amazingly awesome LÖVE libraries, resources and
+  shiny things. (⭐ 4.3K, 📝 04/07)
+source_url: https://github.com/love2d-community/awesome-love2d
+category: Game Development
+tags:
+  - love2d
+  - lua
+  - game-framework
+featured: false
+markdown: |-
+  ## Overview
+
+  Awesome LÖVE resources. (⭐ 4.3K, 📝 04/07)
+
+  ## Features
+
+  - Libraries, resources
+
+  ## Pricing
+
+  Free and open-source.
+updated_at: 2026-04-28 11:23
