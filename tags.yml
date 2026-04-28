@@ -2866,3 +2866,25 @@
   name: Playground
 - id: band-names
   name: Band Names
+- id: index
+  name: Index
+- id: themed
+  name: Themed
+- id: niche-curation
+  name: Niche Curation
+- id: gameboy
+  name: Gameboy
+- id: emulators
+  name: Emulators
+- id: ironsworn
+  name: Ironsworn
+- id: list-maintenance
+  name: List Maintenance
+- id: dynamic-updates
+  name: Dynamic Updates
+- id: love2d
+  name: Love2d
+- id: lua
+  name: Lua
+- id: game-framework
+  name: Game Framework
