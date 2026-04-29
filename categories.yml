@@ -242,3 +242,7 @@
   name: Dynamic Awesome Trackers
 - id: themed-awesome-directories
   name: Themed Awesome Directories
+- id: awesome-list-validators-linters
+  name: Awesome List Validators & Linters
+- id: star-ranked-awesome-indexes
+  name: Star Ranked Awesome Indexes
