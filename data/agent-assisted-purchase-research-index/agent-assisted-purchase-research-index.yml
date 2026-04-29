@@ -1,0 +1,32 @@
+name: Agent Assisted Purchase Research Index
+description: Templates, agent skills, and demos for the pattern of using AI
+  agents to drive consumer purchase research — spec-first, then product
+  matching, then availability checks. A curated collection of resources for
+  AI-driven consumer research.
+source_url: https://github.com/danielrosehill/Agent-Assisted-Purchase-Research-Index
+category: meta-directories
+tags:
+  - ai-agents
+  - awesome-lists
+  - curated-lists
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Templates, agent skills, and demos for AI agents in consumer purchase
+  research, focusing on spec-first approach, product matching, and availability
+  checks.
+
+
+  ## Use Cases
+
+
+  - Consumer purchase research with AI agents.
+
+
+  ## Pricing
+
+
+  Free and open-source.
+updated_at: 2026-04-29 11:36

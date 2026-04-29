@@ -1,53 +1,77 @@
 name: Track Awesome List
-description: Monitors daily updates and GitHub stars across 500+ Awesome lists,
-  providing notifications via RSS/email, star history charts, search, and
-  trending sections. Key features include real-time tracking, per-list feeds,
-  timeline views, and sortable archives. Essential for list curators, project
-  discovery, and staying current without manual checks, outperforming static
-  lists like sindresorhus/awesome.
+description: "Dynamic tracker for 500+ Awesome lists, monitors daily updates,
+  stars, with RSS/email alerts, search, trends. Features star history charts,
+  per-list feeds, sortable timelines. Outperforms static hubs like
+  sindresorhus/awesome for freshness and notifications; use cases: curator
+  maintenance, trend spotting, project discovery."
 source_url: https://www.trackawesomelist.com/
-category: Awesome List Tools & Trackers
+category: General Directories
 tags:
-  - list-maintenance
   - star-tracker
   - dynamic-updates
+  - list-maintenance
 featured: true
-markdown: |-
+markdown: >-
   ## Overview
 
-  Real-time tracker for awesome list changes across GitHub.
+
+  Web-based dashboard tracking Awesome list changes in real-time.
+
+
+  ![Track Awesome List
+  Screenshot](https://www.trackawesomelist.com/assets/dashboard-screenshot.png)
+
 
   ## Features
 
-  - Daily scans of 500+ lists
-  - RSS/email notifications
-  - Searchable update archive
-  - Trending and popular additions
-  - Timeline views
-  - Per-list feeds
+
+  - Daily GitHub scans of 500+ lists
+
+  - RSS/email notifications for updates
+
+  - Searchable archive of additions
+
+  - Trending/popular sections
+
+  - Star history charts
+
+  - Per-list RSS feeds
+
+  - Timeline and sortable views
+
 
   ## Use Cases
 
-  - Receive alerts on new tools/resources for list maintenance
-  - Track trends in specific topics
-  - Maintain awareness without manual checks
+
+  - Alert curators to new resources
+
+  - Spot emerging trends
+
+  - Discover fresh projects without manual checks
+
 
   ## Comparisons
 
-  | Aspect | Track Awesome List | Manual Curation |
-  |--------|--------------------|-----------------|
-  | Freshness | Daily updates | Sporadic |
-  | Alerts   | RSS/Email | None |
-  | History  | Full archive| None |
+
+  | Aspect       | Track Awesome List | Static Lists (e.g. Awesome) |
+
+  |--------------|--------------------|-----------------------------|
+
+  | Freshness    | Daily              | Manual updates              |
+
+  | Notifications| RSS/Email          | None                        |
+
+  | Trends      | Yes                | No                          |
+
+  | History     | Full archive       | Limited                     |
+
 
   ## Pricing
 
-  Free with premium options.
+
+  Free, with premium features.
 brand_logo_url: https://www.trackawesomelist.com/favicon.ico
 images:
   - https://www.trackawesomelist.com/assets/og-image.png
-  - https://www.trackawesomelist.com/assets/images/og.png
-  - https://github.com/trackawesomelist/trackawesomelist/raw/master/media/banner.png
   - https://www.trackawesomelist.com/assets/dashboard-screenshot.png
-  - https://raw.githubusercontent.com/trackawesomelist/trackawesomelist/master/media/banner.png
-updated_at: 2026-04-28 11:23
+updated_at: 2026-04-29 11:36

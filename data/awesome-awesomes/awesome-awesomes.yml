@@ -1,20 +1,15 @@
 name: Awesome Awesomeness
-description: "Dynamic aggregator of themed awesome directories, indexed by
-  inception level, topic, stars, and depth. Features automated topic-specific
-  curation and filtering for comprehensive awesome ecosystem coverage. Use
-  cases: niche trend tracking and discovery; excels over broad meta lists with
-  full automation, updates, and completeness."
+description: Aggregates themed Awesome lists from GitHub, indexed by inception
+  level, topic, stars with automated curation. Use for finding niche topics fast
+  across dynamic lists; more complete and automated than static GitHub repos
+  like sindresorhus/awesome.
+  ![screenshot](https://raw.githubusercontent.com/athityakumar/awesome-awesomes/master/media/logo.png)
 source_url: https://github.com/athityakumar/awesome-awesomes
-category: Themed Awesome Directories
+category: Awesome List Aggregators
 tags:
-  - auto-generated
-  - meta-index
-  - dynamic
-  - inception-level
-  - list-search
-  - open-source
-  - themed
-  - niche-curation
+  - list-aggregator
+  - star-sorted
+  - searchable
 featured: true
 markdown: >-
   ## Overview
@@ -73,4 +68,4 @@ markdown: >-
 brand_logo_url: https://raw.githubusercontent.com/athityakumar/awesome-awesomes/master/media/logo.png
 images:
   - https://raw.githubusercontent.com/athityakumar/awesome-awesomes/master/media/logo.png
-updated_at: 2026-04-28 11:23
+updated_at: 2026-04-29 11:36

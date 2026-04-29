@@ -5,7 +5,7 @@ description: Compiles multiple top lists-of-lists including GitHub awesome lists
   Provides quick access for resource discovery across verified meta-lists,
   superior to single awesome repos in curation depth.
 source_url: https://listknow.com/
-category: Awesome List Aggregators
+category: Awesome List Trackers
 tags:
   - aggregator
   - index
@@ -42,4 +42,4 @@ markdown: |-
   Free.
 images:
   - https://listknow.com/favicon.ico
-updated_at: 2026-04-28 11:23
+updated_at: 2026-04-29 11:36

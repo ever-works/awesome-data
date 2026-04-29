@@ -5,11 +5,13 @@ description: Aggregates starred GitHub repositories into dynamically generated
   for searchable indexes. Useful for quick discovery of popular repos across
   personal stars, unlike static single-topic awesome lists.
 source_url: https://github.com/luphord/awesome-stars
-category: Awesome List Aggregators
+category: Star-Ranked Awesome Indexes
 tags:
   - aggregator
   - index
   - searchable-lists
+  - ranked-lists
+  - community-curated
 markdown: >-
   ## Overview
 
@@ -42,4 +44,4 @@ markdown: >-
 
 
   Free and open-source.
-updated_at: 2026-04-28 11:23
+updated_at: 2026-04-29 11:36

@@ -4,11 +4,13 @@ description: Aggregator ranking Awesome lists by stars, forks, activity, and
   and category browsing. Enables list maintenance by identifying top/performing
   lists quickly versus manual evaluation.
 source_url: https://awesomerank.github.io/
-category: Awesome List Maintenance Tools
+category: Star-Ranked Awesome Indexes
 tags:
   - list-tool
   - aggregator
   - tracker
+  - ranked-lists
+  - community-curated
 markdown: |-
   ## Overview
 
@@ -33,4 +35,4 @@ markdown: |-
   ## Pricing
   Free.
 brand_logo_url: https://raw.githubusercontent.com/sindresorhus/awesome/master/media/logo.svg
-updated_at: 2026-04-24 03:01
+updated_at: 2026-04-29 11:36

@@ -1,0 +1,22 @@
+name: awesome-portfolios
+description: Curated list of awesome creative portfolios, serving as inspiration
+  and resources for developers and designers building personal portfolio sites.
+source_url: https://github.com/sadcitizen/awesome-portfolios
+category: themed-directories
+tags:
+  - portfolios
+  - web-development
+  - inspiration
+featured: false
+markdown: |-
+  ## Overview
+
+  A collection of creative portfolio websites and templates.
+
+  ## Features
+
+  - Examples of personal sites
+  - Templates and starters
+
+  Free and open-source.
+updated_at: 2026-04-29 11:36

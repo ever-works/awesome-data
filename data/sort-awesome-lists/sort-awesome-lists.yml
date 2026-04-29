@@ -5,7 +5,7 @@ description: CLI tool that sorts awesome lists by GitHub repository stars within
   modified sorted version. Supports indirect GitHub links by parsing linked
   webpages, though limited by JavaScript-rendered sites.
 source_url: https://github.com/kvnxiao/sort-awesome-lists
-category: awesome-list-tools
+category: Dynamic Awesome Generators
 tags:
   - cli
   - golang
@@ -66,4 +66,4 @@ markdown: >-
 
 
   Free and open-source.
-updated_at: 2026-04-28 11:23
+updated_at: 2026-04-29 11:36

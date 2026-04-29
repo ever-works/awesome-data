@@ -1,49 +1,43 @@
 name: Awesome
-description: Canonical hub aggregating themed awesome directories focused on
-  diverse software topics like programming, DevOps, and design. Features strict,
-  topic-specific curation of high-quality lists for reliable discovery. Use
-  cases include deep dives into niches versus broad meta lists; serves as
-  starting point for specialized resource exploration.
+description: Pioneering canonical meta-Awesome, links 1000+ themed lists across
+  software topics. Community-maintained on GitHub, searchable via code search
+  and topics. Beats aggregators in curation depth and quality; ideal for niche
+  discovery, learning paths, and project inspiration over dynamic trackers.
 source_url: https://github.com/sindresorhus/awesome
-category: Themed Awesome Directories
+category: General Directories
 tags:
-  - meta-index
-  - curated
-  - open-source
-  - github
-  - awesome-lists
-  - sindresorhus
-  - themed
-  - niche-curation
+  - canonical-meta
+  - highly-starred
+  - curated-lists
 featured: true
 markdown: |-
   ## Overview
 
-  Meta-directory curating hundreds of awesome lists across domains.
+  Canonical meta-directory curating hundreds of high-quality Awesome lists.
 
-  ## Purpose/Function
+  ![Awesome Screenshot](https://raw.githubusercontent.com/sindresorhus/awesome/master/media/logo.svg)
 
-  Central hub for open-source discovery.
+  ## Features
 
-  ## Key Features
-
-  - Extensive categorization
-  - Community contributions
-  - Strict quality guidelines
-  - Active maintenance
+  - Extensive topic categorization (programming, DevOps, design, etc.)
+  - Strict contribution guidelines for quality
+  - Community-driven maintenance
+  - GitHub-powered searchability
 
   ## Use Cases
 
-  - Topic-specific resource hunting
-  - Learning pathways
-  - Project inspiration
+  - Starting point for niche resource exploration
+  - Curated learning and inspiration
+  - Discovering specialized tools
 
   ## Comparisons
 
-  | Feature | Awesome | Other Metas |
-  |---------|---------|-------------|
-  | Stars | 300k+ | Lower |
-  | Breadth | Thousands | Fewer |
+  | Feature          | Awesome              | Aggregators/Trackers |
+  |------------------|----------------------|----------------------|
+  | Curation Depth   | High (manual)        | Low (auto)           |
+  | Stars            | 300k+                | Lower                |
+  | Update Frequency | Community-paced      | Daily/dynamic        |
+  | Search           | GitHub tools         | Built-in             |
 
   ## Pricing
 
@@ -52,4 +46,5 @@ brand: sindresorhus
 brand_logo_url: https://raw.githubusercontent.com/sindresorhus/awesome/master/media/logo.png
 images:
   - https://raw.githubusercontent.com/sindresorhus/awesome/master/media/logo.svg
-updated_at: 2026-04-28 11:23
+  - https://github.com/sindresorhus/awesome/raw/master/media/banner.png
+updated_at: 2026-04-29 11:36

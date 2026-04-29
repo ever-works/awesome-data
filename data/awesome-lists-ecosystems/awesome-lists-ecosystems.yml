@@ -1,16 +1,15 @@
 name: Awesome Lists Ecosystems
-description: Dynamic aggregator that monitors hundreds of GitHub Awesome lists,
-  tracking real-time stars, updates, rankings, and changes with search and
-  filters. Key features include daily tracking, notifications, sorting by
-  stars/tags/categories, RSS/API access. Ideal for list curators automating
-  maintenance, project discovery, and trend monitoring versus static lists like
-  sindresorhus/awesome.
+description: Aggregates thousands of Awesome lists from GitHub, with search,
+  filters by tags/categories/stars, and real-time star rankings. Use for quick
+  discovery of themed lists and trend monitoring; more dynamic than static
+  GitHub repos like sindresorhus/awesome.
+  ![screenshot](https://raw.githubusercontent.com/ecosyste.ms/awesome/main/media/logo.png)
 source_url: https://awesome.ecosyste.ms/
-category: Awesome List Tools & Trackers
+category: Awesome List Aggregators
 tags:
-  - list-maintenance
-  - star-tracker
-  - dynamic-updates
+  - list-aggregator
+  - star-sorted
+  - searchable
 featured: true
 markdown: |-
   ## Overview
@@ -38,4 +37,4 @@ markdown: |-
 brand_logo_url: https://raw.githubusercontent.com/ecosyste.ms/awesome/main/media/logo.png
 images:
   - https://raw.githubusercontent.com/ecosyste.ms/awesome/main/media/logo.png
-updated_at: 2026-04-28 11:23
+updated_at: 2026-04-29 11:36

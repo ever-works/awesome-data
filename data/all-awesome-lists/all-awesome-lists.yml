@@ -1,16 +1,16 @@
 name: All Awesome Lists
-description: All Awesome Lists, GitHub's official aggregation, indexes thousands
-  of awesome lists as a searchable meta-directory in the awesome ecosystem. It
-  provides inception-level aggregation with features like sorting by
-  stars/forks/recency, language filters, and trend metrics. Ideal for
-  directory-of-directories discovery and popularity tracking; more dynamic and
-  metric-driven than static lists like sindresorhus/awesome.
+description: This meta-directory aggregates thousands of GitHub Awesome lists
+  using the official 'awesome' topic, featuring full-text search, sorting
+  options by stars, forks, recency, and language filters with real-time GitHub
+  data. Ideal for broad discovery of curated awesome collections and trend
+  monitoring, unlike sindresorhus/awesome it provides an automated, exhaustive
+  index across all topics instead of a manually maintained single list.
 source_url: https://github.com/topics/awesome
 category: Meta Awesome Directories
 tags:
-  - inception-meta
-  - directory-of-directories
   - meta-index
+  - curated-hub
+  - dynamic-updates
 featured: true
 markdown: >-
   ## Overview
@@ -57,4 +57,4 @@ images:
   - https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
   - https://github.com/topics/awesome.png
   - https://raw.githubusercontent.com/github/docs/main/assets/cb-terms/awesome-topic.png
-updated_at: 2026-04-28 11:23
+updated_at: 2026-04-29 11:36

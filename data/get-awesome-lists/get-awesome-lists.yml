@@ -6,7 +6,7 @@ description: Crawls and compiles thousands of GitHub awesome lists into a
   lists and trend monitoring, offering broader scope than single awesome
   repositories.
 source_url: https://getawesomelists.com/
-category: Awesome List Aggregators
+category: Awesome List Trackers
 tags:
   - aggregator
   - index
@@ -47,4 +47,4 @@ markdown: |-
 images:
   - https://getawesomelists.com/favicon.ico
   - https://getawesomelists.com/static/media/hero.123456.png
-updated_at: 2026-04-28 11:23
+updated_at: 2026-04-29 11:36

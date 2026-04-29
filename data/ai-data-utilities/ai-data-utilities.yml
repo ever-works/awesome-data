@@ -1,0 +1,31 @@
+name: AI Data Utilities
+description: Open-source tools for data work — AI agents and chat-with-data
+  interfaces, visualisation, cleaning/pipelines, dataframes, anomaly detection,
+  geospatial, and reference datasets. Curated list of utilities for AI data
+  handling.
+source_url: https://github.com/danielrosehill/AI-Data-Utilities
+category: meta-directories
+tags:
+  - ai
+  - data-engineering
+  - open-source
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Open-source tools for AI data work including agents, visualization, cleaning,
+  pipelines, dataframes, anomaly detection, geospatial tools, and datasets.
+
+
+  ## Use Cases
+
+
+  - Data preparation for AI models.
+
+
+  ## Pricing
+
+
+  Free and open-source.
+updated_at: 2026-04-29 11:36

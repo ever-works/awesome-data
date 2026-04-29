@@ -1,15 +1,16 @@
 name: Awesome-Lists.net
-description: Crawls and aggregates thousands of GitHub awesome lists into a
-  searchable index, filterable by topic, stars, forks, and activity with daily
-  updates. Features advanced sorting, trend tracking, and RSS feeds for grouped
-  discovery. Enables rapid resource finding across vast lists, outperforming
-  single-repo awesome lists in scale and dynamism.
+description: Aggregates thousands of Awesome lists from GitHub, with search,
+  filters by topic/stars/forks/activity, and star rankings. Use for quick
+  discovery of themed lists; more dynamic than static GitHub repos like
+  sindresorhus/awesome. ![screenshot](https://awesome-lists.net/screenshot.png)
 source_url: https://awesome-lists.net
-category: Awesome List Aggregators
+category: Star-Ranked Awesome Indexes
 tags:
-  - aggregator
-  - index
-  - searchable-lists
+  - list-aggregator
+  - star-sorted
+  - searchable
+  - ranked-lists
+  - community-curated
 markdown: >-
   ## Overview
 
@@ -61,4 +62,4 @@ images:
   - https://awesome-lists.net/favicon.ico
   - https://awesome-lists.net/dashboard-screenshot.png
   - https://awesome-lists.net/screenshot.png
-updated_at: 2026-04-28 11:23
+updated_at: 2026-04-29 11:36

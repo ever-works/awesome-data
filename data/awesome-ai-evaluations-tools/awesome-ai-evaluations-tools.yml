@@ -1,0 +1,30 @@
+name: Awesome AI Evaluations Tools
+description: Curated list of open source tools, frameworks, and benchmarks for
+  evaluating AI systems — LLMs, RAG, agents, multimodal. Comprehensive resource
+  for AI evaluation.
+source_url: https://github.com/danielrosehill/Awesome-AI-Evaluations-Tools
+category: meta-directories
+tags:
+  - ai-evals
+  - llm
+  - open-source
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Curated open-source tools, frameworks, and benchmarks for AI evaluation
+  including LLMs, RAG, agents, and multimodal systems.
+
+
+  ## Use Cases
+
+
+  - Benchmarking AI performance.
+
+
+  ## Pricing
+
+
+  Free and open-source.
+updated_at: 2026-04-29 11:36

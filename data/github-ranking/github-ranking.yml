@@ -5,11 +5,13 @@ description: Dynamic ranking of GitHub repositories sorted by stars and forks,
   language, open issues, description, and last commit date. Automatically
   updated regularly.
 source_url: https://github.com/EvanLi/Github-Ranking
-category: Meta Awesome Directories
+category: Star-Ranked Awesome Indexes
 tags:
   - open-source
   - github
   - rankings
   - awesome-lists
+  - ranked-lists
+  - community-curated
 featured: true
-updated_at: 2026-04-24 00:06
+updated_at: 2026-04-29 11:36

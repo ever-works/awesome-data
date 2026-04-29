@@ -1,0 +1,15 @@
+name: Game Datasets
+description: A curated list of awesome game datasets, and tools to artificial
+  intelligence in games. Updated 03/12 with 1K stars.
+source_url: https://github.com/renzofrist/awesome-gamedatasets
+category: Datasets
+tags:
+  - datasets
+  - games
+  - ai
+featured: false
+markdown: |-
+  ## Overview
+
+  Curated list of game datasets and AI tools for games.
+updated_at: 2026-04-29 11:36
