@@ -1,22 +1,35 @@
 name: awesome-animal-care
-description: Caring for dogs, cats, fishes, horses, parrots, and others. Curated
-  resources for animal care.
+description: "awesome-animal-care aggregates resources for caring for various
+  animals like dogs, cats, and horses, functioning as a meta-directory of pet
+  care lists. Key features include categorized guidance and community
+  contributions. Use cases: discovering animal care awesome lists; more
+  comprehensive than single-topic GitHub READMEs."
 source_url: https://github.com/gracenotes/awesome-animal-care
 category: Meta Awesome Directories
 tags:
+  - meta-index
+  - list-aggregator
   - animal-care
-  - awesome-lists
 featured: false
 markdown: |-
   ## Overview
 
-  Caring for dogs, cats, fishes, horses, parrots, and others.
+  Curated resources for animal care.
 
   ## Features
 
-  - Pet care resources
+  - Multi-species coverage
+  - Practical guides
+
+  ## Use Cases
+
+  - Pet owner reference
+
+  ## Comparisons
+
+  Broader than niche lists.
 
   ## Pricing
 
   Free.
-updated_at: 2026-04-27 11:31
+updated_at: 2026-04-30 11:32

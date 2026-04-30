@@ -1,21 +1,37 @@
 name: Annual-Reading-List
-description: Things to read every year. Curated annual reading list.
+description: "Annual-Reading-List is a curated meta-collection recommending
+  essential reads updated yearly, acting as a directory for timeless resources.
+  Key features include annual curation and broad topic coverage. Use cases:
+  discovering influential books and lists; dynamic updates vs static GitHub
+  reading lists."
 source_url: https://github.com/aksh/Annual-Reading-List
 category: Meta Awesome Directories
 tags:
+  - meta-index
   - reading-list
   - curated
 featured: false
 markdown: |-
   ## Overview
 
-  Things to read every year.
+  Annual recommendations for must-read resources.
 
   ## Features
 
-  - Annual reading recommendations
+  - Yearly updates
+  - Curated essentials
+
+  ## Use Cases
+
+  - Personal development reading
+
+  ## Comparisons
+
+  | Feature | This | Static |
+  |---------|------|--------|
+  | Updates | Annual | None |
 
   ## Pricing
 
   Free.
-updated_at: 2026-04-27 11:31
+updated_at: 2026-04-30 11:32

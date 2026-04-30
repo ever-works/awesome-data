@@ -1,45 +1,38 @@
 name: Get Awesome Lists
-description: Crawls and compiles thousands of GitHub awesome lists into a
-  searchable index with filters for stars, topics, languages, rankings, and
-  newsletters for dynamic updates. Features topic grouping and submission
-  support for ongoing maintenance. Enables quick discovery across aggregated
-  lists and trend monitoring, offering broader scope than single awesome
-  repositories.
+description: Real-time dashboard indexing thousands of Awesome lists with star
+  filters, daily rankings, RSS feeds for updates. Perfect for maintenance
+  submissions and trending topic discovery; comprehensive dynamic search beats
+  static GitHub.
 source_url: https://getawesomelists.com/
 category: Awesome List Trackers
 tags:
-  - aggregator
-  - index
-  - searchable-lists
-  - star-tracker
+  - dynamic-tracker
+  - notifications
+  - dashboard
 featured: false
 markdown: |-
   ## Overview
 
-  Search engine for GitHub awesome lists.
-
-  ## Aggregation
-
-  Indexes thousands of awesome collections by stars, topics, languages.
+  Awesome lists search engine.
 
   ## Features
 
-  - Star/topic/language filters
-  - Rankings
-  - Newsletter
-  - Submission form
+  - Live star/topic filters
+  - Daily rankings dashboard
+  - RSS/newsletter
 
   ## Use Cases
 
-  - Themed list discovery
-  - Trending tracking
+  - List maintenance/discovery
+  - Trend tracking
 
-  ## Comparisons
+  ## Comparisons to Static GitHub
 
-  | Feature | Get Awesome Lists | GitHub Search |
+  | Feature | Get Awesome Lists | Static GitHub |
   |---------|--------------------|---------------|
-  | Filters | Awesome-specific | General |
-  | Indexing | Full | Partial |
+  | Scale | Thousands | Single repo |
+  | Filters | Advanced | Basic |
+  | Alerts | RSS | None |
 
   ## Pricing
 
@@ -47,4 +40,4 @@ markdown: |-
 images:
   - https://getawesomelists.com/favicon.ico
   - https://getawesomelists.com/static/media/hero.123456.png
-updated_at: 2026-04-29 11:36
+updated_at: 2026-04-30 11:32

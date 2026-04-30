@@ -1,13 +1,35 @@
 name: Awesome Artificial Intelligence
-description: A curated list of awesome frameworks, libraries, tools, and
-  resources for Artificial Intelligence (AI). This list covers everything from
-  foundational machine learning and deep learning to specialized areas like NLP,
-  computer vision, and AI ethics.
+description: "Awesome Artificial Intelligence curates frameworks, libraries,
+  tools, and resources for AI, serving as a meta-directory for ML, NLP, and
+  vision topics. Key features include comprehensive categorization and ongoing
+  updates. Use cases: discovering themed AI awesome lists; larger scope than
+  static individual GitHub lists."
 source_url: https://github.com/awesomelistsio/awesome-ai
 category: Meta Awesome Directories
 tags:
-  - awesome-lists
+  - meta-index
   - ai
   - machine-learning
 featured: false
-updated_at: 2026-04-23 20:49
+markdown: |-
+  ## Overview
+
+  Curated AI resources directory.
+
+  ## Features
+
+  - Covers ML, DL, NLP
+  - Community maintained
+
+  ## Use Cases
+
+  - AI project starting point
+
+  ## Comparisons
+
+  | Scope | Broad AI | Niche |
+
+  ## Pricing
+
+  Free.
+updated_at: 2026-04-30 11:32

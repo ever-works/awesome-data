@@ -1,49 +1,35 @@
 name: Awesome Awesome Awesome
-description: Awesome Awesome Awesome is a comprehensive index of GitHub awesome
-  lists, featuring categorization, searchability, and star rankings as of 2026.
-  Ideal for developers seeking topic-specific resources. More meta/focused than
-  sindresorhus/awesome, this aggregates directories of awesome resources.
+description: "Awesome Awesome Awesome indexes GitHub awesome lists with
+  categorization, search, and star rankings as a comprehensive meta-directory.
+  Key features enhance navigation and discovery across topics. Use cases:
+  finding specialized awesome lists; more searchable and meta-focused than basic
+  sindresorhus/awesome."
 source_url: https://github.com/t3chnoboy/awesome-awesome-awesome
 category: Meta Awesome Directories
 tags:
   - meta-index
-  - list-of-lists
-  - discovery-tool
+  - list-aggregator
+  - search
 featured: false
-markdown: >-
-  # Awesome Awesome Awesome
+markdown: |-
+  ## Overview
 
-
-  - **Category:** Meta-directories
-
-  - **Source:** [GitHub
-  Repository](https://github.com/t3chnoboy/awesome-awesome-awesome)
-
-  - **Tags:** meta-directory, curated-lists, awesome-lists, github
-
-
-  ## Description
-
-  Awesome Awesome Awesome is a meta-directory—a curated list of curated lists of
-  awesome lists. Its purpose is to aggregate and organize directories of awesome
-  resources, making it easier to discover and access various awesome lists
-  across the web.
-
+  Meta-directory of awesome lists.
 
   ## Features
 
-  - Curated collection of lists that themselves curate other awesome lists.
+  - Categorization
+  - Searchability
 
-  - Serves as a meta-directory, focusing on directories of awesome resources.
+  ## Use Cases
 
-  - Organized structure to help users find directories of interest efficiently.
+  - Topic-specific discovery
 
-  - Open-source, community-driven repository on GitHub.
+  ## Comparisons
 
-  - Regular updates and contributions from multiple collaborators.
-
+  Meta vs base lists.
 
   ## Pricing
 
-  - Free to use (open-source repository on GitHub).
-updated_at: 2026-04-24 00:06
+  Free.
+updated_at: 2026-04-30 11:32

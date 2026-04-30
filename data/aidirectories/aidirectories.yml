@@ -1,9 +1,9 @@
 name: aidirectori.es
 description: "aidirectori.es curates AI directories and GitHub awesome lists as
-  a meta-directory for AI resource discovery, with topic categorization, search,
-  star rankings, and updates. Key features enhance searchability and relevance
-  tracking. Use cases: exploring AI projects and lists; deeper inception
-  meta-layer than broad lists like sindresorhus/awesome."
+  a searchable meta-directory for AI resources. Key features: topic
+  categorization, search, star rankings, dynamic updates. Use cases: discovering
+  AI projects and themed lists; deeper meta-layer than static GitHub awesome
+  lists."
 source_url: https://aidirectori.es
 category: Meta Awesome Directories
 tags:
@@ -11,34 +11,32 @@ tags:
   - list-aggregator
   - ai
   - github-stars
+  - searchable
 featured: false
 markdown: |-
   ## Overview
 
-  Meta-index of AI directories and awesome lists.
+  Meta-index of AI directories and lists.
 
   ## Features
 
-  - Topic categorization
-  - Search functionality
-  - Star rankings
-  - Regular updates
+  - Search
+  - Star tracking
+  - Updates
 
   ## Use Cases
 
-  - AI-themed repo discovery
-  - Project research
-  - Themed directory hunting
+  - AI discovery
 
   ## Comparisons
 
-  | Feature | aidirectori.es | Static Lists |
-  |---------|----------------|--------------|
-  | Scope | AI meta | General |
+  | Feature | aidirectori.es | Static |
+  |---------|----------------|--------|
   | Search | Yes | No |
-  | Stars | Tracked | Manual |
 
   ## Pricing
 
   Free.
-updated_at: 2026-04-26 12:14
+images:
+  - https://aidirectori.es/screenshot.png
+updated_at: 2026-04-30 11:32

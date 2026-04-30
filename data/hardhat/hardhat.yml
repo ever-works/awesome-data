@@ -1,14 +1,16 @@
 name: Awesome Hardhat
-description: "Awesome Hardhat: Curated resources for Hardhat Ethereum toolkit,
-  including plugins, networks, and tools. Features community-maintained updates
-  and star rankings. Useful for smart contract developers seeking ecosystem
-  overviews, compared to Foundry or general Ethereum lists."
+description: Awesome Hardhat is the community-curated project-specific awesome
+  list for Hardhat Ethereum development toolkit, covering plugins, networks,
+  forks, tools, and resources. Key features include categorized sections with
+  star rankings and community updates. Useful for smart contract developers
+  onboarding to Hardhat ecosystem, more focused than general Ethereum awesome
+  lists.
 source_url: https://github.com/katat/awesome-hardhat
 category: Project Awesome Lists
 tags:
-  - project-awesome
+  - project-specific
+  - official-curated
   - ethereum
-  - smart-contracts
 featured: true
 markdown: |-
   ## Topics Covered
@@ -31,4 +33,4 @@ markdown: |-
   Free and open-source.
 images:
   - https://raw.githubusercontent.com/katat/awesome-hardhat/main/banner.png
-updated_at: 2026-04-26 12:14
+updated_at: 2026-04-30 11:32

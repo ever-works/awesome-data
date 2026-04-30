@@ -1,0 +1,11 @@
+name: radixtree
+description: Adaptive radix tree (prefix-tree or compact-trie) for Go. Part of
+  Awesome Go Text Analysis updates.
+source_url: https://github.com/cretz/radixtree
+category: Programming Languages
+tags:
+  - golang
+  - trie
+  - open-source
+featured: false
+updated_at: 2026-04-30 11:32

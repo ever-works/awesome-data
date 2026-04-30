@@ -1,44 +1,40 @@
 name: Awesome All
-description: Awesome All acts as a comprehensive meta-index in the awesome
-  ecosystem, compiling awesome lists across frameworks, libraries, software, and
-  tools into categorized collections. Features organized aggregation,
-  star-ranked GitHub links, and multi-domain coverage. Suited as a
-  directory-of-directories for developers needing diverse curations; broader and
-  more aggregated than topic-specific lists like sindresorhus/awesome.
+description: "Awesome All compiles awesome lists across frameworks, libraries,
+  and software into a categorized meta-directory. Key features: organized
+  aggregation, star-ranked links, multi-domain coverage. Use cases: developer
+  discovery of diverse curations; broader aggregation than single lists like
+  sindresorhus/awesome."
 source_url: https://github.com/bradoyler/awesome-all
 category: Meta Awesome Directories
 tags:
-  - inception-meta
-  - directory-of-directories
   - meta-index
+  - list-aggregator
+  - directory-of-directories
 featured: false
 markdown: |-
-  # Awesome All
+  ## Overview
 
-  **Description:**
-  Awesome All is a centralized directory that curates lists of awesome frameworks, libraries, and software. It acts as a meta-directory, collecting and organizing various awesome lists to make them easily accessible.
+  Centralized awesome lists hub.
 
-  **Features:**
-  - Aggregates curated lists of frameworks, libraries, and software from across the web
-  - Serves as a meta-directory, pointing to multiple awesome lists
-  - Open-source project hosted on GitHub
-  - Contributions are welcome via guidelines
-  - Continuously updated with input from contributors
+  ## Features
 
-  **Category:**
-  Meta-directories
+  - Categorized aggregation
+  - GitHub links
 
-  **Tags:**
-  meta-directory, curated-lists, awesome-lists, github
+  ## Use Cases
 
-  **Source URL:**
-  [https://github.com/bradoyler/awesome-all](https://github.com/bradoyler/awesome-all)
+  - Multi-domain search
 
-  **Pricing:**
-  - Free (Open Source)
+  ## Comparisons
+
+  Aggregated vs single-list.
+
+  ## Pricing
+
+  Free.
 brand: bradoyler
 brand_logo_url: https://github.com/bradoyler.png
 images:
   - https://github.githubassets.com/images/modules/open_graph/github-mark.png
   - https://raw.githubusercontent.com/bradoyler/awesome-all/master/screenshot.png
-updated_at: 2026-04-28 11:23
+updated_at: 2026-04-30 11:32

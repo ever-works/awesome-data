@@ -1,41 +1,35 @@
 name: Awesome Awesome LLMs
-description: Meta-navigator curating over 200 vetted awesome lists across 40+
-  LLM domains from pre-training to deployment. Features quality ratings (★☆☆☆☆
-  to ★★★★★), precision categories, and community-driven updates to combat
-  information overload in LLM research.
+description: "Awesome Awesome LLMs indexes over 200 vetted awesome lists across
+  40+ LLM domains with quality ratings and categories as a meta-navigator. Key
+  features: star counts, ratings (★☆☆☆☆ to ★★★★★), community updates. Use cases:
+  LLM research discovery; combats overload vs unrated static lists."
 source_url: https://github.com/adongwanai/Awesome-Awesome-LLMs
 category: Meta Awesome Directories
 tags:
-  - awesome-lists
+  - meta-index
+  - list-aggregator
   - llm
-  - meta-directory
-  - research
+  - rated
 featured: true
-markdown: >-
+markdown: |-
   ## Overview
 
+  LLM awesome lists meta-hub.
 
-  Awesome-Awesome-LLMs is a lighthouse for the LLM ocean, indexing high-quality
-  awesome lists with ratings, covering training, multimodal, agents, infra, and
-  more.
+  ## Features
 
+  - Ratings system
+  - 40+ categories
 
-  ## Key Features
+  ## Use Cases
 
+  - LLM topic navigation
 
-  - **40+ Categories**: Pre-training, multimodal, agents, RAG, evaluation,
-  security, etc.
+  ## Comparisons
 
-  - **Quality Ratings**: ★★★★★ based on community value.
-
-  - **Statistics**: 200+ lists, 500K+ stars, 10K+ papers.
-
-  - **Use Cases**: Researchers (trending topics), Developers (infra/tools),
-  Students (courses), Practitioners (prompts/eval).
-
+  Rated/dynamic vs static.
 
   ## Pricing
 
-
-  Free and open-source.
-updated_at: 2026-04-27 11:31
+  Free.
+updated_at: 2026-04-30 11:32

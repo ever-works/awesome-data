@@ -1,0 +1,31 @@
+name: Awesome DevOps Tools
+description: Curated awesome list of DevOps tools and resources. Featured by the
+  Curated Awesome Lists organization using their Awesome List Generator tool
+  with human refinement.
+source_url: https://github.com/Curated-Awesome-Lists/awesome-devops-tools
+category: themed-directories
+tags:
+  - awesome-lists
+  - devops
+  - tools
+  - ci-cd
+featured: false
+markdown: |-
+  ## Overview
+
+  Featured DevOps tools list from Curated Awesome Lists.
+
+  ## Features
+
+  - Top DevOps tools and resources
+  - AI-assisted curation with human touch
+
+  ## Use Cases
+
+  Streamlines DevOps workflows and learning.
+
+  ## Pricing
+
+  Free and open-source.
+brand: Curated Awesome Lists
+updated_at: 2026-04-30 11:32

@@ -1,13 +1,16 @@
 name: Awesome Temporal
-description: Curated list of awesome Temporal resources, SDKs, and examples.
-  Open-source platform for orchestrating durable, reliable workflows in
-  microservices architectures.
+description: Awesome Temporal is an official-curated project-specific awesome
+  list for Temporal, covering resources, SDKs, examples, integrations, and tools
+  for orchestrating durable workflows. Key features include categorized sections
+  for SDKs in languages like Go, Java, Python, and community resources. It is
+  ideal for onboarding to the Temporal tech stack and offers more focused
+  content than general awesome lists on microservices or orchestration.
 source_url: https://github.com/temporalio/awesome-temporal
 category: Project Awesome Lists
 tags:
-  - temporal
+  - project-specific
+  - official-curated
   - workflows
-  - microservices
 featured: false
 markdown: >-
   ## Overview
@@ -87,4 +90,6 @@ markdown: >-
 
   Free and open-source. Temporal Cloud has usage-based pricing.
 brand: Temporal
-updated_at: 2026-04-27 11:31
+images:
+  - https://opengraph.githubassets.com/1/temporalio/awesome-temporal
+updated_at: 2026-04-30 11:32

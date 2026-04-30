@@ -1,0 +1,14 @@
+name: wharf
+description: K9s-inspired TUI for Docker Compose with vim-style navigation,
+  real-time CPU/MEM monitoring with braille charts, container file browser, SSH
+  remote host support, and command mode. Part of Awesome Docker Terminal /
+  Terminal UI updates.
+source_url: https://github.com/idesyatov/wharf
+category: Development Tools
+tags:
+  - docker
+  - tui
+  - terminal
+  - open-source
+featured: false
+updated_at: 2026-04-30 11:32

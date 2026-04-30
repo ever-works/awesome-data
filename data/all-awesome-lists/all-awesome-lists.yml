@@ -1,52 +1,35 @@
 name: All Awesome Lists
-description: This meta-directory aggregates thousands of GitHub Awesome lists
-  using the official 'awesome' topic, featuring full-text search, sorting
-  options by stars, forks, recency, and language filters with real-time GitHub
-  data. Ideal for broad discovery of curated awesome collections and trend
-  monitoring, unlike sindresorhus/awesome it provides an automated, exhaustive
-  index across all topics instead of a manually maintained single list.
+description: "All Awesome Lists aggregates thousands of GitHub 'awesome' topic
+  repositories into a dynamic meta-directory with full-text search, sorting by
+  stars/forks/recency, language filters, and real-time data. Key features
+  enhance discoverability and trend tracking. Use cases: broad awesome list
+  discovery; automated and exhaustive vs manually curated sindresorhus/awesome."
 source_url: https://github.com/topics/awesome
 category: Meta Awesome Directories
 tags:
   - meta-index
-  - curated-hub
+  - list-aggregator
   - dynamic-updates
+  - search
+  - github-stars
 featured: true
-markdown: >-
+markdown: |-
   ## Overview
 
-
-  GitHub’s central aggregation of all public 'awesome' tagged repositories,
-  serving as a searchable meta-directory of community-curated awesome lists.
-
+  GitHub’s awesome topic hub.
 
   ## Features
 
-  - Filters by language
-
-  - Sorting by stars, forks, recency
-
-  - Trend metrics
-
+  - Search/sort
+  - Real-time metrics
 
   ## Use Cases
 
-  - Discover lists for curation and maintenance
-
-  - Track trending collections
-
+  - Trend monitoring
 
   ## Comparisons
 
-
-  | Feature | All Awesome Lists | Manual |
-
-  |---------|-------------------|--------|
-
-  | Aggregation | Awesome-specific | None |
-
-  | Metrics | Sortable | None |
-
+  Automated vs manual.
 
   ## Pricing
 
@@ -56,5 +39,4 @@ brand_logo_url: https://github.githubassets.com/images/modules/logos_page/GitHub
 images:
   - https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
   - https://github.com/topics/awesome.png
-  - https://raw.githubusercontent.com/github/docs/main/assets/cb-terms/awesome-topic.png
-updated_at: 2026-04-29 11:36
+updated_at: 2026-04-30 11:32

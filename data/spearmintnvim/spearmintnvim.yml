@@ -1,0 +1,11 @@
+name: spearmint.nvim
+description: Lightweight harpoon-style marks with terminal support for Neovim.
+  Part of Awesome Neovim Marks / Assembly updates.
+source_url: https://github.com/adithyasource/spearmint.nvim
+category: Development Tools
+tags:
+  - neovim
+  - open-source
+  - terminal
+featured: false
+updated_at: 2026-04-30 11:32

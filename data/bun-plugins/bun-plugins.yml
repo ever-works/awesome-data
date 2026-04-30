@@ -1,15 +1,15 @@
 name: Awesome Bun
-description: "Official awesome list for Bun, curates resources, tools, and
-  projects related to Bun. Features include community-maintained links,
-  categorized sections for quick discovery. Use cases: onboarding new users,
-  finding alternatives; compared to general awesome lists, it's project-specific
-  and often more up-to-date."
+description: Awesome Bun (apvarun) is a community-curated project-specific
+  awesome list for Bun runtime, focusing on plugins, loaders, benchmarks, tools,
+  and integrations. Key features include categorized resources and performance
+  comparisons. Useful for onboarding to Bun ecosystem, more Bun-centric than
+  general JavaScript runtime awesome lists.
 source_url: https://github.com/apvarun/awesome-bun
 category: Project Awesome Lists
 tags:
   - project-specific
-  - official-list
-  - javascript
+  - official-curated
+  - javascript-runtime
 featured: true
 markdown: |-
   ## Topics Covered
@@ -30,4 +30,6 @@ markdown: |-
   ## Pricing
 
   Free and open-source.
-updated_at: 2026-04-24 08:51
+images:
+  - https://raw.githubusercontent.com/apvarun/awesome-bun/main/banner.png
+updated_at: 2026-04-30 11:32

@@ -6,7 +6,7 @@ description: Hand-curated GitHub directory of software tools, WCAG guidelines,
   developers discovering accessibility resources, as a focused curated list
   versus broad GitHub awesome collections.
 source_url: https://github.com/ediblecode/accessibility-resources
-category: General Directories
+category: General Awesome Directories
 tags:
   - curated
   - searchable
@@ -21,4 +21,4 @@ markdown: |-
   Free and open-source resource.
 images:
   - https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
-updated_at: 2026-04-26 12:14
+updated_at: 2026-04-30 11:32

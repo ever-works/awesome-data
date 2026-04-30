@@ -1,19 +1,35 @@
 name: Awesome Awesome by aligoren
-description: List of GitHub lists, a curated collection of awesome lists.
+description: "Awesome Awesome by aligoren compiles a curated collection of
+  GitHub awesome lists across various topics, serving as a meta-directory for
+  easy navigation. Key features include organized listings and community
+  curation. Use cases: discovering themed awesome lists; more aggregated than
+  individual static GitHub lists."
 source_url: https://github.com/aligoren/awesome-awesome
 category: Meta Awesome Directories
 tags:
-  - awesome-lists
+  - meta-index
+  - list-aggregator
   - curated-lists
-  - meta
 featured: false
 markdown: |-
   ## Overview
-  Curated list of GitHub awesome lists.
+
+  Curated GitHub awesome lists collection.
 
   ## Features
-  - Collection of awesome lists repositories
+
+  - Organized by topic
+  - Community curated
+
+  ## Use Cases
+
+  - Broad list discovery
+
+  ## Comparisons
+
+  Aggregated vs single lists.
 
   ## Pricing
+
   Free.
-updated_at: 2026-04-27 11:31
+updated_at: 2026-04-30 11:32

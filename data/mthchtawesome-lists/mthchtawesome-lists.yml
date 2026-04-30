@@ -1,9 +1,8 @@
 name: mthcht/awesome-lists
-description: Aggregates and groups multiple themed GitHub awesome lists into a
-  meta-index for topic-based navigation and discovery. Features direct links and
-  dynamic grouping for searchable access. Serves as a gateway for exploring
-  resources across lists, providing organized aggregation beyond single awesome
-  repositories.
+description: Dynamic meta-index grouping themed GitHub awesome lists with
+  ongoing updates for easy navigation and star-based discovery. Helps
+  maintainers track related lists and users explore topics dynamically;
+  structured aggregation beats scattered static lists.
 source_url: https://github.com/mthcht/awesome-lists
 category: Awesome List Trackers
 tags:
@@ -11,6 +10,9 @@ tags:
   - index
   - searchable-lists
   - open-source
+  - dynamic
+  - star-tracker
+  - updater
 featured: false
 markdown: |-
   ## Overview
@@ -41,4 +43,4 @@ markdown: |-
   ## Pricing
 
   Free.
-updated_at: 2026-04-29 11:36
+updated_at: 2026-04-30 11:32

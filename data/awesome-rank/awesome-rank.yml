@@ -1,38 +1,40 @@
 name: Awesome Rank
-description: Aggregator ranking Awesome lists by stars, forks, activity, and
-  freshness with sortable tables and graphs. Features multi-metric comparisons
-  and category browsing. Enables list maintenance by identifying top/performing
-  lists quickly versus manual evaluation.
+description: Interactive dashboard ranking Awesome lists by stars, forks,
+  activity with real-time graphs and sortable tables. Supports list maintenance
+  by highlighting top/trending lists and discovery via category browsing;
+  dynamic metrics beat static GitHub star counts.
 source_url: https://awesomerank.github.io/
 category: Star-Ranked Awesome Indexes
 tags:
-  - list-tool
-  - aggregator
-  - tracker
-  - ranked-lists
-  - community-curated
+  - dynamic-tracker
+  - notifications
+  - dashboard
 markdown: |-
   ## Overview
 
-  Ranks awesome lists with analytics.
+  Ranks Awesome lists dynamically.
 
   ## Features
-  - Multi-metric rankings
-  - Trend graphs
+
+  - Real-time multi-metric rankings
+  - Graphs & sortable tables
   - Category browsing
 
   ## Use Cases
-  - Identify top lists for maintenance/inspiration
-  - Track ecosystem trends
 
-  ## Comparisons
+  - Maintenance: top list ID
+  - Discovery: trends/categories
 
-  | Feature | Awesome Rank | Manual |
-  |---------|--------------|--------|
-  | Metrics | Comprehensive | Basic |
-  | Visuals | Graphs | None |
+  ## Comparisons to Static GitHub
+
+  | Feature | Awesome Rank | Static GitHub |
+  |---------|--------------|---------------|
+  | Metrics | Multi | Stars only |
+  | Visuals | Graphs/tables | None |
+  | Updates | Live | Static |
 
   ## Pricing
+
   Free.
 brand_logo_url: https://raw.githubusercontent.com/sindresorhus/awesome/master/media/logo.svg
-updated_at: 2026-04-29 11:36
+updated_at: 2026-04-30 11:32

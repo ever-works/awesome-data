@@ -1,15 +1,37 @@
 name: Directories.so
-description: Comprehensive tracker and index of awesome directories across AI,
-  design, development topics, monitoring popularity via GitHub stars and
-  providing daily updates, filtering, and rankings. Key features include
-  topic-specific sorting by stars, meta-directory discovery tools. Suited for
-  developers and curators seeking dynamic project discovery and list
-  maintenance, more focused than broad static lists like sindresorhus/awesome.
+description: Dynamic tracker indexing awesome directories across AI, design, dev
+  topics with GitHub star monitoring, daily updates, filtering, and rankings.
+  Use cases for maintainers promoting lists via popularity metrics and users
+  discovering trending projects; far more dynamic with RSS-like updates than
+  static lists.
 source_url: https://directories.so
 category: Awesome List Tools & Trackers
 tags:
   - list-maintenance
   - star-tracker
   - dynamic-updates
+  - dynamic
+  - star-tracker
+  - updater
 featured: false
-updated_at: 2026-04-28 11:23
+markdown: |-
+  ## Overview
+
+  Comprehensive tracker of awesome directories.
+
+  ## Features
+
+  - Star monitoring
+  - Daily updates
+  - Topic filtering
+  - Rankings
+
+  ## Use Cases
+
+  - Popularity tracking
+  - Meta-directory discovery
+
+  ## Pricing
+
+  Free.
+updated_at: 2026-04-30 11:32

@@ -1,15 +1,16 @@
 name: Awesome Convex
-description: Official Awesome list for Convex backend platform, compiling
-  ecosystem tools, libraries, integrations. Encompasses components, hooks,
-  deployment guides, integrations, supported by strong stars and contributions.
-  Great for dev onboarding, ecosystem exploration, comparisons; specialized over
-  generic backend lists.
+description: Awesome Convex is the official project-specific awesome list for
+  Convex, curating components, hooks, integrations, deployment guides, and
+  ecosystem tools for reactive backend development. Key features include
+  categorized resources with strong community contributions. Perfect for
+  developer onboarding to Convex stack, specialized over general serverless or
+  React awesome lists.
 source_url: https://github.com/get-convex/awesome-convex
 category: Project Awesome Lists
 tags:
-  - project-awesome
-  - convex
-  - ecosystem
+  - project-specific
+  - official-curated
+  - backend
 featured: true
 markdown: >-
   ## Overview
@@ -53,4 +54,4 @@ markdown: >-
 images:
   - https://raw.githubusercontent.com/get-convex/awesome-convex/main/og-image.png
   - https://raw.githubusercontent.com/get-convex/convex/main/logo.svg
-updated_at: 2026-04-29 11:36
+updated_at: 2026-04-30 11:32

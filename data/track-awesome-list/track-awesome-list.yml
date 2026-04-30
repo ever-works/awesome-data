@@ -1,77 +1,48 @@
 name: Track Awesome List
-description: "Dynamic tracker for 500+ Awesome lists, monitors daily updates,
-  stars, with RSS/email alerts, search, trends. Features star history charts,
-  per-list feeds, sortable timelines. Outperforms static hubs like
-  sindresorhus/awesome for freshness and notifications; use cases: curator
-  maintenance, trend spotting, project discovery."
+description: Real-time dashboard tracking 500+ Awesome lists with live star
+  updates, daily change notifications via RSS/email, trends, and history charts.
+  Ideal for list maintenance (alerts for additions/removals) and project
+  discovery across ecosystems; far superior to static GitHub READMEs with
+  dynamic interactivity and alerts.
 source_url: https://www.trackawesomelist.com/
-category: General Directories
+category: General Awesome Directories
 tags:
-  - star-tracker
-  - dynamic-updates
-  - list-maintenance
+  - dynamic-tracker
+  - notifications
+  - dashboard
 featured: true
-markdown: >-
+markdown: |-
   ## Overview
 
+  Dynamic dashboard for Awesome list changes.
 
-  Web-based dashboard tracking Awesome list changes in real-time.
-
-
-  ![Track Awesome List
-  Screenshot](https://www.trackawesomelist.com/assets/dashboard-screenshot.png)
-
+  ![Dashboard](https://www.trackawesomelist.com/assets/dashboard-screenshot.png)
 
   ## Features
 
-
-  - Daily GitHub scans of 500+ lists
-
-  - RSS/email notifications for updates
-
-  - Searchable archive of additions
-
-  - Trending/popular sections
-
-  - Star history charts
-
-  - Per-list RSS feeds
-
-  - Timeline and sortable views
-
+  - Real-time star updates
+  - RSS/email notifications
+  - Searchable trends/history
+  - Sortable timelines
 
   ## Use Cases
 
+  - List maintenance & discovery
+  - Trend monitoring
 
-  - Alert curators to new resources
+  ## Comparisons to Static GitHub
 
-  - Spot emerging trends
-
-  - Discover fresh projects without manual checks
-
-
-  ## Comparisons
-
-
-  | Aspect       | Track Awesome List | Static Lists (e.g. Awesome) |
-
-  |--------------|--------------------|-----------------------------|
-
-  | Freshness    | Daily              | Manual updates              |
-
-  | Notifications| RSS/Email          | None                        |
-
-  | Trends      | Yes                | No                          |
-
-  | History     | Full archive       | Limited                     |
-
+  | Feature | Track Awesome List | Static GitHub |
+  |---------|--------------------|---------------|
+  | Updates | Live daily | Manual |
+  | Notifications | RSS/Email | None |
+  | Dashboards | Interactive charts | None |
 
   ## Pricing
 
-
-  Free, with premium features.
+  Free with premium options.
 brand_logo_url: https://www.trackawesomelist.com/favicon.ico
 images:
   - https://www.trackawesomelist.com/assets/og-image.png
   - https://www.trackawesomelist.com/assets/dashboard-screenshot.png
-updated_at: 2026-04-29 11:36
+updated_at: 2026-04-30 11:32

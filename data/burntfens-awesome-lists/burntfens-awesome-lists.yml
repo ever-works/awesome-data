@@ -1,13 +1,38 @@
 name: BurntFen's Awesome Lists
-description: Personal showcase and maintainer page for multiple GitHub awesome
-  lists with star tracking and curation insights. Features list overviews and
-  engagement metrics. Useful for awesome list maintainers to monitor and promote
-  their collections versus static repo views.
+description: Maintainer dashboard tracking personal Awesome lists with star
+  metrics and curation insights. Supports self-maintenance and sharing dynamic
+  collections; interactive views beat static GitHub repos.
 source_url: https://www.burntfen.com/projects/awesome/
 category: Awesome List Maintenance Tools
 tags:
-  - list-tool
-  - tracker
+  - dynamic-tracker
+  - notifications
+  - dashboard
 featured: false
+markdown: |-
+  ## Overview
+
+  Personal Awesome lists showcase.
+
+  ## Features
+
+  - Star tracking dashboard
+  - List overviews
+
+  ## Use Cases
+
+  - Maintainer self-tracking
+  - Collection discovery
+
+  ## Comparisons to Static GitHub
+
+  | Feature | Dashboard | Static Repo |
+  |---------|-----------|-------------|
+  | Metrics | Live stars | Static |
+  | Views | Interactive | README |
+
+  ## Pricing
+
+  Free.
 brand: burntfen
-updated_at: 2026-04-24 03:01
+updated_at: 2026-04-30 11:32

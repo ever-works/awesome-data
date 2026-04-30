@@ -1,14 +1,15 @@
 name: Awesome Meilisearch
-description: "Awesome Meilisearch: Community-curated list of resources, tools,
-  and libraries for Meilisearch. Features include categorized sections,
-  star-sorted entries, and regular updates. Ideal for developers onboarding to
-  Meilisearch, offering more focused alternatives to general language
-  directories."
+description: Awesome Meilisearch is the official project-specific awesome list
+  for Meilisearch search engine, covering client libraries, integrations, UIs,
+  tutorials, and deployment resources. Key features include categorized sections
+  for typo-tolerant search tools. Perfect for developers onboarding to
+  Meilisearch ecosystem, more focused than general search engine awesome lists.
 source_url: https://github.com/meilisearch/awesome-meilisearch
 category: Project Awesome Lists
 tags:
   - project-specific
-  - meilisearch
+  - official-curated
+  - search
 featured: true
 markdown: |-
   ## Topics Covered
@@ -31,4 +32,4 @@ markdown: |-
   Free and open-source.
 images:
   - https://raw.githubusercontent.com/meilisearch/awesome-meilisearch/main/banner.png
-updated_at: 2026-04-26 12:14
+updated_at: 2026-04-30 11:32

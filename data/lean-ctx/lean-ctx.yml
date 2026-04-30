@@ -1,0 +1,14 @@
+name: lean-ctx
+description: "Context runtime for AI coding agents: MCP server and shell hook
+  that compresses tool and terminal output to reduce LLM token use; Tree-sitter
+  parsing, session caching. Part of Awesome Rust Development tools / Workflow
+  Automation updates."
+source_url: https://github.com/yvgude/lean-ctx
+category: Development Tools
+tags:
+  - rust
+  - ai
+  - mcp-server
+  - open-source
+featured: false
+updated_at: 2026-04-30 11:32

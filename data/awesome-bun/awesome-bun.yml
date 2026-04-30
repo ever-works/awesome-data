@@ -1,12 +1,15 @@
 name: Awesome Bun
-description: "Curated Awesome list for Bun, listing tools and resources.
-  Features hundreds of items, ~800 GitHub stars. Use cases: onboarding devs;
-  compares to general awesomes by being project-focused."
+description: Awesome Bun is the official project-specific awesome list for Bun
+  JavaScript runtime, curating plugins, loaders, benchmarks, tools, and
+  integrations. Key features include hundreds of categorized resources with star
+  rankings. Suited for onboarding developers to Bun ecosystem, more focused than
+  general Node.js or JavaScript runtime awesome lists.
 source_url: https://github.com/oven-sh/awesome-bun
 category: Project Awesome Lists
 tags:
-  - project-awesome
-  - bun
+  - project-specific
+  - official-curated
+  - javascript-runtime
 featured: true
 markdown: >-
   ![logo](https://opengraph.githubassets.com/1/oven-sh/awesome-bun)
@@ -25,4 +28,4 @@ markdown: >-
   Free and open-source.
 images:
   - https://opengraph.githubassets.com/1/oven-sh/awesome-bun
-updated_at: 2026-04-29 11:36
+updated_at: 2026-04-30 11:32

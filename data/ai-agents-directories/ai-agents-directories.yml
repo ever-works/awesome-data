@@ -1,12 +1,41 @@
 name: AI Agents Directories
-description: A comprehensive list of the best AI agent directories available
-  online. It provides a resource for discovering directories focused on AI
-  agents.
+description: "AI Agents Directories is a meta-directory that aggregates the best
+  online directories dedicated to AI agents, enabling easy discovery of
+  specialized resources. Key features include curated listings with
+  searchability and focus on high-quality sources. Use cases: discovering themed
+  AI agent lists and tools; superior to static GitHub lists through targeted
+  aggregation and updates."
 source_url: https://github.com/danielmiessler/ai-agents-directories
 category: Meta Awesome Directories
 tags:
-  - ai
-  - agents
-  - directories
+  - meta-index
+  - list-aggregator
+  - ai-agents
 featured: false
-updated_at: 2026-04-23 14:34
+markdown: |-
+  ## Overview
+
+  Curated meta-directory of top AI agent directories.
+
+  ## Features
+
+  - Aggregated listings
+  - Easy discovery
+  - Focused on quality
+
+  ## Use Cases
+
+  - AI agent resource hunting
+  - Comparing directories
+
+  ## Comparisons
+
+  | Aspect | This | Static GitHub |
+  |--------|------|---------------|
+  | Focus | Directories | Lists |
+  | Updates | Dynamic | Manual |
+
+  ## Pricing
+
+  Free.
+updated_at: 2026-04-30 11:32

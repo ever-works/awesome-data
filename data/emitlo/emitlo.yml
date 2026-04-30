@@ -1,0 +1,11 @@
+name: Emitlo
+description: Free 12,000 emails/month, Email API and SMTP, SPF/DKIM/DMARC
+  support, No Credit Cards required. Listed in Free for Dev.
+source_url: https://emitlo.com
+category: Email
+tags:
+  - free-tier
+  - smtp
+  - email-api
+featured: false
+updated_at: 2026-04-30 11:32

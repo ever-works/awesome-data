@@ -1,51 +1,38 @@
 name: gh-stars
-description: An auto-updated list of sokai’s starred GitHub repositories,
-  organized in an awesome-list style. It effectively acts as a dynamic awesome
-  collection derived from GitHub stars, useful for discovering curated
-  repositories.
+description: Auto-updating dashboard of user's GitHub starred repos as dynamic
+  Awesome list with real-time star monitoring. Great for personal curation
+  maintenance and sharing live discoveries; regenerates vs static lists.
 source_url: https://github.com/sokai/gh-stars
 category: Awesome List Generators
 tags:
-  - github
-  - awesome-lists
-  - curated-lists
-  - github-stars
-  - open-source-discovery
+  - dynamic-tracker
+  - notifications
+  - dashboard
 featured: false
-markdown: >-
-  # gh-stars
-
-
+markdown: |-
   ## Overview
 
-
-  gh-stars is a dynamically generated, awesome-list–style directory based on the
-  GitHub stars of the user sokai. It aggregates and organizes starred
-  repositories into a curated collection, making it easier to browse and
-  discover noteworthy projects.
-
+  Dynamic starred repos list.
 
   ## Features
 
-
-  - Auto-updated list
-
-  - Awesome-list style organization
-
-  - Derived from GitHub stars
-
-  - Curated discovery
-
+  - Auto real-time updates
+  - Awesome-style formatting
 
   ## Use Cases
 
+  - Personal list maintenance
+  - Star-based discovery
 
-  - Discovering starred repos in awesome format
+  ## Comparisons to Static GitHub
 
+  | Feature | gh-stars | Static Stars |
+  |---------|----------|--------------|
+  | Updates | Auto | Manual |
+  | Format | Awesome list | Plain |
 
   ## Pricing
 
-
-  Free and open-source.
+  Free open-source.
 brand: sokai
-updated_at: 2026-04-24 03:01
+updated_at: 2026-04-30 11:32

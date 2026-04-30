@@ -1,19 +1,34 @@
 name: Awesome Awesome by emijrp
-description: Curated list of awesome curated lists of many topics.
+description: "Awesome Awesome by emijrp aggregates awesome curated lists
+  covering many topics into a meta-directory for resource discovery. Key
+  features: broad topic coverage and curation focus. Use cases: finding
+  specialized awesome collections; outperforms static lists with
+  meta-organization."
 source_url: https://github.com/emijrp/awesome-awesome
 category: Meta Awesome Directories
 tags:
+  - meta-index
+  - list-aggregator
   - awesome-lists
-  - curated-lists
-  - meta
 featured: false
 markdown: |-
   ## Overview
-  A curated list of awesome curated lists covering various topics.
+
+  Meta list of awesome resources.
 
   ## Features
-  - Meta list of awesome resources
+
+  - Multi-topic coverage
+
+  ## Use Cases
+
+  - Resource hunting
+
+  ## Comparisons
+
+  Meta vs base.
 
   ## Pricing
+
   Free.
-updated_at: 2026-04-27 11:31
+updated_at: 2026-04-30 11:32

@@ -1,13 +1,16 @@
 name: Awesome Turborepo
-description: Curated list of awesome Turborepo resources and examples.
-  High-performance build system for JavaScript and TypeScript codebases with
-  intelligent caching.
+description: Awesome Turborepo is the official-curated project-specific awesome
+  list for Turborepo, covering resources, examples, plugins, guides, and
+  integrations for high-performance monorepo builds. Key features include
+  categorized sections on caching, task pipelines, and CI/CD tools. Ideal for
+  onboarding to Turborepo tech stack, more focused than general monorepo or
+  JavaScript build awesome lists.
 source_url: https://github.com/vercel/awesome-turbo
 category: Project Awesome Lists
 tags:
-  - turborepo
+  - project-specific
+  - official-curated
   - monorepo
-  - build-tools
 featured: false
 markdown: >-
   ## Overview
@@ -95,4 +98,6 @@ markdown: >-
 
   Free and open-source. Remote cache free for hobby, paid for teams.
 brand: Vercel
-updated_at: 2026-04-27 11:31
+images:
+  - https://raw.githubusercontent.com/vercel/awesome-turbo/main/banner.png
+updated_at: 2026-04-30 11:32

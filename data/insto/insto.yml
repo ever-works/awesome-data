@@ -1,0 +1,15 @@
+name: insto
+description: "Interactive OSINT CLI / REPL with 35+ slash-commands for
+  Instagram: profile + media + followers + dossier + geo-fingerprint,
+  shared-followers intersection, superfan ranking, location search, URL metadata
+  resolution, posting-cadence histogram, Maltego CSV export. Token-based
+  (HikerAPI). Part of Awesome Osint updates."
+source_url: https://github.com/instoapp/insto
+category: Security
+tags:
+  - osint
+  - cli
+  - instagram
+  - open-source
+featured: false
+updated_at: 2026-04-30 11:32

@@ -1,36 +1,39 @@
 name: Brandon Himpfen Awesome Lists
-description: Curated aggregator grouping hundreds of GitHub Awesome lists by
-  topic with star rankings. Features browsable categories for efficient
-  navigation. Assists in awesome list maintenance by providing structured
-  overviews and popularity metrics versus unorganized searches.
+description: Dashboard aggregating Awesome lists by topic with real-time star
+  rankings for browsing. Aids list maintenance with structured metrics and
+  discovery via categories; dynamic grouping outperforms static GitHub searches.
 source_url: https://github.com/brandonhimpfen/awesome-lists
 category: Awesome List Maintenance Tools
 tags:
-  - list-tool
-  - aggregator
-  - tracker
+  - dynamic-tracker
+  - notifications
+  - dashboard
 featured: false
 markdown: |-
   ## Overview
 
-  Meta-collection aggregating awesome lists by topic.
+  Topic-grouped Awesome lists.
 
   ## Features
-  - Topic categorization
-  - Star rankings
+
+  - Star rankings dashboard
+  - Category navigation
 
   ## Use Cases
-  - Structured discovery for curation
-  - Popularity tracking
 
-  ## Comparisons
+  - Curation maintenance
+  - Themed discovery
 
-  | Feature | Aggregator | Search |
-  |---------|------------|--------|
+  ## Comparisons to Static GitHub
+
+  | Feature | Aggregator | Static GitHub |
+  |---------|------------|---------------|
   | Grouping | Topics | None |
-  | Rankings | Stars | Basic |
+  | Rankings | Live stars | Basic |
+  | Navigation | Categorized | Search only |
 
   ## Pricing
+
   Free open-source.
 brand: Brandon Himpfen
-updated_at: 2026-04-24 03:01
+updated_at: 2026-04-30 11:32

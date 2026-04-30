@@ -1,45 +1,40 @@
 name: ListKnow
-description: Compiles multiple top lists-of-lists including GitHub awesome lists
-  on topics like AI and design into a hand-curated, searchable index with topic
-  filters. Features verification for relevance and dynamic categorization.
-  Provides quick access for resource discovery across verified meta-lists,
-  superior to single awesome repos in curation depth.
+description: Dynamic dashboard curating top lists-of-lists with real-time star
+  verification and topic filters. Facilitates maintenance by tracking updates
+  and discovery of specialized collections; hand-curated exceeds static GitHub.
 source_url: https://listknow.com/
 category: Awesome List Trackers
 tags:
-  - aggregator
-  - index
-  - searchable-lists
+  - dynamic-tracker
+  - notifications
+  - dashboard
 featured: false
 markdown: |-
   ## Overview
 
-  Curated directory of useful lists of lists.
-
-  ## Aggregation
-
-  Hand-picks and verifies top collections across topics like AI, design.
+  Curated lists-of-lists index.
 
   ## Features
 
-  - Categories (AI, design)
-  - Verified/up-to-date
+  - Topic dashboards
+  - Verified star updates
 
   ## Use Cases
 
-  - Specialized resource discovery
-  - Across web topics
+  - Meta-list maintenance
+  - Specialized discovery
 
-  ## Comparisons
+  ## Comparisons to Static GitHub
 
-  | Feature | ListKnow | GitHub Search |
+  | Feature | ListKnow | Static GitHub |
   |---------|----------|---------------|
-  | Curation | Hand-picked | None |
-  | Verification | Yes | No |
+  | Curation | Hand-verified | None |
+  | Updates | Dynamic | Static |
+  | Filters | Topics | Basic |
 
   ## Pricing
 
   Free.
 images:
   - https://listknow.com/favicon.ico
-updated_at: 2026-04-29 11:36
+updated_at: 2026-04-30 11:32

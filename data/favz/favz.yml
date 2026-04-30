@@ -2,7 +2,7 @@ name: FAVZ
 description: FAVZ is a categorized directory of websites, making it a relevant
   example of an awesome directory site.
 source_url: https://favz.link/
-category: general-directories
+category: General Awesome Directories
 tags:
   - web-directory
   - curated-lists
@@ -55,4 +55,4 @@ markdown: >-
 
   No pricing information is provided; access to the directory appears to be
   free.
-updated_at: 2025-05-26 10:11
+updated_at: 2026-04-30 11:32

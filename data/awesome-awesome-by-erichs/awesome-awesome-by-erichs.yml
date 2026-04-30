@@ -1,19 +1,33 @@
 name: Awesome Awesome by erichs
-description: Curated list of awesome curated lists, inspired by inspiration.
+description: "Awesome Awesome by erichs curates lists of awesome curated
+  resources, functioning as an inspirational meta-directory. Key features:
+  selective aggregation and easy access. Use cases: discovering high-quality
+  themed lists; more inspirational than plain static GitHub directories."
 source_url: https://github.com/erichs/awesome-awesome
 category: Meta Awesome Directories
 tags:
-  - awesome-lists
-  - curated-lists
-  - meta
+  - meta-index
+  - list-aggregator
+  - curated
 featured: false
 markdown: |-
   ## Overview
-  Curated collection of awesome lists.
+
+  Curated awesome lists.
 
   ## Features
-  - List of lists
+
+  - Inspirational selections
+
+  ## Use Cases
+
+  - List exploration
+
+  ## Comparisons
+
+  Curated vs raw.
 
   ## Pricing
+
   Free.
-updated_at: 2026-04-27 11:31
+updated_at: 2026-04-30 11:32

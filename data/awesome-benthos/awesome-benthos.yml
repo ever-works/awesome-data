@@ -1,15 +1,16 @@
 name: Awesome Benthos
-description: "Official awesome list for Benthos, curates resources, tools, and
-  projects related to Benthos. Features include community-maintained links,
-  categorized sections for quick discovery. Use cases: onboarding new users,
-  finding alternatives; compared to general awesome lists, it's project-specific
-  and often more up-to-date."
+description: Awesome Benthos is the official project-specific awesome list for
+  Benthos, covering curated resources like processors, components, configuration
+  examples, deployment guides, and community contributions for data processing
+  pipelines. Key features include categorized sections for quick discovery and
+  observability tools. Ideal for onboarding to Benthos tech stack, more targeted
+  than general data pipeline awesome lists.
 source_url: https://github.com/redpanda-data/awesome-benthos
 category: Project Awesome Lists
 tags:
   - project-specific
-  - official-list
-  - ecosystem
+  - official-curated
+  - data-pipelines
 featured: true
 markdown: |-
   ## Topics Covered
@@ -33,4 +34,4 @@ markdown: |-
   Free and open-source.
 images:
   - https://raw.githubusercontent.com/redpanda-data/awesome-benthos/main/banner.png
-updated_at: 2026-04-24 08:51
+updated_at: 2026-04-30 11:32

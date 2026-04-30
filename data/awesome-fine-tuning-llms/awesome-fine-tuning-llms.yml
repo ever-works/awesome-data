@@ -1,0 +1,31 @@
+name: Awesome Fine-tuning LLMs
+description: Comprehensive curated list for fine-tuning large language models
+  (LLMs). Highlighted as a featured repository by Curated Awesome Lists, built
+  with Awesome List Generator and human expertise.
+source_url: https://github.com/Curated-Awesome-Lists/awesome-fine-tuning-llms
+category: themed-directories
+tags:
+  - awesome-lists
+  - ai
+  - llm
+  - fine-tuning
+featured: false
+markdown: |-
+  ## Overview
+
+  Awesome Fine-tuning LLMs, a featured list from Curated Awesome Lists.
+
+  ## Features
+
+  - Resources for LLM fine-tuning techniques and tools
+  - Meticulously curated
+
+  ## Use Cases
+
+  Supports AI practitioners in customizing LLMs.
+
+  ## Pricing
+
+  Free and open-source.
+brand: Curated Awesome Lists
+updated_at: 2026-04-30 11:32
