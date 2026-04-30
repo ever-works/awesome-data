@@ -246,3 +246,9 @@
   name: Awesome List Validators & Linters
 - id: star-ranked-awesome-indexes
   name: Star Ranked Awesome Indexes
+- id: email
+  name: Email
+- id: general-awesome-directories
+  name: General Awesome Directories
+- id: inception-awesome-metas
+  name: Inception Awesome Metas

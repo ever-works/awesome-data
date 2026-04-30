@@ -2900,3 +2900,41 @@
   name: Ranked Lists
 - id: portfolios
   name: Portfolios
+- id: nuxt
+  name: Nuxt
+- id: email-api
+  name: Email Api
+- id: talking-heads
+  name: Talking Heads
+- id: auto-gpt
+  name: Auto Gpt
+- id: stable-diffusion
+  name: Stable Diffusion
+- id: webui
+  name: Webui
+- id: star-tracking
+  name: Star Tracking
+- id: official-curated
+  name: Official Curated
+- id: linting
+  name: Linting
+- id: javascript-runtime
+  name: Javascript Runtime
+- id: fine-tuning
+  name: Fine Tuning
+- id: fullstack
+  name: Fullstack
+- id: online-tools
+  name: Online Tools
+- id: updater
+  name: Updater
+- id: instagram
+  name: Instagram
+- id: mcp-server
+  name: Mcp Server
+- id: web-resources
+  name: Web Resources
+- id: trie
+  name: Trie
+- id: taskwarrior
+  name: Taskwarrior
