@@ -1,0 +1,23 @@
+name: orgmanager
+description: Invite System for GitHub Organizations. A tool designed to manage
+  invitations for GitHub organizations efficiently.
+source_url: https://github.com/orgmanager/orgmanager
+category: Development Tools
+tags:
+  - github
+  - automation
+  - open-source
+featured: false
+markdown: |-
+  ## Overview
+
+  orgmanager is an invite system for GitHub organizations.
+
+  ## Features
+
+  - Manages GitHub organization invites
+
+  ## Pricing
+
+  Free and open-source.
+updated_at: 2026-05-01 11:17

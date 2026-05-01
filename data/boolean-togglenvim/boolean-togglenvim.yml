@@ -1,0 +1,29 @@
+name: boolean-toggle.nvim
+description: Toggle between true and false under your cursor. A Neovim plugin
+  for editing support.
+source_url: https://github.com/DrKJeff16/boolean-toggle.nvim
+category: Development Tools
+tags:
+  - neovim
+  - editing
+  - open-source
+featured: false
+markdown: >-
+  ## Overview
+
+
+  boolean-toggle.nvim allows toggling between true and false under the cursor in
+  Neovim.
+
+
+  ## Features
+
+
+  - Toggle true/false under cursor
+
+
+  ## Pricing
+
+
+  Free and open-source.
+updated_at: 2026-05-01 11:17

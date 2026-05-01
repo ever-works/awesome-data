@@ -1,0 +1,29 @@
+name: iplacard
+description: The Model United Nations Conference Management System by IMUNC
+  since 2013. A system for managing MUN conferences.
+source_url: https://github.com/fengkaijia/iplacard
+category: Development Tools
+tags:
+  - conference-management
+  - plpgsql
+  - open-source
+featured: false
+markdown: >-
+  ## Overview
+
+
+  iplacard is the Model United Nations Conference Management System used by
+  IMUNC since 2013.
+
+
+  ## Features
+
+
+  - Conference management
+
+
+  ## Pricing
+
+
+  Free and open-source.
+updated_at: 2026-05-01 11:17

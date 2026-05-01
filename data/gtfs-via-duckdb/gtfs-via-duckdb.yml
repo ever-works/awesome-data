@@ -1,0 +1,24 @@
+name: gtfs-via-duckdb
+description: Analyse GTFS Schedule data by importing it into a DuckDB database.
+  Tool for GTFS data analysis.
+source_url: https://github.com/cbernat/gtfs-via-duckdb
+category: Data Engineering
+tags:
+  - gtfs
+  - duckdb
+  - open-source
+featured: false
+markdown: |-
+  ## Overview
+
+  Tool to analyse GTFS Schedule data by importing into DuckDB database.
+
+  ## Features
+
+  - Import GTFS to DuckDB
+  - Schedule data analysis
+
+  ## Pricing
+
+  Free and open-source.
+updated_at: 2026-05-01 11:17

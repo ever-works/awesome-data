@@ -1,0 +1,33 @@
+name: duras_bridge
+description: Bridge for duras plain-text daily notes; append, search, and open
+  notes from the editor. Neovim plugin for note taking.
+source_url: https://github.com/sduras/duras_bridge
+category: Development Tools
+tags:
+  - neovim
+  - note-taking
+  - open-source
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Bridge for duras plain-text daily notes with append, search, and open
+  functionality from the editor.
+
+
+  ## Features
+
+
+  - Append to notes
+
+  - Search notes
+
+  - Open notes from editor
+
+
+  ## Pricing
+
+
+  Free and open-source.
+updated_at: 2026-05-01 11:17

@@ -1,0 +1,33 @@
+name: boulder
+description: An ACME-based certificate authority, written in Go. Developed by Let's Encrypt.
+source_url: https://github.com/letsencrypt/boulder
+category: Security
+tags:
+  - go
+  - acme
+  - certificate-authority
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Boulder is an ACME-based CA (Certificate Authority) implemented for the ACME
+  protocol.
+
+
+  ## Features
+
+
+  - ACME protocol support
+
+  - RA/CA model
+
+  - WFE (Web Front End)
+
+
+  ## Pricing
+
+
+  Free and open-source.
+brand: Let's Encrypt
+updated_at: 2026-05-01 11:17

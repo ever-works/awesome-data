@@ -1,0 +1,32 @@
+name: datatools
+description: A set of tools for working with JSON, CSV and Excel workbooks.
+  Developed by Caltech Library.
+source_url: https://github.com/caltechlibrary/datatools
+category: Development Tools
+tags:
+  - go
+  - data-processing
+  - open-source
+featured: false
+markdown: >-
+  ## Overview
+
+
+  A set of tools originally developed at Caltech Library Technical Services for
+  working with JSON, CSV and Excel workbooks.
+
+
+  ## Features
+
+
+  - Supports JSON, CSV, and Excel formats
+
+  - Command-line tools for data manipulation
+
+
+  ## Pricing
+
+
+  Free and open-source.
+brand: Caltech Library
+updated_at: 2026-05-01 11:17

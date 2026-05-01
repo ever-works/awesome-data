@@ -1,0 +1,35 @@
+name: Star History
+description: Website for viewing and comparing the star history of GitHub
+  repositories. Displays leaderboards of top repositories by recent star gains,
+  such as weekly top gainers.
+source_url: https://www.star-history.com/
+category: star-trackers
+tags:
+  - github
+  - star-history
+  - leaderboard
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Star History provides visualizations of GitHub repository star growth over
+  time.
+
+
+  ## Features
+
+
+  - Compare star histories across multiple repositories
+
+  - Interactive star maps
+
+  - Leaderboards ranking repositories by star gains (e.g., top weekly gainers)
+
+  - Specialized leaderboards like Coding AI Leaderboard
+
+  - Chrome extension for easy access
+
+
+  Weekly updates highlight trending repositories based on star increases.
+updated_at: 2026-05-01 11:17

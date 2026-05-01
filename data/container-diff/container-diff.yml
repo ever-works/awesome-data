@@ -1,0 +1,26 @@
+name: container-diff
+description: "container-diff: Diff your Docker containers. Tool for comparing
+  container images."
+source_url: https://github.com/GoogleContainerTools/container-diff
+category: Devops Sre
+tags:
+  - go
+  - docker
+  - container-analysis
+featured: false
+markdown: |-
+  ## Overview
+
+  container-diff is a tool for analyzing and comparing container images.
+
+  ## Features
+
+  - Image analysis and diffing
+  - Supports multiple image formats
+  - Integration with CI/CD
+
+  ## Pricing
+
+  Free and open-source.
+brand: Google
+updated_at: 2026-05-01 11:17

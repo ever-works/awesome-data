@@ -1,0 +1,24 @@
+name: sqlite-parser
+description: JavaScript implementation of SQLite 3 query parser. Parses SQLite
+  queries in JavaScript.
+source_url: https://github.com/codeschool/sqlite-parser
+category: Development Tools
+tags:
+  - javascript
+  - sqlite
+  - parser
+  - plpgsql
+featured: false
+markdown: |-
+  ## Overview
+
+  sqlite-parser is a JavaScript implementation of SQLite 3 query parser.
+
+  ## Features
+
+  - Parses SQLite 3 queries
+
+  ## Pricing
+
+  Free and open-source.
+updated_at: 2026-05-01 11:17

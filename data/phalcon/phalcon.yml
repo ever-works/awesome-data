@@ -1,0 +1,25 @@
+name: Phalcon
+description: High performance, full-stack PHP framework delivered as a C
+  extension. It offers fast execution and low resource consumption.
+source_url: https://github.com/phalcon/cphalcon
+category: Web Development
+tags:
+  - php
+  - framework
+  - high-performance
+featured: false
+markdown: |-
+  ## Overview
+
+  Phalcon is a high-performance PHP framework delivered as a C extension.
+
+  ## Features
+
+  - Full-stack framework
+  - High performance due to C extension
+
+  ## Pricing
+
+  Free and open-source.
+brand: Phalcon
+updated_at: 2026-05-01 11:17

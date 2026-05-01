@@ -1,0 +1,28 @@
+name: City2Graph
+description: A Python library for converting GTFS data into graph
+  representations for network analysis and Graph Neural Networks (GNNs).
+  Supports loading GTFS feeds, constructing transit graphs, network centrality
+  analysis, and isochrone-based accessibility analysis on multimodal networks.
+source_url: https://github.com/AlanZhu99/City2Graph
+category: Data Engineering
+tags:
+  - gtfs
+  - graph
+  - python
+featured: false
+markdown: |-
+  ## Overview
+
+  Python library for GTFS to graph conversion for analysis and GNNs.
+
+  ## Features
+
+  - Load GTFS feeds
+  - Construct transit graphs
+  - Network centrality analysis
+  - Isochrone-based accessibility on multimodal networks
+
+  ## Pricing
+
+  Free and open-source.
+updated_at: 2026-05-01 11:17

@@ -1,0 +1,25 @@
+name: Laravel
+description: A PHP framework for web artisans. Known for its elegant syntax and
+  tools for building robust web applications.
+source_url: https://github.com/laravel/laravel
+category: Web Development
+tags:
+  - php
+  - framework
+  - web
+featured: true
+markdown: |-
+  ## Overview
+
+  Laravel is a PHP framework for web artisans.
+
+  ## Features
+
+  - Elegant syntax
+  - Robust tools for web development
+
+  ## Pricing
+
+  Free and open-source.
+brand: Laravel
+updated_at: 2026-05-01 11:17

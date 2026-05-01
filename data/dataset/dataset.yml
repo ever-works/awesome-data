@@ -1,0 +1,35 @@
+name: dataset
+description: Dataset is a command line tool, Go package, shared library and
+  Python package for working with JSON objects as collections. Developed by
+  Caltech Library.
+source_url: https://github.com/caltechlibrary/dataset
+category: Development Tools
+tags:
+  - go
+  - json
+  - data-management
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Dataset is a command line tool, Go package, shared library and Python package
+  for working with JSON objects stored as collections in a file.
+
+
+  ## Features
+
+
+  - Command-line interface for data operations
+
+  - Go and Python bindings
+
+  - Supports JSON collections
+
+
+  ## Pricing
+
+
+  Free and open-source.
+brand: Caltech Library
+updated_at: 2026-05-01 11:17

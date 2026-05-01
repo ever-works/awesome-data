@@ -1,0 +1,32 @@
+name: wayfinder.nvim
+description: Guided code exploration from the current symbol with a keepable
+  trail. An open-source Neovim plugin originally added to Awesome Neovim LSP
+  section.
+source_url: https://github.com/error311/wayfinder.nvim
+category: Development Tools
+tags:
+  - neovim
+  - lsp
+  - open-source
+featured: false
+markdown: >-
+  ## Overview
+
+
+  wayfinder.nvim enables guided code exploration from the current symbol with a
+  keepable trail in Neovim using LSP.
+
+
+  ## Features
+
+
+  - Guided navigation from current symbol
+
+  - Keepable trail for exploration
+
+
+  ## Pricing
+
+
+  Free and open-source.
+updated_at: 2026-05-01 11:17
