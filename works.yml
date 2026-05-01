@@ -1,0 +1,7 @@
+name: Awesome
+initial_prompt: Awesome - meta collection of awesome directories
+providers: {}
+website_repo: ever-works/awesome-website
+schedule:
+  enabled: true
+  cadence: daily
