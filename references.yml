@@ -1,0 +1,63 @@
+- url: https://getawesomelists.com/
+  normalized_url: https://getawesomelists.com/
+  first_seen_at: 2026-05-05T11:47:55.967Z
+  last_attempted_at: 2026-05-05T11:47:55.967Z
+  status: empty
+  items_created: 0
+  pipeline: agent-pipeline
+  provider: Local (Readability)
+  error: No items extracted
+- url: https://github.com/athityakumar/awesome-awesomes
+  normalized_url: https://github.com/athityakumar/awesome-awesomes
+  first_seen_at: 2026-05-05T11:54:52.945Z
+  last_attempted_at: 2026-05-05T11:54:52.945Z
+  status: empty
+  items_created: 0
+  pipeline: agent-pipeline
+  provider: Local (Readability)
+  error: No items extracted
+- url: https://github.com/sindresorhus/awesome
+  normalized_url: https://github.com/sindresorhus/awesome
+  first_seen_at: 2026-05-05T11:52:25.388Z
+  last_attempted_at: 2026-05-05T11:52:25.388Z
+  status: empty
+  items_created: 0
+  pipeline: agent-pipeline
+  provider: Local (Readability)
+  error: No items extracted
+- url: https://github.com/sindresorhus/awesome-awesome-awesome-awesome
+  normalized_url: https://github.com/sindresorhus/awesome-awesome-awesome-awesome
+  first_seen_at: 2026-05-05T11:45:37.342Z
+  last_attempted_at: 2026-05-05T11:45:37.342Z
+  status: empty
+  items_created: 0
+  pipeline: agent-pipeline
+  provider: Local (Readability)
+  error: No items extracted
+- url: https://github.com/szabgab/awesome-lists
+  normalized_url: https://github.com/szabgab/awesome-lists
+  first_seen_at: 2026-05-05T11:58:56.686Z
+  last_attempted_at: 2026-05-05T11:58:56.686Z
+  status: empty
+  items_created: 0
+  pipeline: agent-pipeline
+  provider: Local (Readability)
+  error: No items extracted
+- url: https://raw.githubusercontent.com/sindresorhus/awesome/master/README.md
+  normalized_url: https://raw.githubusercontent.com/sindresorhus/awesome/master/README.md
+  first_seen_at: 2026-05-05T11:59:13.013Z
+  last_attempted_at: 2026-05-05T11:59:13.013Z
+  status: error
+  items_created: 0
+  pipeline: agent-pipeline
+  error: "Content extraction failed for URL:
+    https://raw.githubusercontent.com/sindresorhus/awesome/master/README.md"
+- url: https://www.trackawesomelist.com/
+  normalized_url: https://www.trackawesomelist.com/
+  first_seen_at: 2026-05-05T11:42:17.283Z
+  last_attempted_at: 2026-05-05T11:42:17.283Z
+  status: empty
+  items_created: 0
+  pipeline: agent-pipeline
+  provider: Local (Readability)
+  error: No items extracted
