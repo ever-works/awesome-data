@@ -1,3 +1,30 @@
+- url: https://awesome-selfhosted.net/
+  normalized_url: https://awesome-selfhosted.net/
+  first_seen_at: 2026-05-06T12:40:18.623Z
+  last_attempted_at: 2026-05-06T12:40:18.623Z
+  status: empty
+  items_created: 0
+  pipeline: agent-pipeline
+  provider: Local (Readability)
+  error: No items extracted
+- url: https://awesome.ecosyste.ms/
+  normalized_url: https://awesome.ecosyste.ms/
+  first_seen_at: 2026-05-06T11:56:55.360Z
+  last_attempted_at: 2026-05-06T11:56:55.360Z
+  status: empty
+  items_created: 0
+  pipeline: agent-pipeline
+  provider: Tavily
+  error: No items extracted
+- url: https://dev.to/antoniofromlitlyx/top-20-awesome-on-github-3be2
+  normalized_url: https://dev.to/antoniofromlitlyx/top-20-awesome-on-github-3be2
+  first_seen_at: 2026-05-06T11:41:21.657Z
+  last_attempted_at: 2026-05-06T11:41:21.657Z
+  status: empty
+  items_created: 0
+  pipeline: agent-pipeline
+  provider: Local (Readability)
+  error: No items extracted
 - url: https://getawesomelists.com/
   normalized_url: https://getawesomelists.com/
   first_seen_at: 2026-05-05T11:47:55.967Z
@@ -11,6 +38,24 @@
   normalized_url: https://github.com/athityakumar/awesome-awesomes
   first_seen_at: 2026-05-05T11:54:52.945Z
   last_attempted_at: 2026-05-05T11:54:52.945Z
+  status: empty
+  items_created: 0
+  pipeline: agent-pipeline
+  provider: Local (Readability)
+  error: No items extracted
+- url: https://github.com/awesome-selfhosted/awesome-selfhosted
+  normalized_url: https://github.com/awesome-selfhosted/awesome-selfhosted
+  first_seen_at: 2026-05-06T12:01:00.422Z
+  last_attempted_at: 2026-05-06T12:01:00.422Z
+  status: empty
+  items_created: 0
+  pipeline: agent-pipeline
+  provider: Local (Readability)
+  error: No items extracted
+- url: https://github.com/josephmisiti/awesome-machine-learning
+  normalized_url: https://github.com/josephmisiti/awesome-machine-learning
+  first_seen_at: 2026-05-06T12:19:31.420Z
+  last_attempted_at: 2026-05-06T12:19:31.420Z
   status: empty
   items_created: 0
   pipeline: agent-pipeline
@@ -43,6 +88,33 @@
   pipeline: agent-pipeline
   provider: Local (Readability)
   error: No items extracted
+- url: https://github.com/topics/awesome
+  normalized_url: https://github.com/topics/awesome
+  first_seen_at: 2026-05-06T11:34:10.918Z
+  last_attempted_at: 2026-05-06T11:34:10.918Z
+  status: empty
+  items_created: 0
+  pipeline: agent-pipeline
+  provider: Local (Readability)
+  error: No items extracted
+- url: https://github.com/topics/awesome-lists
+  normalized_url: https://github.com/topics/awesome-lists
+  first_seen_at: 2026-05-06T11:37:19.341Z
+  last_attempted_at: 2026-05-06T11:37:19.341Z
+  status: empty
+  items_created: 0
+  pipeline: agent-pipeline
+  provider: Local (Readability)
+  error: No items extracted
+- url: https://github.com/vinta/awesome-python
+  normalized_url: https://github.com/vinta/awesome-python
+  first_seen_at: 2026-05-06T11:45:46.700Z
+  last_attempted_at: 2026-05-06T11:45:46.700Z
+  status: empty
+  items_created: 0
+  pipeline: agent-pipeline
+  provider: Local (Readability)
+  error: No items extracted
 - url: https://raw.githubusercontent.com/sindresorhus/awesome/master/README.md
   normalized_url: https://raw.githubusercontent.com/sindresorhus/awesome/master/README.md
   first_seen_at: 2026-05-05T11:59:13.013Z
@@ -52,6 +124,15 @@
   pipeline: agent-pipeline
   error: "Content extraction failed for URL:
     https://raw.githubusercontent.com/sindresorhus/awesome/master/README.md"
+- url: https://raw.githubusercontent.com/vinta/awesome-python/master/README.md
+  normalized_url: https://raw.githubusercontent.com/vinta/awesome-python/master/README.md
+  first_seen_at: 2026-05-06T12:07:28.860Z
+  last_attempted_at: 2026-05-06T12:07:28.860Z
+  status: empty
+  items_created: 0
+  pipeline: agent-pipeline
+  provider: Tavily
+  error: No items extracted
 - url: https://www.trackawesomelist.com/
   normalized_url: https://www.trackawesomelist.com/
   first_seen_at: 2026-05-05T11:42:17.283Z
