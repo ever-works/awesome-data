@@ -32,3 +32,8 @@ metadata:
     _processedPluginConfig: {}
   initial_prompt: Awesome - meta collection of awesome directories
 version: 0.1.41
+name: Awesome
+website_repo: ever-works/awesome-website
+deployProvider: k8s
+activity_sync:
+  mode: pull
