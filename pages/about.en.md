@@ -10,7 +10,7 @@ Awesome Directories is a directory of directories: a curated, continuously updat
 
 ## What you'll find here
 
-- **Themed directories** — focused collections covering a single topic, from MCP servers and vector databases to time tracking and startup books.
+- **Themed directories** — focused collections covering a single topic, from MCP servers and vector databases to time tracking and free programming books.
 - **General directories** — broad indexes of tools, products and services.
 - **Directory building and promotion tools** — software and services for launching, growing and monetizing your own directory.
 
