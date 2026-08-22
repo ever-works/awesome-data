@@ -45,6 +45,11 @@ settings:
     hero_title: Every Awesome Directory,
     hero_title_gradient: All in One Place
     hero_description: A curated meta-directory of the best directories on the web — themed and general directories, curated lists, and the tools to build and promote your own — organized by category so you can find the right resource fast.
+  monetization:
+    sponsor_ads:
+      currency: USD
+      weekly_price: 100
+      monthly_price: 300
 logo:
   logo_image: https://raw.githubusercontent.com/ever-works/awesome-data/master/pages/logo-light.png
   logo_image_dark: https://raw.githubusercontent.com/ever-works/awesome-data/master/pages/logo-dark.png
