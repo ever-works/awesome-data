@@ -1,8 +1,8 @@
-company_name: Ever
+company_name: Awesome Directories
 content_table: true
 item_name: Item
 items_name: Items
-copyright_year: 2025
+copyright_year: 2026
 metadata:
   last_request_data:
     source_urls: []
@@ -37,3 +37,14 @@ website_repo: ever-works/awesome-website
 deployProvider: k8s
 activity_sync:
   mode: pull
+company_website: https://dir.ever.works
+settings:
+  homepage:
+    hero_enabled: true
+    hero_badge_text: The Directory of Directories
+    hero_title: Every Awesome Directory,
+    hero_title_gradient: All in One Place
+    hero_description: A curated meta-directory of the best directories on the web — themed and general directories, curated lists, and the tools to build and promote your own — organized by category so you can find the right resource fast.
+logo:
+  logo_image: https://raw.githubusercontent.com/ever-works/awesome-data/master/pages/logo-light.png
+  logo_image_dark: https://raw.githubusercontent.com/ever-works/awesome-data/master/pages/logo-dark.png
