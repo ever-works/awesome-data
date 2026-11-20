@@ -1,0 +1,15 @@
+name: AirMusic
+description: AirMusic is a free AI music generator. Type an idea or paste
+  lyrics, pick a style, and get a full song with vocals you can download as MP3
+  or WAV.
+source_url: https://airmusic.ai/
+category:
+  - audio-music
+tags:
+  - ai
+collections: []
+featured: false
+updated_at: 2026-11-20 07:48
+status: pending
+submitted_by: ff64b04b-56d6-455f-835f-b21420146481
+submitted_at: 2026-11-20 07:48
